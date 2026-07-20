@@ -30,6 +30,9 @@
     text-decoration:none;border:1px solid var(--rule);border-radius:20px;padding:6px 13px;
     white-space:nowrap;transition:.15s}
   .toreader:hover{color:var(--paper);border-color:var(--muted)}
+  .updated{font-family:var(--mono);font-size:11px;color:var(--faint);white-space:nowrap}
+  .updated b{color:var(--muted);font-weight:400}
+  @media(max-width:700px){.updated{width:100%;text-align:left;order:3}}
   .refresh{font-family:var(--mono);font-size:11px;color:var(--muted);cursor:pointer;
     background:none;border:1px solid var(--rule);border-radius:20px;padding:6px 13px;
     display:inline-flex;align-items:center;gap:7px;white-space:nowrap;transition:.15s}
@@ -157,6 +160,7 @@
       <div class="tagline">one country · what's reported from inside it, and from outside</div>
     </div>
     <div class="headbtns">
+      <span class="updated" id="updated"></span>
       <button class="refresh" id="refreshBtn" title="Check for a newer snapshot">
         <span class="ricon">⟳</span><span class="rlabel">Refresh</span></button>
       <a class="toreader" href="index.html">The spectrum reader ↗</a>
@@ -171,6 +175,16 @@ const state={data:null,country:null,topic:null};
 
 function proj(lat,lng){return {x:lng+180,y:90-lat};}
 function esc(s){return (s||"").replace(/[&<>"]/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[m]));}
+function ago(iso){
+  const t=new Date(iso).getTime(); if(isNaN(t)) return "";
+  const m=Math.round((Date.now()-t)/60000);
+  if(m<1) return "just now";
+  if(m<60) return m+" min ago";
+  const h=Math.round(m/60);
+  if(h<24) return h+(h===1?" hour ago":" hours ago");
+  const d=Math.round(h/24);
+  return d+(d===1?" day ago":" days ago");
+}
 function fmtDate(iso){try{return new Date(iso).toLocaleString(undefined,
   {month:"short",day:"numeric",hour:"2-digit",minute:"2-digit"});}catch(e){return iso;}}
 
@@ -208,6 +222,9 @@ function render(){
   const shown=storiesFor(cid,state.topic);
   let nIn=0,nOut=0;
   for(const c of all){const s=split(c,cid);nIn+=s.inside.length;nOut+=s.outside.length;}
+
+  const up=document.getElementById("updated");
+  if(up) up.innerHTML=`updated <b>${ago(d.generated_at)}</b>`;
 
   app.innerHTML=`
     <div class="dateline">
