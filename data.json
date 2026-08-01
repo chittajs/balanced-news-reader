@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T17:08:11.104267+00:00",
+  "generated_at": "2026-08-01T17:41:39.690744+00:00",
   "topics": [
     "World & Politics",
     "Economics",
@@ -14,21 +14,21 @@
       "name": "United States",
       "lat": 39.0,
       "lng": -98.0,
-      "count": 26
+      "count": 27
     },
     {
       "id": "europe",
       "name": "Europe",
       "lat": 50.0,
       "lng": 10.0,
-      "count": 25
+      "count": 26
     },
     {
       "id": "china",
       "name": "China",
       "lat": 35.0,
       "lng": 105.0,
-      "count": 14
+      "count": 15
     },
     {
       "id": "india",
@@ -70,32 +70,32 @@
       "name": "Russia",
       "lat": 61.0,
       "lng": 90.0,
-      "count": 30
+      "count": 26
     }
   ],
   "clusters": [
     {
-      "id": 10,
+      "id": 4,
       "topic": "World & Politics",
       "label": "Ceuta · Spain · Morocco",
       "title": "France, Italy tighten borders after 60,000 migrants enter Spain’s Ceuta",
       "summary": "France and Italy bolstered border controls on Saturday after about 60,000 people crossed into Spain’s enclave in North Africa, sparking one of the largest migrant crises for the European Union in rece",
-      "score": 15.959,
-      "n_outlets": 15,
-      "n_articles": 30,
+      "score": 13.982,
+      "n_outlets": 13,
+      "n_articles": 36,
       "regions": [
         "china",
         "europe",
         "india",
         "russia",
-        "south_america",
         "us"
       ],
-      "last_seen": "2026-08-01T16:38:00+00:00",
+      "last_seen": "2026-08-01T17:28:55+00:00",
       "leans": [
         "center",
         "left",
-        "right"
+        "right",
+        "state"
       ],
       "sources": [
         {
@@ -116,6 +116,19 @@
               "region": "europe",
               "lean": "left",
               "ownership": "private",
+              "title": "Live coverage of migrant entry to Ceuta | Spanish King says he is 'outraged' by Ceuta events and demands state measures to prevent recurrence",
+              "url": "https://elpais.com/espana/2026-08-01/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
+              "published": "2026-08-01T17:28:55+00:00",
+              "orig_title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | El Rey asegura que está “indignado” por lo ocurrido en Ceuta y pide que el Estado tome medidas para que no vuelva a repetirse",
+              "lang": "es",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "El Pais",
+              "region": "europe",
+              "lean": "left",
+              "ownership": "private",
               "title": "Government deploys floating barrier at Ceuta border to comply with Supreme Court ruling",
               "url": "https://elpais.com/espana/2026-08-01/el-gobierno-despliega-una-barrera-flotante-en-la-frontera-de-ceuta-para-cumplir-la-sentencia-del-supremo.html",
               "published": "2026-08-01T14:42:34+00:00",
@@ -127,44 +140,72 @@
           ]
         },
         {
-          "outlet": "NPR",
-          "region": "us",
+          "outlet": "Novaya Gazeta Europe",
+          "region": "russia",
           "lean": "left",
-          "ownership": "public",
-          "title": "Death toll in Spain border crisis reaches 67 as tens of thousands cross back in to Morocco",
-          "url": "https://www.npr.org/2026/08/01/nx-s1-5916271/ceuta-spain-border-morocco",
-          "published": "2026-08-01T09:36:05+00:00",
-          "orig_title": "Death toll in Spain border crisis reaches 67 as tens of thousands cross back in to Morocco",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
+          "ownership": "private",
+          "title": "Spain reports return of nearly 70,000 migrants from Ceuta to Morocco",
+          "url": "https://novayagazeta.eu/articles/2026/08/01/ispaniia-zaiavila-o-vozvrashchenii-iz-seuty-v-marokko-pochti-70-tysiach-migrantov-news",
+          "published": "2026-08-01T10:47:32+00:00",
+          "orig_title": "Испания заявила о возвращении из Сеуты в Марокко почти 70 тысяч мигрантов",
+          "lang": "ru",
+          "translated": true,
+          "access": "unknown"
         },
         {
           "outlet": "The Guardian",
           "region": "europe",
           "lean": "left",
           "ownership": "private",
-          "title": "At least 57 people die as tens of thousands cross to Spanish enclave of Ceuta from Morocco",
-          "url": "https://www.theguardian.com/world/2026/jul/31/ceuta-spain-morocco-border-deaths",
-          "published": "2026-07-31T17:52:11+00:00",
-          "orig_title": "At least 57 people die as tens of thousands cross to Spanish enclave of Ceuta from Morocco",
+          "title": "Italy says it’s temporarily suspending EU Schengen arrangement with Spain after 60,000 migrants reach Ceuta – as it happened",
+          "url": "https://www.theguardian.com/world/live/2026/jul/31/cueta-spain-morocco-italy-migration-schengen-europe-latest-news-updates",
+          "published": "2026-08-01T10:44:06+00:00",
+          "orig_title": "Italy says it’s temporarily suspending EU Schengen arrangement with Spain after 60,000 migrants reach Ceuta – as it happened",
           "lang": "en",
           "translated": false,
-          "access": "open"
+          "access": "open",
+          "more": [
+            {
+              "outlet": "The Guardian",
+              "region": "europe",
+              "lean": "left",
+              "ownership": "private",
+              "title": "EU to hold urgent meeting after Spanish PM calls Ceuta crisis response ‘selfish’",
+              "url": "https://www.theguardian.com/world/2026/aug/01/spain-pedro-sanchez-calls-for-eu-meeting-ceuta-border-crossing",
+              "published": "2026-08-01T16:59:07+00:00",
+              "orig_title": "EU to hold urgent meeting after Spanish PM calls Ceuta crisis response ‘selfish’",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            }
+          ]
         },
         {
           "outlet": "The Hindu",
           "region": "india",
           "lean": "left",
           "ownership": "private",
-          "title": "Spain-Morocco border crisis: Death toll in Ceuta reaches 67",
-          "url": "https://www.thehindu.com/news/international/spain-morocco-border-crisis-death-toll-in-ceuta/article71294017.ece",
-          "published": "2026-08-01T10:35:09+00:00",
-          "orig_title": "Spain-Morocco border crisis: Death toll in Ceuta reaches 67",
+          "title": "Spain’s Ceuta migration influx: What we know",
+          "url": "https://www.thehindu.com/news/international/spains-ceuta-migration-influx-what-we-know/article71294464.ece",
+          "published": "2026-08-01T12:23:10+00:00",
+          "orig_title": "Spain’s Ceuta migration influx: What we know",
           "lang": "en",
           "translated": false,
           "access": "open",
           "more": [
+            {
+              "outlet": "The Hindu",
+              "region": "india",
+              "lean": "left",
+              "ownership": "private",
+              "title": "Spain's PM blames Ceuta migrant influx on criminal networks manipulating recent court ruling",
+              "url": "https://www.thehindu.com/news/international/spains-pm-blames-ceuta-migrant-influx-on-criminal-networks-manipulating-recent-court-ruling/article71291921.ece",
+              "published": "2026-07-31T16:51:54+00:00",
+              "orig_title": "Spain's PM blames Ceuta migrant influx on criminal networks manipulating recent court ruling",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            },
             {
               "outlet": "The Hindu",
               "region": "india",
@@ -183,23 +224,10 @@
               "region": "india",
               "lean": "left",
               "ownership": "private",
-              "title": "At least 34 people died trying to cross from Morocco into Spain’s Ceuta enclave: official",
-              "url": "https://www.thehindu.com/news/international/spain-morocco-ceuta-border-migrants-crossing-updates-july-31-2026/article71289053.ece",
-              "published": "2026-07-31T12:58:36+00:00",
-              "orig_title": "At least 34 people died trying to cross from Morocco into Spain’s Ceuta enclave: official",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
-            },
-            {
-              "outlet": "The Hindu",
-              "region": "india",
-              "lean": "left",
-              "ownership": "private",
-              "title": "Spain's PM blames Ceuta migrant influx on criminal networks manipulating recent court ruling",
-              "url": "https://www.thehindu.com/news/international/spains-pm-blames-ceuta-migrant-influx-on-criminal-networks-manipulating-recent-court-ruling/article71291921.ece",
-              "published": "2026-07-31T16:51:54+00:00",
-              "orig_title": "Spain's PM blames Ceuta migrant influx on criminal networks manipulating recent court ruling",
+              "title": "Italy suspends EU Schengen free-travel pact with Spain over Ceuta crisis",
+              "url": "https://www.thehindu.com/news/international/italy-suspends-eu-schengen-free-travel-pact-with-spain-over-ceuta-crisis/article71294642.ece",
+              "published": "2026-08-01T13:32:25+00:00",
+              "orig_title": "Italy suspends EU Schengen free-travel pact with Spain over Ceuta crisis",
               "lang": "en",
               "translated": false,
               "access": "open"
@@ -211,10 +239,10 @@
           "region": "us",
           "lean": "left",
           "ownership": "private",
-          "title": "Spain Installs Floating Barrier in Ceuta After Influx of Migrants",
-          "url": "https://www.nytimes.com/2026/08/01/world/europe/spain-ceuta-migrants-morocco-border.html",
-          "published": "2026-08-01T15:28:36+00:00",
-          "orig_title": "Spain Installs Floating Barrier in Ceuta After Influx of Migrants",
+          "title": "Far-right politicians seize on Ceuta",
+          "url": "https://www.nytimes.com/2026/07/31/world/europe/ceuta-europe-far-right-backlash.html",
+          "published": "2026-07-31T18:30:29+00:00",
+          "orig_title": "Far-right politicians seize on Ceuta",
           "lang": "en",
           "translated": false,
           "access": "paywall",
@@ -237,10 +265,10 @@
               "region": "us",
               "lean": "left",
               "ownership": "private",
-              "title": "How 50,000 Migrants Surged Into Ceuta, a Spanish Exclave Near Morocco",
-              "url": "https://www.nytimes.com/2026/08/01/world/europe/spain-ceuta-migrants-morocco.html",
-              "published": "2026-08-01T04:01:14+00:00",
-              "orig_title": "How 50,000 Migrants Surged Into Ceuta, a Spanish Exclave Near Morocco",
+              "title": "Ceuta Evokes Europe’s 2015 Migration Crisis. But Much Has Changed Since.",
+              "url": "https://www.nytimes.com/2026/07/31/world/europe/ceuta-europe-migration-2015-legal-changes.html",
+              "published": "2026-07-31T17:16:31+00:00",
+              "orig_title": "Ceuta Evokes Europe’s 2015 Migration Crisis. But Much Has Changed Since.",
               "lang": "en",
               "translated": false,
               "access": "paywall"
@@ -263,23 +291,10 @@
               "region": "us",
               "lean": "left",
               "ownership": "private",
-              "title": "Far-right politicians seize on Ceuta",
-              "url": "https://www.nytimes.com/2026/07/31/world/europe/ceuta-europe-far-right-backlash.html",
-              "published": "2026-07-31T18:30:29+00:00",
-              "orig_title": "Far-right politicians seize on Ceuta",
-              "lang": "en",
-              "translated": false,
-              "access": "paywall"
-            },
-            {
-              "outlet": "The New York Times",
-              "region": "us",
-              "lean": "left",
-              "ownership": "private",
-              "title": "Ceuta Evokes Europe’s 2015 Migration Crisis. But Much Has Changed Since.",
-              "url": "https://www.nytimes.com/2026/07/31/world/europe/ceuta-europe-migration-2015-legal-changes.html",
-              "published": "2026-07-31T17:16:31+00:00",
-              "orig_title": "Ceuta Evokes Europe’s 2015 Migration Crisis. But Much Has Changed Since.",
+              "title": "How 50,000 Migrants Surged Into Ceuta, a Spanish Exclave Near Morocco",
+              "url": "https://www.nytimes.com/2026/08/01/world/europe/spain-ceuta-migrants-morocco.html",
+              "published": "2026-08-01T04:01:14+00:00",
+              "orig_title": "How 50,000 Migrants Surged Into Ceuta, a Spanish Exclave Near Morocco",
               "lang": "en",
               "translated": false,
               "access": "paywall"
@@ -302,6 +317,19 @@
               "region": "us",
               "lean": "left",
               "ownership": "private",
+              "title": "Spain Installs Floating Barrier in Ceuta After Influx of Migrants",
+              "url": "https://www.nytimes.com/2026/08/01/world/europe/spain-ceuta-migrants-morocco-border.html",
+              "published": "2026-08-01T15:28:36+00:00",
+              "orig_title": "Spain Installs Floating Barrier in Ceuta After Influx of Migrants",
+              "lang": "en",
+              "translated": false,
+              "access": "paywall"
+            },
+            {
+              "outlet": "The New York Times",
+              "region": "us",
+              "lean": "left",
+              "ownership": "private",
               "title": "What Caused the Surge of Migrants From Morocco Into Ceuta?",
               "url": "https://www.nytimes.com/2026/07/31/world/europe/migrants-surge-morocco-ceuta-spain.html",
               "published": "2026-08-01T14:56:40+00:00",
@@ -315,10 +343,10 @@
               "region": "us",
               "lean": "left",
               "ownership": "private",
-              "title": "What to Know About Ceuta",
-              "url": "https://www.nytimes.com/2026/07/30/world/europe/ceuta-spain-morocco-migrants.html",
-              "published": "2026-08-01T14:49:27+00:00",
-              "orig_title": "What to Know About Ceuta",
+              "title": "Spain’s Leader Rushes to Ceuta After Thousands of Migrants Burst Across Border",
+              "url": "https://www.nytimes.com/live/2026/07/31/world/spain-ceuta-migrants-morocco/spain-ceuta-border-migrants-sanchez",
+              "published": "2026-07-31T20:57:45+00:00",
+              "orig_title": "Spain’s Leader Rushes to Ceuta After Thousands of Migrants Burst Across Border",
               "lang": "en",
               "translated": false,
               "access": "paywall"
@@ -328,10 +356,10 @@
               "region": "us",
               "lean": "left",
               "ownership": "private",
-              "title": "Spain’s Leader Rushes to Ceuta After Thousands of Migrants Burst Across Border",
-              "url": "https://www.nytimes.com/live/2026/07/31/world/spain-ceuta-migrants-morocco/spain-ceuta-border-migrants-sanchez",
-              "published": "2026-07-31T20:57:45+00:00",
-              "orig_title": "Spain’s Leader Rushes to Ceuta After Thousands of Migrants Burst Across Border",
+              "title": "What to Know About Ceuta",
+              "url": "https://www.nytimes.com/2026/07/30/world/europe/ceuta-spain-morocco-migrants.html",
+              "published": "2026-08-01T14:49:27+00:00",
+              "orig_title": "What to Know About Ceuta",
               "lang": "en",
               "translated": false,
               "access": "paywall"
@@ -349,20 +377,22 @@
           "orig_title": "Watch: Tens of thousands of migrants enter Spain's Ceuta from Morocco",
           "lang": "en",
           "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "Deutsche Welle",
-          "region": "europe",
-          "lean": "center",
-          "ownership": "public",
-          "title": "Spain's PM visits Ceuta after thousands breached border",
-          "url": "https://www.dw.com/en/spain-s-pm-visits-ceuta-after-thousands-breached-border/a-78187002?maca=en-rss-en-world-4025-rdf",
-          "published": "2026-07-31T10:37:00+00:00",
-          "orig_title": "Spain's PM visits Ceuta after thousands breached border",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
+          "access": "open",
+          "more": [
+            {
+              "outlet": "BBC News",
+              "region": "europe",
+              "lean": "center",
+              "ownership": "public",
+              "title": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
+              "url": "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss",
+              "published": "2026-08-01T15:46:08+00:00",
+              "orig_title": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            }
+          ]
         },
         {
           "outlet": "Kommersant",
@@ -378,19 +408,6 @@
           "access": "unknown"
         },
         {
-          "outlet": "MercoPress",
-          "region": "south_america",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Italy and France tighten borders with Spain after 50,000 enter Ceuta",
-          "url": "https://en.mercopress.com/2026/07/31/italy-and-france-tighten-borders-with-spain-after-50-000-enter-ceuta?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
-          "published": "2026-07-31T18:29:00+00:00",
-          "orig_title": "Italy and France tighten borders with Spain after 50,000 enter Ceuta",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
           "outlet": "Politico Europe",
           "region": "europe",
           "lean": "center",
@@ -401,7 +418,22 @@
           "orig_title": "Ceuta crisis puts Spain’s Sánchez under fire over migration policies",
           "lang": "en",
           "translated": false,
-          "access": "unknown"
+          "access": "unknown",
+          "more": [
+            {
+              "outlet": "Politico Europe",
+              "region": "europe",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Ceuta crisis: 22 EU leaders gang up against Spain’s Sánchez over his migration policy",
+              "url": "https://www.politico.eu/article/ceuta-crisis-22-eu-leaders-letter-spain-pedro-sanchez-migration-policy/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+              "published": "2026-08-01T11:10:34+00:00",
+              "orig_title": "Ceuta crisis: 22 EU leaders gang up against Spain’s Sánchez over his migration policy",
+              "lang": "en",
+              "translated": false,
+              "access": "unknown"
+            }
+          ]
         },
         {
           "outlet": "South China Morning Post",
@@ -412,19 +444,6 @@
           "url": "https://www.scmp.com/news/world/europe/article/3362625/france-italy-tighten-borders-after-60000-migrants-enter-spains-ceuta?utm_source=rss_feed",
           "published": "2026-08-01T03:54:50+00:00",
           "orig_title": "France, Italy tighten borders after 60,000 migrants enter Spain’s Ceuta",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "Times of India",
-          "region": "india",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Spain races to secure Ceuta border with floating barrier after mass crossings and 67 deaths",
-          "url": "https://timesofindia.indiatimes.com/world/europe/spain-races-to-secure-ceuta-border-with-floating-barrier-after-mass-crossings-and-67-deaths/articleshow/132790589.cms",
-          "published": "2026-08-01T13:42:53+00:00",
-          "orig_title": "Spain races to secure Ceuta border with floating barrier after mass crossings and 67 deaths",
           "lang": "en",
           "translated": false,
           "access": "open"
@@ -447,13 +466,67 @@
           "region": "europe",
           "lean": "right",
           "ownership": "private",
-          "title": "Ceuta: how the Spain-Morocco migration pact exposed its weaknesses",
-          "url": "https://www.lefigaro.fr/international/ceuta-comment-le-pacte-migratoire-entre-l-espagne-et-le-maroc-a-revele-ses-failles-20260801",
-          "published": "2026-08-01T13:48:50+00:00",
-          "orig_title": "Ceuta : comment le pacte migratoire entre l’Espagne et le Maroc a révélé ses failles",
+          "title": "In 2021, thousands of migrants were already flooding into Ceuta as Morocco relaxed border controls",
+          "url": "https://www.lefigaro.fr/international/en-2021-des-milliers-de-migrants-deferlaient-deja-sur-ceuta-a-la-faveur-d-un-relachement-des-controles-marocains-20260731",
+          "published": "2026-07-31T12:47:10+00:00",
+          "orig_title": "En 2021, des milliers de migrants déferlaient déjà sur Ceuta à la faveur d’un relâchement des contrôles marocains",
           "lang": "fr",
           "translated": true,
-          "access": "unknown"
+          "access": "unknown",
+          "more": [
+            {
+              "outlet": "Le Figaro",
+              "region": "europe",
+              "lean": "right",
+              "ownership": "private",
+              "title": "'We wanted to flee Morocco to find work, there's nothing there' – In Ceuta, European dream ends quickly for thousands of migrants",
+              "url": "https://www.lefigaro.fr/international/on-a-voulu-fuir-le-maroc-pour-trouver-un-travail-il-n-y-a-rien-la-bas-a-ceuta-l-aventure-europeenne-a-tourne-court-pour-des-milliers-de-migrants-20260801",
+              "published": "2026-08-01T17:22:31+00:00",
+              "orig_title": "« On a voulu fuir le Maroc pour trouver un travail, il n’y a rien là-bas » : à Ceuta, l’aventure européenne a tourné court pour des milliers de migrants",
+              "lang": "fr",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Le Figaro",
+              "region": "europe",
+              "lean": "right",
+              "ownership": "private",
+              "title": "Ceuta: how the Spain-Morocco migration pact exposed its weaknesses",
+              "url": "https://www.lefigaro.fr/international/ceuta-comment-le-pacte-migratoire-entre-l-espagne-et-le-maroc-a-revele-ses-failles-20260801",
+              "published": "2026-08-01T13:48:50+00:00",
+              "orig_title": "Ceuta : comment le pacte migratoire entre l’Espagne et le Maroc a révélé ses failles",
+              "lang": "fr",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Le Figaro",
+              "region": "europe",
+              "lean": "right",
+              "ownership": "private",
+              "title": "Ceuta, one of two land gateways from Africa to EU, at heart of migration tensions",
+              "url": "https://www.lefigaro.fr/international/ceuta-cette-enclave-autonome-espagnole-au-coeur-des-tensions-migratoires-20260731",
+              "published": "2026-07-31T16:23:38+00:00",
+              "orig_title": "Ceuta, l’une des deux portes terrestres de l’Afrique vers l’UE, au cœur des tensions migratoires",
+              "lang": "fr",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Le Figaro",
+              "region": "europe",
+              "lean": "right",
+              "ownership": "private",
+              "title": "Massive migrant influx in Ceuta: what happens to minors arriving in the enclave?",
+              "url": "https://www.lefigaro.fr/international/afflux-massif-de-migrants-a-ceuta-qu-advient-il-pour-les-mineurs-arrives-dans-l-enclave-20260801",
+              "published": "2026-08-01T16:08:56+00:00",
+              "orig_title": "Afflux massif de migrants à Ceuta : qu’advient-il pour les mineurs arrivés dans l’enclave ?",
+              "lang": "fr",
+              "translated": true,
+              "access": "unknown"
+            }
+          ]
         },
         {
           "outlet": "The Wall Street Journal",
@@ -495,16 +568,29 @@
               "access": "paywall"
             }
           ]
+        },
+        {
+          "outlet": "TASS",
+          "region": "russia",
+          "lean": "state",
+          "ownership": "state",
+          "title": "IN BRIEF: What we know about Ceuta migration crisis and causes behind it",
+          "url": "https://tass.com/world/2167849",
+          "published": "2026-07-31T20:29:42+00:00",
+          "orig_title": "IN BRIEF: What we know about Ceuta migration crisis and causes behind it",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
         }
       ]
     },
     {
-      "id": 41,
+      "id": 56,
       "topic": "World & Politics",
       "label": "Pakistan · Nirmal · Purja",
       "title": "Nirmal Purja, Renowned Mountaineer, Is Found Dead After Pakistan Avalanche",
       "summary": "The British-Nepali mountaineer was one of 10 climbers who were struck by an avalanche on Thursday on Broad Peak, one of the world’s highest mountains.",
-      "score": 11.867,
+      "score": 11.828,
       "n_outlets": 11,
       "n_articles": 21,
       "regions": [
@@ -555,10 +641,10 @@
           "region": "europe",
           "lean": "left",
           "ownership": "private",
-          "title": "Top mountaineer Nirmal Purja confirmed dead after 11 hit by avalanche in Pakistan",
-          "url": "https://www.theguardian.com/world/2026/aug/01/top-mountaineer-nirmal-purja-confirmed-dead-after-11-hit-by-avalanche-in-pakistan",
-          "published": "2026-08-01T13:41:44+00:00",
-          "orig_title": "Top mountaineer Nirmal Purja confirmed dead after 11 hit by avalanche in Pakistan",
+          "title": "World-renowned climber Nirmal Purja among 11 struck by avalanche on Pakistan mountain",
+          "url": "https://www.theguardian.com/world/2026/jul/31/nirmal-purja-10-climbers-missing-pakistan-broad-peak-mountain",
+          "published": "2026-07-31T15:35:53+00:00",
+          "orig_title": "World-renowned climber Nirmal Purja among 11 struck by avalanche on Pakistan mountain",
           "lang": "en",
           "translated": false,
           "access": "open",
@@ -568,10 +654,10 @@
               "region": "europe",
               "lean": "left",
               "ownership": "private",
-              "title": "World-renowned climber Nirmal Purja among 11 struck by avalanche on Pakistan mountain",
-              "url": "https://www.theguardian.com/world/2026/jul/31/nirmal-purja-10-climbers-missing-pakistan-broad-peak-mountain",
-              "published": "2026-07-31T15:35:53+00:00",
-              "orig_title": "World-renowned climber Nirmal Purja among 11 struck by avalanche on Pakistan mountain",
+              "title": "Top mountaineer Nirmal Purja confirmed dead after 11 hit by avalanche in Pakistan",
+              "url": "https://www.theguardian.com/world/2026/aug/01/top-mountaineer-nirmal-purja-confirmed-dead-after-11-hit-by-avalanche-in-pakistan",
+              "published": "2026-08-01T13:41:44+00:00",
+              "orig_title": "Top mountaineer Nirmal Purja confirmed dead after 11 hit by avalanche in Pakistan",
               "lang": "en",
               "translated": false,
               "access": "open"
@@ -747,10 +833,10 @@
           "region": "europe",
           "lean": "right",
           "ownership": "private",
-          "title": "'Immeasurable Heartbreak' – All Ten Climbers Confirmed Dead After Avalanche Disaster",
+          "title": "'Immeasurable heartbreak' – All ten climbers with Nirmal Purja are dead",
           "url": "https://www.welt.de/sport/article6a6de2b0aa498e31a519a887/drama-am-broad-peak-unermesslicher-herzschmerz-nirmal-purja-ist-tot.html",
           "published": "2026-08-01T12:54:20+00:00",
-          "orig_title": "„Unermesslicher Herzschmerz“ – Tod aller zehn Bergsteiger nach Lawinenunglück bestätigt",
+          "orig_title": "„Unermesslicher Herzschmerz“ – Alle zehn Bergsteiger um Nirmal Purja sind tot",
           "lang": "de",
           "translated": true,
           "access": "unknown"
@@ -812,409 +898,12 @@
       ]
     },
     {
-      "id": 33,
-      "topic": "World & Politics",
-      "label": "Gaza · Hamas · Trump",
-      "title": "Trump announces deal for 'complete disarmament’ of Hamas",
-      "summary": "A member of the Hamas group’s negotiating team said the movement was making “concessions for the sake of our people in the Gaza Strip, to save them from killing and displacement”. He said the issue of",
-      "score": 10.897,
-      "n_outlets": 10,
-      "n_articles": 12,
-      "regions": [
-        "europe",
-        "india",
-        "russia",
-        "us"
-      ],
-      "last_seen": "2026-08-01T15:50:12+00:00",
-      "leans": [
-        "center",
-        "left",
-        "right"
-      ],
-      "sources": [
-        {
-          "outlet": "Der Spiegel",
-          "region": "europe",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Gaza: Israeli army destroys medical supply depot",
-          "url": "https://www.spiegel.de/ausland/gaza-israelische-armee-zerstoert-medizinlager-a-ac3cee90-0d32-4899-9af7-af0e23de6cd3#ref=rss",
-          "published": "2026-08-01T15:36:00+00:00",
-          "orig_title": "Gaza: Israelische Armee zerstört Medizinlager",
-          "lang": "de",
-          "translated": true,
-          "access": "unknown"
-        },
-        {
-          "outlet": "Novaya Gazeta Europe",
-          "region": "russia",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Trump announces Hamas disarmament agreement",
-          "url": "https://novayagazeta.eu/articles/2026/07/31/tramp-soobshchil-o-soglashenii-po-razoruzheniiu-khamas-news",
-          "published": "2026-07-31T13:23:25+00:00",
-          "orig_title": "Трамп сообщил о соглашении по разоружению ХАМАС",
-          "lang": "ru",
-          "translated": true,
-          "access": "unknown"
-        },
-        {
-          "outlet": "The Guardian",
-          "region": "europe",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Hamas agrees to Trump’s plan to disarm in Gaza – The Latest",
-          "url": "https://www.theguardian.com/news/audio/2026/jul/31/hamas-agrees-trump-plan-disarm-gaza-the-latest",
-          "published": "2026-07-31T16:11:39+00:00",
-          "orig_title": "Hamas agrees to Trump’s plan to disarm in Gaza – The Latest",
-          "lang": "en",
-          "translated": false,
-          "access": "open",
-          "more": [
-            {
-              "outlet": "The Guardian",
-              "region": "europe",
-              "lean": "left",
-              "ownership": "private",
-              "title": "Middle East crisis: Trump says ‘Israel is very happy’ with Gaza peace plan but doesn’t say if withdrawal or Hamas disarmament comes first – as it happened",
-              "url": "https://www.theguardian.com/world/live/2026/jul/31/us-iran-war-live-updates-trump-claims-gaza-hamas-deal-middle-east-crisis-latest-news",
-              "published": "2026-07-31T20:57:36+00:00",
-              "orig_title": "Middle East crisis: Trump says ‘Israel is very happy’ with Gaza peace plan but doesn’t say if withdrawal or Hamas disarmament comes first – as it happened",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
-            }
-          ]
-        },
-        {
-          "outlet": "The Hindu",
-          "region": "india",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Trump announces deal for 'complete disarmament’ of Hamas",
-          "url": "https://www.thehindu.com/news/international/trump-announces-agreement-for-disarmament-of-hamas/article71288798.ece",
-          "published": "2026-07-31T16:31:55+00:00",
-          "orig_title": "Trump announces deal for 'complete disarmament’ of Hamas",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "The New York Times",
-          "region": "us",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Trump’s Gaza Deal Sparks Questions on Whether Israel and Hamas Will Comply",
-          "url": "https://www.nytimes.com/2026/07/31/world/middleeast/trump-gaza-hamas-deal-disarm.html",
-          "published": "2026-07-31T19:10:16+00:00",
-          "orig_title": "Trump’s Gaza Deal Sparks Questions on Whether Israel and Hamas Will Comply",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall",
-          "more": [
-            {
-              "outlet": "The New York Times",
-              "region": "us",
-              "lean": "left",
-              "ownership": "private",
-              "title": "Israel Bombards Gaza, Days After Trump Announced Deal to Advance Cease-Fire",
-              "url": "https://www.nytimes.com/2026/08/01/world/middleeast/israel-gaza-strikes-trump-hamas.html",
-              "published": "2026-08-01T15:50:12+00:00",
-              "orig_title": "Israel Bombards Gaza, Days After Trump Announced Deal to Advance Cease-Fire",
-              "lang": "en",
-              "translated": false,
-              "access": "paywall"
-            }
-          ]
-        },
-        {
-          "outlet": "BBC News",
-          "region": "europe",
-          "lean": "center",
-          "ownership": "public",
-          "title": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
-          "url": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-07-31T15:18:31+00:00",
-          "orig_title": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "Kommersant",
-          "region": "russia",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Hamas agrees to demilitarization of Gaza Strip",
-          "url": "https://www.kommersant.ru/doc/8859907",
-          "published": "2026-07-31T10:26:17+00:00",
-          "orig_title": "«Хамас» согласился на демилитаризацию сектора Газа",
-          "lang": "ru",
-          "translated": true,
-          "access": "unknown"
-        },
-        {
-          "outlet": "The Hill",
-          "region": "us",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Trump’s ‘historic’ deal to disarm Hamas faces uphill climb",
-          "url": "https://thehill.com/homenews/administration/6002984-israel-hamas-roadmaps-skepticism/",
-          "published": "2026-08-01T10:00:00+00:00",
-          "orig_title": "Trump’s ‘historic’ deal to disarm Hamas faces uphill climb",
-          "lang": "en",
-          "translated": false,
-          "access": "unknown"
-        },
-        {
-          "outlet": "Le Figaro",
-          "region": "europe",
-          "lean": "right",
-          "ownership": "private",
-          "title": "Less than three months before legislative elections, Israel remains skeptical after Hamas disarmament agreement in Gaza",
-          "url": "https://www.lefigaro.fr/international/a-moins-de-trois-mois-des-elections-legislatives-israel-reste-sceptique-apres-l-accord-sur-le-desarmement-du-hamas-a-gaza-20260731",
-          "published": "2026-07-31T18:30:00+00:00",
-          "orig_title": "À moins de trois mois des élections législatives, Israël reste sceptique après l’accord sur le désarmement du Hamas à Gaza",
-          "lang": "fr",
-          "translated": true,
-          "access": "unknown"
-        },
-        {
-          "outlet": "The Wall Street Journal",
-          "region": "us",
-          "lean": "right",
-          "ownership": "private",
-          "title": "Latest Gaza Peace Plan Runs Up Against Reality",
-          "url": "https://www.wsj.com/world/middle-east/latest-gaza-peace-plan-runs-up-against-reality-607e32bf",
-          "published": "2026-07-31T19:12:00+00:00",
-          "orig_title": "Latest Gaza Peace Plan Runs Up Against Reality",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "topic": "World & Politics",
-      "label": "Ceuta · Spain · Italy",
-      "title": "Italy says it’s temporarily suspending EU Schengen arrangement with Spain after 60,000 migrants reach Ceuta – as it happened",
-      "summary": "The measure will impact people travelling by plane or boat between the two countries Spanish prime minister Pedro Sánchez is now in Ceuta, accompanied by interior minister Fernando Grande-Marlaska. He",
-      "score": 9.987,
-      "n_outlets": 9,
-      "n_articles": 14,
-      "regions": [
-        "china",
-        "europe",
-        "india",
-        "russia"
-      ],
-      "last_seen": "2026-08-01T16:59:07+00:00",
-      "leans": [
-        "center",
-        "left",
-        "right",
-        "state"
-      ],
-      "sources": [
-        {
-          "outlet": "El Pais",
-          "region": "europe",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Live coverage of migrant entry to Ceuta | Spanish King says he is 'outraged' by Ceuta events and demands state measures to prevent recurrence",
-          "url": "https://elpais.com/espana/2026-08-01/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
-          "published": "2026-08-01T16:37:27+00:00",
-          "orig_title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | El Rey asegura que está “indignado” por lo ocurrido en Ceuta y pide que el Estado tome medidas para que no vuelva a repetirse",
-          "lang": "es",
-          "translated": true,
-          "access": "unknown"
-        },
-        {
-          "outlet": "The Guardian",
-          "region": "europe",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Italy says it’s temporarily suspending EU Schengen arrangement with Spain after 60,000 migrants reach Ceuta – as it happened",
-          "url": "https://www.theguardian.com/world/live/2026/jul/31/cueta-spain-morocco-italy-migration-schengen-europe-latest-news-updates",
-          "published": "2026-08-01T10:44:06+00:00",
-          "orig_title": "Italy says it’s temporarily suspending EU Schengen arrangement with Spain after 60,000 migrants reach Ceuta – as it happened",
-          "lang": "en",
-          "translated": false,
-          "access": "open",
-          "more": [
-            {
-              "outlet": "The Guardian",
-              "region": "europe",
-              "lean": "left",
-              "ownership": "private",
-              "title": "EU to hold urgent meeting after Spanish PM calls Ceuta crisis response ‘selfish’",
-              "url": "https://www.theguardian.com/world/2026/aug/01/spain-pedro-sanchez-calls-for-eu-meeting-ceuta-border-crossing",
-              "published": "2026-08-01T16:59:07+00:00",
-              "orig_title": "EU to hold urgent meeting after Spanish PM calls Ceuta crisis response ‘selfish’",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
-            },
-            {
-              "outlet": "The Guardian",
-              "region": "europe",
-              "lean": "left",
-              "ownership": "private",
-              "title": "EU offered Spain support ‘from first moment’ of Ceuta crisis, says von der Leyen, after Sánchez hits out – Europe live",
-              "url": "https://www.theguardian.com/world/live/2026/aug/01/ukraine-russia-zelenskyy-spain-france-wildfires-climate-heatwave-ceuta-morocco",
-              "published": "2026-08-01T14:58:54+00:00",
-              "orig_title": "EU offered Spain support ‘from first moment’ of Ceuta crisis, says von der Leyen, after Sánchez hits out – Europe live",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
-            }
-          ]
-        },
-        {
-          "outlet": "The Hindu",
-          "region": "india",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Italy suspends EU Schengen free-travel pact with Spain over Ceuta crisis",
-          "url": "https://www.thehindu.com/news/international/italy-suspends-eu-schengen-free-travel-pact-with-spain-over-ceuta-crisis/article71294642.ece",
-          "published": "2026-08-01T13:32:25+00:00",
-          "orig_title": "Italy suspends EU Schengen free-travel pact with Spain over Ceuta crisis",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "BBC News",
-          "region": "europe",
-          "lean": "center",
-          "ownership": "public",
-          "title": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
-          "url": "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-01T15:46:08+00:00",
-          "orig_title": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "Politico Europe",
-          "region": "europe",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Ceuta crisis: 22 EU leaders gang up against Spain’s Sánchez over his migration policy",
-          "url": "https://www.politico.eu/article/ceuta-crisis-22-eu-leaders-letter-spain-pedro-sanchez-migration-policy/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-          "published": "2026-08-01T11:10:34+00:00",
-          "orig_title": "Ceuta crisis: 22 EU leaders gang up against Spain’s Sánchez over his migration policy",
-          "lang": "en",
-          "translated": false,
-          "access": "unknown"
-        },
-        {
-          "outlet": "South China Morning Post",
-          "region": "china",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Italy suspends EU Schengen free-travel pact with Spain over Ceuta migrant crisis",
-          "url": "https://www.scmp.com/news/world/europe/article/3362607/italy-suspends-eu-schengen-free-travel-pact-spain-over-ceuta-migrant-crisis?utm_source=rss_feed",
-          "published": "2026-07-31T17:39:18+00:00",
-          "orig_title": "Italy suspends EU Schengen free-travel pact with Spain over Ceuta migrant crisis",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "Die Welt",
-          "region": "europe",
-          "lean": "right",
-          "ownership": "private",
-          "title": "EU member state experts hold crisis talks on Ceuta situation",
-          "url": "https://www.welt.de/videos/video6a6dc682aa498e31a519a6a6/ansturm-von-migranten-experten-der-eu-mitgliedstaaten-beraten-in-krisensitzung-ueber-lage-in-ceuta.html",
-          "published": "2026-08-01T10:20:47+00:00",
-          "orig_title": "Experten der EU-Mitgliedstaaten beraten in Krisensitzung über Lage in Ceuta",
-          "lang": "de",
-          "translated": true,
-          "access": "unknown",
-          "more": [
-            {
-              "outlet": "Die Welt",
-              "region": "europe",
-              "lean": "right",
-              "ownership": "private",
-              "title": "EU interior ministers to hold emergency meeting Tuesday",
-              "url": "https://www.welt.de/politik/ausland/article6a6bb459dd06dd5ef2e3fe60/ceuta-eu-innenminister-kommen-am-dienstag-zu-sondersitzung-zusammen-spanien-beklagt-europas-ignoranz.html",
-              "published": "2026-08-01T15:28:00+00:00",
-              "orig_title": "EU-Innenminister kommen am Dienstag zu Sondersitzung zusammen",
-              "lang": "de",
-              "translated": true,
-              "access": "unknown"
-            }
-          ]
-        },
-        {
-          "outlet": "Le Figaro",
-          "region": "europe",
-          "lean": "right",
-          "ownership": "private",
-          "title": "Can the Schengen agreement really be suspended with Spain as Italy demands?",
-          "url": "https://www.lefigaro.fr/international/l-accord-de-schengen-peut-il-vraiment-etre-suspendu-avec-l-espagne-comme-le-demande-l-italie-20260731",
-          "published": "2026-07-31T15:22:03+00:00",
-          "orig_title": "L’accord de Schengen peut-il vraiment être suspendu avec l’Espagne, comme le demande l’Italie ?",
-          "lang": "fr",
-          "translated": true,
-          "access": "unknown"
-        },
-        {
-          "outlet": "TASS",
-          "region": "russia",
-          "lean": "state",
-          "ownership": "state",
-          "title": "IN BRIEF: What we know about Ceuta migration crisis and causes behind it",
-          "url": "https://tass.com/world/2167849",
-          "published": "2026-07-31T20:29:42+00:00",
-          "orig_title": "IN BRIEF: What we know about Ceuta migration crisis and causes behind it",
-          "lang": "en",
-          "translated": false,
-          "access": "open",
-          "more": [
-            {
-              "outlet": "TASS",
-              "region": "russia",
-              "lean": "state",
-              "ownership": "state",
-              "title": "Italy notifies Brussels of suspending Schengen with Spain for 30 days — source",
-              "url": "https://tass.com/world/2167841",
-              "published": "2026-07-31T19:02:00+00:00",
-              "orig_title": "Italy notifies Brussels of suspending Schengen with Spain for 30 days — source",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
-            },
-            {
-              "outlet": "TASS",
-              "region": "russia",
-              "lean": "state",
-              "ownership": "state",
-              "title": "EU to hold emergency interior ministers’ videoconference on Ceuta on August 4 — source",
-              "url": "https://tass.com/world/2168009",
-              "published": "2026-08-01T16:24:15+00:00",
-              "orig_title": "EU to hold emergency interior ministers’ videoconference on Ceuta on August 4 — source",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 4,
+      "id": 19,
       "topic": "World & Politics",
       "label": "Infantino · UEFA · FIFA",
       "title": "UEFA now trying to oust Gianni Infantino as 'shabby and opaque' leadership questioned",
       "summary": "Nach dem Aus für Gianni Infantinos Investorenpläne versuchen seine Gegner, die Situation auszunutzen. Der höchst umstrittene Fifa-Boss soll abgesägt werden. Die Uefa heizt den Machtkampf mit drastisch",
-      "score": 8.986,
+      "score": 8.954,
       "n_outlets": 8,
       "n_articles": 21,
       "regions": [
@@ -1223,7 +912,7 @@
         "japan",
         "russia"
       ],
-      "last_seen": "2026-08-01T16:58:19+00:00",
+      "last_seen": "2026-08-01T17:07:46+00:00",
       "leans": [
         "center",
         "left",
@@ -1292,7 +981,7 @@
               "ownership": "public",
               "title": "Call for 'full review' as pressure grows on Infantino",
               "url": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss",
-              "published": "2026-08-01T16:29:10+00:00",
+              "published": "2026-08-01T17:07:46+00:00",
               "orig_title": "Call for 'full review' as pressure grows on Infantino",
               "lang": "en",
               "translated": false,
@@ -1519,52 +1208,222 @@
       ]
     },
     {
-      "id": 24,
+      "id": 71,
       "topic": "World & Politics",
-      "label": "Ceuta · Morocco · migrant",
-      "title": "In 2021, thousands of migrants were already flooding into Ceuta as Morocco relaxed border controls",
-      "summary": "RÉCIT - Plus de 10.000 migrants venus du Maroc et de l’Afrique subsaharienne avaient franchi la frontière de l’enclave à la nage en seulement deux jours, sur fond de crise diplomatique entre Madrid et",
-      "score": 6.921,
-      "n_outlets": 6,
-      "n_articles": 8,
+      "label": "Gaza · Hamas · Trump",
+      "title": "Hamas agrees to Trump’s plan to disarm in Gaza – The Latest",
+      "summary": "Donald Trump has declared a breakthrough in negotiations over the disarmament of Hamas in Gaza and the withdrawal of Israeli forces, but Israeli government officials have voiced scepticism over the de",
+      "score": 8.796,
+      "n_outlets": 8,
+      "n_articles": 9,
       "regions": [
         "europe",
         "india",
-        "russia"
+        "russia",
+        "us"
       ],
-      "last_seen": "2026-08-01T16:08:56+00:00",
+      "last_seen": "2026-08-01T14:57:13+00:00",
       "leans": [
         "center",
         "left",
-        "right",
-        "state"
+        "right"
       ],
       "sources": [
         {
-          "outlet": "Novaya Gazeta Europe",
-          "region": "russia",
+          "outlet": "The Guardian",
+          "region": "europe",
           "lean": "left",
           "ownership": "private",
-          "title": "Spain reports return of nearly 70,000 migrants from Ceuta to Morocco",
-          "url": "https://novayagazeta.eu/articles/2026/08/01/ispaniia-zaiavila-o-vozvrashchenii-iz-seuty-v-marokko-pochti-70-tysiach-migrantov-news",
-          "published": "2026-08-01T10:47:32+00:00",
-          "orig_title": "Испания заявила о возвращении из Сеуты в Марокко почти 70 тысяч мигрантов",
-          "lang": "ru",
-          "translated": true,
-          "access": "unknown"
+          "title": "Hamas agrees to Trump’s plan to disarm in Gaza – The Latest",
+          "url": "https://www.theguardian.com/news/audio/2026/jul/31/hamas-agrees-trump-plan-disarm-gaza-the-latest",
+          "published": "2026-07-31T16:11:39+00:00",
+          "orig_title": "Hamas agrees to Trump’s plan to disarm in Gaza – The Latest",
+          "lang": "en",
+          "translated": false,
+          "access": "open",
+          "more": [
+            {
+              "outlet": "The Guardian",
+              "region": "europe",
+              "lean": "left",
+              "ownership": "private",
+              "title": "Middle East crisis: Trump says ‘Israel is very happy’ with Gaza peace plan but doesn’t say if withdrawal or Hamas disarmament comes first – as it happened",
+              "url": "https://www.theguardian.com/world/live/2026/jul/31/us-iran-war-live-updates-trump-claims-gaza-hamas-deal-middle-east-crisis-latest-news",
+              "published": "2026-07-31T20:57:36+00:00",
+              "orig_title": "Middle East crisis: Trump says ‘Israel is very happy’ with Gaza peace plan but doesn’t say if withdrawal or Hamas disarmament comes first – as it happened",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            }
+          ]
         },
         {
           "outlet": "The Hindu",
           "region": "india",
           "lean": "left",
           "ownership": "private",
-          "title": "Spain’s Ceuta migration influx: What we know",
-          "url": "https://www.thehindu.com/news/international/spains-ceuta-migration-influx-what-we-know/article71294464.ece",
-          "published": "2026-08-01T12:23:10+00:00",
-          "orig_title": "Spain’s Ceuta migration influx: What we know",
+          "title": "Trump announces deal for 'complete disarmament’ of Hamas",
+          "url": "https://www.thehindu.com/news/international/trump-announces-agreement-for-disarmament-of-hamas/article71288798.ece",
+          "published": "2026-07-31T16:31:55+00:00",
+          "orig_title": "Trump announces deal for 'complete disarmament’ of Hamas",
           "lang": "en",
           "translated": false,
           "access": "open"
+        },
+        {
+          "outlet": "The New York Times",
+          "region": "us",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Trump’s Gaza Deal Sparks Questions on Whether Israel and Hamas Will Comply",
+          "url": "https://www.nytimes.com/2026/07/31/world/middleeast/trump-gaza-hamas-deal-disarm.html",
+          "published": "2026-07-31T19:10:16+00:00",
+          "orig_title": "Trump’s Gaza Deal Sparks Questions on Whether Israel and Hamas Will Comply",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall"
+        },
+        {
+          "outlet": "BBC News",
+          "region": "europe",
+          "lean": "center",
+          "ownership": "public",
+          "title": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
+          "url": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-31T15:18:31+00:00",
+          "orig_title": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "Kommersant",
+          "region": "russia",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Hamas agrees to demilitarization of Gaza Strip",
+          "url": "https://www.kommersant.ru/doc/8859907",
+          "published": "2026-07-31T10:26:17+00:00",
+          "orig_title": "«Хамас» согласился на демилитаризацию сектора Газа",
+          "lang": "ru",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
+          "outlet": "Fox News",
+          "region": "us",
+          "lean": "right",
+          "ownership": "private",
+          "title": "Exclusive: Israeli President Herzog blasts Mamdani, praises Trump, sounds alarm on Iran",
+          "url": "https://www.foxnews.com/world/exclusive-israeli-president-herzog-blasts-mamdani-praises-trump-sounds-alarm-iran",
+          "published": "2026-08-01T14:57:13+00:00",
+          "orig_title": "Exclusive: Israeli President Herzog blasts Mamdani, praises Trump, sounds alarm on Iran",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "Le Figaro",
+          "region": "europe",
+          "lean": "right",
+          "ownership": "private",
+          "title": "Less than three months before legislative elections, Israel remains skeptical after Hamas disarmament agreement in Gaza",
+          "url": "https://www.lefigaro.fr/international/a-moins-de-trois-mois-des-elections-legislatives-israel-reste-sceptique-apres-l-accord-sur-le-desarmement-du-hamas-a-gaza-20260731",
+          "published": "2026-07-31T18:30:00+00:00",
+          "orig_title": "À moins de trois mois des élections législatives, Israël reste sceptique après l’accord sur le désarmement du Hamas à Gaza",
+          "lang": "fr",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
+          "outlet": "The Wall Street Journal",
+          "region": "us",
+          "lean": "right",
+          "ownership": "private",
+          "title": "Latest Gaza Peace Plan Runs Up Against Reality",
+          "url": "https://www.wsj.com/world/middle-east/latest-gaza-peace-plan-runs-up-against-reality-607e32bf",
+          "published": "2026-07-31T19:12:00+00:00",
+          "orig_title": "Latest Gaza Peace Plan Runs Up Against Reality",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall"
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "topic": "World & Politics",
+      "label": "Ceuta · Death · Spain",
+      "title": "Death toll in Spain border crisis reaches 67 as tens of thousands cross back in to Morocco",
+      "summary": "The death toll in Spain's Ceuta border crisis with Morocco has climbed to 67. They included some who drowned and some who were killed in a stampede to cross a breakwater barrier.",
+      "score": 7.718,
+      "n_outlets": 7,
+      "n_articles": 9,
+      "regions": [
+        "europe",
+        "india",
+        "russia",
+        "us"
+      ],
+      "last_seen": "2026-08-01T13:42:53+00:00",
+      "leans": [
+        "center",
+        "left"
+      ],
+      "sources": [
+        {
+          "outlet": "NPR",
+          "region": "us",
+          "lean": "left",
+          "ownership": "public",
+          "title": "Death toll in Spain border crisis reaches 67 as tens of thousands cross back in to Morocco",
+          "url": "https://www.npr.org/2026/08/01/nx-s1-5916271/ceuta-spain-border-morocco",
+          "published": "2026-08-01T09:36:05+00:00",
+          "orig_title": "Death toll in Spain border crisis reaches 67 as tens of thousands cross back in to Morocco",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "The Guardian",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "At least 57 people die as tens of thousands cross to Spanish enclave of Ceuta from Morocco",
+          "url": "https://www.theguardian.com/world/2026/jul/31/ceuta-spain-morocco-border-deaths",
+          "published": "2026-07-31T17:52:11+00:00",
+          "orig_title": "At least 57 people die as tens of thousands cross to Spanish enclave of Ceuta from Morocco",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "The Hindu",
+          "region": "india",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Spain-Morocco border crisis: Death toll in Ceuta reaches 67",
+          "url": "https://www.thehindu.com/news/international/spain-morocco-border-crisis-death-toll-in-ceuta/article71294017.ece",
+          "published": "2026-08-01T10:35:09+00:00",
+          "orig_title": "Spain-Morocco border crisis: Death toll in Ceuta reaches 67",
+          "lang": "en",
+          "translated": false,
+          "access": "open",
+          "more": [
+            {
+              "outlet": "The Hindu",
+              "region": "india",
+              "lean": "left",
+              "ownership": "private",
+              "title": "At least 34 people died trying to cross from Morocco into Spain’s Ceuta enclave: official",
+              "url": "https://www.thehindu.com/news/international/spain-morocco-ceuta-border-migrants-crossing-updates-july-31-2026/article71289053.ece",
+              "published": "2026-07-31T12:58:36+00:00",
+              "orig_title": "At least 34 people died trying to cross from Morocco into Spain’s Ceuta enclave: official",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            }
+          ]
         },
         {
           "outlet": "BBC News",
@@ -1575,6 +1434,19 @@
           "url": "https://www.bbc.co.uk/news/videos/c171nnql1j4o?at_medium=RSS&at_campaign=rss",
           "published": "2026-07-31T18:29:04+00:00",
           "orig_title": "What triggered the mass migrant crossings into Ceuta?",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "Deutsche Welle",
+          "region": "europe",
+          "lean": "center",
+          "ownership": "public",
+          "title": "Spain's PM visits Ceuta after thousands breached border",
+          "url": "https://www.dw.com/en/spain-s-pm-visits-ceuta-after-thousands-breached-border/a-78187002?maca=en-rss-en-world-4025-rdf",
+          "published": "2026-07-31T10:37:00+00:00",
+          "orig_title": "Spain's PM visits Ceuta after thousands breached border",
           "lang": "en",
           "translated": false,
           "access": "open"
@@ -1608,42 +1480,14 @@
           ]
         },
         {
-          "outlet": "Le Figaro",
-          "region": "europe",
-          "lean": "right",
+          "outlet": "Times of India",
+          "region": "india",
+          "lean": "center",
           "ownership": "private",
-          "title": "In 2021, thousands of migrants were already flooding into Ceuta as Morocco relaxed border controls",
-          "url": "https://www.lefigaro.fr/international/en-2021-des-milliers-de-migrants-deferlaient-deja-sur-ceuta-a-la-faveur-d-un-relachement-des-controles-marocains-20260731",
-          "published": "2026-07-31T12:47:10+00:00",
-          "orig_title": "En 2021, des milliers de migrants déferlaient déjà sur Ceuta à la faveur d’un relâchement des contrôles marocains",
-          "lang": "fr",
-          "translated": true,
-          "access": "unknown",
-          "more": [
-            {
-              "outlet": "Le Figaro",
-              "region": "europe",
-              "lean": "right",
-              "ownership": "private",
-              "title": "Massive migrant influx in Ceuta: what happens to minors arriving in the enclave?",
-              "url": "https://www.lefigaro.fr/international/afflux-massif-de-migrants-a-ceuta-qu-advient-il-pour-les-mineurs-arrives-dans-l-enclave-20260801",
-              "published": "2026-08-01T16:08:56+00:00",
-              "orig_title": "Afflux massif de migrants à Ceuta : qu’advient-il pour les mineurs arrivés dans l’enclave ?",
-              "lang": "fr",
-              "translated": true,
-              "access": "unknown"
-            }
-          ]
-        },
-        {
-          "outlet": "TASS",
-          "region": "russia",
-          "lean": "state",
-          "ownership": "state",
-          "title": "Nearly 70,000 migrants leave Ceuta back for Morocco — news agency",
-          "url": "https://tass.com/world/2167953",
-          "published": "2026-08-01T09:15:35+00:00",
-          "orig_title": "Nearly 70,000 migrants leave Ceuta back for Morocco — news agency",
+          "title": "Spain races to secure Ceuta border with floating barrier after mass crossings and 67 deaths",
+          "url": "https://timesofindia.indiatimes.com/world/europe/spain-races-to-secure-ceuta-border-with-floating-barrier-after-mass-crossings-and-67-deaths/articleshow/132790589.cms",
+          "published": "2026-08-01T13:42:53+00:00",
+          "orig_title": "Spain races to secure Ceuta border with floating barrier after mass crossings and 67 deaths",
           "lang": "en",
           "translated": false,
           "access": "open"
@@ -1651,14 +1495,14 @@
       ]
     },
     {
-      "id": 181,
+      "id": 187,
       "topic": "World & Politics",
-      "label": "Trump · Iran · War",
-      "title": "White House signals Trump is weighing new strikes on Iran",
-      "summary": "“We'll be hitting them very hard,” Mr. Trump said in an exchange with reporters during a meeting with members of his Cabinet at the Camp David presidential retreat in Maryland",
-      "score": 6.529,
-      "n_outlets": 6,
-      "n_articles": 7,
+      "label": "Iran · Trump · War",
+      "title": "WSJ: Trump Ordered Iran Strikes to Begin Within Days",
+      "summary": "Президент США Дональд Трамп отдал войскам приказ нанести новые удары по Ирану, сообщает The Wall Street Journal со ссылкой на источники. Атака может начаться в выходные и продлиться несколько дней.",
+      "score": 7.505,
+      "n_outlets": 7,
+      "n_articles": 11,
       "regions": [
         "india",
         "japan",
@@ -1713,6 +1557,60 @@
           "access": "paywall"
         },
         {
+          "outlet": "Kommersant",
+          "region": "russia",
+          "lean": "center",
+          "ownership": "private",
+          "title": "WSJ: Trump Ordered Iran Strikes to Begin Within Days",
+          "url": "https://www.kommersant.ru/doc/8860542",
+          "published": "2026-08-01T03:42:01+00:00",
+          "orig_title": "WSJ: Трамп отдал приказ об ударах по Ирану в ближайшие дни",
+          "lang": "ru",
+          "translated": true,
+          "access": "unknown",
+          "more": [
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "U.S. and Israel planning Iran strikes in coming days",
+              "url": "https://www.kommersant.ru/doc/8860528",
+              "published": "2026-07-31T22:13:12+00:00",
+              "orig_title": "CBS: США и Израиль планируют нанести удары по Ирану в ближайшие дни",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Tehran Prepares Response to Possible U.S. and Israeli Strikes",
+              "url": "https://www.kommersant.ru/doc/8860539",
+              "published": "2026-08-01T02:38:49+00:00",
+              "orig_title": "Тегеран подготовил ответ на возможные удары США и Израиля",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "US ready for Iran talks if ceasefire holds, report says",
+              "url": "https://www.kommersant.ru/doc/8848968",
+              "published": "2026-07-31T08:49:25+00:00",
+              "orig_title": "NYP: США готовы на переговоры с Ираном при условии прекращения огня",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            }
+          ]
+        },
+        {
           "outlet": "The Japan Times",
           "region": "japan",
           "lean": "center",
@@ -1756,10 +1654,10 @@
               "region": "russia",
               "lean": "state",
               "ownership": "state",
-              "title": "Deal with Iran still possible — Trump",
-              "url": "https://tass.com/world/2167847",
-              "published": "2026-07-31T20:02:12+00:00",
-              "orig_title": "Deal with Iran still possible — Trump",
+              "title": "US, Israel plan to carry out large-scale strikes on Iran’s energy infrastructure — TV",
+              "url": "https://tass.com/world/2167869",
+              "published": "2026-07-31T22:40:24+00:00",
+              "orig_title": "US, Israel plan to carry out large-scale strikes on Iran’s energy infrastructure — TV",
               "lang": "en",
               "translated": false,
               "access": "open"
@@ -1769,12 +1667,12 @@
       ]
     },
     {
-      "id": 217,
+      "id": 222,
       "topic": "World & Politics",
       "label": "Trump · Ukraine · Patriot",
       "title": "Trump Backs Away From Deal to Let Ukraine Build Patriot Missiles",
       "summary": "The president of Ukraine had warned that the country was running out of Patriot interceptors, the most reliable weapon it has to shoot down Russian ballistic missiles.",
-      "score": 6.456,
+      "score": 6.435,
       "n_outlets": 6,
       "n_articles": 10,
       "regions": [
@@ -1927,12 +1825,130 @@
       ]
     },
     {
-      "id": 77,
+      "id": 14,
+      "topic": "World & Politics",
+      "label": "Iran · Middle · East",
+      "title": "Kuwait Says It Downed Iranian Drones as Mideast Braces for Possible Escalation",
+      "summary": "The wave of strikes came as President Trump threatened to intensify the American campaign against Iran. U.S. embassies in the region warned of the “potential for unforeseen escalation.”",
+      "score": 5.962,
+      "n_outlets": 5,
+      "n_articles": 7,
+      "regions": [
+        "china",
+        "india",
+        "us"
+      ],
+      "last_seen": "2026-08-01T17:14:00+00:00",
+      "leans": [
+        "center",
+        "left",
+        "right"
+      ],
+      "sources": [
+        {
+          "outlet": "The Hindu",
+          "region": "india",
+          "lean": "left",
+          "ownership": "private",
+          "title": "West Asia war LIVE: U.S. embassies urge citizens to ‘consider departing’ from West Asia",
+          "url": "https://www.thehindu.com/news/international/iran-us-war-live-updates-donald-trump-tehran-mojtaba-khamenei-fresh-strikes-irgc-strait-of-hormuz-ceasefire-deal/article71293385.ece",
+          "published": "2026-08-01T16:08:07+00:00",
+          "orig_title": "West Asia war LIVE: U.S. embassies urge citizens to ‘consider departing’ from West Asia",
+          "lang": "en",
+          "translated": false,
+          "access": "open",
+          "more": [
+            {
+              "outlet": "The Hindu",
+              "region": "india",
+              "lean": "left",
+              "ownership": "private",
+              "title": "West Asia war updates: Iran says struck two tankers under U.S. 'air escort' trying to pass Hormuz",
+              "url": "https://www.thehindu.com/news/international/iran-israel-war-live-july-31-2026-updates-pakistan-us-donald-trump-west-asia/article71288966.ece",
+              "published": "2026-07-31T17:20:24+00:00",
+              "orig_title": "West Asia war updates: Iran says struck two tankers under U.S. 'air escort' trying to pass Hormuz",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            }
+          ]
+        },
+        {
+          "outlet": "The New York Times",
+          "region": "us",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Kuwait Says It Downed Iranian Drones as Mideast Braces for Possible Escalation",
+          "url": "https://www.nytimes.com/2026/08/01/world/middleeast/iran-kuwait-drone-strikes-trump-escalation.html",
+          "published": "2026-08-01T12:44:03+00:00",
+          "orig_title": "Kuwait Says It Downed Iranian Drones as Mideast Braces for Possible Escalation",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall"
+        },
+        {
+          "outlet": "South China Morning Post",
+          "region": "china",
+          "lean": "center",
+          "ownership": "private",
+          "title": "US embassies urge citizens to consider departing Middle East",
+          "url": "https://www.scmp.com/news/world/middle-east/article/3362658/us-embassies-urge-citizens-consider-departing-middle-east?utm_source=rss_feed",
+          "published": "2026-08-01T16:57:17+00:00",
+          "orig_title": "US embassies urge citizens to consider departing Middle East",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "The Hill",
+          "region": "us",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Live updates: US planning renewed Iran strikes; Trump pressures GOP on Blanche",
+          "url": "https://thehill.com/homenews/administration/6003529-live-updates-trump-us-iran-strikes-senate-gop-todd-blanche/",
+          "published": "2026-08-01T13:59:24+00:00",
+          "orig_title": "Live updates: US planning renewed Iran strikes; Trump pressures GOP on Blanche",
+          "lang": "en",
+          "translated": false,
+          "access": "unknown",
+          "more": [
+            {
+              "outlet": "The Hill",
+              "region": "us",
+              "lean": "center",
+              "ownership": "private",
+              "title": "The Iran War has reopened the world’s most dangerous shipping lane",
+              "url": "https://thehill.com/opinion/international/6002688-tehran-maritime-terror-strategy/",
+              "published": "2026-08-01T13:00:00+00:00",
+              "orig_title": "The Iran War has reopened the world’s most dangerous shipping lane",
+              "lang": "en",
+              "translated": false,
+              "access": "unknown"
+            }
+          ]
+        },
+        {
+          "outlet": "The Wall Street Journal",
+          "region": "us",
+          "lean": "right",
+          "ownership": "private",
+          "title": "Iran Stokes the Middle East War With Drone Attacks on Kuwait",
+          "url": "https://www.wsj.com/world/middle-east/iran-stokes-the-middle-east-war-with-drone-attacks-on-kuwait-f25530a0",
+          "published": "2026-08-01T17:14:00+00:00",
+          "orig_title": "Iran Stokes the Middle East War With Drone Attacks on Kuwait",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall"
+        }
+      ]
+    },
+    {
+      "id": 89,
       "topic": "World & Politics",
       "label": "Kyiv · Russian · Missiles",
       "title": "Russia Pounds Kyiv With Missiles, Killing At Least 10",
       "summary": "This is the second major attack on Kyiv this week, with fires across the city and power outages reported in some areas.",
-      "score": 5.759,
+      "score": 5.724,
       "n_outlets": 5,
       "n_articles": 6,
       "regions": [
@@ -2031,74 +2047,103 @@
       ]
     },
     {
-      "id": 6,
+      "id": 365,
       "topic": "World & Politics",
-      "label": "Iran · NYT · bomb",
-      "title": "US used aerial bomb weighing almost ton to hit apartment building in Iran — NYT",
-      "summary": "It said that the diameter of the crater and fragments of ammunition indicate the use of a heavy MK-84 aerial bomb",
-      "score": 4.972,
-      "n_outlets": 4,
-      "n_articles": 4,
+      "label": "Italy · Spain · Schengen",
+      "title": "Italy suspends EU Schengen free-travel pact with Spain over Ceuta migrant crisis",
+      "summary": "Italy said on Friday it ⁠was suspending the EU’s ⁠border-free Schengen arrangements with Spain for one month in ⁠response to a mass influx of migrants into the Spanish enclave of Ceuta from neighbouri",
+      "score": 5.151,
+      "n_outlets": 5,
+      "n_articles": 6,
       "regions": [
-        "india",
+        "china",
+        "europe",
         "russia",
-        "us"
+        "south_america"
       ],
-      "last_seen": "2026-08-01T16:47:59+00:00",
+      "last_seen": "2026-07-31T19:02:00+00:00",
       "leans": [
         "center",
-        "left",
+        "right",
         "state"
       ],
       "sources": [
-        {
-          "outlet": "The New York Times",
-          "region": "us",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Evidence Indicates U.S. Dropped Bomb on Residential Area in Iran, Killing 3 Civilians",
-          "url": "https://www.nytimes.com/2026/07/31/world/middleeast/us-iran-bomb-mk84-qeshm-island.html",
-          "published": "2026-08-01T03:40:13+00:00",
-          "orig_title": "Evidence Indicates U.S. Dropped Bomb on Residential Area in Iran, Killing 3 Civilians",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
-        },
         {
           "outlet": "Kommersant",
           "region": "russia",
           "lean": "center",
           "ownership": "private",
-          "title": "NYT reports US strike on Iranian residential building with 900-kilogram bomb",
-          "url": "https://www.kommersant.ru/doc/8860722",
-          "published": "2026-08-01T16:47:59+00:00",
-          "orig_title": "NYT сообщила об ударе США 900-килограммовой бомбой по жилому дому в Иране",
+          "title": "Italy suspends Schengen agreement with Spain",
+          "url": "https://www.kommersant.ru/doc/8860229",
+          "published": "2026-07-31T16:32:57+00:00",
+          "orig_title": "Италия приостановила Шенгенское соглашение с Испанией",
           "lang": "ru",
           "translated": true,
-          "access": "unknown"
+          "access": "unknown",
+          "more": [
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Italy backs Schengen suspension with Spain over migrant surge",
+              "url": "https://www.kommersant.ru/doc/8859866",
+              "published": "2026-07-31T09:47:45+00:00",
+              "orig_title": "Италия поддержала приостановку Шенгена с Испанией из-за наплыва мигрантов",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            }
+          ]
         },
         {
-          "outlet": "Times of India",
-          "region": "india",
+          "outlet": "MercoPress",
+          "region": "south_america",
           "lean": "center",
           "ownership": "private",
-          "title": "2,000-pound US bomb hits Iran family home; Centcom says 'we never target civilians'",
-          "url": "https://timesofindia.indiatimes.com/world/us/2000-pound-us-bomb-hits-iran-family-home-centcom-says-we-never-target-civilians/articleshow/132791400.cms",
-          "published": "2026-08-01T14:41:00+00:00",
-          "orig_title": "2,000-pound US bomb hits Iran family home; Centcom says 'we never target civilians'",
+          "title": "Italy and France tighten borders with Spain after 50,000 enter Ceuta",
+          "url": "https://en.mercopress.com/2026/07/31/italy-and-france-tighten-borders-with-spain-after-50-000-enter-ceuta?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+          "published": "2026-07-31T18:29:00+00:00",
+          "orig_title": "Italy and France tighten borders with Spain after 50,000 enter Ceuta",
           "lang": "en",
           "translated": false,
           "access": "open"
+        },
+        {
+          "outlet": "South China Morning Post",
+          "region": "china",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Italy suspends EU Schengen free-travel pact with Spain over Ceuta migrant crisis",
+          "url": "https://www.scmp.com/news/world/europe/article/3362607/italy-suspends-eu-schengen-free-travel-pact-spain-over-ceuta-migrant-crisis?utm_source=rss_feed",
+          "published": "2026-07-31T17:39:18+00:00",
+          "orig_title": "Italy suspends EU Schengen free-travel pact with Spain over Ceuta migrant crisis",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "Le Figaro",
+          "region": "europe",
+          "lean": "right",
+          "ownership": "private",
+          "title": "Can the Schengen agreement really be suspended with Spain as Italy demands?",
+          "url": "https://www.lefigaro.fr/international/l-accord-de-schengen-peut-il-vraiment-etre-suspendu-avec-l-espagne-comme-le-demande-l-italie-20260731",
+          "published": "2026-07-31T15:22:03+00:00",
+          "orig_title": "L’accord de Schengen peut-il vraiment être suspendu avec l’Espagne, comme le demande l’Italie ?",
+          "lang": "fr",
+          "translated": true,
+          "access": "unknown"
         },
         {
           "outlet": "TASS",
           "region": "russia",
           "lean": "state",
           "ownership": "state",
-          "title": "US used aerial bomb weighing almost ton to hit apartment building in Iran — NYT",
-          "url": "https://tass.com/world/2168011",
-          "published": "2026-08-01T16:44:09+00:00",
-          "orig_title": "US used aerial bomb weighing almost ton to hit apartment building in Iran — NYT",
+          "title": "Italy notifies Brussels of suspending Schengen with Spain for 30 days — source",
+          "url": "https://tass.com/world/2167841",
+          "published": "2026-07-31T19:02:00+00:00",
+          "orig_title": "Italy notifies Brussels of suspending Schengen with Spain for 30 days — source",
           "lang": "en",
           "translated": false,
           "access": "open"
@@ -2106,12 +2151,12 @@
       ]
     },
     {
-      "id": 54,
+      "id": 69,
       "topic": "Economics",
       "label": "Warsh · Kevin · Opinion",
       "title": "Opinion | Warsh Makes Markets Do Their Job",
       "summary": "Have they forgotten how to price risk without the Federal Reserve guiding them?",
-      "score": 3.837,
+      "score": 3.799,
       "n_outlets": 3,
       "n_articles": 3,
       "regions": [
@@ -2166,12 +2211,12 @@
       ]
     },
     {
-      "id": 368,
+      "id": 370,
       "topic": "Economics",
       "label": "Lula's · son · Brazil's",
       "title": "Brazilian court permits investigation into President Lula's son",
       "summary": "Верховный суд Бразилии дал разрешение местной полиции начать расследование против сына президента страны Луиса Инасиу Лулы да Силвы, сообщило Reuters. Фабиу Луиса Лулу да Силву обвиняют в коррупции и ",
-      "score": 3.153,
+      "score": 3.146,
       "n_outlets": 3,
       "n_articles": 3,
       "regions": [
@@ -2227,12 +2272,12 @@
       ]
     },
     {
-      "id": 411,
+      "id": 410,
       "topic": "Economics",
       "label": "Tesla · China · WSJ",
       "title": "Tesla Weighs Sale of China Business to Pave Way for Potential SpaceX Merger",
       "summary": "The U.S. automaker could sell or spin off the business in its second-largest market over geopolitical concerns.",
-      "score": 3.115,
+      "score": 3.11,
       "n_outlets": 3,
       "n_articles": 4,
       "regions": [
@@ -2303,12 +2348,12 @@
       ]
     },
     {
-      "id": 230,
+      "id": 235,
       "topic": "Economics",
       "label": "Ukraine · Russian · total",
-      "title": "Russian consumers increasingly buying budget-priced televisions",
-      "summary": "Отечественный рынок телевизоров растет после просадки в 2025 году. Наибольшим спросом пользуются телевизоры стоимостью 10–20 тыс. руб., на которые приходится около трети продаж.",
-      "score": 2.422,
+      "title": "Ukraine’s total expenditures in 2026 to amount to $176.8 billion",
+      "summary": "As a result, the actual level of spending is approaching the country’s total GDP",
+      "score": 2.402,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -2349,12 +2394,12 @@
       ]
     },
     {
-      "id": 250,
+      "id": 254,
       "topic": "Economics",
       "label": "Pentagon · missile · seeks",
       "title": "Pentagon seeks $18.2 bln to replenish interceptor missile stocks — agency",
       "summary": "The funding is part of a $67 billion emergency spending request for the current fiscal year",
-      "score": 2.351,
+      "score": 2.335,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -2395,12 +2440,12 @@
       ]
     },
     {
-      "id": 407,
+      "id": 405,
       "topic": "Economics",
       "label": "North · Sea · puts",
-      "title": "BP puts North Sea business up for sale",
-      "summary": "The decision follows a review of BP's operations and is set to end 60 years of production in the region by the oil giant.",
-      "score": 2.119,
+      "title": "BP to sell North Sea oil production assets",
+      "summary": "Британская нефтегазовая компания BP сообщила, что выставила на продажу свое подразделение по добыче в Северном море. В компании объяснили это стремлением сконцентрироваться на ключевых активах своего ",
+      "score": 2.114,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -2441,12 +2486,12 @@
       ]
     },
     {
-      "id": 11,
+      "id": 28,
       "topic": "Economics",
       "label": "Centre · lakh · crore",
-      "title": "Gross GST collections grow 15.4% to more than ₹2.11 lakh crore in July on higher imports, sales",
-      "summary": "Tax collection from domestic transactions grew 10.1% to more than ₹1.44 lakh crore, while gross revenues from imports were up 29% to ₹66,511 crore",
-      "score": 1.958,
+      "title": "Centre releases additional instalment of tax devolution of ₹1.09 lakh crore to States",
+      "summary": "Currently, 41% of taxes collected by the Centre is devolved in 14 instalments among States during a fiscal year.",
+      "score": 1.914,
       "n_outlets": 1,
       "n_articles": 2,
       "regions": [
@@ -2462,10 +2507,10 @@
           "region": "india",
           "lean": "left",
           "ownership": "private",
-          "title": "Gross GST collections grow 15.4% to more than ₹2.11 lakh crore in July on higher imports, sales",
-          "url": "https://www.thehindu.com/business/gross-gst-collections-grow-154-to-more-than-211-lakh-crore-in-july-on-higher-imports-sales/article71294086.ece",
-          "published": "2026-08-01T10:00:18+00:00",
-          "orig_title": "Gross GST collections grow 15.4% to more than ₹2.11 lakh crore in July on higher imports, sales",
+          "title": "Centre releases additional instalment of tax devolution of ₹1.09 lakh crore to States",
+          "url": "https://www.thehindu.com/business/Economy/centre-releases-additional-instalment-of-tax-devolution-of-109-lakh-crore-to-states/article71295691.ece",
+          "published": "2026-08-01T16:37:01+00:00",
+          "orig_title": "Centre releases additional instalment of tax devolution of ₹1.09 lakh crore to States",
           "lang": "en",
           "translated": false,
           "access": "open",
@@ -2475,10 +2520,10 @@
               "region": "india",
               "lean": "left",
               "ownership": "private",
-              "title": "Centre releases additional instalment of tax devolution of ₹1.09 lakh crore to States",
-              "url": "https://www.thehindu.com/business/Economy/centre-releases-additional-instalment-of-tax-devolution-of-109-lakh-crore-to-states/article71295691.ece",
-              "published": "2026-08-01T16:37:01+00:00",
-              "orig_title": "Centre releases additional instalment of tax devolution of ₹1.09 lakh crore to States",
+              "title": "Gross GST collections grow 15.4% to more than ₹2.11 lakh crore in July on higher imports, sales",
+              "url": "https://www.thehindu.com/business/gross-gst-collections-grow-154-to-more-than-211-lakh-crore-in-july-on-higher-imports-sales/article71294086.ece",
+              "published": "2026-08-01T10:00:18+00:00",
+              "orig_title": "Gross GST collections grow 15.4% to more than ₹2.11 lakh crore in July on higher imports, sales",
               "lang": "en",
               "translated": false,
               "access": "open"
@@ -2488,12 +2533,12 @@
       ]
     },
     {
-      "id": 15,
+      "id": 32,
       "topic": "Economics",
       "label": "India · Japanese · AMFI",
       "title": "India will be the biggest destination for Japanese capital in a decade: AMFI chairman Sandeep Sikka",
       "summary": "`The country’s booming systematic investment plan (SIP) culture has fundamentally reshaped the equity market by creating a strong domestic buffer against foreign capital outflows’",
-      "score": 1.941,
+      "score": 1.898,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -2520,12 +2565,12 @@
       ]
     },
     {
-      "id": 27,
+      "id": 43,
       "topic": "Economics",
       "label": "Samudra · Manthan · What",
-      "title": "Union Cabinet approves ₹84,084 crore for offshore exploration scheme ‘Samudra Manthan’",
-      "summary": "The Cabinet has allocated ₹43,200 crore for drilling 60 deepwater exploration wells",
-      "score": 1.914,
+      "title": "What is the Samudra Manthan scheme all about? | Explained",
+      "summary": "The Samudra Manthan scheme aims at boosting India’s deepwater hydrocarbon exploration and energy security with an ₹84,084 crore investment",
+      "score": 1.872,
       "n_outlets": 1,
       "n_articles": 2,
       "regions": [
@@ -2541,10 +2586,10 @@
           "region": "india",
           "lean": "left",
           "ownership": "private",
-          "title": "Union Cabinet approves ₹84,084 crore for offshore exploration scheme ‘Samudra Manthan’",
-          "url": "https://www.thehindu.com/business/Economy/cabinet-approves-84084-crore-for-offshore-exploration-scheme-samudra-manthan/article71291787.ece",
-          "published": "2026-08-01T06:26:16+00:00",
-          "orig_title": "Union Cabinet approves ₹84,084 crore for offshore exploration scheme ‘Samudra Manthan’",
+          "title": "What is the Samudra Manthan scheme all about? | Explained",
+          "url": "https://www.thehindu.com/news/national/what-is-the-samudra-manthan-scheme-all-about-explained/article71295556.ece",
+          "published": "2026-08-01T16:03:13+00:00",
+          "orig_title": "What is the Samudra Manthan scheme all about? | Explained",
           "lang": "en",
           "translated": false,
           "access": "open",
@@ -2554,10 +2599,10 @@
               "region": "india",
               "lean": "left",
               "ownership": "private",
-              "title": "What is the Samudra Manthan scheme all about? | Explained",
-              "url": "https://www.thehindu.com/news/national/what-is-the-samudra-manthan-scheme-all-about-explained/article71295556.ece",
-              "published": "2026-08-01T16:03:13+00:00",
-              "orig_title": "What is the Samudra Manthan scheme all about? | Explained",
+              "title": "Union Cabinet approves ₹84,084 crore for offshore exploration scheme ‘Samudra Manthan’",
+              "url": "https://www.thehindu.com/business/Economy/cabinet-approves-84084-crore-for-offshore-exploration-scheme-samudra-manthan/article71291787.ece",
+              "published": "2026-08-01T06:26:16+00:00",
+              "orig_title": "Union Cabinet approves ₹84,084 crore for offshore exploration scheme ‘Samudra Manthan’",
               "lang": "en",
               "translated": false,
               "access": "open"
@@ -2567,12 +2612,12 @@
       ]
     },
     {
-      "id": 78,
+      "id": 90,
       "topic": "Economics",
       "label": "Why · Nigeria · Elon",
       "title": "Why Nigeria’s births should not worry Elon Musk, By Chinedu Moghalu",
       "summary": "Musk’s comparison does not settle a contest of fertility. Europe is wealthier, more productive and better equipped to turn individual ability into economic value. Nigeria and Africa have time, youth a",
-      "score": 1.754,
+      "score": 1.72,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -2599,101 +2644,12 @@
       ]
     },
     {
-      "id": 137,
-      "topic": "Trading & Markets",
-      "label": "Hungary · Paks · Danube",
-      "title": "Paks nuclear plant in Hungary may shut within days due to Danube water levels dropping",
-      "summary": "Власти Венгрии могут уже в эти выходные полностью остановить работу АЭС «Пакш» по причине падения уровня воды в Дунае до критических отметок. Об этом сообщил премьер-министр Петер Мадьяр.",
-      "score": 3.622,
-      "n_outlets": 3,
-      "n_articles": 5,
-      "regions": [
-        "europe",
-        "russia"
-      ],
-      "last_seen": "2026-08-01T11:26:51+00:00",
-      "leans": [
-        "center",
-        "left",
-        "right"
-      ],
-      "sources": [
-        {
-          "outlet": "Novaya Gazeta Europe",
-          "region": "russia",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Tens of thousands lose power and water in Vladivostok due to utility failures",
-          "url": "https://novayagazeta.eu/articles/2026/07/31/vo-vladivostoke-desiatki-tysiach-zhitelei-ostalis-bez-sveta-i-vody-iz-za-kommunalnykh-avarii-news",
-          "published": "2026-07-31T09:10:03+00:00",
-          "orig_title": "Во Владивостоке десятки тысяч жителей остались без света и воды из-за коммунальных аварий",
-          "lang": "ru",
-          "translated": true,
-          "access": "unknown"
-        },
-        {
-          "outlet": "Kommersant",
-          "region": "russia",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Paks nuclear plant in Hungary may shut within days due to Danube water levels dropping",
-          "url": "https://www.kommersant.ru/doc/8860636",
-          "published": "2026-08-01T09:46:43+00:00",
-          "orig_title": "АЭС «Пакш» в Венгрии могут отключить в течение суток из-за пересыхания Дуная // Мадьяр: АЭС «Пакш» могут отключить в выходные из-за снижения уровня воды в Дунае",
-          "lang": "ru",
-          "translated": true,
-          "access": "unknown",
-          "more": [
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Hungary: Paks nuclear plant to shut down within next week",
-              "url": "https://www.kommersant.ru/doc/8860241",
-              "published": "2026-07-31T16:53:41+00:00",
-              "orig_title": "Мадьяр: АЭС «Пакш» остановят в пределах следующей недели",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            },
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Possible timeline for Paks nuclear power plant shutdown announced",
-              "url": "https://www.kommersant.ru/doc/8859950",
-              "published": "2026-07-31T11:06:25+00:00",
-              "orig_title": "Мадьяр назвал возможные сроки отключения АЭС «Пакш» // Reuters: Мадьяр допустил отключение АЭС «Пакш» на несколько недель",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            }
-          ]
-        },
-        {
-          "outlet": "Die Welt",
-          "region": "europe",
-          "lean": "right",
-          "ownership": "private",
-          "title": "Low Danube water levels prompt Hungary to consider shutting down only nuclear power plant",
-          "url": "https://www.welt.de/politik/ausland/article6a6dd39add06dd5ef2e41764/aufruf-zum-stromsparen-zu-wenig-wasser-in-der-donau-ungarn-will-sein-einziges-atomkraftwerk-abschalten.html",
-          "published": "2026-08-01T11:26:51+00:00",
-          "orig_title": "Zu wenig Wasser in der Donau – Ungarn will sein einziges Atomkraftwerk abschalten",
-          "lang": "de",
-          "translated": true,
-          "access": "unknown"
-        }
-      ]
-    },
-    {
-      "id": 252,
+      "id": 256,
       "topic": "Trading & Markets",
       "label": "Europe · July · Petrol",
       "title": "Petrol prices on track to top $2 a litre as Bowen sounds death knell for fuel excise relief",
       "summary": "Petrol now costs more than $1.90 a litre in every capital city, with diesel expected to exceed $2.40 a litre Get our breaking news email , free app or daily news podcast Petrol prices could surpass $2",
-      "score": 3.344,
+      "score": 3.328,
       "n_outlets": 3,
       "n_articles": 3,
       "regions": [
@@ -2749,12 +2705,100 @@
       ]
     },
     {
-      "id": 70,
+      "id": 0,
+      "topic": "Trading & Markets",
+      "label": "Hungary · Paks · nuclear",
+      "title": "Paks nuclear plant in Hungary may shut within days due to Danube water levels dropping",
+      "summary": "Власти Венгрии могут уже в эти выходные полностью остановить работу АЭС «Пакш» по причине падения уровня воды в Дунае до критических отметок. Об этом сообщил премьер-министр Петер Мадьяр.",
+      "score": 2.991,
+      "n_outlets": 2,
+      "n_articles": 5,
+      "regions": [
+        "europe",
+        "russia"
+      ],
+      "last_seen": "2026-08-01T17:35:14+00:00",
+      "leans": [
+        "center",
+        "right"
+      ],
+      "sources": [
+        {
+          "outlet": "Kommersant",
+          "region": "russia",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Paks nuclear plant in Hungary may shut within days due to Danube water levels dropping",
+          "url": "https://www.kommersant.ru/doc/8860636",
+          "published": "2026-08-01T09:46:43+00:00",
+          "orig_title": "АЭС «Пакш» в Венгрии могут отключить в течение суток из-за пересыхания Дуная // Мадьяр: АЭС «Пакш» могут отключить в выходные из-за снижения уровня воды в Дунае",
+          "lang": "ru",
+          "translated": true,
+          "access": "unknown",
+          "more": [
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Hungary: Paks nuclear plant to shut down within next week",
+              "url": "https://www.kommersant.ru/doc/8860241",
+              "published": "2026-07-31T16:53:41+00:00",
+              "orig_title": "Мадьяр: АЭС «Пакш» остановят в пределах следующей недели",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Possible timeline for Paks nuclear power plant shutdown announced",
+              "url": "https://www.kommersant.ru/doc/8859950",
+              "published": "2026-07-31T11:06:25+00:00",
+              "orig_title": "Мадьяр назвал возможные сроки отключения АЭС «Пакш» // Reuters: Мадьяр допустил отключение АЭС «Пакш» на несколько недель",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Fico says ready to help Hungary overcome energy crisis from Paks nuclear plant",
+              "url": "https://www.kommersant.ru/doc/8860724",
+              "published": "2026-08-01T17:35:14+00:00",
+              "orig_title": "Фицо заявил о готовности помочь Венгрии преодолеть энергокризис из-за АЭС «Пакш»",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            }
+          ]
+        },
+        {
+          "outlet": "Die Welt",
+          "region": "europe",
+          "lean": "right",
+          "ownership": "private",
+          "title": "Low Danube water levels prompt Hungary to consider shutting down only nuclear power plant",
+          "url": "https://www.welt.de/politik/ausland/article6a6dd39add06dd5ef2e41764/aufruf-zum-stromsparen-zu-wenig-wasser-in-der-donau-ungarn-will-sein-einziges-atomkraftwerk-abschalten.html",
+          "published": "2026-08-01T11:26:51+00:00",
+          "orig_title": "Zu wenig Wasser in der Donau – Ungarn will sein einziges Atomkraftwerk abschalten",
+          "lang": "de",
+          "translated": true,
+          "access": "unknown"
+        }
+      ]
+    },
+    {
+      "id": 82,
       "topic": "Trading & Markets",
       "label": "China · Pain · India",
-      "title": "India’s balancing act to attract more investment from China, U.S. and boost trade",
-      "summary": "This balancing act has seen gradual and incremental relaxations in several long-held policies of the government — whether it has to do with FDI in e-commerce, allowing FDI from companies with Chinese ",
-      "score": 2.77,
+      "title": "Pain or gain? US moves to decouple its defence industry from China’s rare earths",
+      "summary": "A recent US executive order requires major arms manufacturers to trace their multi-tier supply chains and actively phase out Chinese rare earths, aiming to end years of reliance on cheap minerals from",
+      "score": 2.735,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -2796,12 +2840,12 @@
       ]
     },
     {
-      "id": 91,
+      "id": 105,
       "topic": "Trading & Markets",
       "label": "Sweden · doubles · prison",
-      "title": "Sweden doubles prison terms for gang-related crimes",
-      "summary": "Sweden has introduced tougher penalties for gang-related offences, allowing courts to impose prison sentences up to twice as long as before, as the country cracks down on organised crime. Under the ne",
-      "score": 2.71,
+      "title": "Sweden doubles prison sentences for gang members",
+      "summary": "Schweden verschärft den Kampf gegen brutale Verbrecher. Für bewaffnete Bandenmitglieder gilt nun ein doppelt so hohes Strafmaß, sogar für Minderjährige. Die Regierung orientiert sich dabei am dänische",
+      "score": 2.678,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -2843,59 +2887,12 @@
       ]
     },
     {
-      "id": 106,
-      "topic": "Trading & Markets",
-      "label": "Carville · Democratic · Democrats",
-      "title": "Democrats’ ‘climate hushing’ prompts activists to turn up the volume",
-      "summary": "Nationwide actions seek to counter view that talking about climate crisis distracts from affordability messaging This summer, torrential rains have washed away Texas neighborhoods, dangerous heat has ",
-      "score": 2.687,
-      "n_outlets": 2,
-      "n_articles": 2,
-      "regions": [
-        "europe",
-        "us"
-      ],
-      "last_seen": "2026-08-01T12:37:37+00:00",
-      "leans": [
-        "center",
-        "left"
-      ],
-      "sources": [
-        {
-          "outlet": "The Guardian",
-          "region": "europe",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Democrats’ ‘climate hushing’ prompts activists to turn up the volume",
-          "url": "https://www.theguardian.com/us-news/2026/aug/01/democrats-climate-policy-hushing",
-          "published": "2026-08-01T12:00:53+00:00",
-          "orig_title": "Democrats’ ‘climate hushing’ prompts activists to turn up the volume",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "The Hill",
-          "region": "us",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Carville: Democratic messaging ahead of midterms 'not meeting the moment'",
-          "url": "https://thehill.com/homenews/campaign/6003503-james-carville-democratic-party-messaging-midterms-critique/",
-          "published": "2026-08-01T12:37:37+00:00",
-          "orig_title": "Carville: Democratic messaging ahead of midterms 'not meeting the moment'",
-          "lang": "en",
-          "translated": false,
-          "access": "unknown"
-        }
-      ]
-    },
-    {
-      "id": 134,
+      "id": 146,
       "topic": "Trading & Markets",
       "label": "Moscow · drones · Russian",
       "title": "Air defense forces shot down 274 drones over Russia overnight",
       "summary": "В период с 20:00 мск 31 июля до 7:00 1 августа средствами ПВО перехвачены и уничтожены 274 беспилотника самолетного типа над 17 российскими регионами, сообщило Минобороны России. По его данным, БПЛА с",
-      "score": 2.627,
+      "score": 2.599,
       "n_outlets": 2,
       "n_articles": 8,
       "regions": [
@@ -3018,12 +3015,12 @@
       ]
     },
     {
-      "id": 358,
+      "id": 359,
       "topic": "Trading & Markets",
       "label": "Oil · Posts · Big",
-      "title": "Oil Posts Big Monthly Gains on Resumption of Conflict",
-      "summary": "Oil futures settled up on the day and ended July with hefty gains as the month saw renewed Iranian attacks on shipping in a dispute with the U.S. over control of the Strait of Hormuz.",
-      "score": 2.168,
+      "title": "Iran strikes tankers under US escort in Hormuz strait as Trump gathers cabinet to discuss war",
+      "summary": "Energy prices have soared again since fighting between US and Iran resumed two weeks ago as conflict spreads across Middle East Iran has said it struck two tankers trying to pass through the strait of",
+      "score": 2.161,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -3065,86 +3062,12 @@
       ]
     },
     {
-      "id": 379,
-      "topic": "Trading & Markets",
-      "label": "shares · Russian · Friday",
-      "title": "Etalon shares surge nearly 10% after Q2 results",
-      "summary": "Акции девелопера «Эталон» на торгах Мосбиржи 31 июля росли на 9,91% -- до 23,94 руб. за штуку. По состоянию на 13:45 котировки компании скорректировались на отметке 23,36 руб. за бумагу (+7,44%).",
-      "score": 2.14,
-      "n_outlets": 2,
-      "n_articles": 4,
-      "regions": [
-        "russia"
-      ],
-      "last_seen": "2026-07-31T17:34:30+00:00",
-      "leans": [
-        "center",
-        "state"
-      ],
-      "sources": [
-        {
-          "outlet": "Kommersant",
-          "region": "russia",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Etalon shares surge nearly 10% after Q2 results",
-          "url": "https://www.kommersant.ru/doc/8859924",
-          "published": "2026-07-31T10:52:51+00:00",
-          "orig_title": "Акции «Эталона» выросли почти на 10% после публикации результатов за II квартал",
-          "lang": "ru",
-          "translated": true,
-          "access": "unknown",
-          "more": [
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "UGK shares rise 6 percent on BTS-Most Holding bid news",
-              "url": "https://www.kommersant.ru/doc/8859999",
-              "published": "2026-07-31T11:54:01+00:00",
-              "orig_title": "Акции ЮГК выросли на 6% на новости об оферте «БТС-Мост Холдинга»",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            },
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Ozon shares fall over 8% after warehouse evacuation in Tatarstan",
-              "url": "https://www.kommersant.ru/doc/8848970",
-              "published": "2026-07-31T08:43:09+00:00",
-              "orig_title": "Акции Ozon упали более чем на 8% после эвакуации сотрудников склада в Татарстане",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            }
-          ]
-        },
-        {
-          "outlet": "TASS",
-          "region": "russia",
-          "lean": "state",
-          "ownership": "state",
-          "title": "Russian stocks close in the green on Friday",
-          "url": "https://tass.com/economy/2167817",
-          "published": "2026-07-31T17:34:30+00:00",
-          "orig_title": "Russian stocks close in the green on Friday",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        }
-      ]
-    },
-    {
-      "id": 402,
+      "id": 400,
       "topic": "Trading & Markets",
       "label": "Ukrainian · Russia · Clamps",
       "title": "Russia Clamps Down on Posting Videos of Ukrainian Drone Strikes",
       "summary": "Authorities are detaining people and warning such acts could be considered treason.",
-      "score": 2.124,
+      "score": 2.119,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -3186,12 +3109,12 @@
       ]
     },
     {
-      "id": 0,
+      "id": 20,
       "topic": "Trading & Markets",
       "label": "Full · LPDC · Gadzama",
       "title": "Full reasons why LPDC suspended senior advocate Gadzama, fellow lawyer from legal practice (DOWNLOAD)",
       "summary": "In its 70-page direction dated 29 July, the LPDC found that Mr Gadzama poached and hijacked clients already represented by another lawyer, acted for some judgement creditors who later denied instructi",
-      "score": 1.992,
+      "score": 1.947,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -3219,11 +3142,75 @@
     },
     {
       "id": 22,
+      "topic": "Trading & Markets",
+      "label": "Stephen · Curry's · Chinese",
+      "title": "Stephen Curry's deal with a Chinese company puts profit over conscience",
+      "summary": "He is lending his good name to a company shadowed by one of the great human rights scandals of our time.",
+      "score": 1.945,
+      "n_outlets": 1,
+      "n_articles": 1,
+      "regions": [
+        "us"
+      ],
+      "last_seen": "2026-08-01T17:00:59+00:00",
+      "leans": [
+        "center"
+      ],
+      "sources": [
+        {
+          "outlet": "The Hill",
+          "region": "us",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Stephen Curry's deal with a Chinese company puts profit over conscience",
+          "url": "https://thehill.com/opinion/civil-rights/6002607-curry-china-endorsement-controversy/",
+          "published": "2026-08-01T17:00:59+00:00",
+          "orig_title": "Stephen Curry's deal with a Chinese company puts profit over conscience",
+          "lang": "en",
+          "translated": false,
+          "access": "unknown"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "topic": "Trading & Markets",
+      "label": "Nirmal · Purja · man",
+      "title": "Nirmal Purja: A man driven to the end",
+      "summary": "Nirmal Purja hat einen alpinistischen Rekord nach dem anderen gejagt, Netflix machte ihn zum Star. Nun starben er und neun Kollegen bei einer Lawine am Broad Peak. Im Gedächtnis bleiben aber nicht nur",
+      "score": 1.914,
+      "n_outlets": 1,
+      "n_articles": 1,
+      "regions": [
+        "europe"
+      ],
+      "last_seen": "2026-08-01T16:37:00+00:00",
+      "leans": [
+        "left"
+      ],
+      "sources": [
+        {
+          "outlet": "Der Spiegel",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Nirmal Purja: A man driven to the end",
+          "url": "https://www.spiegel.de/sport/nirmal-purja-ein-getriebener-bis-zum-schluss-a-5c70e82d-ded1-42e7-935e-82248d6c5223#ref=rss",
+          "published": "2026-08-01T16:37:00+00:00",
+          "orig_title": "Nirmal Purja: Ein Getriebener bis zum Schluss",
+          "lang": "de",
+          "translated": true,
+          "access": "unknown"
+        }
+      ]
+    },
+    {
+      "id": 39,
       "topic": "Science",
       "label": "Ebola · Congo · WHO",
       "title": "Current Ebola outbreak worst ever in DR Congo, WHO says",
       "summary": "The current strain has so far killed 1,587 people, and there is currently no approved vaccine or treatment.",
-      "score": 6.93,
+      "score": 6.888,
       "n_outlets": 6,
       "n_articles": 6,
       "regions": [
@@ -3320,12 +3307,12 @@
       ]
     },
     {
-      "id": 430,
+      "id": 429,
       "topic": "Science",
       "label": "Drifting · SpaceX · rocket",
       "title": "Elon Musk rocket adrift for over a year to crash into Moon within days",
       "summary": "El impacto del Falcon 9 el próximo miércoles, que quizá pueda observarse desde la Tierra, evidencia la deficiente gestión de la basura perdida en el espacio",
-      "score": 2.097,
+      "score": 2.092,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -3365,12 +3352,12 @@
       ]
     },
     {
-      "id": 496,
+      "id": 495,
       "topic": "Science",
       "label": "Ukraine · Wildberries · Hits",
       "title": "Ukraine Hits Wildberries Logistics Center and Energy Facility in Volgograd, Killing At Least One",
       "summary": "Local authorities did not identify the energy site, but NASA fire monitoring showed several active fires at a major Lukoil-operated oil refinery.",
-      "score": 2.063,
+      "score": 2.06,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -3410,12 +3397,12 @@
       ]
     },
     {
-      "id": 62,
+      "id": 77,
       "topic": "Science",
       "label": "Olga · Soffer · Fashion",
       "title": "Olga Soffer, Fashion Maven Who Studied Caveman Couture, Dies at 83",
       "summary": "After working for a department store, she switched to archaeology and made important discoveries about prehistoric clothes and gender roles.",
-      "score": 1.809,
+      "score": 1.772,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -3442,12 +3429,12 @@
       ]
     },
     {
-      "id": 65,
+      "id": 79,
       "topic": "Science",
       "label": "Trump · Administration · Undoing",
       "title": "Trump Administration Is Undoing Plans to Boost Workplace Heat Protections",
       "summary": "The Biden administration took steps to shield workers from extreme temperatures. The Trump administration is taking a gentler approach with employers.",
-      "score": 1.794,
+      "score": 1.758,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -3474,12 +3461,12 @@
       ]
     },
     {
-      "id": 120,
+      "id": 133,
       "topic": "Science",
       "label": "Antarctica's · Concordia · Station",
       "title": "Antarctica's Concordia Station hit minus 119.4°F, its coldest temperature in 16 years",
       "summary": "Antarctica's Concordia Research Station recorded its coldest temperature in sixteen years on July eighteenth. This extreme cold was caused by polar winter and high elevation conditions. The station si",
-      "score": 1.657,
+      "score": 1.627,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -3506,14 +3493,14 @@
       ]
     },
     {
-      "id": 228,
+      "id": 233,
       "topic": "Science",
-      "label": "China · How · US-China",
-      "title": "How global AI boom is intensifying US-China undersea stand-off",
-      "summary": "The US-China tech rivalry has escalated into a deeper battle over undersea fibre-optic cables powering the global AI boom. As demand for cross-border data to power and train advanced systems intensifi",
-      "score": 1.43,
+      "label": "China · hopes · banish",
+      "title": "China hopes to banish blackouts as quantum tech puts power grid in superposition",
+      "summary": "China plans to expand the application of quantum technologies – including precision sensors and computer simulations – across its power grid to help prevent blackouts. The push follows a successful tr",
+      "score": 1.41,
       "n_outlets": 1,
-      "n_articles": 2,
+      "n_articles": 1,
       "regions": [
         "china"
       ],
@@ -3527,38 +3514,23 @@
           "region": "china",
           "lean": "center",
           "ownership": "private",
-          "title": "How global AI boom is intensifying US-China undersea stand-off",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3362288/how-global-ai-boom-intensifying-us-china-undersea-stand?utm_source=rss_feed",
-          "published": "2026-07-31T15:00:07+00:00",
-          "orig_title": "How global AI boom is intensifying US-China undersea stand-off",
+          "title": "China hopes to banish blackouts as quantum tech puts power grid in superposition",
+          "url": "https://www.scmp.com/news/china/science/article/3362629/china-hopes-banish-blackouts-quantum-tech-puts-power-grid-superposition?utm_source=rss_feed",
+          "published": "2026-08-01T07:00:13+00:00",
+          "orig_title": "China hopes to banish blackouts as quantum tech puts power grid in superposition",
           "lang": "en",
           "translated": false,
-          "access": "open",
-          "more": [
-            {
-              "outlet": "South China Morning Post",
-              "region": "china",
-              "lean": "center",
-              "ownership": "private",
-              "title": "China hopes to banish blackouts as quantum tech puts power grid in superposition",
-              "url": "https://www.scmp.com/news/china/science/article/3362629/china-hopes-banish-blackouts-quantum-tech-puts-power-grid-superposition?utm_source=rss_feed",
-              "published": "2026-08-01T07:00:13+00:00",
-              "orig_title": "China hopes to banish blackouts as quantum tech puts power grid in superposition",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
-            }
-          ]
+          "access": "open"
         }
       ]
     },
     {
-      "id": 231,
+      "id": 236,
       "topic": "Science",
       "label": "India · Explained · floating",
       "title": "Can ‘floating’ solar boost India’s renewable energy uptake? | Explained",
       "summary": "With land increasingly scarce and storage becoming crucial, here’s why India is looking to its vast reservoirs for the next phase of solar expansion",
-      "score": 1.408,
+      "score": 1.39,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -3585,12 +3557,12 @@
       ]
     },
     {
-      "id": 234,
+      "id": 239,
       "topic": "Science",
       "label": "How · take · plunge",
       "title": "Should you take the plunge? How to tell how clean the sea is",
       "summary": "From beach ratings to apps and flags, we take a look at how swimmers can check water quality.",
-      "score": 1.399,
+      "score": 1.381,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -3617,12 +3589,12 @@
       ]
     },
     {
-      "id": 318,
+      "id": 319,
       "topic": "Science",
       "label": "Scientist's · lifelong · obsession",
       "title": "Scientist's lifelong obsession with mystery of elusive 'pink zebra' seaweed",
       "summary": "An ancient algae first spotted four decades ago will now join the collection of the Natural History Museum.",
-      "score": 1.234,
+      "score": 1.224,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -3649,12 +3621,12 @@
       ]
     },
     {
-      "id": 195,
+      "id": 199,
       "topic": "Technology",
       "label": "OpenAI · Anthropic · OpenAI's",
       "title": "Why did OpenAI's and Anthropic's AI models hack other companies?",
       "summary": "OpenAI and Anthropic say their models broke into other companies' systems during testing, raising security concerns amid a heated debate over how to regulate AI.",
-      "score": 8.508,
+      "score": 8.485,
       "n_outlets": 8,
       "n_articles": 9,
       "regions": [
@@ -3792,14 +3764,14 @@
       ]
     },
     {
-      "id": 97,
+      "id": 111,
       "topic": "Technology",
       "label": "How · Who · Leopold",
       "title": "Who is Leopold Aschenbrenner, the AI investment prodigy who ended up losing his fund",
       "summary": "Tras multiplicar su rentabilidad por cinco en 2026, Situational Awareness ha tenido que vender la mayoría de sus participaciones, con las caídas de las tecnológicas",
-      "score": 4.705,
+      "score": 4.673,
       "n_outlets": 4,
-      "n_articles": 5,
+      "n_articles": 4,
       "regions": [
         "europe",
         "us"
@@ -3860,32 +3832,17 @@
           "orig_title": "His Wedding Guests Were Arriving—Just as His $45 Billion Fund Was Falling Apart",
           "lang": "en",
           "translated": false,
-          "access": "paywall",
-          "more": [
-            {
-              "outlet": "The Wall Street Journal",
-              "region": "us",
-              "lean": "right",
-              "ownership": "private",
-              "title": "Situational Awareness Down 67% in July in AI Stock Rout",
-              "url": "https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f?mod=rss_markets_main",
-              "published": "2026-07-31T05:24:00+00:00",
-              "orig_title": "Situational Awareness Down 67% in July in AI Stock Rout",
-              "lang": "en",
-              "translated": false,
-              "access": "paywall"
-            }
-          ]
+          "access": "paywall"
         }
       ]
     },
     {
-      "id": 158,
+      "id": 165,
       "topic": "Technology",
       "label": "Google · Nano · Banana",
       "title": "Google disables AI map generator Nano Banana days after launch due to fake terror attack imagery",
       "summary": "Сайт Google Earth 30 июля запустил функцию по модификации изображений, в том числе карт, с помощью искусственного интеллекта (ИИ). Однако уже 1 августа дня пресс-служба компании сообщила, что функцию ",
-      "score": 3.576,
+      "score": 3.55,
       "n_outlets": 3,
       "n_articles": 3,
       "regions": [
@@ -3940,12 +3897,58 @@
       ]
     },
     {
-      "id": 32,
+      "id": 8,
+      "topic": "Technology",
+      "label": "Andy · Burnham · Brits",
+      "title": "Andy Burnham tests chips in pub. And Brits celebrate him for it. How long will it last?",
+      "summary": "Andy Burnham macht in seinen ersten Tagen alles anders als Keir Starmer: Er deckelt Buspreise, bekämpft Obdachlosigkeit, eröffnet einen Regierungssitz in Nordengland – und hat keine Angst vor Populism",
+      "score": 2.976,
+      "n_outlets": 2,
+      "n_articles": 2,
+      "regions": [
+        "europe"
+      ],
+      "last_seen": "2026-08-01T17:24:00+00:00",
+      "leans": [
+        "left",
+        "right"
+      ],
+      "sources": [
+        {
+          "outlet": "Der Spiegel",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Andy Burnham tests chips in pub. And Brits celebrate him for it. How long will it last?",
+          "url": "https://www.spiegel.de/ausland/andy-burnham-testet-chips-im-pub-und-die-briten-feiern-ihn-dafuer-wie-lange-geht-das-gut-a-9ecdc6af-03fe-4aed-b3f8-fa7c19e80a7e#ref=rss",
+          "published": "2026-08-01T17:24:00+00:00",
+          "orig_title": "Andy Burnham testet Chips im Pub. Und die Briten feiern ihn dafür. Wie lange geht das gut?",
+          "lang": "de",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
+          "outlet": "Le Figaro",
+          "region": "europe",
+          "lean": "right",
+          "ownership": "private",
+          "title": "Border repatriation, asylum rights... In UK, Andy Burnham follows Keir Starmer's tough migration stance",
+          "url": "https://www.lefigaro.fr/international/reconduction-a-la-frontiere-droit-d-asile-au-royaume-uni-la-fermete-migratoire-d-andy-burnham-dans-la-lignee-de-keir-starmer-20260731",
+          "published": "2026-07-31T11:18:55+00:00",
+          "orig_title": "Reconduction à la frontière, droit d’asile... Au Royaume-Uni, la fermeté migratoire d’Andy Burnham dans la lignée de Keir Starmer",
+          "lang": "fr",
+          "translated": true,
+          "access": "unknown"
+        }
+      ]
+    },
+    {
+      "id": 49,
       "topic": "Technology",
       "label": "Gisela · Schmalz · intelligence",
       "title": "Why this Frenchwoman already sees us unified by AI",
       "summary": "Asma Mhalla hat die Warnschrift der Stunde geschrieben. Jedes Kapitel eine steile These, jeder Satz ein apodiktisches Urteil. Man fragt sich nicht, ob, sondern wann ihre Prognose wahr wird.",
-      "score": 2.907,
+      "score": 2.866,
       "n_outlets": 2,
       "n_articles": 4,
       "regions": [
@@ -4014,12 +4017,12 @@
       ]
     },
     {
-      "id": 172,
+      "id": 178,
       "topic": "Technology",
       "label": "China · Move · Fast",
-      "title": "As China’s catch-up era ends, what’s standing in the way of tech innovation?",
-      "summary": "As China’s era of catch-up growth fades, experts warn that profound issues in research culture and institutional incentives may hamstring the country’s ambition to become a leader in scientific innova",
-      "score": 2.552,
+      "title": "Move Fast and Regulate Later: The Paradox of China’s Economic Dynamism",
+      "summary": "In the U.S., regulation can protect incumbents while discouraging entrepreneurs. China gives fast-moving startups room to grow before exerting state control.",
+      "score": 2.527,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -4061,12 +4064,12 @@
       ]
     },
     {
-      "id": 180,
+      "id": 186,
       "topic": "Technology",
       "label": "Tech · Wall · Street",
       "title": "Wall Street Thinks It Knows How Tech Giants Will Make AI Pay",
       "summary": "Investors are coming around to the idea that Big Tech spending on AI can make sense—as long as there is a cloud-computing business involved.",
-      "score": 2.529,
+      "score": 2.505,
       "n_outlets": 2,
       "n_articles": 3,
       "regions": [
@@ -4123,12 +4126,12 @@
       ]
     },
     {
-      "id": 225,
+      "id": 230,
       "topic": "Technology",
       "label": "DeepSeek · data · Mongolia",
       "title": "DeepSeek is developing massive AI data center in inner Mongolia",
       "summary": "The ambitious move in computing infrastructure shows the startup can compete with the leading AI models of Silicon Valley.",
-      "score": 2.433,
+      "score": 2.413,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -4169,12 +4172,12 @@
       ]
     },
     {
-      "id": 327,
+      "id": 328,
       "topic": "Technology",
       "label": "DoorDash · Moonshot · Kimi",
       "title": "US lawmakers investigate DoorDash’s use of Moonshot AI’s Kimi K2.6 model",
       "summary": "Prominent US lawmakers have requested information from food delivery giant DoorDash on its use of Chinese artificial intelligence models after its co-founder disclosed that they had experimented with ",
-      "score": 2.219,
+      "score": 2.209,
       "n_outlets": 2,
       "n_articles": 3,
       "regions": [
@@ -4231,12 +4234,12 @@
       ]
     },
     {
-      "id": 391,
+      "id": 390,
       "topic": "Technology",
       "label": "OpenAI · Surpasses · One",
       "title": "OpenAI blinks in face-off with Chinese rivals, drops pricing for some models up to 80%",
       "summary": "In a bid to defend its market share against rapidly advancing, lower-cost Chinese rivals, US artificial intelligence firm OpenAI has launched an aggressive price war, slashing prices for its latest GP",
-      "score": 2.129,
+      "score": 2.123,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -4278,57 +4281,12 @@
       ]
     },
     {
-      "id": 421,
-      "topic": "Technology",
-      "label": "Yabloko · Petersburg · Central",
-      "title": "Electoral commission denies Yabloko participation in Saint Petersburg elections",
-      "summary": "Центризбирком (ЦИК) отклонил жалобу «Яблока» на решение избирательной комиссии Санкт-Петербурга об отказе в регистрации списка кандидатов на выборах в заксобрание по единому городскому округу. ЦИК сче",
-      "score": 2.107,
-      "n_outlets": 2,
-      "n_articles": 2,
-      "regions": [
-        "russia"
-      ],
-      "last_seen": "2026-07-31T14:16:07+00:00",
-      "leans": [
-        "center"
-      ],
-      "sources": [
-        {
-          "outlet": "Kommersant",
-          "region": "russia",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Electoral commission denies Yabloko participation in Saint Petersburg elections",
-          "url": "https://www.kommersant.ru/doc/8859869",
-          "published": "2026-07-31T10:18:57+00:00",
-          "orig_title": "ЦИК не вернул «Яблоко» на выборы в Санкт-Петербурге",
-          "lang": "ru",
-          "translated": true,
-          "access": "unknown"
-        },
-        {
-          "outlet": "The Moscow Times",
-          "region": "russia",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Central Election Commission Bars Yabloko Candidates From St. Petersburg Ballot",
-          "url": "https://www.themoscowtimes.com/2026/07/31/central-election-commission-bars-yabloko-candidates-from-st-petersburg-ballot-a93387",
-          "published": "2026-07-31T14:16:07+00:00",
-          "orig_title": "Central Election Commission Bars Yabloko Candidates From St. Petersburg Ballot",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        }
-      ]
-    },
-    {
-      "id": 57,
+      "id": 72,
       "topic": "Sports",
       "label": "FIFA · World · Cup",
       "title": "FIFA decided against selling World Cup broadcasting rights stake to private investors",
       "summary": "Международная федерация футбола (FIFA) отказалась от идеи по продаже части прав на чемпионат мира частным инвесторам, пишет The New York Post со ссылкой на источники. По словам собеседника газеты, реш",
-      "score": 9.827,
+      "score": 9.789,
       "n_outlets": 9,
       "n_articles": 11,
       "regions": [
@@ -4497,11 +4455,11 @@
       ]
     },
     {
-      "id": 20,
+      "id": 24,
       "topic": "Sports",
-      "label": "CWG · Women's · Boxing",
-      "title": "CWG: Preeti Pawar beats Scarlett Delgado to win Women's 54kg Boxing Gold",
-      "summary": "Preeti Pawar secured the women's 54kg boxing gold medal at the 2026 Commonwealth Games. She defeated Canada's Scarlett Delgado by unanimous decision in the final bout. Pawar controlled the contest fro",
+      "label": "CWG · Gold · Women's",
+      "title": "CWG: Jaismine Lamboria beats Michaela Walsh to win Women's 57kg Boxing Gold",
+      "summary": "Jaismine Lamboria secured the women's 57kg boxing gold medal at the 2026 Commonwealth Games. She defeated Michaela Walsh by a unanimous 5-0 decision in the final bout. This victory marked India's seve",
       "score": 2.936,
       "n_outlets": 2,
       "n_articles": 6,
@@ -4509,7 +4467,7 @@
         "europe",
         "india"
       ],
-      "last_seen": "2026-08-01T16:20:17+00:00",
+      "last_seen": "2026-08-01T16:54:16+00:00",
       "leans": [
         "center",
         "left"
@@ -4533,27 +4491,14 @@
           "region": "india",
           "lean": "center",
           "ownership": "private",
-          "title": "CWG: Preeti Pawar beats Scarlett Delgado to win Women's 54kg Boxing Gold",
-          "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/cwg-2026-preeti-pawar-beats-scarlett-delgado-by-unanimous-decision-to-win-womens-54kg-boxing-gold/articleshow/132786927.cms",
-          "published": "2026-08-01T10:24:54+00:00",
-          "orig_title": "CWG: Preeti Pawar beats Scarlett Delgado to win Women's 54kg Boxing Gold",
+          "title": "CWG: Jaismine Lamboria beats Michaela Walsh to win Women's 57kg Boxing Gold",
+          "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/cwg-2026-world-champion-jaismine-lamboria-beats-michaela-walsh-to-win-womens-57kg-boxing-gold/articleshow/132787203.cms",
+          "published": "2026-08-01T10:46:43+00:00",
+          "orig_title": "CWG: Jaismine Lamboria beats Michaela Walsh to win Women's 57kg Boxing Gold",
           "lang": "en",
           "translated": false,
           "access": "open",
           "more": [
-            {
-              "outlet": "Times of India",
-              "region": "india",
-              "lean": "center",
-              "ownership": "private",
-              "title": "CWG: Jaismine Lamboria beats Michaela Walsh to win Women's 57kg Boxing Gold",
-              "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/cwg-2026-world-champion-jaismine-lamboria-beats-michaela-walsh-to-win-womens-57kg-boxing-gold/articleshow/132787203.cms",
-              "published": "2026-08-01T10:46:43+00:00",
-              "orig_title": "CWG: Jaismine Lamboria beats Michaela Walsh to win Women's 57kg Boxing Gold",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
-            },
             {
               "outlet": "Times of India",
               "region": "india",
@@ -4572,10 +4517,10 @@
               "region": "india",
               "lean": "center",
               "ownership": "private",
-              "title": "CWG 2026: Lovlina Borgohain in action in 75kg final after India's five boxing golds",
-              "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/commonwealth-games-2026-india-live-updates-today-august-1-day-10-results-schedule-medal-tally-athletics-cycling-bowls-para-weightlifting/liveblog/132784081.cms",
-              "published": "2026-08-01T06:59:16+00:00",
-              "orig_title": "CWG 2026: Lovlina Borgohain in action in 75kg final after India's five boxing golds",
+              "title": "Gold rush: Arundhati Choudhary wins India's fifth boxing gold at CWG 2026",
+              "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/gold-rush-continues-as-arundhati-choudhary-wins-indias-fifth-boxing-gold-at-commonwealth-games/articleshow/132793382.cms",
+              "published": "2026-08-01T16:54:16+00:00",
+              "orig_title": "Gold rush: Arundhati Choudhary wins India's fifth boxing gold at CWG 2026",
               "lang": "en",
               "translated": false,
               "access": "open"
@@ -4592,18 +4537,31 @@
               "lang": "en",
               "translated": false,
               "access": "open"
+            },
+            {
+              "outlet": "Times of India",
+              "region": "india",
+              "lean": "center",
+              "ownership": "private",
+              "title": "CWG 2026: Sachin Siwach in action in 60kg final after India's seven boxing medals",
+              "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/commonwealth-games-2026-india-live-updates-today-august-1-day-10-results-schedule-medal-tally-athletics-cycling-bowls-para-weightlifting/liveblog/132784081.cms",
+              "published": "2026-08-01T06:59:16+00:00",
+              "orig_title": "CWG 2026: Sachin Siwach in action in 60kg final after India's seven boxing medals",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
             }
           ]
         }
       ]
     },
     {
-      "id": 168,
+      "id": 175,
       "topic": "Sports",
       "label": "Europeans · Americas · Very",
-      "title": "New genetic evidence shows Europeans brought smallpox to Americas",
-      "summary": "Es war eine Krankheit, die in der Kolonialzeit Millionen Lateinamerikanern das Leben kostete: Das Erbgut von jahrhundertealten Mumien zeigt, dass die verstorbenen Indigenen offenbar ganz speziellen Po",
-      "score": 2.561,
+      "title": "‘This Is Very Strange’: Ancient Smallpox May Have Been Less Deadly",
+      "summary": "Scientists have found smallpox viruses in the remains of people in Chile from around 500 years ago, revealing how the virus may have evolved into a global killer.",
+      "score": 2.536,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -4645,58 +4603,12 @@
       ]
     },
     {
-      "id": 388,
-      "topic": "Sports",
-      "label": "Russian · Tretiak · CAS",
-      "title": "All restrictions lifted from Russian arm wrestlers",
-      "summary": "Всемирная федерация армрестлинга (WAF) допустила российских спортсменов к турнирам с флагом и гимном. Об этом министр спорта РФ Михаил Дегтярев сообщил в своем Telegram-канале.",
-      "score": 2.134,
-      "n_outlets": 2,
-      "n_articles": 2,
-      "regions": [
-        "russia"
-      ],
-      "last_seen": "2026-07-31T16:59:57+00:00",
-      "leans": [
-        "center",
-        "state"
-      ],
-      "sources": [
-        {
-          "outlet": "Kommersant",
-          "region": "russia",
-          "lean": "center",
-          "ownership": "private",
-          "title": "All restrictions lifted from Russian arm wrestlers",
-          "url": "https://www.kommersant.ru/doc/8859965",
-          "published": "2026-07-31T11:21:52+00:00",
-          "orig_title": "С российских армрестлеров сняли все ограничения",
-          "lang": "ru",
-          "translated": true,
-          "access": "unknown"
-        },
-        {
-          "outlet": "TASS",
-          "region": "russia",
-          "lean": "state",
-          "ownership": "state",
-          "title": "Russian hockey chief Tretiak urges unbiased CAS approach in Russia’s IIHF case",
-          "url": "https://tass.com/sports/2167801",
-          "published": "2026-07-31T16:59:57+00:00",
-          "orig_title": "Russian hockey chief Tretiak urges unbiased CAS approach in Russia’s IIHF case",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        }
-      ]
-    },
-    {
-      "id": 422,
+      "id": 421,
       "topic": "Sports",
       "label": "Italian · Franco · Baresi",
       "title": "Italian footballer Franco Baresi dies",
       "summary": "В возрасте 66 лет скончался Франко Барези, одна из главных легенд итальянского футбола и, может быть, самая главная легенда клуба «Милан». За него он выступал два десятилетия, полтора из них был капит",
-      "score": 2.103,
+      "score": 2.098,
       "n_outlets": 2,
       "n_articles": 3,
       "regions": [
@@ -4753,12 +4665,44 @@
       ]
     },
     {
-      "id": 13,
+      "id": 16,
+      "topic": "Sports",
+      "label": "South · American · Messi",
+      "title": "South American icon plans global Messi petition for 2030 World Cup return",
+      "summary": "Former Bolivia captain Marco Antonio Etcheverry has urged Lionel Messi to continue playing for Argentina until the 2030 World Cup, even proposing a global petition to convince him. The MLS legend prai",
+      "score": 1.962,
+      "n_outlets": 1,
+      "n_articles": 1,
+      "regions": [
+        "india"
+      ],
+      "last_seen": "2026-08-01T17:13:30+00:00",
+      "leans": [
+        "center"
+      ],
+      "sources": [
+        {
+          "outlet": "Times of India",
+          "region": "india",
+          "lean": "center",
+          "ownership": "private",
+          "title": "South American icon plans global Messi petition for 2030 World Cup return",
+          "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/south-american-legend-wants-global-petition-backed-by-millions-to-convince-messi-to-play-at-2030-world-cup/articleshow/132793080.cms",
+          "published": "2026-08-01T17:13:30+00:00",
+          "orig_title": "South American icon plans global Messi petition for 2030 World Cup return",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 30,
       "topic": "Sports",
       "label": "CWG · medal · Unnati",
       "title": "CWG: Soman Rana wins gold, Shubham Juyal takes silver in Para Shot Put F57",
       "summary": "India achieved a one-two finish in the men's F57 shot put event. Soman Rana secured the gold medal while Shubham Juyal earned the silver medal. Praveen Chithravel and Selva Prabhu Thirumaran added sil",
-      "score": 1.956,
+      "score": 1.913,
       "n_outlets": 1,
       "n_articles": 4,
       "regions": [
@@ -4826,12 +4770,12 @@
       ]
     },
     {
-      "id": 21,
+      "id": 38,
       "topic": "Sports",
       "label": "Harris · JFK · Obama",
       "title": "Harris cites JFK, Obama among 'most effective' presidents, omitting Biden",
       "summary": "Former Vice President Kamala Harris listed at the National Urban League Conference who she thought were the “most effective presidents in American history,” and left out former President Joe Biden des",
-      "score": 1.932,
+      "score": 1.89,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -4858,12 +4802,12 @@
       ]
     },
     {
-      "id": 30,
+      "id": 47,
       "topic": "Sports",
       "label": "Democrats · bullish · midterms",
       "title": "Democrats, bullish on midterms, worry they’ll trip over their own feet",
       "summary": "Democrats are feeling bullish about their chances of winning the House and Senate majorities as they head into August, despite conflicts within the party over its direction. President Trump's dismal p",
-      "score": 1.91,
+      "score": 1.868,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -4890,12 +4834,12 @@
       ]
     },
     {
-      "id": 36,
+      "id": 51,
       "topic": "Sports",
       "label": "World · faces · steep",
       "title": "World faces steep food prices due to conflicts and bad weather — news agency",
       "summary": "According to its information, extreme heat, drought, and wildfires in Europe could lead to the most significant decline in grain production in decades",
-      "score": 1.878,
+      "score": 1.838,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -4922,12 +4866,12 @@
       ]
     },
     {
-      "id": 37,
+      "id": 52,
       "topic": "Sports",
       "label": "WNBA's · Brittney · Griner",
       "title": "WNBA's Brittney Griner files for divorce years after Russian imprisonment",
       "summary": "The Griners, who have been married since 2018, share a 2-year-old son.",
-      "score": 1.873,
+      "score": 1.833,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
