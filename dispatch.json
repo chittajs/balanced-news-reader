@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T17:49:43.073481+00:00",
+  "generated_at": "2026-08-01T18:47:22.075420+00:00",
   "topics": [
     "World & Politics",
     "Economics",
@@ -21,7 +21,7 @@
       "name": "Australia",
       "lat": -25.0,
       "lng": 134.0,
-      "count": 10
+      "count": 9
     },
     {
       "id": "brazil",
@@ -35,7 +35,7 @@
       "name": "Canada",
       "lat": 56.0,
       "lng": -106.0,
-      "count": 3
+      "count": 4
     },
     {
       "id": "chile",
@@ -63,7 +63,7 @@
       "name": "European Union",
       "lat": 50.8,
       "lng": 4.4,
-      "count": 4
+      "count": 7
     },
     {
       "id": "france",
@@ -77,7 +77,7 @@
       "name": "Germany",
       "lat": 51.2,
       "lng": 10.4,
-      "count": 9
+      "count": 8
     },
     {
       "id": "india",
@@ -112,14 +112,14 @@
       "name": "Italy",
       "lat": 42.8,
       "lng": 12.6,
-      "count": 4
+      "count": 6
     },
     {
       "id": "japan",
       "name": "Japan",
       "lat": 36.5,
       "lng": 138.0,
-      "count": 11
+      "count": 10
     },
     {
       "id": "koreanorth",
@@ -133,7 +133,7 @@
       "name": "South Korea",
       "lat": 36.5,
       "lng": 127.9,
-      "count": 7
+      "count": 8
     },
     {
       "id": "mexico",
@@ -182,7 +182,7 @@
       "name": "Russia",
       "lat": 61.0,
       "lng": 90.0,
-      "count": 14
+      "count": 13
     },
     {
       "id": "saudi",
@@ -203,7 +203,7 @@
       "name": "Spain",
       "lat": 40.2,
       "lng": -3.7,
-      "count": 5
+      "count": 8
     },
     {
       "id": "taiwan",
@@ -224,7 +224,7 @@
       "name": "United Kingdom",
       "lat": 54.0,
       "lng": -2.5,
-      "count": 14
+      "count": 13
     },
     {
       "id": "ukraine",
@@ -245,7 +245,7 @@
       "name": "United States",
       "lat": 39.0,
       "lng": -98.0,
-      "count": 43
+      "count": 45
     },
     {
       "id": "venezuela",
@@ -257,18 +257,18 @@
   ],
   "clusters": [
     {
-      "id": 26,
+      "id": 2,
       "topic": "World & Politics",
       "title": "France, Italy tighten borders after 60,000 migrants enter Spain’s Ceuta",
       "summary": "France and Italy bolstered border controls on Saturday after about 60,000 people crossed into Spain’s enclave in North Africa, sparking one of the largest migrant crises for the European Union in rece",
       "about": [
         "spain",
-        "italy",
-        "france"
+        "eu",
+        "italy"
       ],
-      "score": 13.905,
-      "n_outlets": 13,
-      "last_seen": "2026-08-01T16:38:00+00:00",
+      "score": 9.981,
+      "n_outlets": 9,
+      "last_seen": "2026-08-01T18:33:27+00:00",
       "sources": [
         {
           "outlet": "South China Morning Post",
@@ -282,10 +282,82 @@
           "outlet": "Politico Europe",
           "country": "eu",
           "lean": "center",
-          "title": "Almost all of Ceuta migrants have returned to Morocco, Spain says",
-          "url": "https://www.politico.eu/article/almost-all-ceuta-migrants-returned-morocco-spain-says/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-          "published": "2026-07-31T17:05:57+00:00"
+          "title": "Ceuta crisis puts Spain’s Sánchez under fire over migration policies",
+          "url": "https://www.politico.eu/article/spain-ceuta-migration-crisis-pedro-sanchez-opposition-backlash/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "published": "2026-07-31T12:54:13+00:00"
         },
+        {
+          "outlet": "The Hindu",
+          "country": "india",
+          "lean": "left",
+          "title": "Spain’s Ceuta migration influx: What we know",
+          "url": "https://www.thehindu.com/news/international/spains-ceuta-migration-influx-what-we-know/article71294464.ece",
+          "published": "2026-08-01T12:23:10+00:00"
+        },
+        {
+          "outlet": "TASS",
+          "country": "russia",
+          "lean": "state",
+          "title": "IN BRIEF: What we know about Ceuta migration crisis and causes behind it",
+          "url": "https://tass.com/world/2167849",
+          "published": "2026-07-31T20:29:42+00:00"
+        },
+        {
+          "outlet": "BBC News",
+          "country": "uk",
+          "lean": "center",
+          "title": "Watch: Tens of thousands of migrants enter Spain's Ceuta from Morocco",
+          "url": "https://www.bbc.co.uk/news/videos/cnvnml1pen6o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-01T12:04:46+00:00"
+        },
+        {
+          "outlet": "The Guardian",
+          "country": "uk",
+          "lean": "left",
+          "title": "Italy says it’s temporarily suspending EU Schengen arrangement with Spain after 60,000 migrants reach Ceuta – as it happened",
+          "url": "https://www.theguardian.com/world/live/2026/jul/31/cueta-spain-morocco-italy-migration-schengen-europe-latest-news-updates",
+          "published": "2026-08-01T10:44:06+00:00"
+        },
+        {
+          "outlet": "NPR",
+          "country": "us",
+          "lean": "left",
+          "title": "Spain's Pedro Sánchez was a hero of migrants. After Ceuta, he faces his biggest challenge",
+          "url": "https://www.npr.org/2026/08/01/nx-s1-5916330/spain-sanchez-ceuta-migrants",
+          "published": "2026-08-01T18:33:27+00:00"
+        },
+        {
+          "outlet": "The New York Times",
+          "country": "us",
+          "lean": "left",
+          "title": "Thousands of Migrants Enter Ceuta, a Spanish Enclave, From Morocco",
+          "url": "https://www.nytimes.com/2026/07/30/world/europe/spain-morocco-ceuta-migrants.html",
+          "published": "2026-07-31T10:14:44+00:00"
+        },
+        {
+          "outlet": "The Wall Street Journal",
+          "country": "us",
+          "lean": "right",
+          "title": "Opinion | The Moroccans Invade Spain",
+          "url": "https://www.wsj.com/opinion/ceuta-spain-morocco-immigrants-pedro-sanchez-a2fe571c",
+          "published": "2026-07-31T21:40:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "topic": "World & Politics",
+      "title": "Spain-Morocco border crisis: Death toll in Ceuta reaches 67",
+      "summary": "Spain announced it was installing a barrier along the breakwater fence into the sea after some 60,000 migrants breached the tiny Spanish territory’s frontier on July 30 and July 31, 2026",
+      "about": [
+        "spain",
+        "italy",
+        "eu"
+      ],
+      "score": 9.655,
+      "n_outlets": 9,
+      "last_seen": "2026-08-01T13:42:53+00:00",
+      "sources": [
         {
           "outlet": "Deutsche Welle",
           "country": "germany",
@@ -311,20 +383,12 @@
           "published": "2026-08-01T13:42:53+00:00"
         },
         {
-          "outlet": "TASS",
-          "country": "russia",
-          "lean": "state",
-          "title": "Nearly 70,000 migrants leave Ceuta back for Morocco — news agency",
-          "url": "https://tass.com/world/2167953",
-          "published": "2026-08-01T09:15:35+00:00"
-        },
-        {
           "outlet": "BBC News",
           "country": "uk",
           "lean": "center",
-          "title": "Watch: Tens of thousands of migrants enter Spain's Ceuta from Morocco",
-          "url": "https://www.bbc.co.uk/news/videos/cnvnml1pen6o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-01T12:04:46+00:00"
+          "title": "What triggered the mass migrant crossings into Ceuta?",
+          "url": "https://www.bbc.co.uk/news/videos/c171nnql1j4o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-31T18:29:04+00:00"
         },
         {
           "outlet": "The Guardian",
@@ -333,14 +397,6 @@
           "title": "At least 57 people die as tens of thousands cross to Spanish enclave of Ceuta from Morocco",
           "url": "https://www.theguardian.com/world/2026/jul/31/ceuta-spain-morocco-border-deaths",
           "published": "2026-07-31T17:52:11+00:00"
-        },
-        {
-          "outlet": "MercoPress",
-          "country": "uruguay",
-          "lean": "center",
-          "title": "Italy and France tighten borders with Spain after 50,000 enter Ceuta",
-          "url": "https://en.mercopress.com/2026/07/31/italy-and-france-tighten-borders-with-spain-after-50-000-enter-ceuta?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
-          "published": "2026-07-31T18:29:00+00:00"
         },
         {
           "outlet": "Fox News",
@@ -362,22 +418,22 @@
           "outlet": "The New York Times",
           "country": "us",
           "lean": "left",
-          "title": "Spain Installs Floating Barrier in Ceuta After Influx of Migrants",
-          "url": "https://www.nytimes.com/2026/08/01/world/europe/spain-ceuta-migrants-morocco-border.html",
-          "published": "2026-08-01T15:28:36+00:00"
+          "title": "Ceuta Evokes Europe’s 2015 Migration Crisis. But Much Has Changed Since.",
+          "url": "https://www.nytimes.com/2026/07/31/world/europe/ceuta-europe-migration-2015-legal-changes.html",
+          "published": "2026-07-31T17:16:31+00:00"
         },
         {
           "outlet": "The Wall Street Journal",
           "country": "us",
           "lean": "right",
-          "title": "Opinion | The Moroccans Invade Spain",
-          "url": "https://www.wsj.com/opinion/ceuta-spain-morocco-immigrants-pedro-sanchez-a2fe571c",
-          "published": "2026-07-31T21:40:00+00:00"
+          "title": "Why Did Thousands of Migrants Enter a Tiny Spanish Exclave in Africa?",
+          "url": "https://www.wsj.com/world/europe/spain-ceuta-migrants-c2d735e9",
+          "published": "2026-07-31T15:14:00+00:00"
         }
       ]
     },
     {
-      "id": 48,
+      "id": 6,
       "topic": "World & Politics",
       "title": "Nirmal Purja, Renowned Mountaineer, Is Found Dead After Pakistan Avalanche",
       "summary": "The British-Nepali mountaineer was one of 10 climbers who were struck by an avalanche on Thursday on Broad Peak, one of the world’s highest mountains.",
@@ -386,9 +442,9 @@
         "uk",
         "us"
       ],
-      "score": 8.818,
+      "score": 8.961,
       "n_outlets": 8,
-      "last_seen": "2026-08-01T15:25:30+00:00",
+      "last_seen": "2026-08-01T18:18:46+00:00",
       "sources": [
         {
           "outlet": "South China Morning Post",
@@ -457,151 +513,7 @@
       ]
     },
     {
-      "id": 5,
-      "topic": "World & Politics",
-      "title": "Kuwait Says It Downed Iranian Drones as Mideast Braces for Possible Escalation",
-      "summary": "The wave of strikes came as President Trump threatened to intensify the American campaign against Iran. U.S. embassies in the region warned of the “potential for unforeseen escalation.”",
-      "about": [
-        "us",
-        "iran",
-        "saudi"
-      ],
-      "score": 7.972,
-      "n_outlets": 7,
-      "last_seen": "2026-08-01T17:29:35+00:00",
-      "sources": [
-        {
-          "outlet": "South China Morning Post",
-          "country": "china",
-          "lean": "center",
-          "title": "US embassies urge citizens to consider departing Middle East",
-          "url": "https://www.scmp.com/news/world/middle-east/article/3362658/us-embassies-urge-citizens-consider-departing-middle-east?utm_source=rss_feed",
-          "published": "2026-08-01T16:57:17+00:00"
-        },
-        {
-          "outlet": "The Hindu",
-          "country": "india",
-          "lean": "left",
-          "title": "West Asia war LIVE: U.S. embassies urge citizens to ‘consider departing’ from West Asia",
-          "url": "https://www.thehindu.com/news/international/iran-us-war-live-updates-donald-trump-tehran-mojtaba-khamenei-fresh-strikes-irgc-strait-of-hormuz-ceasefire-deal/article71293385.ece",
-          "published": "2026-08-01T16:08:07+00:00"
-        },
-        {
-          "outlet": "Times of India",
-          "country": "india",
-          "lean": "center",
-          "title": "'Prepare to depart': US embassies issue alert across Middle East amid Iran tensions",
-          "url": "https://timesofindia.indiatimes.com/world/us/prepare-to-depart-us-embassies-issue-alert-across-middle-east-amid-iran-tensions/articleshow/132794132.cms",
-          "published": "2026-08-01T17:29:35+00:00"
-        },
-        {
-          "outlet": "The Japan Times",
-          "country": "japan",
-          "lean": "center",
-          "title": "Trump orders Iran attack as soon as this weekend, report says",
-          "url": "https://www.japantimes.co.jp/news/2026/08/01/world/trump-iran-strike-weekend/",
-          "published": "2026-08-01T01:36:00+00:00"
-        },
-        {
-          "outlet": "The Hill",
-          "country": "us",
-          "lean": "center",
-          "title": "Live updates: US planning renewed Iran strikes; Trump pressures GOP on Blanche",
-          "url": "https://thehill.com/homenews/administration/6003529-live-updates-trump-us-iran-strikes-senate-gop-todd-blanche/",
-          "published": "2026-08-01T13:59:24+00:00"
-        },
-        {
-          "outlet": "The New York Times",
-          "country": "us",
-          "lean": "left",
-          "title": "Kuwait Says It Downed Iranian Drones as Mideast Braces for Possible Escalation",
-          "url": "https://www.nytimes.com/2026/08/01/world/middleeast/iran-kuwait-drone-strikes-trump-escalation.html",
-          "published": "2026-08-01T12:44:03+00:00"
-        },
-        {
-          "outlet": "The Wall Street Journal",
-          "country": "us",
-          "lean": "right",
-          "title": "Iran Stokes the Middle East War With Drone Attacks on Kuwait",
-          "url": "https://www.wsj.com/world/middle-east/iran-stokes-the-middle-east-war-with-drone-attacks-on-kuwait-f25530a0",
-          "published": "2026-08-01T17:14:00+00:00"
-        }
-      ]
-    },
-    {
-      "id": 21,
-      "topic": "World & Politics",
-      "title": "Italy says it’s temporarily suspending EU Schengen arrangement with Spain after 60,000 migrants reach Ceuta – as it happened",
-      "summary": "The measure will impact people travelling by plane or boat between the two countries Spanish prime minister Pedro Sánchez is now in Ceuta, accompanied by interior minister Fernando Grande-Marlaska. He",
-      "about": [
-        "spain",
-        "eu",
-        "italy"
-      ],
-      "score": 7.932,
-      "n_outlets": 7,
-      "last_seen": "2026-08-01T16:59:07+00:00",
-      "sources": [
-        {
-          "outlet": "South China Morning Post",
-          "country": "china",
-          "lean": "center",
-          "title": "Italy suspends EU Schengen free-travel pact with Spain over Ceuta migrant crisis",
-          "url": "https://www.scmp.com/news/world/europe/article/3362607/italy-suspends-eu-schengen-free-travel-pact-spain-over-ceuta-migrant-crisis?utm_source=rss_feed",
-          "published": "2026-07-31T17:39:18+00:00"
-        },
-        {
-          "outlet": "Politico Europe",
-          "country": "eu",
-          "lean": "center",
-          "title": "Ceuta crisis: 22 EU leaders gang up against Spain’s Sánchez over his migration policy",
-          "url": "https://www.politico.eu/article/ceuta-crisis-22-eu-leaders-letter-spain-pedro-sanchez-migration-policy/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-          "published": "2026-08-01T11:10:34+00:00"
-        },
-        {
-          "outlet": "The Hindu",
-          "country": "india",
-          "lean": "left",
-          "title": "Italy suspends EU Schengen free-travel pact with Spain over Ceuta crisis",
-          "url": "https://www.thehindu.com/news/international/italy-suspends-eu-schengen-free-travel-pact-with-spain-over-ceuta-crisis/article71294642.ece",
-          "published": "2026-08-01T13:32:25+00:00"
-        },
-        {
-          "outlet": "TASS",
-          "country": "russia",
-          "lean": "state",
-          "title": "IN BRIEF: What we know about Ceuta migration crisis and causes behind it",
-          "url": "https://tass.com/world/2167849",
-          "published": "2026-07-31T20:29:42+00:00"
-        },
-        {
-          "outlet": "BBC News",
-          "country": "uk",
-          "lean": "center",
-          "title": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
-          "url": "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-01T15:46:08+00:00"
-        },
-        {
-          "outlet": "The Guardian",
-          "country": "uk",
-          "lean": "left",
-          "title": "Italy says it’s temporarily suspending EU Schengen arrangement with Spain after 60,000 migrants reach Ceuta – as it happened",
-          "url": "https://www.theguardian.com/world/live/2026/jul/31/cueta-spain-morocco-italy-migration-schengen-europe-latest-news-updates",
-          "published": "2026-08-01T10:44:06+00:00"
-        },
-        {
-          "outlet": "The New York Times",
-          "country": "us",
-          "lean": "left",
-          "title": "Spain’s Leader Rushes to Ceuta After Thousands of Migrants Burst Across Border",
-          "url": "https://www.nytimes.com/live/2026/07/31/world/spain-ceuta-migrants-morocco/spain-ceuta-border-migrants-sanchez",
-          "published": "2026-07-31T20:57:45+00:00"
-        }
-      ]
-    },
-    {
-      "id": 59,
+      "id": 68,
       "topic": "World & Politics",
       "title": "Hamas agrees to Trump’s plan to disarm in Gaza – The Latest",
       "summary": "Donald Trump has declared a breakthrough in negotiations over the disarmament of Hamas in Gaza and the withdrawal of Israeli forces, but Israeli government officials have voiced scepticism over the de",
@@ -610,7 +522,7 @@
         "us",
         "saudi"
       ],
-      "score": 6.787,
+      "score": 6.726,
       "n_outlets": 6,
       "last_seen": "2026-08-01T14:57:13+00:00",
       "sources": [
@@ -665,14 +577,14 @@
       ]
     },
     {
-      "id": 60,
+      "id": 69,
       "topic": "Sports",
       "title": "Faisal Islam: Four reasons why Fifa's World Cup plan never stacked up",
       "summary": "The actual presentation of FIFA's plan to part-privatise the World Cup raises many more questions than it answers.",
       "about": [
         "us"
       ],
-      "score": 6.78,
+      "score": 6.72,
       "n_outlets": 6,
       "last_seen": "2026-08-01T14:51:07+00:00",
       "sources": [
@@ -727,7 +639,7 @@
       ]
     },
     {
-      "id": 73,
+      "id": 82,
       "topic": "World & Politics",
       "title": "Russia Pounds Kyiv With Missiles, Killing At Least 10",
       "summary": "This is the second major attack on Kyiv this week, with fires across the city and power outages reported in some areas.",
@@ -736,7 +648,7 @@
         "russia",
         "us"
       ],
-      "score": 6.716,
+      "score": 6.661,
       "n_outlets": 6,
       "last_seen": "2026-08-01T13:49:10+00:00",
       "sources": [
@@ -791,7 +703,63 @@
       ]
     },
     {
-      "id": 17,
+      "id": 19,
+      "topic": "Sports",
+      "title": "US embassies urge citizens to consider departing Middle East",
+      "summary": "US embassies in capitals across the Middle East on Saturday warned American citizens to beware of an “unforeseen escalation” in the regional conflict and urged them to be ready to leave. The warning, ",
+      "about": [
+        "us",
+        "iran",
+        "saudi"
+      ],
+      "score": 5.898,
+      "n_outlets": 5,
+      "last_seen": "2026-08-01T17:29:35+00:00",
+      "sources": [
+        {
+          "outlet": "South China Morning Post",
+          "country": "china",
+          "lean": "center",
+          "title": "US embassies urge citizens to consider departing Middle East",
+          "url": "https://www.scmp.com/news/world/middle-east/article/3362658/us-embassies-urge-citizens-consider-departing-middle-east?utm_source=rss_feed",
+          "published": "2026-08-01T16:57:17+00:00"
+        },
+        {
+          "outlet": "The Hindu",
+          "country": "india",
+          "lean": "left",
+          "title": "West Asia war LIVE: U.S. embassies urge citizens to ‘consider departing’ from West Asia",
+          "url": "https://www.thehindu.com/news/international/iran-us-war-live-updates-donald-trump-tehran-mojtaba-khamenei-fresh-strikes-irgc-strait-of-hormuz-ceasefire-deal/article71293385.ece",
+          "published": "2026-08-01T16:08:07+00:00"
+        },
+        {
+          "outlet": "Times of India",
+          "country": "india",
+          "lean": "center",
+          "title": "'Prepare to depart': US embassies issue alert across Middle East amid Iran tensions",
+          "url": "https://timesofindia.indiatimes.com/world/us/prepare-to-depart-us-embassies-issue-alert-across-middle-east-amid-iran-tensions/articleshow/132794132.cms",
+          "published": "2026-08-01T17:29:35+00:00"
+        },
+        {
+          "outlet": "The New York Times",
+          "country": "us",
+          "lean": "left",
+          "title": "Kuwait Says It Downed Iranian Drones as Mideast Braces for Possible Escalation",
+          "url": "https://www.nytimes.com/2026/08/01/world/middleeast/iran-kuwait-drone-strikes-trump-escalation.html",
+          "published": "2026-08-01T12:44:03+00:00"
+        },
+        {
+          "outlet": "The Wall Street Journal",
+          "country": "us",
+          "lean": "right",
+          "title": "Iran Stokes the Middle East War With Drone Attacks on Kuwait",
+          "url": "https://www.wsj.com/world/middle-east/iran-stokes-the-middle-east-war-with-drone-attacks-on-kuwait-f25530a0",
+          "published": "2026-08-01T17:14:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": 30,
       "topic": "Sports",
       "title": "UEFA has ‘lost confidence’ in FIFA President Gianni Infantino as FIFA scraps investment plan",
       "summary": "The private investment controversy comes at an awkward moment for ​Infantino, ​who said in April he intends to seek reelection for a fourth term as FIFA president.",
@@ -799,7 +767,7 @@
         "us",
         "uk"
       ],
-      "score": 5.943,
+      "score": 5.871,
       "n_outlets": 5,
       "last_seen": "2026-08-01T17:07:46+00:00",
       "sources": [
@@ -846,14 +814,70 @@
       ]
     },
     {
-      "id": 36,
+      "id": 35,
+      "topic": "World & Politics",
+      "title": "Trump orders Iran attack as soon as this weekend, report says",
+      "summary": "The strikes are intended to convince Tehran to surrender, according to the Wall Street Journal, which cited unnamed U.S. officials.",
+      "about": [
+        "us",
+        "iran",
+        "ukraine"
+      ],
+      "score": 5.841,
+      "n_outlets": 5,
+      "last_seen": "2026-08-01T16:42:34+00:00",
+      "sources": [
+        {
+          "outlet": "The Hindu",
+          "country": "india",
+          "lean": "left",
+          "title": "White House signals Trump is weighing new strikes on Iran",
+          "url": "https://www.thehindu.com/news/international/white-house-signals-trump-is-weighing-new-strikes-on-iran/article71293383.ece",
+          "published": "2026-08-01T01:10:18+00:00"
+        },
+        {
+          "outlet": "The Japan Times",
+          "country": "japan",
+          "lean": "center",
+          "title": "Trump orders Iran attack as soon as this weekend, report says",
+          "url": "https://www.japantimes.co.jp/news/2026/08/01/world/trump-iran-strike-weekend/",
+          "published": "2026-08-01T01:36:00+00:00"
+        },
+        {
+          "outlet": "TASS",
+          "country": "russia",
+          "lean": "state",
+          "title": "Trump declines to give timeframe for ending Iran war",
+          "url": "https://tass.com/world/2167881",
+          "published": "2026-08-01T01:10:00+00:00"
+        },
+        {
+          "outlet": "The New York Times",
+          "country": "us",
+          "lean": "left",
+          "title": "Fact-Checking Trump’s Claims About the Effect of the Iran War on Oil Prices, Munitions and More",
+          "url": "https://www.nytimes.com/2026/08/01/us/politics/trump-iran-war-toll-oil-fact-check.html",
+          "published": "2026-08-01T09:02:16+00:00"
+        },
+        {
+          "outlet": "The Wall Street Journal",
+          "country": "us",
+          "lean": "right",
+          "title": "Trump Orders Fresh Attack Against Iran as War Enters Sixth Month",
+          "url": "https://www.wsj.com/world/middle-east/trump-sours-on-diplomacy-vows-to-hit-iran-hard-2c7af868",
+          "published": "2026-07-31T22:19:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": 47,
       "topic": "Science",
       "title": "Current Ebola outbreak worst ever in DR Congo, WHO says",
       "summary": "The current strain has so far killed 1,587 people, and there is currently no approved vaccine or treatment.",
       "about": [
         "nigeria"
       ],
-      "score": 5.878,
+      "score": 5.811,
       "n_outlets": 5,
       "last_seen": "2026-08-01T16:16:16+00:00",
       "sources": [
@@ -900,16 +924,16 @@
       ]
     },
     {
-      "id": 50,
+      "id": 60,
       "topic": "World & Politics",
       "title": "Trump Backs Away From Deal to Let Ukraine Build Patriot Missiles",
       "summary": "The president of Ukraine had warned that the country was running out of Patriot interceptors, the most reliable weapon it has to shoot down Russian ballistic missiles.",
       "about": [
-        "us",
         "ukraine",
+        "us",
         "russia"
       ],
-      "score": 5.817,
+      "score": 5.754,
       "n_outlets": 5,
       "last_seen": "2026-08-01T15:23:52+00:00",
       "sources": [
@@ -933,9 +957,9 @@
           "outlet": "TASS",
           "country": "russia",
           "lean": "state",
-          "title": "US needs to be careful with licenses for production of its weapons — Trump on Ukraine",
-          "url": "https://tass.com/world/2167819",
-          "published": "2026-07-31T17:51:47+00:00"
+          "title": "Trump says rare earth deal allows US to take resources it needs from Ukraine",
+          "url": "https://tass.com/world/2167889",
+          "published": "2026-08-01T02:35:00+00:00"
         },
         {
           "outlet": "The Hill",
@@ -956,14 +980,92 @@
       ]
     },
     {
-      "id": 16,
+      "id": 1,
+      "topic": "World & Politics",
+      "title": "Petrol prices on track to top $2 a litre as Bowen sounds death knell for fuel excise relief",
+      "summary": "Petrol now costs more than $1.90 a litre in every capital city, with diesel expected to exceed $2.40 a litre Get our breaking news email , free app or daily news podcast Petrol prices could surpass $2",
+      "about": [
+        "koreasouth",
+        "iran",
+        "uk"
+      ],
+      "score": 3.988,
+      "n_outlets": 3,
+      "last_seen": "2026-08-01T18:38:37+00:00",
+      "sources": [
+        {
+          "outlet": "ABC News (Australia)",
+          "country": "australia",
+          "lean": "center",
+          "title": "Prices to jump at the bowser as fuel excise cut ends tonight",
+          "url": "https://www.abc.net.au/news/2026-08-02/fuel-excise-cut-to-end-in-august-2/106965630",
+          "published": "2026-08-01T18:38:37+00:00"
+        },
+        {
+          "outlet": "BBC News",
+          "country": "uk",
+          "lean": "center",
+          "title": "UK petrol prices hit highest level since Iran war began",
+          "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-31T11:19:23+00:00"
+        },
+        {
+          "outlet": "The Guardian",
+          "country": "uk",
+          "lean": "left",
+          "title": "Petrol prices on track to top $2 a litre as Bowen sounds death knell for fuel excise relief",
+          "url": "https://www.theguardian.com/australia-news/2026/aug/01/petrol-prices-on-track-to-top-2-a-litre-as-bowen-sounds-death-knell-for-fuel-excise-relief",
+          "published": "2026-08-01T02:22:49+00:00"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "topic": "World & Politics",
+      "title": "Trump officials drop Reflecting Pool charges against ex-US Olympian David Hearn",
+      "summary": "The US Justice Department moved Friday to dismiss a criminal case charging a former Olympian with deliberately damaging the Lincoln Memorial Reflecting Pool. Government lawyers said in a 20-page court",
+      "about": [
+        "us"
+      ],
+      "score": 3.933,
+      "n_outlets": 3,
+      "last_seen": "2026-08-01T17:57:27+00:00",
+      "sources": [
+        {
+          "outlet": "South China Morning Post",
+          "country": "china",
+          "lean": "center",
+          "title": "Trump officials drop Reflecting Pool charges against ex-US Olympian David Hearn",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3362617/trump-officials-drop-reflecting-pool-charges-against-ex-us-olympian-david-hearn?utm_source=rss_feed",
+          "published": "2026-07-31T23:11:05+00:00"
+        },
+        {
+          "outlet": "BBC News",
+          "country": "uk",
+          "lean": "center",
+          "title": "Trump administration drops Reflecting Pool vandalism charge and admits 'botched' repairs",
+          "url": "https://www.bbc.co.uk/news/articles/cz05yx5dd7yo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-01T17:16:51+00:00"
+        },
+        {
+          "outlet": "The Hill",
+          "country": "us",
+          "lean": "center",
+          "title": "Trump rips Pirro decision after DOJ drops Reflecting Pool case: 'I don't agree'",
+          "url": "https://thehill.com/homenews/administration/6003765-donald-trump-jeanine-pirro-doj-reflecting-pool-vandalism-case/",
+          "published": "2026-08-01T17:57:27+00:00"
+        }
+      ]
+    },
+    {
+      "id": 29,
       "topic": "World & Politics",
       "title": "Trump vows to push $1.8bn slush fund as Senate committee set to reconsider AG nomination",
       "summary": "After declaring ‘anti-weaponization’ fund ‘dead’, Trump reverses and says he’ll revive it despite Senate opposition The US Senate judiciary committee has scheduled a meeting early next week to conside",
       "about": [
         "us"
       ],
-      "score": 3.946,
+      "score": 3.874,
       "n_outlets": 3,
       "last_seen": "2026-08-01T17:10:00+00:00",
       "sources": [
@@ -994,7 +1096,7 @@
       ]
     },
     {
-      "id": 23,
+      "id": 34,
       "topic": "World & Politics",
       "title": "Evidence Indicates U.S. Dropped Bomb on Residential Area in Iran, Killing 3 Civilians",
       "summary": "The weapon, one of the largest in the U.S.’s arsenal, struck a house in a heavily populated area, according to a Times analysis.",
@@ -1002,7 +1104,7 @@
         "iran",
         "us"
       ],
-      "score": 3.913,
+      "score": 3.843,
       "n_outlets": 3,
       "last_seen": "2026-08-01T16:44:09+00:00",
       "sources": [
@@ -1033,45 +1135,7 @@
       ]
     },
     {
-      "id": 57,
-      "topic": "Economics",
-      "title": "Opinion | Warsh Makes Markets Do Their Job",
-      "summary": "Have they forgotten how to price risk without the Federal Reserve guiding them?",
-      "about": [
-        "us"
-      ],
-      "score": 3.79,
-      "n_outlets": 3,
-      "last_seen": "2026-08-01T15:00:00+00:00",
-      "sources": [
-        {
-          "outlet": "The Hill",
-          "country": "us",
-          "lean": "center",
-          "title": "Kevin Warsh’s mission: reviving the era of monetary restraint",
-          "url": "https://thehill.com/opinion/finance/6001831-warsh-fed-inflation-commitment/",
-          "published": "2026-08-01T15:00:00+00:00"
-        },
-        {
-          "outlet": "The New York Times",
-          "country": "us",
-          "lean": "left",
-          "title": "Inflation Worries Prompted Fed Officials to Dissent on Holding Rates Steady",
-          "url": "https://www.nytimes.com/2026/07/31/business/economy/inflation-fed-dissent-interest-rates.html",
-          "published": "2026-07-31T16:16:55+00:00"
-        },
-        {
-          "outlet": "The Wall Street Journal",
-          "country": "us",
-          "lean": "right",
-          "title": "Opinion | Warsh Makes Markets Do Their Job",
-          "url": "https://www.wsj.com/opinion/federal-reserve-markets-guidance-kevin-warsh-03fb4432?mod=rss_markets_main",
-          "published": "2026-07-31T21:54:00+00:00"
-        }
-      ]
-    },
-    {
-      "id": 94,
+      "id": 104,
       "topic": "World & Politics",
       "title": "‘Extremely scary findings’ show climate crisis is supercharging Europe’s wildfire weather",
       "summary": "Latest study says global heating has made hot, dry and windy conditions in Spain at least 20 times more likely The extreme heat and drought stoking huge wildfires in Spain and France were made far mor",
@@ -1079,7 +1143,7 @@
         "france",
         "spain"
       ],
-      "score": 3.65,
+      "score": 3.6,
       "n_outlets": 3,
       "last_seen": "2026-08-01T12:39:14+00:00",
       "sources": [
@@ -1110,14 +1174,14 @@
       ]
     },
     {
-      "id": 97,
+      "id": 107,
       "topic": "World & Politics",
       "title": "Japan’s Rescuers Battle Cruel Heat After Major Earthquake",
       "summary": "Kumamoto faces a “double disaster,” as rescuers work in 100 degree heat, and shelters with limited air-conditioning put displaced people at risk for heatstroke.",
       "about": [
         "japan"
       ],
-      "score": 3.643,
+      "score": 3.594,
       "n_outlets": 3,
       "last_seen": "2026-08-01T12:32:00+00:00",
       "sources": [
@@ -1148,7 +1212,7 @@
       ]
     },
     {
-      "id": 127,
+      "id": 138,
       "topic": "World & Politics",
       "title": "Iranian drones attack government facility in northern Kuwait — top brass",
       "summary": "According to al-Atwan, a \"government facility in the north of the country\" was attacked",
@@ -1157,7 +1221,7 @@
         "iran",
         "ukraine"
       ],
-      "score": 3.502,
+      "score": 3.463,
       "n_outlets": 3,
       "last_seen": "2026-08-01T09:32:52+00:00",
       "sources": [
@@ -1188,7 +1252,7 @@
       ]
     },
     {
-      "id": 154,
+      "id": 164,
       "topic": "World & Politics",
       "title": "West Asia war updates: Iran says struck two tankers under U.S. 'air escort' trying to pass Hormuz",
       "summary": "Pakistan says U.S.-Iran talks ongoing as foes trade attacks",
@@ -1197,7 +1261,7 @@
         "iran",
         "pakistan"
       ],
-      "score": 3.418,
+      "score": 3.386,
       "n_outlets": 3,
       "last_seen": "2026-08-01T07:21:46+00:00",
       "sources": [
@@ -1228,54 +1292,86 @@
       ]
     },
     {
-      "id": 177,
-      "topic": "Trading & Markets",
-      "title": "Petrol prices on track to top $2 a litre as Bowen sounds death knell for fuel excise relief",
-      "summary": "Petrol now costs more than $1.90 a litre in every capital city, with diesel expected to exceed $2.40 a litre Get our breaking news email , free app or daily news podcast Petrol prices could surpass $2",
+      "id": 260,
+      "topic": "World & Politics",
+      "title": "Italy suspends EU Schengen free-travel pact with Spain over Ceuta migrant crisis",
+      "summary": "Italy said on Friday it ⁠was suspending the EU’s ⁠border-free Schengen arrangements with Spain for one month in ⁠response to a mass influx of migrants into the Spanish enclave of Ceuta from neighbouri",
       "about": [
-        "iran",
-        "uk"
+        "spain",
+        "eu",
+        "italy"
       ],
-      "score": 3.325,
+      "score": 3.138,
       "n_outlets": 3,
-      "last_seen": "2026-08-01T04:20:01+00:00",
+      "last_seen": "2026-07-31T19:02:00+00:00",
       "sources": [
+        {
+          "outlet": "South China Morning Post",
+          "country": "china",
+          "lean": "center",
+          "title": "Italy suspends EU Schengen free-travel pact with Spain over Ceuta migrant crisis",
+          "url": "https://www.scmp.com/news/world/europe/article/3362607/italy-suspends-eu-schengen-free-travel-pact-spain-over-ceuta-migrant-crisis?utm_source=rss_feed",
+          "published": "2026-07-31T17:39:18+00:00"
+        },
         {
           "outlet": "TASS",
           "country": "russia",
           "lean": "state",
-          "title": "Europe’s average gas price climbs 50% in July to $637 per 1,000 cubic meters",
-          "url": "https://tass.com/economy/2167899",
-          "published": "2026-08-01T04:20:01+00:00"
+          "title": "Italy notifies Brussels of suspending Schengen with Spain for 30 days — source",
+          "url": "https://tass.com/world/2167841",
+          "published": "2026-07-31T19:02:00+00:00"
         },
         {
-          "outlet": "BBC News",
-          "country": "uk",
+          "outlet": "MercoPress",
+          "country": "uruguay",
           "lean": "center",
-          "title": "UK petrol prices hit highest level since Iran war began",
-          "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-07-31T11:19:23+00:00"
-        },
-        {
-          "outlet": "The Guardian",
-          "country": "uk",
-          "lean": "left",
-          "title": "Petrol prices on track to top $2 a litre as Bowen sounds death knell for fuel excise relief",
-          "url": "https://www.theguardian.com/australia-news/2026/aug/01/petrol-prices-on-track-to-top-2-a-litre-as-bowen-sounds-death-knell-for-fuel-excise-relief",
-          "published": "2026-08-01T02:22:49+00:00"
+          "title": "Italy and France tighten borders with Spain after 50,000 enter Ceuta",
+          "url": "https://en.mercopress.com/2026/07/31/italy-and-france-tighten-borders-with-spain-after-50-000-enter-ceuta?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+          "published": "2026-07-31T18:29:00+00:00"
         }
       ]
     },
     {
-      "id": 6,
+      "id": 0,
       "topic": "World & Politics",
-      "title": "For sale: early access to Trump's Truth Social posts",
-      "summary": "The president's media company is offering investors early access to his Truth Social feed for up to $100,000 a month. Experts say the service may violate insider trading laws.",
+      "title": "Maher knocks democratic socialists as communists: 'They’re not trying to hide it'",
+      "summary": "Political commentator Bill Maher attacked the rise of democratic socialism on his talk show, fretting how the movement has entered the Democratic party. During his HBO show \"Real Time\" on Friday, Mahe",
+      "about": [
+        "brazil",
+        "us"
+      ],
+      "score": 2.996,
+      "n_outlets": 2,
+      "last_seen": "2026-08-01T18:44:40+00:00",
+      "sources": [
+        {
+          "outlet": "The Hill",
+          "country": "us",
+          "lean": "center",
+          "title": "Maher knocks democratic socialists as communists: 'They’re not trying to hide it'",
+          "url": "https://thehill.com/homenews/campaign/6003816-maher-knocks-democratic-socialists-as-communists-theyre-not-trying-to-hide-it/",
+          "published": "2026-08-01T18:44:40+00:00"
+        },
+        {
+          "outlet": "The Wall Street Journal",
+          "country": "us",
+          "lean": "right",
+          "title": "Democratic socialist candidates are gaining momentum in primary battles from voters who are fed up with the status quo and drawn to populist policies like universal healthcare",
+          "url": "https://www.wsj.com/politics/elections/democratic-socialists-voters-why-3d25da52",
+          "published": "2026-08-01T03:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "topic": "World & Politics",
+      "title": "Trump offering early access to online posts in move seen as corruption",
+      "summary": "Truth Social, where Trump’s account is by far the largest, to offer users early access for up to $100,000 per month Donald Trump is now offering early access to his Truth Social posts in a move that h",
       "about": [
         "us",
         "brazil"
       ],
-      "score": 2.972,
+      "score": 2.897,
       "n_outlets": 2,
       "last_seen": "2026-08-01T17:29:00+00:00",
       "sources": [
@@ -1298,7 +1394,7 @@
       ]
     },
     {
-      "id": 10,
+      "id": 24,
       "topic": "World & Politics",
       "title": "PLA and coastguards stage South China Sea drills days after Philippine territorial bid",
       "summary": "The Chinese military held joint naval and air drills near Scarborough Shoal, a disputed reef in the South China Sea, on Saturday. The training exercise came after Beijing hit out at the Philippines fo",
@@ -1307,7 +1403,7 @@
         "philippines",
         "us"
       ],
-      "score": 2.962,
+      "score": 2.888,
       "n_outlets": 2,
       "last_seen": "2026-08-01T17:21:46+00:00",
       "sources": [
@@ -1330,7 +1426,7 @@
       ]
     },
     {
-      "id": 13,
+      "id": 26,
       "topic": "World & Politics",
       "title": "Israeli strikes in Gaza kill two; medical supply warehouses hit",
       "summary": "The Israeli military said, meanwhile, that it had struck five Hamas weapons depots in the Gaza Strip",
@@ -1338,7 +1434,7 @@
         "israel",
         "us"
       ],
-      "score": 2.952,
+      "score": 2.878,
       "n_outlets": 2,
       "last_seen": "2026-08-01T17:13:58+00:00",
       "sources": [
@@ -1361,78 +1457,46 @@
       ]
     },
     {
-      "id": 22,
-      "topic": "Sports",
-      "title": "CWG: Jaismine Lamboria beats Michaela Walsh to win Women's 57kg Boxing Gold",
-      "summary": "Jaismine Lamboria secured the women's 57kg boxing gold medal at the 2026 Commonwealth Games. She defeated Michaela Walsh by a unanimous 5-0 decision in the final bout. This victory marked India's seve",
-      "about": [
-        "india",
-        "canada",
-        "uk"
-      ],
-      "score": 2.926,
-      "n_outlets": 2,
-      "last_seen": "2026-08-01T16:54:16+00:00",
-      "sources": [
-        {
-          "outlet": "Times of India",
-          "country": "india",
-          "lean": "center",
-          "title": "CWG: Jaismine Lamboria beats Michaela Walsh to win Women's 57kg Boxing Gold",
-          "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/cwg-2026-world-champion-jaismine-lamboria-beats-michaela-walsh-to-win-womens-57kg-boxing-gold/articleshow/132787203.cms",
-          "published": "2026-08-01T10:46:43+00:00"
-        },
-        {
-          "outlet": "The Guardian",
-          "country": "uk",
-          "lean": "left",
-          "title": "Boxer secures Tuvalu’s first Commonwealth Games medal without winning a bout",
-          "url": "https://www.theguardian.com/sport/2026/aug/01/boxer-tarona-taafaki-secures-tuvalu-first-commonwealth-games-medal-without-winning",
-          "published": "2026-08-01T10:07:05+00:00"
-        }
-      ]
-    },
-    {
-      "id": 24,
+      "id": 41,
       "topic": "World & Politics",
-      "title": "Deal with Iran still possible — Trump",
-      "summary": "US President said that he is losing faith in the Iranian authorities because \"they do lie, and they do misrepresent\" ongoing behind-the-scenes contacts between Washington and Tehran",
+      "title": "EU offered Spain support ‘from first moment’ of Ceuta crisis, says von der Leyen, after Sánchez hits out – Europe live",
+      "summary": "‘Not a single person reached mainland Spain or rest of EU,’ says European Commission president, after Spanish PM condemned ‘selfish, polarising’ reaction of some countries Back to Ukraine, where nine ",
       "about": [
-        "us",
-        "iran",
+        "eu",
+        "spain",
         "ukraine"
       ],
-      "score": 2.911,
+      "score": 2.82,
       "n_outlets": 2,
-      "last_seen": "2026-08-01T16:42:34+00:00",
+      "last_seen": "2026-08-01T16:24:15+00:00",
       "sources": [
         {
           "outlet": "TASS",
           "country": "russia",
           "lean": "state",
-          "title": "Deal with Iran still possible — Trump",
-          "url": "https://tass.com/world/2167847",
-          "published": "2026-07-31T20:02:12+00:00"
+          "title": "EU to hold emergency interior ministers’ videoconference on Ceuta on August 4 — source",
+          "url": "https://tass.com/world/2168009",
+          "published": "2026-08-01T16:24:15+00:00"
         },
         {
-          "outlet": "The New York Times",
-          "country": "us",
+          "outlet": "The Guardian",
+          "country": "uk",
           "lean": "left",
-          "title": "Fact-Checking Trump’s Claims About the Effect of the Iran War on Oil Prices, Munitions and More",
-          "url": "https://www.nytimes.com/2026/08/01/us/politics/trump-iran-war-toll-oil-fact-check.html",
-          "published": "2026-08-01T09:02:16+00:00"
+          "title": "EU offered Spain support ‘from first moment’ of Ceuta crisis, says von der Leyen, after Sánchez hits out – Europe live",
+          "url": "https://www.theguardian.com/world/live/2026/aug/01/ukraine-russia-zelenskyy-spain-france-wildfires-climate-heatwave-ceuta-morocco",
+          "published": "2026-08-01T14:58:54+00:00"
         }
       ]
     },
     {
-      "id": 62,
+      "id": 71,
       "topic": "World & Politics",
       "title": "UK finance minister John Healey to present first Budget on October 28",
       "summary": "UK finance minister John Healey to present first Budget on October 28",
       "about": [
         "uk"
       ],
-      "score": 2.777,
+      "score": 2.717,
       "n_outlets": 2,
       "last_seen": "2026-08-01T14:48:13+00:00",
       "sources": [
@@ -1455,7 +1519,7 @@
       ]
     },
     {
-      "id": 68,
+      "id": 77,
       "topic": "Trading & Markets",
       "title": "Pain or gain? US moves to decouple its defence industry from China’s rare earths",
       "summary": "A recent US executive order requires major arms manufacturers to trace their multi-tier supply chains and actively phase out Chinese rare earths, aiming to end years of reliance on cheap minerals from",
@@ -1464,7 +1528,7 @@
         "us",
         "india"
       ],
-      "score": 2.727,
+      "score": 2.671,
       "n_outlets": 2,
       "last_seen": "2026-08-01T14:00:11+00:00",
       "sources": [
@@ -1487,15 +1551,15 @@
       ]
     },
     {
-      "id": 76,
+      "id": 86,
       "topic": "World & Politics",
-      "title": "Should Hong Kong regulate loot boxes as addiction issues arise in mobile gaming?",
-      "summary": "Playing strategic and role-playing mobile games has been a major leisure activity for Peter Lee* since he graduated in 2020, when social distancing measures during the Covid-19 pandemic left him with ",
+      "title": "The Rise of Mobile Casinos: Why more players are choosing to bet on their phones",
+      "summary": "Discover why mobile casinos are becoming the preferred choice for many players. Learn about mobile-first design, performance improvements, security features, and the technology shaping the future of o",
       "about": [
         "nigeria",
         "china"
       ],
-      "score": 2.698,
+      "score": 2.644,
       "n_outlets": 2,
       "last_seen": "2026-08-01T13:30:42+00:00",
       "sources": [
@@ -1518,14 +1582,14 @@
       ]
     },
     {
-      "id": 79,
+      "id": 89,
       "topic": "World & Politics",
-      "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
-      "summary": "Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand.",
+      "title": "Settlers Torch Mosques and Villagers Guard Homes: West Bank Violence Is Surging",
+      "summary": "A deadly clash sparked fresh attacks on Palestinian villages in what critics say is a push to expand Israeli territory.",
       "about": [
         "israel"
       ],
-      "score": 2.687,
+      "score": 2.634,
       "n_outlets": 2,
       "last_seen": "2026-08-01T13:19:00+00:00",
       "sources": [
@@ -1548,7 +1612,7 @@
       ]
     },
     {
-      "id": 82,
+      "id": 92,
       "topic": "World & Politics",
       "title": "Palestine to make decisions on collecting, storing weapons — Hamas",
       "summary": "According to Hamas' representative in Iran Khaled Qaddoumi, Hamas’ position on heavy weapons reflects a pan-Palestinian consensus, not just the movement’s viewpoint",
@@ -1557,7 +1621,7 @@
         "iran",
         "us"
       ],
-      "score": 2.681,
+      "score": 2.628,
       "n_outlets": 2,
       "last_seen": "2026-08-01T13:12:55+00:00",
       "sources": [
@@ -1580,7 +1644,7 @@
       ]
     },
     {
-      "id": 101,
+      "id": 111,
       "topic": "World & Politics",
       "title": "Ukrainian attack on Yanina vessel nothing but act of maritime piracy — Rosatom CEO",
       "summary": "Alexey Likhachev emphasized that this was an ordinary, peaceful container ship sailing in international waters and carrying civilian goods",
@@ -1588,7 +1652,7 @@
         "ukraine",
         "russia"
       ],
-      "score": 2.626,
+      "score": 2.578,
       "n_outlets": 2,
       "last_seen": "2026-08-01T12:12:24+00:00",
       "sources": [
@@ -1611,7 +1675,7 @@
       ]
     },
     {
-      "id": 121,
+      "id": 132,
       "topic": "World & Politics",
       "title": "War in Ukraine: Why Crimea has become a strategic target",
       "summary": "Ukraine has stepped up attacks on Russian logistics centers and energy facilities in Crimea. What are the consequences for local supplies, and how does Kyiv hope this strategy will affect the course o",
@@ -1620,7 +1684,7 @@
         "iran",
         "russia"
       ],
-      "score": 2.523,
+      "score": 2.483,
       "n_outlets": 2,
       "last_seen": "2026-08-01T10:03:00+00:00",
       "sources": [
@@ -1643,7 +1707,7 @@
       ]
     },
     {
-      "id": 123,
+      "id": 134,
       "topic": "Technology",
       "title": "Move Fast and Regulate Later: The Paradox of China’s Economic Dynamism",
       "summary": "In the U.S., regulation can protect incumbents while discouraging entrepreneurs. China gives fast-moving startups room to grow before exerting state control.",
@@ -1651,7 +1715,7 @@
         "china",
         "us"
       ],
-      "score": 2.521,
+      "score": 2.481,
       "n_outlets": 2,
       "last_seen": "2026-08-01T10:00:12+00:00",
       "sources": [
@@ -1674,14 +1738,14 @@
       ]
     },
     {
-      "id": 142,
+      "id": 152,
       "topic": "World & Politics",
       "title": "Garma festival kicks off in Arnhem land",
       "summary": "Hosted by the Yothu Yindi Foundation and the local Yolngu people, Garma is an annual celebration of Indigenous culture and tradition, and brings together community leaders, Aboriginal and Torres Strai",
       "about": [
         "australia"
       ],
-      "score": 2.476,
+      "score": 2.44,
       "n_outlets": 2,
       "last_seen": "2026-08-01T08:55:49+00:00",
       "sources": [
@@ -1704,15 +1768,15 @@
       ]
     },
     {
-      "id": 151,
+      "id": 161,
       "topic": "World & Politics",
-      "title": "Political Turmoil Will Not Derail Killer Robot Program, Ousted Minister Says",
-      "summary": "The Ukrainian former defense minister Mykhailo Fedorov, an advocate for drone and robot warfare, says the country’s tech-heavy strategy will persist.",
+      "title": "Thousands take to Kyiv’s main street, firm on calls for defense minister’s return",
+      "summary": "Support for Defense Minister Mykhailo Fedorov, widely credited with driving military innovation during Ukraine's war ​with Russia, remains strong.",
       "about": [
         "ukraine",
         "russia"
       ],
-      "score": 2.422,
+      "score": 2.39,
       "n_outlets": 2,
       "last_seen": "2026-08-01T07:29:00+00:00",
       "sources": [
@@ -1735,16 +1799,16 @@
       ]
     },
     {
-      "id": 153,
+      "id": 163,
       "topic": "World & Politics",
-      "title": "A new age of missiles reshapes battlefields around the world",
-      "summary": "The world is on the cusp of a third missile age, with conventional ballistic weapons proliferating at unprecedented speed in the wake of widespread deployment in Iran and Ukraine.",
+      "title": "Iran’s Workhorse Missile Is Becoming More Dangerous for U.S. Troops",
+      "summary": "Watch WSJ’s Shelby Holliday explain why Iran’s homemade Kheibar Shekan missile is so threatening.",
       "about": [
         "iran",
         "us",
         "ukraine"
       ],
-      "score": 2.421,
+      "score": 2.388,
       "n_outlets": 2,
       "last_seen": "2026-08-01T07:26:00+00:00",
       "sources": [
@@ -1767,15 +1831,15 @@
       ]
     },
     {
-      "id": 155,
+      "id": 165,
       "topic": "Technology",
-      "title": "DeepSeek is developing massive AI data center in inner Mongolia",
-      "summary": "The ambitious move in computing infrastructure shows the startup can compete with the leading AI models of Silicon Valley.",
+      "title": "RedNote eyes US$2.2 billion data centre as China ramps up AI infrastructure, source says",
+      "summary": "RedNote, the Chinese lifestyle social media platform also known as Xiaohongshu domestically, is looking to build out a large data centre facility in the Inner Mongolia autonomous region, according to ",
       "about": [
         "china",
         "us"
       ],
-      "score": 2.408,
+      "score": 2.377,
       "n_outlets": 2,
       "last_seen": "2026-08-01T07:05:00+00:00",
       "sources": [
@@ -1798,14 +1862,14 @@
       ]
     },
     {
-      "id": 165,
+      "id": 175,
       "topic": "World & Politics",
-      "title": "India’s Modi wants to forgive CJP protesters who hurled ‘vile abuse’ at him",
-      "summary": "Indian Prime Minister Narendra Modi said he wanted to “forgive” protesters who abused him during recent youth-led demonstrations that dealt a rare political setback to his government. The remarks came",
+      "title": "India's 'Cockroach' protesters face ongoing legal pressure",
+      "summary": "After forcing the resignation of India's education minister, student activists say a crackdown continues despite government promises to drop criminal cases against protesters.",
       "about": [
         "india"
       ],
-      "score": 2.374,
+      "score": 2.345,
       "n_outlets": 2,
       "last_seen": "2026-08-01T06:01:06+00:00",
       "sources": [
@@ -1828,14 +1892,14 @@
       ]
     },
     {
-      "id": 172,
+      "id": 182,
       "topic": "World & Politics",
-      "title": "Japan quake evacuees with pets find refuge at Kumamoto animal hospital",
-      "summary": "When a powerful earthquake jolted southern ⁠Japan this week, rattling ⁠homes and knocking out water and ⁠electricity, Tomoko Takaoka bundled up her beloved fluffy dogs and went in search of a safe pla",
+      "title": "Dogs allowed! Animal hospital opens doors to Japan quake survivors and their pets",
+      "summary": "Shelters often do not allow pets and their owners to stay together, being mindful of other evacuees who may view the animals negatively.",
       "about": [
         "japan"
       ],
-      "score": 2.348,
+      "score": 2.321,
       "n_outlets": 2,
       "last_seen": "2026-08-01T05:09:00+00:00",
       "sources": [
@@ -1858,7 +1922,7 @@
       ]
     },
     {
-      "id": 180,
+      "id": 190,
       "topic": "World & Politics",
       "title": "Taiwan’s political parties deadlocked over efforts to boost military drone capacity",
       "summary": "A political row is threatening to undermine Taiwan’s efforts to increase its stockpiles of military drones and has raised questions about the future of its domestic manufacturers. On Monday, lawmakers",
@@ -1867,7 +1931,7 @@
         "us",
         "china"
       ],
-      "score": 2.316,
+      "score": 2.292,
       "n_outlets": 2,
       "last_seen": "2026-08-01T04:00:11+00:00",
       "sources": [
@@ -1890,14 +1954,14 @@
       ]
     },
     {
-      "id": 181,
+      "id": 191,
       "topic": "World & Politics",
       "title": "Singapore bans Massive Attack for showing Palestinian flag, breaching ban on foreign emblems",
       "summary": "Two members given ‘stern warnings’ after concert and barred from returning, with band also excluded from performing in Singapore again, say authorities British trip-hop band Massive Attack has been ba",
       "about": [
         "uk"
       ],
-      "score": 2.312,
+      "score": 2.288,
       "n_outlets": 2,
       "last_seen": "2026-08-01T03:51:36+00:00",
       "sources": [
@@ -1920,7 +1984,7 @@
       ]
     },
     {
-      "id": 182,
+      "id": 192,
       "topic": "World & Politics",
       "title": "Military flare-up between Houthis and Saudi Arabia challenges relative calm in Yemen",
       "summary": "Riyadh and Yemen's Iran-backed Houthi rebels are on the brink of renewed conflict. Could war-ravaged Yemen be drawn into a wider Middle East war?",
@@ -1928,7 +1992,7 @@
         "saudi",
         "iran"
       ],
-      "score": 2.312,
+      "score": 2.288,
       "n_outlets": 2,
       "last_seen": "2026-08-01T03:51:01+00:00",
       "sources": [
@@ -1951,15 +2015,15 @@
       ]
     },
     {
-      "id": 195,
+      "id": 205,
       "topic": "World & Politics",
-      "title": "Bessent ‘to-do’ list shows proposal for US to buy $5bn-$10bn of Japanese yen",
-      "summary": "Treasury secretary’s notepad, photographed by Reuters on Friday morning, prompts questions over US plans During a cabinet meeting at Camp David on Friday, the US treasury secretary Scott Bessent carel",
+      "title": "Bessent’s ‘to do’ list: buy $5-10 billion worth of Japanese yen, photo shows",
+      "summary": "The notepad shows no other words, and Bessent's name card ⁠on the Camp David conference table is visible and positioned immediately above the notepad.",
       "about": [
         "japan",
         "us"
       ],
-      "score": 2.251,
+      "score": 2.232,
       "n_outlets": 2,
       "last_seen": "2026-08-01T01:14:00+00:00",
       "sources": [
@@ -1982,7 +2046,7 @@
       ]
     },
     {
-      "id": 196,
+      "id": 206,
       "topic": "Trading & Markets",
       "title": "Yen Strengthens on Signs of Intervention",
       "summary": "The dollar weakened against the yen as authorities signaled that an intervention to support the Japanese currency could be imminent.",
@@ -1990,7 +2054,7 @@
         "japan",
         "us"
       ],
-      "score": 2.25,
+      "score": 2.231,
       "n_outlets": 2,
       "last_seen": "2026-08-01T01:12:00+00:00",
       "sources": [
@@ -2013,7 +2077,7 @@
       ]
     },
     {
-      "id": 214,
+      "id": 224,
       "topic": "Technology",
       "title": "US lawmakers investigate DoorDash’s use of Moonshot AI’s Kimi K2.6 model",
       "summary": "Prominent US lawmakers have requested information from food delivery giant DoorDash on its use of Chinese artificial intelligence models after its co-founder disclosed that they had experimented with ",
@@ -2021,7 +2085,7 @@
         "china",
         "us"
       ],
-      "score": 2.206,
+      "score": 2.19,
       "n_outlets": 2,
       "last_seen": "2026-07-31T22:53:21+00:00",
       "sources": [
@@ -2044,46 +2108,14 @@
       ]
     },
     {
-      "id": 242,
-      "topic": "World & Politics",
-      "title": "Kim reports billions in losses for foreign entrepreneurs due to attacks on Wildberries",
-      "summary": "Terrorist attacks on Wildberries warehouses constitute force majeure events, the founder of Wildberries and head of RWB said",
-      "about": [
-        "ukraine",
-        "russia",
-        "uk"
-      ],
-      "score": 2.161,
-      "n_outlets": 2,
-      "last_seen": "2026-07-31T19:53:11+00:00",
-      "sources": [
-        {
-          "outlet": "Meduza",
-          "country": "russia",
-          "lean": "center",
-          "title": "Wildberries founder Tatyana Kim addresses sellers on drone strikes, warehouse damage, and compensation, calls Ukrainian strikes ‘terrorist attacks’",
-          "url": "https://meduza.io/en/feature/2026/07/31/wildberries-founder-tatyana-kim-addresses-sellers-on-drone-strikes-warehouse-damage-and-compensation-calls-ukrainian-strikes-terrorist-attacks",
-          "published": "2026-07-31T19:53:11+00:00"
-        },
-        {
-          "outlet": "TASS",
-          "country": "russia",
-          "lean": "state",
-          "title": "Kim reports billions in losses for foreign entrepreneurs due to attacks on Wildberries",
-          "url": "https://tass.com/economy/2167833",
-          "published": "2026-07-31T18:32:58+00:00"
-        }
-      ]
-    },
-    {
-      "id": 250,
+      "id": 261,
       "topic": "World & Politics",
       "title": "At Least 34 Dead From Coal Mine Blast in Pakistan",
       "summary": "Rescuers were searching for missing bodies from the accident in one of the country’s mining hubs, where methane gas explosions and mine collapses are frequent.",
       "about": [
         "pakistan"
       ],
-      "score": 2.148,
+      "score": 2.136,
       "n_outlets": 2,
       "last_seen": "2026-07-31T18:52:05+00:00",
       "sources": [
@@ -2106,15 +2138,15 @@
       ]
     },
     {
-      "id": 259,
+      "id": 270,
       "topic": "World & Politics",
-      "title": "After two years, a Warsaw court just released the man accused of orchestrating attacks on Russian oppositionists",
-      "summary": "A court in Warsaw released Anatoly Blinov from pretrial detention and placed him under police supervision, a correspondent for the Russian-language outlet Vot Tak reported from the courtroom. Blinov i",
+      "title": "Moscow Court Orders Detention of Boris Nemtsov’s Daughter in Absentia",
+      "summary": "Zhanna Nemtsova faces charges of organizing the activities of an “undesirable” organization.",
       "about": [
         "russia",
         "poland"
       ],
-      "score": 2.134,
+      "score": 2.124,
       "n_outlets": 2,
       "last_seen": "2026-07-31T17:42:55+00:00",
       "sources": [
@@ -2137,7 +2169,7 @@
       ]
     },
     {
-      "id": 267,
+      "id": 278,
       "topic": "Trading & Markets",
       "title": "His Wedding Guests Were Arriving—Just as His $45 Billion Fund Was Falling Apart",
       "summary": "Leopold Aschenbrenner was hailed as the ‘Nostradamus of AI.’ But his Situational Awareness hedge fund took on too much leverage, leading to a crash he never saw coming.",
@@ -2146,7 +2178,7 @@
         "iran",
         "uk"
       ],
-      "score": 2.123,
+      "score": 2.114,
       "n_outlets": 2,
       "last_seen": "2026-07-31T16:41:00+00:00",
       "sources": [
@@ -2169,38 +2201,7 @@
       ]
     },
     {
-      "id": 268,
-      "topic": "World & Politics",
-      "title": "Ceuta crisis puts Spain’s Sánchez under fire over migration policies",
-      "summary": "Thousands of unauthorized border crossings hand the conservative opposition fresh ammunition — and raise suspicions that Morocco is weaponizing migration.",
-      "about": [
-        "spain",
-        "us"
-      ],
-      "score": 2.122,
-      "n_outlets": 2,
-      "last_seen": "2026-07-31T16:37:36+00:00",
-      "sources": [
-        {
-          "outlet": "Politico Europe",
-          "country": "eu",
-          "lean": "center",
-          "title": "Ceuta crisis puts Spain’s Sánchez under fire over migration policies",
-          "url": "https://www.politico.eu/article/spain-ceuta-migration-crisis-pedro-sanchez-opposition-backlash/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-          "published": "2026-07-31T12:54:13+00:00"
-        },
-        {
-          "outlet": "The Wall Street Journal",
-          "country": "us",
-          "lean": "right",
-          "title": "Migrants Perish Pouring Into Tiny Spanish Territory",
-          "url": "https://www.wsj.com/world/europe/thousands-of-migrants-pour-across-border-into-a-tiny-spanish-territory-0af0d1a3",
-          "published": "2026-07-31T06:23:00+00:00"
-        }
-      ]
-    },
-    {
-      "id": 269,
+      "id": 280,
       "topic": "Technology",
       "title": "OpenAI blinks in face-off with Chinese rivals, drops pricing for some models up to 80%",
       "summary": "In a bid to defend its market share against rapidly advancing, lower-cost Chinese rivals, US artificial intelligence firm OpenAI has launched an aggressive price war, slashing prices for its latest GP",
@@ -2208,7 +2209,7 @@
         "china",
         "us"
       ],
-      "score": 2.122,
+      "score": 2.113,
       "n_outlets": 2,
       "last_seen": "2026-07-31T16:35:00+00:00",
       "sources": [
@@ -2231,15 +2232,15 @@
       ]
     },
     {
-      "id": 277,
+      "id": 288,
       "topic": "Trading & Markets",
-      "title": "Russia Clamps Down on Posting Videos of Ukrainian Drone Strikes",
-      "summary": "Authorities are detaining people and warning such acts could be considered treason.",
+      "title": "Russians who film Ukrainian attacks and post them on social media are being detained, fined, and forced to apologize on camera",
+      "summary": "Ukraine’s military is attacking Russian cities with growing intensity, and the consequences of these attacks are becoming more severe with each passing week. Ukraine’s attacks have hit not only milita",
       "about": [
         "russia",
         "ukraine"
       ],
-      "score": 2.118,
+      "score": 2.108,
       "n_outlets": 2,
       "last_seen": "2026-07-31T16:08:00+00:00",
       "sources": [
@@ -2262,14 +2263,14 @@
       ]
     },
     {
-      "id": 298,
+      "id": 308,
       "topic": "World & Politics",
-      "title": "Russian mobile carriers to make access to Kremlin-backed Max messenger free",
-      "summary": "Russia’s four major mobile carriers — MTS, Beeline, MegaFon, and T2 — will stop charging for data used by the Max messenger starting August 1, letting subscribers use the app without restrictions.",
+      "title": "Russian Mobile Carriers Waive Data Fees for State-Backed Max Messenger",
+      "summary": "Starting Aug. 1, voice calls, messaging, file transfers and other digital services within Max will be free of charge for subscribers of MTS, MegaFon, Beeline and T2.",
       "about": [
         "russia"
       ],
-      "score": 2.089,
+      "score": 2.082,
       "n_outlets": 2,
       "last_seen": "2026-07-31T12:47:03+00:00",
       "sources": [
@@ -2292,15 +2293,15 @@
       ]
     },
     {
-      "id": 315,
-      "topic": "Economics",
+      "id": 325,
+      "topic": "Technology",
       "title": "Why Elon Musk would find it hard to decouple Tesla from China",
       "summary": "Elon Musk has dismissed a media report claiming electric vehicle (EV) company Tesla is considering selling its China business, even as the speculation threatens to renew scrutiny over the American car",
       "about": [
-        "china",
-        "us"
+        "us",
+        "china"
       ],
-      "score": 2.076,
+      "score": 2.07,
       "n_outlets": 2,
       "last_seen": "2026-07-31T10:56:00+00:00",
       "sources": [
@@ -2323,7 +2324,104 @@
       ]
     },
     {
-      "id": 0,
+      "id": 353,
+      "topic": "Science",
+      "title": "Ukraine Hits Wildberries Logistics Center and Energy Facility in Volgograd, Killing At Least One",
+      "summary": "Local authorities did not identify the energy site, but NASA fire monitoring showed several active fires at a major Lukoil-operated oil refinery.",
+      "about": [
+        "ukraine",
+        "russia"
+      ],
+      "score": 2.055,
+      "n_outlets": 2,
+      "last_seen": "2026-07-31T07:53:00+00:00",
+      "sources": [
+        {
+          "outlet": "Meduza",
+          "country": "russia",
+          "lean": "center",
+          "title": "Ukraine hits two more Wildberries warehouses in Russia",
+          "url": "https://meduza.io/en/news/2026/07/31/ukraine-hits-two-more-wildberries-warehouses-in-russia",
+          "published": "2026-07-31T07:43:53+00:00"
+        },
+        {
+          "outlet": "The Moscow Times",
+          "country": "russia",
+          "lean": "center",
+          "title": "Ukraine Hits Wildberries Logistics Center and Energy Facility in Volgograd, Killing At Least One",
+          "url": "https://www.themoscowtimes.com/2026/07/31/ukraine-hits-wildberries-logistics-center-and-energy-facility-in-volgograd-killing-at-least-one-a93383",
+          "published": "2026-07-31T07:53:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "topic": "World & Politics",
+      "title": "King of Spain outraged at events in Ceuta — EFE",
+      "summary": "The monarch said the state must ensure the safety of autonomous cities and prevent the recurrence of such events",
+      "about": [
+        "spain"
+      ],
+      "score": 1.974,
+      "n_outlets": 1,
+      "last_seen": "2026-08-01T18:28:32+00:00",
+      "sources": [
+        {
+          "outlet": "TASS",
+          "country": "russia",
+          "lean": "state",
+          "title": "King of Spain outraged at events in Ceuta — EFE",
+          "url": "https://tass.com/world/2168021",
+          "published": "2026-08-01T18:28:32+00:00"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "topic": "World & Politics",
+      "title": "Can Marine Le Pen’s 30-Year-Old Protégé Win Over France’s CEOs?",
+      "summary": "The far-right presidential hopeful has deployed Jordan Bardella to court a community that typically shuns her party.",
+      "about": [
+        "france"
+      ],
+      "score": 1.936,
+      "n_outlets": 1,
+      "last_seen": "2026-08-01T18:00:00+00:00",
+      "sources": [
+        {
+          "outlet": "The Wall Street Journal",
+          "country": "us",
+          "lean": "right",
+          "title": "Can Marine Le Pen’s 30-Year-Old Protégé Win Over France’s CEOs?",
+          "url": "https://www.wsj.com/world/europe/can-marine-le-pens-30-year-old-protege-win-over-frances-ceos-8e597a22",
+          "published": "2026-08-01T18:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "topic": "World & Politics",
+      "title": "Italy putting nearly all major cities on highest heat alert",
+      "summary": "Some 19 major Italian cities - including Rome, Milan and Naples - are already on red alert, and by Monday all but two will be.",
+      "about": [
+        "italy"
+      ],
+      "score": 1.926,
+      "n_outlets": 1,
+      "last_seen": "2026-08-01T17:51:46+00:00",
+      "sources": [
+        {
+          "outlet": "BBC News",
+          "country": "uk",
+          "lean": "center",
+          "title": "Italy putting nearly all major cities on highest heat alert",
+          "url": "https://www.bbc.co.uk/news/articles/cr7k4gdrgljo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-01T17:51:46+00:00"
+        }
+      ]
+    },
+    {
+      "id": 12,
       "topic": "Economics",
       "title": "Burnham can't improve Britain's economy, he knows how to make ‘cringe’ videos — Dmitriev",
       "summary": "British Prime Minister Andy Burnham cannot present his program to stimulate economic growth, said Russian Presidential Special Representative for Investment and Economic Cooperation with Foreign Count",
@@ -2331,7 +2429,7 @@
         "uk",
         "russia"
       ],
-      "score": 1.993,
+      "score": 1.917,
       "n_outlets": 1,
       "last_seen": "2026-08-01T17:44:44+00:00",
       "sources": [
@@ -2346,14 +2444,38 @@
       ]
     },
     {
-      "id": 1,
+      "id": 13,
+      "topic": "Sports",
+      "title": "Gold rush: Arundhati Choudhary wins India's fifth boxing gold at CWG 2026",
+      "summary": "Arundhati defeated Reid by a unanimous 5-0 decision to give India its fifth boxing gold of the competition.",
+      "about": [
+        "india",
+        "canada",
+        "uk"
+      ],
+      "score": 1.911,
+      "n_outlets": 1,
+      "last_seen": "2026-08-01T17:40:27+00:00",
+      "sources": [
+        {
+          "outlet": "Times of India",
+          "country": "india",
+          "lean": "center",
+          "title": "Gold rush: Arundhati Choudhary wins India's fifth boxing gold at CWG 2026",
+          "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/gold-rush-continues-as-arundhati-choudhary-wins-indias-fifth-boxing-gold-at-commonwealth-games/articleshow/132793382.cms",
+          "published": "2026-08-01T16:54:16+00:00"
+        }
+      ]
+    },
+    {
+      "id": 15,
       "topic": "World & Politics",
       "title": "Malaria: Preventable killer we must no longer ignore, By Nosimot Soneye",
       "summary": "In Ogun State, the administration of Governor Dapo Abiodun has sustained various healthcare interventions aimed at reducing malaria prevalence and expanding access to quality healthcare The post Malar",
       "about": [
         "nigeria"
       ],
-      "score": 1.986,
+      "score": 1.91,
       "n_outlets": 1,
       "last_seen": "2026-08-01T17:39:34+00:00",
       "sources": [
@@ -2368,15 +2490,15 @@
       ]
     },
     {
-      "id": 2,
+      "id": 16,
       "topic": "World & Politics",
-      "title": "'Returned to the US 3 days before visa expiry': Indian H-1B holder shares what happened next",
-      "summary": "'Returned to the US 3 days before visa expiry': Indian H-1B holder shares what happened next",
+      "title": "Green Card updates for August: EB-1 may become unavailable for Indians",
+      "summary": "Green Card updates for August: EB-1 may become unavailable for Indians",
       "about": [
         "india",
         "us"
       ],
-      "score": 1.978,
+      "score": 1.903,
       "n_outlets": 1,
       "last_seen": "2026-08-01T17:33:47+00:00",
       "sources": [
@@ -2384,21 +2506,21 @@
           "outlet": "Times of India",
           "country": "india",
           "lean": "center",
-          "title": "'Returned to the US 3 days before visa expiry': Indian H-1B holder shares what happened next",
-          "url": "https://timesofindia.indiatimes.com/world/us/returned-to-the-us-3-days-before-visa-expiry-indian-h-1b-holder-shares-what-happened-next/articleshow/132792111.cms",
-          "published": "2026-08-01T15:16:18+00:00"
+          "title": "Green Card updates for August: EB-1 may become unavailable for Indians",
+          "url": "https://timesofindia.indiatimes.com/world/us/green-card-updates-for-august-eb-1-may-become-unavailable-for-indians/articleshow/132794378.cms",
+          "published": "2026-08-01T17:33:47+00:00"
         }
       ]
     },
     {
-      "id": 3,
+      "id": 17,
       "topic": "World & Politics",
       "title": "Argentina prison watchdog flags overcrowding and detainee rights concerns",
       "summary": "Argentina’s PPN federal prison watchdog warns of overcrowding, lack of transparency and rights setbacks in annual report. Leer más",
       "about": [
         "argentina"
       ],
-      "score": 1.973,
+      "score": 1.898,
       "n_outlets": 1,
       "last_seen": "2026-08-01T17:30:00+00:00",
       "sources": [
@@ -2413,14 +2535,14 @@
       ]
     },
     {
-      "id": 4,
+      "id": 18,
       "topic": "World & Politics",
       "title": "Israel says it killed several Hezbollah fighters in south Lebanon",
       "summary": "The Israeli military said on Saturday that it killed several Hezbollah fighters in south Lebanon and that an Israeli soldier was injured there despite a ceasefire. The military said it identified seve",
       "about": [
         "israel"
       ],
-      "score": 1.973,
+      "score": 1.898,
       "n_outlets": 1,
       "last_seen": "2026-08-01T17:29:59+00:00",
       "sources": [
@@ -2435,14 +2557,14 @@
       ]
     },
     {
-      "id": 8,
+      "id": 22,
       "topic": "Trading & Markets",
       "title": "Saudi Arabia arrests over 14,000 in week-long crackdown on residency, labour violations",
       "summary": "Saudi Arabia arrests over 14,000 in week-long crackdown on residency, labour violations",
       "about": [
         "saudi"
       ],
-      "score": 1.97,
+      "score": 1.896,
       "n_outlets": 1,
       "last_seen": "2026-08-01T17:27:58+00:00",
       "sources": [
@@ -2457,14 +2579,14 @@
       ]
     },
     {
-      "id": 11,
+      "id": 25,
       "topic": "World & Politics",
       "title": "VFD Group posts twofold jump in half-year profit amid higher investment income",
       "summary": "Revenue advanced to N53.7 billion from N41.2 billion a year ago, deriving strength largely from investment income, which was up by 102.8 per cent. The post VFD Group posts twofold jump in half-year pr",
       "about": [
         "nigeria"
       ],
-      "score": 1.957,
+      "score": 1.883,
       "n_outlets": 1,
       "last_seen": "2026-08-01T17:17:52+00:00",
       "sources": [
@@ -2479,7 +2601,7 @@
       ]
     },
     {
-      "id": 14,
+      "id": 27,
       "topic": "Sports",
       "title": "South American icon plans global Messi petition for 2030 World Cup return",
       "summary": "Former Bolivia captain Marco Antonio Etcheverry has urged Lionel Messi to continue playing for Argentina until the 2030 World Cup, even proposing a global petition to convince him. The MLS legend prai",
@@ -2487,7 +2609,7 @@
         "us",
         "argentina"
       ],
-      "score": 1.951,
+      "score": 1.878,
       "n_outlets": 1,
       "last_seen": "2026-08-01T17:13:30+00:00",
       "sources": [
@@ -2502,14 +2624,14 @@
       ]
     },
     {
-      "id": 15,
+      "id": 28,
       "topic": "World & Politics",
       "title": "I Flew in the Douglas DC-3, a WWII Workhorse of Aviation, Over the Amazon",
       "summary": "The Douglas DC-3 was mass-produced during World War II. Today, one of the few still remaining transports passengers in Colombia’s jungle.",
       "about": [
         "colombia"
       ],
-      "score": 1.949,
+      "score": 1.876,
       "n_outlets": 1,
       "last_seen": "2026-08-01T17:12:16+00:00",
       "sources": [
@@ -2524,14 +2646,14 @@
       ]
     },
     {
-      "id": 18,
+      "id": 31,
       "topic": "Trading & Markets",
       "title": "Full reasons why LPDC suspended senior advocate Gadzama, fellow lawyer from legal practice (DOWNLOAD)",
       "summary": "In its 70-page direction dated 29 July, the LPDC found that Mr Gadzama poached and hijacked clients already represented by another lawyer, acted for some judgement creditors who later denied instructi",
       "about": [
         "nigeria"
       ],
-      "score": 1.937,
+      "score": 1.864,
       "n_outlets": 1,
       "last_seen": "2026-08-01T17:02:30+00:00",
       "sources": [
@@ -2546,14 +2668,14 @@
       ]
     },
     {
-      "id": 19,
+      "id": 32,
       "topic": "Trading & Markets",
       "title": "Stephen Curry's deal with a Chinese company puts profit over conscience",
       "summary": "He is lending his good name to a company shadowed by one of the great human rights scandals of our time.",
       "about": [
         "china"
       ],
-      "score": 1.935,
+      "score": 1.863,
       "n_outlets": 1,
       "last_seen": "2026-08-01T17:00:59+00:00",
       "sources": [
@@ -2568,14 +2690,14 @@
       ]
     },
     {
-      "id": 28,
+      "id": 38,
       "topic": "Sports",
-      "title": "CWG: Soman Rana wins gold, Shubham Juyal takes silver in Para Shot Put F57",
-      "summary": "India achieved a one-two finish in the men's F57 shot put event. Soman Rana secured the gold medal while Shubham Juyal earned the silver medal. Praveen Chithravel and Selva Prabhu Thirumaran added sil",
+      "title": "Unnati Sharma wins judo bronze as India add another medal at CWG",
+      "summary": "Unnati Sharma wins judo bronze as India add another medal at CWG",
       "about": [
         "india"
       ],
-      "score": 1.902,
+      "score": 1.833,
       "n_outlets": 1,
       "last_seen": "2026-08-01T16:35:45+00:00",
       "sources": [
@@ -2583,21 +2705,21 @@
           "outlet": "Times of India",
           "country": "india",
           "lean": "center",
-          "title": "CWG: Soman Rana wins gold, Shubham Juyal takes silver in Para Shot Put F57",
-          "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/cwg-2026-soman-rana-wins-gold-shubham-juyal-takes-silver-as-india-dominates-para-shot-put-f57/articleshow/132788775.cms",
-          "published": "2026-08-01T12:05:09+00:00"
+          "title": "Unnati Sharma wins judo bronze as India add another medal at CWG",
+          "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/unnati-sharma-wins-judo-bronze-as-india-add-another-medal-at-commonwealth-games/articleshow/132793162.cms",
+          "published": "2026-08-01T16:35:45+00:00"
         }
       ]
     },
     {
-      "id": 29,
+      "id": 39,
       "topic": "World & Politics",
       "title": "Justice Dept. Subpoenas Times Freelancer in Effort to Identify Sources",
       "summary": "A previously undisclosed subpoena, involving reporting on a failed SEAL Team 6 mission in North Korea, reflects the government’s expanding campaign to investigate leaks of secrets.",
       "about": [
         "koreanorth"
       ],
-      "score": 1.898,
+      "score": 1.829,
       "n_outlets": 1,
       "last_seen": "2026-08-01T16:32:22+00:00",
       "sources": [
@@ -2612,7 +2734,7 @@
       ]
     },
     {
-      "id": 30,
+      "id": 40,
       "topic": "Economics",
       "title": "India will be the biggest destination for Japanese capital in a decade: AMFI chairman Sandeep Sikka",
       "summary": "`The country’s booming systematic investment plan (SIP) culture has fundamentally reshaped the equity market by creating a strong domestic buffer against foreign capital outflows’",
@@ -2620,7 +2742,7 @@
         "india",
         "japan"
       ],
-      "score": 1.888,
+      "score": 1.82,
       "n_outlets": 1,
       "last_seen": "2026-08-01T16:24:31+00:00",
       "sources": [
@@ -2635,14 +2757,14 @@
       ]
     },
     {
-      "id": 38,
+      "id": 49,
       "topic": "Economics",
       "title": "Union Cabinet approves ₹84,084 crore for offshore exploration scheme ‘Samudra Manthan’",
       "summary": "The Cabinet has allocated ₹43,200 crore for drilling 60 deepwater exploration wells",
       "about": [
         "india"
       ],
-      "score": 1.863,
+      "score": 1.796,
       "n_outlets": 1,
       "last_seen": "2026-08-01T16:03:13+00:00",
       "sources": [
@@ -2657,14 +2779,14 @@
       ]
     },
     {
-      "id": 39,
+      "id": 50,
       "topic": "World & Politics",
-      "title": "Rio de Janeiro Nightlife Tonight — August 1, 2026",
-      "summary": "Your complete Rio de Janeiro nightlife guide for tonight, Saturday 1 August 2026. Top picks, live samba, DJ sets, and safe tips for expats and visitors. The post Rio de Janeiro Nightlife Tonight — Aug",
+      "title": "São Paulo Nightlife Tonight — August 1, 2026",
+      "summary": "São Paulo nightlife tonight: where to go on Saturday August 1 2026. Best samba, clubs, bars, LGBTQ+ spots and how the comanda system works. The post São Paulo Nightlife Tonight — August 1, 2026 appear",
       "about": [
         "brazil"
       ],
-      "score": 1.859,
+      "score": 1.793,
       "n_outlets": 1,
       "last_seen": "2026-08-01T16:00:39+00:00",
       "sources": [
@@ -2672,21 +2794,21 @@
           "outlet": "The Rio Times",
           "country": "brazil",
           "lean": "right",
-          "title": "Rio de Janeiro Nightlife Tonight — August 1, 2026",
-          "url": "https://www.riotimesonline.com/rio-de-janeiro-nightlife-tonight-august-1-2026/",
-          "published": "2026-08-01T16:00:32+00:00"
+          "title": "São Paulo Nightlife Tonight — August 1, 2026",
+          "url": "https://www.riotimesonline.com/sao-paulo-nightlife-tonight-august-1-2026/",
+          "published": "2026-08-01T16:00:39+00:00"
         }
       ]
     },
     {
-      "id": 47,
+      "id": 58,
       "topic": "Trading & Markets",
       "title": "Niger State ex-official shares harrowing 225-day captivity experience",
       "summary": "\"I saw vehicles parked by the roadside, not knowing they were heavily armed Fulani bandits dressed in police uniforms,\" he said. The post Niger State ex-official shares harrowing 225-day captivity exp",
       "about": [
         "nigeria"
       ],
-      "score": 1.82,
+      "score": 1.757,
       "n_outlets": 1,
       "last_seen": "2026-08-01T15:26:33+00:00",
       "sources": [
@@ -2701,7 +2823,7 @@
       ]
     },
     {
-      "id": 49,
+      "id": 59,
       "topic": "Sports",
       "title": "'Kept motivating me': Jadumani Singh credits Sarita Devi for his CWG silver medal journey",
       "summary": "Jadumani Singh Mandengbam secured a silver medal at the Commonwealth Games. He credited veteran boxer Sarita Devi for her significant support and guidance. Sarita Devi's daily advice and encouragement",
@@ -2709,7 +2831,7 @@
         "india",
         "koreasouth"
       ],
-      "score": 1.817,
+      "score": 1.754,
       "n_outlets": 1,
       "last_seen": "2026-08-01T15:24:22+00:00",
       "sources": [
@@ -2724,14 +2846,14 @@
       ]
     },
     {
-      "id": 52,
+      "id": 62,
       "topic": "World & Politics",
       "title": "Blame it on Sao Paulo",
       "summary": "It might well also be asked whether meddling in the domestic politics of other countries belongs in any presidential work list. Leer más",
       "about": [
         "brazil"
       ],
-      "score": 1.81,
+      "score": 1.747,
       "n_outlets": 1,
       "last_seen": "2026-08-01T15:17:39+00:00",
       "sources": [
@@ -2746,14 +2868,14 @@
       ]
     },
     {
-      "id": 55,
+      "id": 64,
       "topic": "World & Politics",
       "title": "India's 'cockroach' protesters have wounds consistent with pellet-gun fire, say experts",
       "summary": "Ballistic experts say the dozens of tiny round punctures are tell-tale signs of pellet gun injuries.",
       "about": [
         "india"
       ],
-      "score": 1.79,
+      "score": 1.729,
       "n_outlets": 1,
       "last_seen": "2026-08-01T15:00:07+00:00",
       "sources": [
@@ -2768,7 +2890,7 @@
       ]
     },
     {
-      "id": 58,
+      "id": 67,
       "topic": "World & Politics",
       "title": "U.S.-Backed Democracy Talks Sideline Venezuela’s Opposition Leader",
       "summary": "The negotiations aim to put the country on a path toward elections, but don’t include Nobel laureate María Corina Machado.",
@@ -2776,7 +2898,7 @@
         "us",
         "venezuela"
       ],
-      "score": 1.79,
+      "score": 1.729,
       "n_outlets": 1,
       "last_seen": "2026-08-01T15:00:00+00:00",
       "sources": [
@@ -2791,14 +2913,14 @@
       ]
     },
     {
-      "id": 61,
+      "id": 70,
       "topic": "Sports",
       "title": "Pakistan's first female CWG boxing medallist credits Mary Kom for inspiring her",
       "summary": "Pakistan's first female CWG boxing medallist credits Mary Kom for inspiring her",
       "about": [
         "pakistan"
       ],
-      "score": 1.779,
+      "score": 1.719,
       "n_outlets": 1,
       "last_seen": "2026-08-01T14:49:34+00:00",
       "sources": [
@@ -2813,14 +2935,14 @@
       ]
     },
     {
-      "id": 63,
+      "id": 72,
       "topic": "World & Politics",
       "title": "‘I’m married, can no longer have 100 people in my house’ – Davido",
       "summary": "Davido reflected on marriage, fame, and his 15-year music journey, stating that his inner circle now comprises people who add value to his career. The post &#8216;I&#8217;m married, can no longer have",
       "about": [
         "nigeria"
       ],
-      "score": 1.775,
+      "score": 1.715,
       "n_outlets": 1,
       "last_seen": "2026-08-01T14:45:57+00:00",
       "sources": [
@@ -2835,14 +2957,14 @@
       ]
     },
     {
-      "id": 70,
+      "id": 79,
       "topic": "World & Politics",
       "title": "Germany storm leaves 1 dead, 3 seriously injured",
       "summary": "A man has been killed and three people seriously injured after a severe storm struck the Saxon Switzerland region in the eastern German state of Saxony, police said on Friday. There were no reports of",
       "about": [
         "germany"
       ],
-      "score": 1.727,
+      "score": 1.671,
       "n_outlets": 1,
       "last_seen": "2026-08-01T13:59:54+00:00",
       "sources": [
@@ -2857,14 +2979,14 @@
       ]
     },
     {
-      "id": 71,
+      "id": 80,
       "topic": "Trading & Markets",
       "title": "How pilots land aircraft at Marambio Base, Argentina’s most challenging Antarctic airstrip",
       "summary": "Air Force pilots face one of the most demanding landings at Argentina’s Marambio Base in Antarctica, touching down on a natural runway made of permanently frozen ground and rock, while contending with",
       "about": [
         "argentina"
       ],
-      "score": 1.722,
+      "score": 1.666,
       "n_outlets": 1,
       "last_seen": "2026-08-01T13:55:00+00:00",
       "sources": [
@@ -2879,14 +3001,14 @@
       ]
     },
     {
-      "id": 72,
+      "id": 81,
       "topic": "World & Politics",
       "title": "Dozens injured as earthquake hits near Naples in seismic swarm",
       "summary": "At least five taken to hospital and about 300 evacuated in strongest quake to hit southern Italian region in 40 years At least 26 people have been injured after a 4.7-magnitude earthquake rocked a reg",
       "about": [
         "italy"
       ],
-      "score": 1.716,
+      "score": 1.661,
       "n_outlets": 1,
       "last_seen": "2026-08-01T13:49:15+00:00",
       "sources": [
@@ -2901,14 +3023,14 @@
       ]
     },
     {
-      "id": 74,
+      "id": 83,
       "topic": "Economics",
       "title": "Why Nigeria’s births should not worry Elon Musk, By Chinedu Moghalu",
       "summary": "Musk’s comparison does not settle a contest of fertility. Europe is wealthier, more productive and better equipped to turn individual ability into economic value. Nigeria and Africa have time, youth a",
       "about": [
         "nigeria"
       ],
-      "score": 1.712,
+      "score": 1.657,
       "n_outlets": 1,
       "last_seen": "2026-08-01T13:45:06+00:00",
       "sources": [
@@ -2923,7 +3045,7 @@
       ]
     },
     {
-      "id": 77,
+      "id": 87,
       "topic": "World & Politics",
       "title": "Mass demonstration for peace and against arms supplies to Ukraine marches in Berlin",
       "summary": "The protesters also consider it unacceptable for the United States to use Ramstein Air Base to launch attacks on Iran",
@@ -2932,7 +3054,7 @@
         "ukraine",
         "iran"
       ],
-      "score": 1.693,
+      "score": 1.64,
       "n_outlets": 1,
       "last_seen": "2026-08-01T13:25:36+00:00",
       "sources": [
@@ -2947,14 +3069,14 @@
       ]
     },
     {
-      "id": 78,
+      "id": 88,
       "topic": "World & Politics",
       "title": "Osun 2026: INEC’s mock accreditation exercise records BVAS device glitches across designated polling units",
       "summary": "Saturday's technical hitch is likely to increase scrutiny of INEC's preparations as political parties and observers closely monitor the commission's readiness ahead of the 15 August governorship elect",
       "about": [
         "nigeria"
       ],
-      "score": 1.688,
+      "score": 1.635,
       "n_outlets": 1,
       "last_seen": "2026-08-01T13:20:43+00:00",
       "sources": [
@@ -2969,7 +3091,7 @@
       ]
     },
     {
-      "id": 80,
+      "id": 90,
       "topic": "Economics",
       "title": "The German Auto Industry, a Pillar of the National Psyche, Is Trembling",
       "summary": "The country’s iconic carmakers are struggling with tariffs, the growth of electric vehicles and intense competition from Chinese companies.",
@@ -2977,7 +3099,7 @@
         "germany",
         "china"
       ],
-      "score": 1.682,
+      "score": 1.629,
       "n_outlets": 1,
       "last_seen": "2026-08-01T13:14:00+00:00",
       "sources": [
@@ -2992,14 +3114,14 @@
       ]
     },
     {
-      "id": 81,
+      "id": 91,
       "topic": "World & Politics",
       "title": "Choosing Atiku as running mate was my biggest political mistake – Obasanjo",
       "summary": "“Of course, what I know about him later… I would not have picked him. Thank God that God did not allow his actions and reactions to overwhelm me, divert my focus from Nigeria or harm Nigeria.” The pos",
       "about": [
         "nigeria"
       ],
-      "score": 1.681,
+      "score": 1.629,
       "n_outlets": 1,
       "last_seen": "2026-08-01T13:13:05+00:00",
       "sources": [
@@ -3014,14 +3136,14 @@
       ]
     },
     {
-      "id": 90,
+      "id": 100,
       "topic": "Sports",
       "title": "'Narrow-minded political experiments': Cong targets RSS over saffron hockey jersey",
       "summary": "\"The decision to change the colour of the Indian hockey team's jersey is not merely a sports-related choice, but a matter deeply connected to the sentiments of millions of Indians and our sporting tra",
       "about": [
         "india"
       ],
-      "score": 1.662,
+      "score": 1.611,
       "n_outlets": 1,
       "last_seen": "2026-08-01T12:53:09+00:00",
       "sources": [
@@ -3036,7 +3158,7 @@
       ]
     },
     {
-      "id": 92,
+      "id": 102,
       "topic": "World & Politics",
       "title": "FLASHBACK: From Burna Boy to Tyla, three times Nigeria-South Africa tensions spilt into music",
       "summary": "The controversy has once again placed the entertainment industries of both countries at the centre of a diplomatic and social conversation. The post FLASHBACK: From Burna Boy to Tyla, three times Nige",
@@ -3044,7 +3166,7 @@
         "nigeria",
         "southafrica"
       ],
-      "score": 1.659,
+      "score": 1.609,
       "n_outlets": 1,
       "last_seen": "2026-08-01T12:49:53+00:00",
       "sources": [
@@ -3059,14 +3181,14 @@
       ]
     },
     {
-      "id": 96,
+      "id": 106,
       "topic": "World & Politics",
       "title": "Innocent Canadian man spent 18 months in prison after police missed underscore in username",
       "summary": "Innocent Canadian man spent 18 months in prison after police missed underscore in username",
       "about": [
         "canada"
       ],
-      "score": 1.649,
+      "score": 1.599,
       "n_outlets": 1,
       "last_seen": "2026-08-01T12:38:56+00:00",
       "sources": [
@@ -3081,14 +3203,37 @@
       ]
     },
     {
-      "id": 104,
+      "id": 114,
+      "topic": "Science",
+      "title": "Democrats’ ‘climate hushing’ prompts activists to turn up the volume",
+      "summary": "Nationwide actions seek to counter view that talking about climate crisis distracts from affordability messaging This summer, torrential rains have washed away Texas neighborhoods, dangerous heat has ",
+      "about": [
+        "us",
+        "canada"
+      ],
+      "score": 1.569,
+      "n_outlets": 1,
+      "last_seen": "2026-08-01T12:00:53+00:00",
+      "sources": [
+        {
+          "outlet": "The Guardian",
+          "country": "uk",
+          "lean": "left",
+          "title": "Democrats’ ‘climate hushing’ prompts activists to turn up the volume",
+          "url": "https://www.theguardian.com/us-news/2026/aug/01/democrats-climate-policy-hushing",
+          "published": "2026-08-01T12:00:53+00:00"
+        }
+      ]
+    },
+    {
+      "id": 115,
       "topic": "World & Politics",
       "title": "Purple reign: how shade became British gardeners’ favourite",
       "summary": "Britons move away from trend of grey paving and pristine lawns in an embrace of colour, with lavender a top choice If you manage to spot a garden in bloom this summer, beyond the strips of bleached an",
       "about": [
         "uk"
       ],
-      "score": 1.616,
+      "score": 1.569,
       "n_outlets": 1,
       "last_seen": "2026-08-01T12:00:52+00:00",
       "sources": [
@@ -3103,14 +3248,14 @@
       ]
     },
     {
-      "id": 111,
+      "id": 122,
       "topic": "World & Politics",
       "title": "How these slum dwellers went from one-room shacks to beautiful new apartments",
       "summary": "It's a bold new experiment and it's already won a prize. Residents in a jam-packed slum, many of them living in one-room tin shacks, help design their apartments in a brand new building.",
       "about": [
         "koreasouth"
       ],
-      "score": 1.578,
+      "score": 1.533,
       "n_outlets": 1,
       "last_seen": "2026-08-01T11:14:58+00:00",
       "sources": [
@@ -3125,7 +3270,7 @@
       ]
     },
     {
-      "id": 113,
+      "id": 124,
       "topic": "Trading & Markets",
       "title": "On the ground in the English seaside town rightwing influencers say is being ‘invaded’",
       "summary": "Some in Dover say their town is being exploited by content creators and politicians, but others claim there is a genuine problem If you believe rightwing influencers and politicians, Dover and the wid",
@@ -3133,7 +3278,7 @@
         "uk",
         "france"
       ],
-      "score": 1.567,
+      "score": 1.523,
       "n_outlets": 1,
       "last_seen": "2026-08-01T11:00:51+00:00",
       "sources": [
@@ -3148,7 +3293,7 @@
       ]
     },
     {
-      "id": 119,
+      "id": 129,
       "topic": "Trading & Markets",
       "title": "Cali, Colombia Security Lockdown Strands Foreign Tourists",
       "summary": "Colombia &#183; Travel Key Facts The scale. More than 11,000 security forces will lock down Cali for the August 7 handover. The time. The ceremony is set for the afternoon of August 7 at the Arena USC",
@@ -3156,7 +3301,7 @@
         "colombia",
         "argentina"
       ],
-      "score": 1.531,
+      "score": 1.49,
       "n_outlets": 1,
       "last_seen": "2026-08-01T10:13:53+00:00",
       "sources": [
@@ -3171,14 +3316,14 @@
       ]
     },
     {
-      "id": 120,
+      "id": 130,
       "topic": "Technology",
       "title": "AI and the Blurring of Reality",
       "summary": "A three-part podcast series about how the rise of AI-generated content is warping our sense of what is real, and the dangers that presents.",
       "about": [
         "brazil"
       ],
-      "score": 1.53,
+      "score": 1.489,
       "n_outlets": 1,
       "last_seen": "2026-08-01T10:13:00+00:00",
       "sources": [
@@ -3193,7 +3338,7 @@
       ]
     },
     {
-      "id": 122,
+      "id": 133,
       "topic": "World & Politics",
       "title": "What’s old is new again: Trump-style conservative is back as PM of European nation",
       "summary": "Janez Janša formed a coalition government after losing Slovenia&apos;s election, reversing Robert Golob&apos;s policies on Israel, immigration,and business.",
@@ -3201,7 +3346,7 @@
         "us",
         "israel"
       ],
-      "score": 1.521,
+      "score": 1.481,
       "n_outlets": 1,
       "last_seen": "2026-08-01T10:00:20+00:00",
       "sources": [
@@ -3216,14 +3361,14 @@
       ]
     },
     {
-      "id": 126,
+      "id": 136,
       "topic": "Sports",
       "title": "Lebanese who fled the Israeli invasion visit to see what's left",
       "summary": "Residents of the ancient town of Nabatiyeh in southern Lebanon have endured wars in the past, but the latest conflict with Israel is testing the limits of their endurance.",
       "about": [
         "israel"
       ],
-      "score": 1.521,
+      "score": 1.481,
       "n_outlets": 1,
       "last_seen": "2026-08-01T10:00:00+00:00",
       "sources": [
@@ -3238,14 +3383,14 @@
       ]
     },
     {
-      "id": 129,
+      "id": 140,
       "topic": "World & Politics",
       "title": "Inti-Illimani Anniversary Concert Opens 60-Year Celebration",
       "summary": "Chilean folk legends Inti-Illimani Histórico are set to celebrate a monumental 60-year milestone with a special anniversary gala in Santiago, joined by Afro-Peruvian star Eva Ayllón. The post Inti-Ill",
       "about": [
         "chile"
       ],
-      "score": 1.493,
+      "score": 1.455,
       "n_outlets": 1,
       "last_seen": "2026-08-01T09:19:54+00:00",
       "sources": [
@@ -3260,14 +3405,14 @@
       ]
     },
     {
-      "id": 133,
+      "id": 144,
       "topic": "Trading & Markets",
       "title": "Brazil Air Force Interception Downs Suspect Plane From Bolivia",
       "summary": "The Brazilian Air Force intercepted a suspect aircraft that entered the country's airspace from Bolivia without authorization, forcing it to make an emergency landing before the occupants fled. The po",
       "about": [
         "brazil"
       ],
-      "score": 1.483,
+      "score": 1.446,
       "n_outlets": 1,
       "last_seen": "2026-08-01T09:06:23+00:00",
       "sources": [
@@ -3282,14 +3427,14 @@
       ]
     },
     {
-      "id": 135,
+      "id": 146,
       "topic": "World & Politics",
       "title": "A French Village Becomes a Ghost Town After the Wildfires",
       "summary": "Wildfires in France have forced tens of thousands of people from their homes and left entire towns deserted along the southwest coast. We visited Claouey, an empty beach town, and found a handful of r",
       "about": [
         "france"
       ],
-      "score": 1.481,
+      "score": 1.444,
       "n_outlets": 1,
       "last_seen": "2026-08-01T09:02:04+00:00",
       "sources": [
@@ -3304,7 +3449,7 @@
       ]
     },
     {
-      "id": 144,
+      "id": 154,
       "topic": "World & Politics",
       "title": "Oil billionaire Hamm seeks to expand in Argentina’s shale patch",
       "summary": "US shale pioneer Harold Hamm is moving to expand his footprint in Argentina’s Vaca Muerta oil basin. Leer más",
@@ -3312,7 +3457,7 @@
         "argentina",
         "us"
       ],
-      "score": 1.452,
+      "score": 1.417,
       "n_outlets": 1,
       "last_seen": "2026-08-01T08:17:18+00:00",
       "sources": [
@@ -3327,7 +3472,7 @@
       ]
     },
     {
-      "id": 147,
+      "id": 157,
       "topic": "World & Politics",
       "title": "Machthaber: Giorgia Meloni",
       "summary": "Wer regiert die Welt – und was treibt sie an? In unserem regelmäßigen Machthaber-Spezial geht es um die mächtigsten und umstrittensten Politikerinnen und Politiker unserer Zeit. Wir zeigen, wie sie de",
@@ -3335,7 +3480,7 @@
         "italy",
         "germany"
       ],
-      "score": 1.441,
+      "score": 1.407,
       "n_outlets": 1,
       "last_seen": "2026-08-01T08:00:00+00:00",
       "sources": [
@@ -3350,7 +3495,7 @@
       ]
     },
     {
-      "id": 148,
+      "id": 158,
       "topic": "World & Politics",
       "title": "Argentina and South Korea announce critical minerals partnership",
       "summary": "President Javier Milei met his South Korean counterpart, Lee Jae Myung, in Buenos Aires on Friday as the two countries sought to deepen cooperation in critical minerals, energy and trade. Leer más",
@@ -3358,7 +3503,7 @@
         "argentina",
         "koreasouth"
       ],
-      "score": 1.44,
+      "score": 1.406,
       "n_outlets": 1,
       "last_seen": "2026-08-01T07:58:21+00:00",
       "sources": [
@@ -3373,7 +3518,7 @@
       ]
     },
     {
-      "id": 157,
+      "id": 167,
       "topic": "Trading & Markets",
       "title": "EU relations, climate crisis and Gaza: why Ed Miliband is fired up by Foreign Office challenges",
       "summary": "Labour veteran is said to relish role that requires careful negotiation of Trump and impending G20 leadership Extraordinarily, given the importance of geopolitics, the office of foreign secretary has ",
@@ -3382,7 +3527,7 @@
         "israel",
         "uk"
       ],
-      "score": 1.406,
+      "score": 1.375,
       "n_outlets": 1,
       "last_seen": "2026-08-01T07:00:45+00:00",
       "sources": [
@@ -3397,14 +3542,14 @@
       ]
     },
     {
-      "id": 163,
+      "id": 173,
       "topic": "Technology",
       "title": "First Australian mass mortality event suspected as deadly bird flu virus rapidly escalates among native birds",
       "summary": "Helicopter surveillance finds dead and dying greater crested terns off South Australian coast as H5 virus spreads Get our breaking news email , free app or daily news podcast More than 80 dead and sic",
       "about": [
         "australia"
       ],
-      "score": 1.38,
+      "score": 1.35,
       "n_outlets": 1,
       "last_seen": "2026-08-01T06:12:27+00:00",
       "sources": [
@@ -3419,14 +3564,14 @@
       ]
     },
     {
-      "id": 166,
+      "id": 176,
       "topic": "World & Politics",
       "title": "Japan aims to rebuild two to five nuclear reactors by 2040s",
       "summary": "Power supply shortages are expected by the 2040s after aging reactors have been decommissioned.",
       "about": [
         "japan"
       ],
-      "score": 1.374,
+      "score": 1.345,
       "n_outlets": 1,
       "last_seen": "2026-08-01T06:01:00+00:00",
       "sources": [
@@ -3441,7 +3586,7 @@
       ]
     },
     {
-      "id": 167,
+      "id": 177,
       "topic": "Trading & Markets",
       "title": "‘A symbol of resistance’: the fight to save treehouse built on no man’s land next to Berlin Wall",
       "summary": "Supporters fear structure could be torn down as safety hazard and want it to become memorial to postwar foreign labourers in honour of its Turkish creator Sometimes the currents of history converge in",
@@ -3449,7 +3594,7 @@
         "germany",
         "turkey"
       ],
-      "score": 1.374,
+      "score": 1.345,
       "n_outlets": 1,
       "last_seen": "2026-08-01T06:00:45+00:00",
       "sources": [
@@ -3464,14 +3609,14 @@
       ]
     },
     {
-      "id": 169,
+      "id": 179,
       "topic": "World & Politics",
       "title": "Did 75,000 Students Cheat on a College-Entrance Exam in Mexico?",
       "summary": "The country’s largest public university is requiring all students who passed its entrance exam to take a new test after experts found evidence of widespread cheating, including with A.I.",
       "about": [
         "mexico"
       ],
-      "score": 1.373,
+      "score": 1.344,
       "n_outlets": 1,
       "last_seen": "2026-08-01T05:59:04+00:00",
       "sources": [
@@ -3486,7 +3631,7 @@
       ]
     },
     {
-      "id": 175,
+      "id": 185,
       "topic": "World & Politics",
       "title": "Humanitarian aid from Russian company delivered to Venezuela’s La Guaira state",
       "summary": "The shipment includes basic necessities and equipment for temporary accommodation centers, including beds, mattresses and disinfectants.",
@@ -3494,7 +3639,7 @@
         "russia",
         "venezuela"
       ],
-      "score": 1.338,
+      "score": 1.312,
       "n_outlets": 1,
       "last_seen": "2026-08-01T04:48:10+00:00",
       "sources": [
@@ -3509,7 +3654,7 @@
       ]
     },
     {
-      "id": 179,
+      "id": 189,
       "topic": "Economics",
       "title": "ECB official warns climate crisis poses growing threat to ‘core financial stability’",
       "summary": "Exclusive: As wildfires rage, Frank Elderson says more work needed to assess risk from collapse of ecosystem services A senior policymaker at the European Central Bank has said the climate emergency a",
@@ -3517,7 +3662,7 @@
         "eu",
         "india"
       ],
-      "score": 1.316,
+      "score": 1.292,
       "n_outlets": 1,
       "last_seen": "2026-08-01T04:00:41+00:00",
       "sources": [
@@ -3532,7 +3677,7 @@
       ]
     },
     {
-      "id": 183,
+      "id": 193,
       "topic": "World & Politics",
       "title": "‘Death Note’ musical eyes a London breakthrough",
       "summary": "Producers hope the hit adaptation opens the door for more Japanese original musicals overseas.",
@@ -3540,7 +3685,7 @@
         "uk",
         "japan"
       ],
-      "score": 1.293,
+      "score": 1.271,
       "n_outlets": 1,
       "last_seen": "2026-08-01T03:07:00+00:00",
       "sources": [
@@ -3555,7 +3700,7 @@
       ]
     },
     {
-      "id": 190,
+      "id": 199,
       "topic": "World & Politics",
       "title": "Japan’s ruling party MPs form group to protect US$2.1 billion trading card market",
       "summary": "Lawmakers from Japan’s ruling Liberal Democratic Party (LDP) have launched a group aimed at promoting the rapidly growing trading card industry, seeing its potential as a globally competitive content ",
@@ -3563,7 +3708,7 @@
         "japan",
         "us"
       ],
-      "score": 1.268,
+      "score": 1.247,
       "n_outlets": 1,
       "last_seen": "2026-08-01T02:01:12+00:00",
       "sources": [
@@ -3578,7 +3723,7 @@
       ]
     },
     {
-      "id": 191,
+      "id": 200,
       "topic": "World & Politics",
       "title": "Going Dutch: why taste of Hong Kong-style milk tea is Black and White",
       "summary": "A single canned ingredient imported from the Netherlands has quietly fuelled Hong Kong’s daily hustle for the past 85 years, evolving from a simple dairy product into part of the soul of local diner c",
@@ -3586,7 +3731,7 @@
         "netherlands",
         "china"
       ],
-      "score": 1.268,
+      "score": 1.247,
       "n_outlets": 1,
       "last_seen": "2026-08-01T02:01:07+00:00",
       "sources": [
@@ -3601,7 +3746,7 @@
       ]
     },
     {
-      "id": 200,
+      "id": 210,
       "topic": "Economics",
       "title": "Chinese families turn to cash and cautious stock bets as real estate avenues narrow",
       "summary": "Chinese families are fast retreating from real estate, with many holding large cash reserves now cautiously weighing stock investments, marking a stark contrast with South Korea, where retail investor",
@@ -3610,7 +3755,7 @@
         "brazil",
         "us"
       ],
-      "score": 1.246,
+      "score": 1.227,
       "n_outlets": 1,
       "last_seen": "2026-08-01T01:00:08+00:00",
       "sources": [
@@ -3625,14 +3770,14 @@
       ]
     },
     {
-      "id": 201,
+      "id": 211,
       "topic": "Technology",
       "title": "The Math Superstar Who’s Terrified of AI—and Just Took a Job at OpenAI",
       "summary": "Jacob Tsimerman won the biggest prize in math. Now he’s working on the most important problem of his career.",
       "about": [
         "koreasouth"
       ],
-      "score": 1.246,
+      "score": 1.227,
       "n_outlets": 1,
       "last_seen": "2026-08-01T01:00:00+00:00",
       "sources": [
@@ -3647,14 +3792,14 @@
       ]
     },
     {
-      "id": 202,
+      "id": 212,
       "topic": "World & Politics",
       "title": "BTS concert drives South Korea’s Busan foreign tourist numbers to record high",
       "summary": "Driven by a surge in visitors from across Asia and a blockbuster June stadium concert by K-pop juggernaut BTS, international tourism in South Korea’s southern port city of Busan shattered post-pandemi",
       "about": [
         "koreasouth"
       ],
-      "score": 1.243,
+      "score": 1.225,
       "n_outlets": 1,
       "last_seen": "2026-08-01T00:52:11+00:00",
       "sources": [
@@ -3669,7 +3814,7 @@
       ]
     },
     {
-      "id": 204,
+      "id": 214,
       "topic": "World & Politics",
       "title": "Ready player 3: India offers Asean a US-China alternative",
       "summary": "At a food fair in New Delhi, a vegetable exporter from the Philippines set out its wares: bags of dried moringa and lemongrass, bundles of taro leaves and a bowl of laing, the creamy coconut-milk stew",
@@ -3678,7 +3823,7 @@
         "china",
         "philippines"
       ],
-      "score": 1.226,
+      "score": 1.209,
       "n_outlets": 1,
       "last_seen": "2026-08-01T00:00:13+00:00",
       "sources": [
@@ -3693,14 +3838,14 @@
       ]
     },
     {
-      "id": 208,
+      "id": 218,
       "topic": "World & Politics",
       "title": "Death row inmates desperate to escape execution in Saudi Arabia call the BBC",
       "summary": "Dozens of Ethiopians are awaiting execution - some called the BBC to tell their stories.",
       "about": [
         "saudi"
       ],
-      "score": 1.22,
+      "score": 1.204,
       "n_outlets": 1,
       "last_seen": "2026-07-31T23:41:10+00:00",
       "sources": [
@@ -3715,14 +3860,14 @@
       ]
     },
     {
-      "id": 211,
+      "id": 221,
       "topic": "Economics",
       "title": "Argentina's central bank reform bill reaches the lower house: what would change",
       "summary": "Argentina's executive branch sent the bill to overhaul the central bank's charter to the Chamber of Deputies on Friday, a day after President Javier Milei outlined it in a nationwide broadcast. The me",
       "about": [
         "argentina"
       ],
-      "score": 1.211,
+      "score": 1.195,
       "n_outlets": 1,
       "last_seen": "2026-07-31T23:11:00+00:00",
       "sources": [
@@ -3737,7 +3882,7 @@
       ]
     },
     {
-      "id": 212,
+      "id": 222,
       "topic": "World & Politics",
       "title": "An American Mom Escapes From Europe’s Wildfires",
       "summary": "Rebecca Papin was vacationing with her children in France. They were at the beach when authorities went door-to-door telling people to leave.",
@@ -3745,7 +3890,7 @@
         "us",
         "france"
       ],
-      "score": 1.208,
+      "score": 1.192,
       "n_outlets": 1,
       "last_seen": "2026-07-31T23:00:00+00:00",
       "sources": [
@@ -3760,7 +3905,7 @@
       ]
     },
     {
-      "id": 218,
+      "id": 228,
       "topic": "World & Politics",
       "title": "US, Israel plan to carry out large-scale strikes on Iran’s energy infrastructure — TV",
       "summary": "Energy infrastructure including power plants and refineries, would likely be targeted",
@@ -3769,7 +3914,7 @@
         "israel",
         "us"
       ],
-      "score": 1.203,
+      "score": 1.187,
       "n_outlets": 1,
       "last_seen": "2026-07-31T22:40:24+00:00",
       "sources": [
@@ -3784,14 +3929,14 @@
       ]
     },
     {
-      "id": 220,
+      "id": 230,
       "topic": "World & Politics",
       "title": "‘The Secret Battlefield’: An inside view of the machinery of war",
       "summary": "Yuya Ishii's historical drama about the Japanese think tank that failed to avert the Pacific War can't shake its made-for-TV origins, but it's a valuable cautionary tale.",
       "about": [
         "japan"
       ],
-      "score": 1.194,
+      "score": 1.179,
       "n_outlets": 1,
       "last_seen": "2026-07-31T22:10:00+00:00",
       "sources": [
@@ -3806,14 +3951,14 @@
       ]
     },
     {
-      "id": 228,
+      "id": 238,
       "topic": "World & Politics",
       "title": "Greyhounds bound for Australia as New Zealand racing ban takes effect",
       "summary": "At least two chartered flights carrying up to 150 greyhounds are set to fly to Australia's eastern states, the BBC understands.",
       "about": [
         "australia"
       ],
-      "score": 1.179,
+      "score": 1.165,
       "n_outlets": 1,
       "last_seen": "2026-07-31T21:09:39+00:00",
       "sources": [
@@ -3828,14 +3973,14 @@
       ]
     },
     {
-      "id": 230,
+      "id": 240,
       "topic": "World & Politics",
       "title": "Missing Australian hiker found dead in Wyoming, officials say",
       "summary": "Body of William Standish discovered in Teton mountains as investigators say fatal fall likely cause of death A 28-year-old Australian hiker who lost contact with his family while hiking the Continenta",
       "about": [
         "australia"
       ],
-      "score": 1.178,
+      "score": 1.164,
       "n_outlets": 1,
       "last_seen": "2026-07-31T21:06:30+00:00",
       "sources": [
@@ -3850,7 +3995,7 @@
       ]
     },
     {
-      "id": 232,
+      "id": 242,
       "topic": "World & Politics",
       "title": "Opinion | We Live in ‘a New World of Counterhistory’",
       "summary": "Historian Simon Sebag Montefiore is no fan of Benjamin Netanyahu but says there won’t be a Palestinian state for ‘decades.’",
@@ -3858,7 +4003,7 @@
         "israel",
         "koreasouth"
       ],
-      "score": 1.177,
+      "score": 1.163,
       "n_outlets": 1,
       "last_seen": "2026-07-31T21:03:00+00:00",
       "sources": [
@@ -3873,7 +4018,7 @@
       ]
     },
     {
-      "id": 233,
+      "id": 243,
       "topic": "Economics",
       "title": "Chile’s Kast courts China day after US hits exports with forced labour tariff",
       "summary": "Chilean President Jose Antonio Kast received China’s ambassador to Santiago, Niu Qingbao, at the La Moneda Palace on Friday morning, in an encounter that lasted more than an hour and marked the first ",
@@ -3882,7 +4027,7 @@
         "china",
         "us"
       ],
-      "score": 1.176,
+      "score": 1.163,
       "n_outlets": 1,
       "last_seen": "2026-07-31T21:00:29+00:00",
       "sources": [
@@ -3897,7 +4042,7 @@
       ]
     },
     {
-      "id": 239,
+      "id": 249,
       "topic": "World & Politics",
       "title": "Polish foreign ministry presents note of protest to Russian ambassador",
       "summary": "Polish foreign ministry spokesperson Maciej Wewior noted that it was a very brief, professional meeting",
@@ -3905,7 +4050,7 @@
         "poland",
         "russia"
       ],
-      "score": 1.169,
+      "score": 1.156,
       "n_outlets": 1,
       "last_seen": "2026-07-31T20:31:00+00:00",
       "sources": [
@@ -3920,14 +4065,14 @@
       ]
     },
     {
-      "id": 240,
+      "id": 250,
       "topic": "Economics",
-      "title": "Treasury Yields Rise in Month That Saw Inflation Fears Revive",
-      "summary": "Treasurys sold off and yields ended the month higher as renewed geopolitical tensions revived energy-inflation fears.",
+      "title": "Eurozone Inflation Rebounds as High Energy Prices Persist",
+      "summary": "Inflation rose further above the ECB’s target, with the future path of price rises heavily dependent on the development of the conflict in the Middle East.",
       "about": [
         "eu"
       ],
-      "score": 1.162,
+      "score": 1.15,
       "n_outlets": 1,
       "last_seen": "2026-07-31T20:00:00+00:00",
       "sources": [
@@ -3935,21 +4080,21 @@
           "outlet": "The Wall Street Journal",
           "country": "us",
           "lean": "right",
-          "title": "Treasury Yields Rise in Month That Saw Inflation Fears Revive",
-          "url": "https://www.wsj.com/finance/jgbs-edge-lower-ahead-of-bojs-rate-decision-000cd87a?mod=rss_markets_main",
-          "published": "2026-07-31T20:00:00+00:00"
+          "title": "Eurozone Inflation Rebounds as High Energy Prices Persist",
+          "url": "https://www.wsj.com/world/europe/french-inflation-climbs-on-firmer-energy-services-prices-912c6d33",
+          "published": "2026-07-31T13:18:00+00:00"
         }
       ]
     },
     {
-      "id": 248,
+      "id": 258,
       "topic": "World & Politics",
       "title": "Young Men Poured Into Ceuta Seeking Work",
       "summary": "Several migrants said they had been motivated by social media messages claiming that the Spanish border was open, though the origin of those messages remained unclear.",
       "about": [
         "spain"
       ],
-      "score": 1.153,
+      "score": 1.141,
       "n_outlets": 1,
       "last_seen": "2026-07-31T19:18:46+00:00",
       "sources": [
@@ -3964,7 +4109,7 @@
       ]
     },
     {
-      "id": 249,
+      "id": 259,
       "topic": "Economics",
       "title": "Canada Approves Big Nickel Mine in Northern Ontario",
       "summary": "Canada’s government has approved the development of what promises to be the largest nickel mine in the Western world, part of Ottawa’s efforts to fast-track major projects it hopes will bolster the ec",
@@ -3972,7 +4117,7 @@
         "canada",
         "us"
       ],
-      "score": 1.153,
+      "score": 1.141,
       "n_outlets": 1,
       "last_seen": "2026-07-31T19:17:00+00:00",
       "sources": [
@@ -3987,14 +4132,14 @@
       ]
     },
     {
-      "id": 255,
+      "id": 266,
       "topic": "Economics",
       "title": "Brazil's top court authorizes influence-peddling probe into Lula's eldest son",
       "summary": "Brazilian Supreme Federal Court Justice André Mendonça authorized the Federal Police on Thursday to open an investigation into Fábio Luís Lula da Silva, the eldest son of President Luiz Inácio Lula da",
       "about": [
         "brazil"
       ],
-      "score": 1.144,
+      "score": 1.133,
       "n_outlets": 1,
       "last_seen": "2026-07-31T18:35:00+00:00",
       "sources": [
@@ -4009,7 +4154,7 @@
       ]
     },
     {
-      "id": 261,
+      "id": 272,
       "topic": "World & Politics",
       "title": "Opinion | Our Legislation Is Against China, Not Mercedes Benz",
       "summary": "The Connected Vehicle Security Act isn’t hard for the German automaker to comply with and is a vital step to countering Beijing.",
@@ -4017,7 +4162,7 @@
         "china",
         "germany"
       ],
-      "score": 1.132,
+      "score": 1.122,
       "n_outlets": 1,
       "last_seen": "2026-07-31T17:34:00+00:00",
       "sources": [
@@ -4032,7 +4177,7 @@
       ]
     },
     {
-      "id": 264,
+      "id": 275,
       "topic": "World & Politics",
       "title": "Kyiv rapper Zipulya is drafted into Ukrainian military after a five-minute medical exam that he says ignored his disability",
       "summary": "Zipulya, a Kyiv rapper and blogger whose real name is Andriy Posysaev, has been mobilized into the Ukrainian military, according to a post on his Instagram page.",
@@ -4040,7 +4185,7 @@
         "ukraine",
         "brazil"
       ],
-      "score": 1.129,
+      "score": 1.119,
       "n_outlets": 1,
       "last_seen": "2026-07-31T17:14:12+00:00",
       "sources": [
@@ -4055,7 +4200,30 @@
       ]
     },
     {
-      "id": 272,
+      "id": 279,
+      "topic": "Sports",
+      "title": "Trump administration slams Spain’s Sánchez for migrant ‘invasion’ of Ceuta",
+      "summary": "Department of State called influx a \"direct result\" of Madrid's openness to migration.",
+      "about": [
+        "spain",
+        "us"
+      ],
+      "score": 1.113,
+      "n_outlets": 1,
+      "last_seen": "2026-07-31T16:37:36+00:00",
+      "sources": [
+        {
+          "outlet": "Politico Europe",
+          "country": "eu",
+          "lean": "center",
+          "title": "Trump administration slams Spain’s Sánchez for migrant ‘invasion’ of Ceuta",
+          "url": "https://www.politico.eu/article/donald-trump-criticizes-spain-pedro-sanchez-over-ceuta-migration/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "published": "2026-07-31T16:37:36+00:00"
+        }
+      ]
+    },
+    {
+      "id": 283,
       "topic": "World & Politics",
       "title": "HIV prevention drug could reduce cases globally but USAID cuts prevent access, say experts",
       "summary": "Injectable PrEP drug holds promise but investment in HIV prevention has declined dramatically worldwide Sign up for the Breaking News US newsletter email New innovations in HIV prevention could dramat",
@@ -4063,7 +4231,7 @@
         "brazil",
         "us"
       ],
-      "score": 1.121,
+      "score": 1.112,
       "n_outlets": 1,
       "last_seen": "2026-07-31T16:29:14+00:00",
       "sources": [
@@ -4078,14 +4246,14 @@
       ]
     },
     {
-      "id": 273,
+      "id": 284,
       "topic": "Trading & Markets",
       "title": "Universal Music Shares Have Worst Day Since IPO After Subscription Growth Disappoints",
       "summary": "The music company’s stock closed 25% lower in Amsterdam after revenue from subscriptions disappointed investors.",
       "about": [
         "netherlands"
       ],
-      "score": 1.121,
+      "score": 1.112,
       "n_outlets": 1,
       "last_seen": "2026-07-31T16:28:00+00:00",
       "sources": [
@@ -4100,7 +4268,7 @@
       ]
     },
     {
-      "id": 274,
+      "id": 285,
       "topic": "Trading & Markets",
       "title": "India calls for global scrutiny over Pakistan’s ‘ruthless’ crackdown in PoK",
       "summary": "The PoK has been witnessing massive protests since last month over inflated living costs, alleged administrative apathy and political discrimination and atrocities against minorities",
@@ -4108,7 +4276,7 @@
         "india",
         "pakistan"
       ],
-      "score": 1.121,
+      "score": 1.111,
       "n_outlets": 1,
       "last_seen": "2026-07-31T16:27:38+00:00",
       "sources": [
@@ -4123,39 +4291,15 @@
       ]
     },
     {
-      "id": 281,
-      "topic": "World & Politics",
-      "title": "Convicted of ‘treason’ in Russia, journalist Darya Shipacheva was sentenced to 12 years in prison. Almost nothing is known about her case. Here’s what her friend revealed.",
-      "summary": "In spring 2025, security forces detained 34-year-old Darya Shipacheva at her Moscow apartment and took her to the pretrial detention center in Rostov-on-Don, from which she was transferred to the Lefo",
-      "about": [
-        "russia",
-        "ukraine",
-        "brazil"
-      ],
-      "score": 1.112,
-      "n_outlets": 1,
-      "last_seen": "2026-07-31T15:35:12+00:00",
-      "sources": [
-        {
-          "outlet": "Meduza",
-          "country": "russia",
-          "lean": "center",
-          "title": "Convicted of ‘treason’ in Russia, journalist Darya Shipacheva was sentenced to 12 years in prison. Almost nothing is known about her case. Here’s what her friend revealed.",
-          "url": "https://meduza.io/en/feature/2026/07/31/convicted-of-treason-in-russia-journalist-darya-shipacheva-was-sentenced-to-12-years-in-prison-almost-nothing-is-known-about-her-case-here-s-what-her-friend-revealed",
-          "published": "2026-07-31T15:35:12+00:00"
-        }
-      ]
-    },
-    {
-      "id": 283,
+      "id": 293,
       "topic": "Technology",
-      "title": "The rise and fall of Alan Jones, once one of Australia's most influential radio hosts – video",
-      "summary": "Born in regional Queensland in 1941 or 1943 - depending on who you ask - Alan Jones started his career as a school teacher. He ran for politics, and coached Australia's national rugby union team befor",
+      "title": "Alan Jones wielded huge power, but now the legacy of his four-decade career will be decided by four months in court",
+      "summary": "The 85-year-old former broadcaster has pleaded not guilty to 22 charges involving alleged assault with an act of indecency and sexual touching without consent Get our breaking news email , free app or",
       "about": [
         "uk",
         "australia"
       ],
-      "score": 1.107,
+      "score": 1.099,
       "n_outlets": 1,
       "last_seen": "2026-07-31T15:00:19+00:00",
       "sources": [
@@ -4163,21 +4307,21 @@
           "outlet": "The Guardian Australia",
           "country": "australia",
           "lean": "left",
-          "title": "The rise and fall of Alan Jones, once one of Australia's most influential radio hosts – video",
-          "url": "https://www.theguardian.com/global/video/2026/jul/31/the-rise-and-fall-of-alan-jones-once-one-of-australias-most-influential-radio-hosts-video",
-          "published": "2026-07-31T10:08:59+00:00"
+          "title": "Alan Jones wielded huge power, but now the legacy of his four-decade career will be decided by four months in court",
+          "url": "https://www.theguardian.com/australia-news/2026/aug/01/alan-jones-wielded-huge-power-but-now-the-legacy-of-his-four-decade-career-will-be-decided-by-four-months-in-court",
+          "published": "2026-07-31T15:00:19+00:00"
         }
       ]
     },
     {
-      "id": 285,
+      "id": 295,
       "topic": "Technology",
       "title": "Where is the money coming from? Albanese, Taylor and Hanson don’t want to talk about it – and that’s a problem | Tom McIlroy",
       "summary": "As leaders dodged questions about fundraising activities this week, is it any wonder faith in politics is so low? Get our breaking news email , free app or daily news podcast When Peter Malinauskas mo",
       "about": [
         "australia"
       ],
-      "score": 1.107,
+      "score": 1.099,
       "n_outlets": 1,
       "last_seen": "2026-07-31T15:00:18+00:00",
       "sources": [
@@ -4192,14 +4336,14 @@
       ]
     },
     {
-      "id": 286,
+      "id": 296,
       "topic": "World & Politics",
       "title": "Sydney, you were a dream of warmth and ease. When I returned to wintry Melbourne, time collapsed – and the city was still romantic",
       "summary": "A few years after graduating, I moved north and got lucky. It was like riding a smooth, perfect wave that would never hit the shore I went to a wedding in Sydney when I was 12, arriving from the gloom",
       "about": [
         "australia"
       ],
-      "score": 1.107,
+      "score": 1.099,
       "n_outlets": 1,
       "last_seen": "2026-07-31T15:00:18+00:00",
       "sources": [
@@ -4214,14 +4358,14 @@
       ]
     },
     {
-      "id": 288,
+      "id": 298,
       "topic": "Science",
       "title": "Gunther von Hagens, Creator of Polarizing ‘Body Worlds’ Exhibits, Dies at 81",
       "summary": "A German scientist, he developed a process for turning corpses into posable figures. His shows drew millions of visitors, and many detractors.",
       "about": [
         "germany"
       ],
-      "score": 1.102,
+      "score": 1.094,
       "n_outlets": 1,
       "last_seen": "2026-07-31T14:24:41+00:00",
       "sources": [
@@ -4236,14 +4380,14 @@
       ]
     },
     {
-      "id": 307,
+      "id": 317,
       "topic": "Science",
       "title": "‘This Is Very Strange’: Ancient Smallpox May Have Been Less Deadly",
       "summary": "Scientists have found smallpox viruses in the remains of people in Chile from around 500 years ago, revealing how the virus may have evolved into a global killer.",
       "about": [
         "chile"
       ],
-      "score": 1.082,
+      "score": 1.075,
       "n_outlets": 1,
       "last_seen": "2026-07-31T11:46:57+00:00",
       "sources": [
@@ -4258,7 +4402,7 @@
       ]
     },
     {
-      "id": 311,
+      "id": 321,
       "topic": "Technology",
       "title": "Selling Burritos Back to Mexico: Chipotle’s Bold Expansion",
       "summary": "As the Mexican-inspired American chain makes its debut in Mexico, it faces a major hurdle: convincing Mexicans to buy an Americanized take on their own national cuisine.",
@@ -4266,7 +4410,7 @@
         "mexico",
         "us"
       ],
-      "score": 1.077,
+      "score": 1.071,
       "n_outlets": 1,
       "last_seen": "2026-07-31T11:03:09+00:00",
       "sources": [
@@ -4281,7 +4425,7 @@
       ]
     },
     {
-      "id": 323,
+      "id": 333,
       "topic": "World & Politics",
       "title": "Criminal tourism: Inside the Chilean burglary network targeting sports stars",
       "summary": "How a gang accused of raiding Juan Martín del Potro's home fits into an international criminal network that has targeted elite athletes across the Americas and Europe. Leer más",
@@ -4289,7 +4433,7 @@
         "chile",
         "us"
       ],
-      "score": 1.069,
+      "score": 1.063,
       "n_outlets": 1,
       "last_seen": "2026-07-31T09:40:00+00:00",
       "sources": [
@@ -4304,14 +4448,14 @@
       ]
     },
     {
-      "id": 324,
+      "id": 334,
       "topic": "World & Politics",
       "title": "Fernández de Kirchner asks UN to suspend the ban keeping her off the ballot",
       "summary": "The defense team of former Argentine president Cristina Fernández de Kirchner has filed an individual communication with the United Nations Human Rights Committee seeking suspension of the lifetime ba",
       "about": [
         "argentina"
       ],
-      "score": 1.068,
+      "score": 1.063,
       "n_outlets": 1,
       "last_seen": "2026-07-31T09:39:00+00:00",
       "sources": [
@@ -4326,14 +4470,14 @@
       ]
     },
     {
-      "id": 327,
+      "id": 337,
       "topic": "World & Politics",
       "title": "German Authorities Knew of Pride Attacker’s Extremism",
       "summary": "The assailant, a German citizen, was imprisoned after trying to join the Islamic State but freed weeks before attacking a gay Pride event in Berlin.",
       "about": [
         "germany"
       ],
-      "score": 1.065,
+      "score": 1.06,
       "n_outlets": 1,
       "last_seen": "2026-07-31T09:03:16+00:00",
       "sources": [
@@ -4348,7 +4492,7 @@
       ]
     },
     {
-      "id": 333,
+      "id": 343,
       "topic": "Economics",
       "title": "HSBC to sell US$25b of Australian home loans to Blackstone at a loss of less than US$100m",
       "summary": "HSBC Holdings has agreed to sell its US$25 billion Australian home loan portfolio to a unit of Blackstone, which is expected to result in an immaterial pre-tax loss of less than US$100 million for the",
@@ -4356,7 +4500,7 @@
         "australia",
         "us"
       ],
-      "score": 1.062,
+      "score": 1.058,
       "n_outlets": 1,
       "last_seen": "2026-07-31T08:33:17+00:00",
       "sources": [
@@ -4371,14 +4515,14 @@
       ]
     },
     {
-      "id": 334,
+      "id": 344,
       "topic": "World & Politics",
       "title": "Japan launches National Intelligence Bureau in bid to streamline intelligence",
       "summary": "For Prime Minister Sanae Takaichi, who has sought to modernize Japan's intelligence system, the upgrade represents a political win and the foundation for a broader overhaul.",
       "about": [
         "japan"
       ],
-      "score": 1.062,
+      "score": 1.058,
       "n_outlets": 1,
       "last_seen": "2026-07-31T08:33:00+00:00",
       "sources": [
@@ -4393,14 +4537,14 @@
       ]
     },
     {
-      "id": 340,
+      "id": 350,
       "topic": "Economics",
       "title": "Stability alone does not buy a house: Georgieva's message in Montevideo",
       "summary": "International Monetary Fund Managing Director Kristalina Georgieva praised Uruguay's macroeconomic and institutional strength on Thursday but urged authorities to take greater risks to turn that stabi",
       "about": [
         "uruguay"
       ],
-      "score": 1.06,
+      "score": 1.055,
       "n_outlets": 1,
       "last_seen": "2026-07-31T08:02:00+00:00",
       "sources": [
@@ -4415,14 +4559,14 @@
       ]
     },
     {
-      "id": 342,
+      "id": 352,
       "topic": "Trading & Markets",
       "title": "Icac hears of friendship breakdown between Reformers members – as it happened",
       "summary": "This blog is now closed Get our breaking news email , free app or daily news podcast eSafety commissioner says court action against Telegram ‘very significant’ Julie Inman Grant, the eSafety commissio",
       "about": [
         "australia"
       ],
-      "score": 1.059,
+      "score": 1.055,
       "n_outlets": 1,
       "last_seen": "2026-07-31T07:53:29+00:00",
       "sources": [
@@ -4437,14 +4581,14 @@
       ]
     },
     {
-      "id": 349,
+      "id": 359,
       "topic": "Trading & Markets",
       "title": "South Korean shares soar after chip stock rout",
       "summary": "It comes after a three-day rout that wiped hundreds of billions of dollars off the value of the country's stock market.",
       "about": [
         "koreasouth"
       ],
-      "score": 1.055,
+      "score": 1.05,
       "n_outlets": 1,
       "last_seen": "2026-07-31T06:56:02+00:00",
       "sources": [
@@ -4459,14 +4603,14 @@
       ]
     },
     {
-      "id": 350,
+      "id": 360,
       "topic": "World & Politics",
       "title": "Drugged Malaysian pilot risks death penalty for smuggling in Indonesia",
       "summary": "Customs officials found 14 bags of ecstasy — more than 70,000 pills — in the pilot's suitcase and 4 grams of meth, thought to be for personal use, in his hand luggage.",
       "about": [
         "indonesia"
       ],
-      "score": 1.055,
+      "score": 1.05,
       "n_outlets": 1,
       "last_seen": "2026-07-31T06:56:00+00:00",
       "sources": [
@@ -4477,51 +4621,6 @@
           "title": "Drugged Malaysian pilot risks death penalty for smuggling in Indonesia",
           "url": "https://www.japantimes.co.jp/news/2026/07/31/asia-pacific/malaysia-drug-smuggling-pilot/",
           "published": "2026-07-31T06:56:00+00:00"
-        }
-      ]
-    },
-    {
-      "id": 352,
-      "topic": "World & Politics",
-      "title": "Tanikawa’s homecoming highlights her rapid rise with Bayern",
-      "summary": "Returning to Japan in Bayern colors, Momoko Tanikawa reflected on her rapid development in Germany before helping the Bundesliga champion open its preseason with a win in Saitama.",
-      "about": [
-        "germany",
-        "japan"
-      ],
-      "score": 1.051,
-      "n_outlets": 1,
-      "last_seen": "2026-07-31T06:12:00+00:00",
-      "sources": [
-        {
-          "outlet": "The Japan Times",
-          "country": "japan",
-          "lean": "center",
-          "title": "Tanikawa’s homecoming highlights her rapid rise with Bayern",
-          "url": "https://www.japantimes.co.jp/sports/2026/07/31/soccer/momoko-tanikawa-interview-bayern/",
-          "published": "2026-07-31T06:12:00+00:00"
-        }
-      ]
-    },
-    {
-      "id": 353,
-      "topic": "World & Politics",
-      "title": "A Whale Gave Birth. A Drone Was There to Capture the Spectacle.",
-      "summary": "A wildlife photographer noticed a humpback whale displaying unusual behavior off Australia’s east coast, then something extraordinary happened.",
-      "about": [
-        "australia"
-      ],
-      "score": 1.05,
-      "n_outlets": 1,
-      "last_seen": "2026-07-31T05:49:53+00:00",
-      "sources": [
-        {
-          "outlet": "The New York Times",
-          "country": "us",
-          "lean": "left",
-          "title": "A Whale Gave Birth. A Drone Was There to Capture the Spectacle.",
-          "url": "https://www.nytimes.com/2026/07/31/world/australia/humpback-whale-birth-video-drone.html",
-          "published": "2026-07-31T05:49:53+00:00"
         }
       ]
     }
