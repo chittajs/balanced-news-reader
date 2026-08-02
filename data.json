@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T20:34:34.155102+00:00",
+  "generated_at": "2026-08-02T21:34:25.441840+00:00",
   "topics": [
     "World & Politics",
     "Economics",
@@ -14,7 +14,7 @@
       "name": "United States",
       "lat": 39.0,
       "lng": -98.0,
-      "count": 23
+      "count": 24
     },
     {
       "id": "europe",
@@ -28,70 +28,71 @@
       "name": "China",
       "lat": 35.0,
       "lng": 105.0,
-      "count": 16
+      "count": 14
     },
     {
       "id": "india",
       "name": "India",
       "lat": 22.0,
       "lng": 79.0,
-      "count": 20
+      "count": 18
     },
     {
       "id": "australia",
       "name": "Australia",
       "lat": -25.0,
       "lng": 134.0,
-      "count": 3
+      "count": 4
     },
     {
       "id": "south_america",
       "name": "South America",
       "lat": -12.0,
       "lng": -58.0,
-      "count": 4
+      "count": 5
     },
     {
       "id": "africa",
       "name": "Africa",
       "lat": 2.0,
       "lng": 21.0,
-      "count": 3
+      "count": 4
     },
     {
       "id": "japan",
       "name": "Japan",
       "lat": 36.5,
       "lng": 139.0,
-      "count": 6
+      "count": 7
     },
     {
       "id": "russia",
       "name": "Russia",
       "lat": 61.0,
       "lng": 90.0,
-      "count": 17
+      "count": 16
     }
   ],
   "clusters": [
     {
-      "id": 8,
+      "id": 37,
       "topic": "World & Politics",
-      "label": "Iran · Trump · strikes",
+      "label": "Iran · Trump · deal",
       "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
       "summary": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
-      "score": 16.976,
+      "score": 16.921,
       "n_outlets": 16,
-      "n_articles": 24,
+      "n_articles": 25,
       "regions": [
         "china",
         "europe",
         "india",
         "japan",
         "russia",
+        "south_america",
         "us"
       ],
-      "last_seen": "2026-08-02T20:16:50+00:00",
+      "last_seen": "2026-08-02T20:35:00+00:00",
       "leans": [
         "center",
         "left",
@@ -286,6 +287,19 @@
           "access": "unknown"
         },
         {
+          "outlet": "MercoPress",
+          "region": "south_america",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Trump halts strikes on Iran as Tehran denies any deal exists",
+          "url": "https://en.mercopress.com/2026/08/02/trump-halts-strikes-on-iran-as-tehran-denies-any-deal-exists?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+          "published": "2026-08-02T20:00:00+00:00",
+          "orig_title": "Trump halts strikes on Iran as Tehran denies any deal exists",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
           "outlet": "Politico Europe",
           "region": "europe",
           "lean": "center",
@@ -325,19 +339,6 @@
           "lang": "en",
           "translated": false,
           "access": "open"
-        },
-        {
-          "outlet": "The Hill",
-          "region": "us",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Live updates: Trump holds off on Iran strikes; RFK Jr. clashes with CNN's Bash",
-          "url": "https://thehill.com/homenews/administration/6003957-live-updates-trump-cancels-iran-strike/",
-          "published": "2026-08-02T15:18:00+00:00",
-          "orig_title": "Live updates: Trump holds off on Iran strikes; RFK Jr. clashes with CNN's Bash",
-          "lang": "en",
-          "translated": false,
-          "access": "unknown"
         },
         {
           "outlet": "The Japan Times",
@@ -383,14 +384,27 @@
           "region": "us",
           "lean": "right",
           "ownership": "private",
-          "title": "Trump Calls Off Planned Attack on Iran, Citing Diplomatic Progress",
-          "url": "https://www.wsj.com/world/middle-east/iran-stokes-the-middle-east-war-with-drone-attacks-on-kuwait-f25530a0",
-          "published": "2026-08-02T03:56:00+00:00",
-          "orig_title": "Trump Calls Off Planned Attack on Iran, Citing Diplomatic Progress",
+          "title": "Opinion | Trump’s Latest Iran ‘DEAL’",
+          "url": "https://www.wsj.com/opinion/trumps-latest-iran-deal-7c90e6cc",
+          "published": "2026-08-02T20:35:00+00:00",
+          "orig_title": "Opinion | Trump’s Latest Iran ‘DEAL’",
           "lang": "en",
           "translated": false,
           "access": "paywall",
           "more": [
+            {
+              "outlet": "The Wall Street Journal",
+              "region": "us",
+              "lean": "right",
+              "ownership": "private",
+              "title": "Trump Calls Off Planned Attack on Iran, Citing Diplomatic Progress",
+              "url": "https://www.wsj.com/world/middle-east/iran-stokes-the-middle-east-war-with-drone-attacks-on-kuwait-f25530a0",
+              "published": "2026-08-02T03:56:00+00:00",
+              "orig_title": "Trump Calls Off Planned Attack on Iran, Citing Diplomatic Progress",
+              "lang": "en",
+              "translated": false,
+              "access": "paywall"
+            },
             {
               "outlet": "The Wall Street Journal",
               "region": "us",
@@ -422,21 +436,21 @@
       ]
     },
     {
-      "id": 73,
+      "id": 36,
       "topic": "World & Politics",
-      "label": "Moscow · restaurant · killed",
+      "label": "Moscow · restaurant · Mayor",
       "title": "At the scene of deadly Moscow bomb blast",
       "summary": "Three people have been killed and 21 injured after an explosive device detonated at an Italian restaurant, Russian media reports.",
-      "score": 11.735,
+      "score": 11.923,
       "n_outlets": 11,
-      "n_articles": 16,
+      "n_articles": 15,
       "regions": [
         "europe",
         "india",
         "russia",
         "us"
       ],
-      "last_seen": "2026-08-02T16:52:35+00:00",
+      "last_seen": "2026-08-02T20:36:53+00:00",
       "leans": [
         "center",
         "left",
@@ -468,7 +482,22 @@
           "orig_title": "3 people killed, at least 21 wounded in Moscow restaurant bombing, Russian officials say",
           "lang": "en",
           "translated": false,
-          "access": "open"
+          "access": "open",
+          "more": [
+            {
+              "outlet": "The Hindu",
+              "region": "india",
+              "lean": "left",
+              "ownership": "private",
+              "title": "Moscow Mayor calls deadly bomb attack on a restaurant a 'terrorist act'",
+              "url": "https://www.thehindu.com/news/international/moscow-mayor-calls-deadly-bomb-attack-on-a-restaurant-a-terrorist-act/article71299021.ece",
+              "published": "2026-08-02T20:36:53+00:00",
+              "orig_title": "Moscow Mayor calls deadly bomb attack on a restaurant a 'terrorist act'",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            }
+          ]
         },
         {
           "outlet": "The New York Times",
@@ -549,19 +578,6 @@
               "lang": "ru",
               "translated": true,
               "access": "unknown"
-            },
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Three killed in shooting at Idaho restaurant",
-              "url": "https://www.kommersant.ru/doc/8860984",
-              "published": "2026-08-02T15:21:51+00:00",
-              "orig_title": "Жертвами стрельбы в ресторане в Айдахо стали три человека",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
             }
           ]
         },
@@ -637,38 +653,23 @@
           "region": "russia",
           "lean": "state",
           "ownership": "state",
-          "title": "Number of wounded in Moscow cafe blast rises to 21 — National Anti-Terrorism Committee",
-          "url": "https://tass.com/emergencies/2168033",
-          "published": "2026-08-01T20:31:01+00:00",
-          "orig_title": "Number of wounded in Moscow cafe blast rises to 21 — National Anti-Terrorism Committee",
+          "title": "Moscow mayor conveys condolences to families of persons killed in restaurant blast",
+          "url": "https://tass.com/society/2168127",
+          "published": "2026-08-02T11:50:00+00:00",
+          "orig_title": "Moscow mayor conveys condolences to families of persons killed in restaurant blast",
           "lang": "en",
           "translated": false,
-          "access": "open",
-          "more": [
-            {
-              "outlet": "TASS",
-              "region": "russia",
-              "lean": "state",
-              "ownership": "state",
-              "title": "Moscow mayor conveys condolences to families of persons killed in restaurant blast",
-              "url": "https://tass.com/society/2168127",
-              "published": "2026-08-02T11:50:00+00:00",
-              "orig_title": "Moscow mayor conveys condolences to families of persons killed in restaurant blast",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
-            }
-          ]
+          "access": "open"
         }
       ]
     },
     {
-      "id": 104,
+      "id": 131,
       "topic": "World & Politics",
       "label": "Purja · Pakistan · Nirmal",
       "title": "Nirmal Purja, Renowned Mountaineer, Is Found Dead After Pakistan Avalanche",
       "summary": "The British-Nepali mountaineer was one of 10 climbers who were struck by an avalanche on Thursday on Broad Peak, one of the world’s highest mountains.",
-      "score": 11.662,
+      "score": 11.609,
       "n_outlets": 11,
       "n_articles": 15,
       "regions": [
@@ -889,263 +890,22 @@
       ]
     },
     {
-      "id": 9,
+      "id": 31,
       "topic": "World & Politics",
-      "label": "Ceuta · Spain · Morocco",
-      "title": "Death toll from migrant rush into Spain’s Ceuta rises to 72",
-      "summary": "The death toll from Thursday’s mass rush into Spain’s North African enclave of Ceuta from Morocco reached at least 72 on Sunday as five more bodies were found along Ceuta’s coast, officials said. More",
-      "score": 10.974,
+      "label": "Greece · Two · helicopters",
+      "title": "Two crew killed as firefighting helicopters collide in midair in Greece",
+      "summary": "Two crew members were killed on Sunday when two helicopters battling a wildfire collided in midair in the Psatha area, on the boundary between Attica and Boeotia northwest of Athens, the Hellenic Fire",
+      "score": 10.931,
       "n_outlets": 10,
-      "n_articles": 16,
-      "regions": [
-        "china",
-        "europe",
-        "india",
-        "japan",
-        "russia",
-        "us"
-      ],
-      "last_seen": "2026-08-02T20:15:24+00:00",
-      "leans": [
-        "center",
-        "left",
-        "right"
-      ],
-      "sources": [
-        {
-          "outlet": "El Pais",
-          "region": "europe",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Ceuta Crisis: The Crucial Hours When Morocco Challenged Spain",
-          "url": "https://elpais.com/espana/2026-08-02/los-tres-dias-de-horror-que-acorralaron-a-ceuta.html",
-          "published": "2026-08-02T03:30:01+00:00",
-          "orig_title": "Crisis de Ceuta: las horas cruciales en que Marruecos puso en jaque a España",
-          "lang": "es",
-          "translated": true,
-          "access": "unknown",
-          "more": [
-            {
-              "outlet": "El Pais",
-              "region": "europe",
-              "lean": "left",
-              "ownership": "private",
-              "title": "Border deaths continue filling makeshift morgue in Ceuta",
-              "url": "https://elpais.com/espana/2026-08-02/los-fallecidos-en-la-frontera-siguen-llenando-la-gran-morgue-improvisada-en-ceuta.html",
-              "published": "2026-08-02T19:12:49+00:00",
-              "orig_title": "Los fallecidos en la frontera siguen llenando la gran morgue improvisada en Ceuta",
-              "lang": "es",
-              "translated": true,
-              "access": "unknown"
-            },
-            {
-              "outlet": "El Pais",
-              "region": "europe",
-              "lean": "left",
-              "ownership": "private",
-              "title": "Morocco acknowledges 11 deaths on its territory from Ceuta landslide, presents itself as reliable partner",
-              "url": "https://elpais.com/espana/2026-08-02/marruecos-impone-la-ley-del-silencio-sobre-el-drama-de-las-decenas-de-muertos-en-la-frontera.html",
-              "published": "2026-08-02T20:15:24+00:00",
-              "orig_title": "Marruecos admite 11 muertos en su territorio tras la avalancha en Ceuta y se presenta como un socio “fiable y responsable”",
-              "lang": "es",
-              "translated": true,
-              "access": "unknown"
-            }
-          ]
-        },
-        {
-          "outlet": "Novaya Gazeta Europe",
-          "region": "russia",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Spain reports return of nearly 70,000 migrants from Ceuta to Morocco",
-          "url": "https://novayagazeta.eu/articles/2026/08/01/ispaniia-zaiavila-o-vozvrashchenii-iz-seuty-v-marokko-pochti-70-tysiach-migrantov-news",
-          "published": "2026-08-01T10:47:32+00:00",
-          "orig_title": "Испания заявила о возвращении из Сеуты в Марокко почти 70 тысяч мигрантов",
-          "lang": "ru",
-          "translated": true,
-          "access": "unknown"
-        },
-        {
-          "outlet": "The Guardian",
-          "region": "europe",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Chaos of border crossing gives way to limbo for Moroccans on Ceuta’s streets",
-          "url": "https://www.theguardian.com/world/2026/aug/02/ceuta-border-crossing-spain-morocco",
-          "published": "2026-08-02T13:11:56+00:00",
-          "orig_title": "Chaos of border crossing gives way to limbo for Moroccans on Ceuta’s streets",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "The Hindu",
-          "region": "india",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Spain-Morocco border crisis: Death toll in Ceuta reaches 67",
-          "url": "https://www.thehindu.com/news/international/spain-morocco-border-crisis-death-toll-in-ceuta/article71294017.ece",
-          "published": "2026-08-01T10:35:09+00:00",
-          "orig_title": "Spain-Morocco border crisis: Death toll in Ceuta reaches 67",
-          "lang": "en",
-          "translated": false,
-          "access": "open",
-          "more": [
-            {
-              "outlet": "The Hindu",
-              "region": "india",
-              "lean": "left",
-              "ownership": "private",
-              "title": "At least 72 died in Spain’s Ceuta migrant rush",
-              "url": "https://www.thehindu.com/news/international/at-least-72-died-in-spains-ceuta-migrant-rush/article71298103.ece",
-              "published": "2026-08-02T16:47:58+00:00",
-              "orig_title": "At least 72 died in Spain’s Ceuta migrant rush",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
-            },
-            {
-              "outlet": "The Hindu",
-              "region": "india",
-              "lean": "left",
-              "ownership": "private",
-              "title": "Spain to put containment fence on Ceuta's border with Morocco after frontier rush that killed 67",
-              "url": "https://www.thehindu.com/news/spain-to-put-containment-fence-on-ceutas-border-with-morocco-after-frontier-rush-that-killed-67/article71294879.ece",
-              "published": "2026-08-01T14:48:25+00:00",
-              "orig_title": "Spain to put containment fence on Ceuta's border with Morocco after frontier rush that killed 67",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
-            }
-          ]
-        },
-        {
-          "outlet": "The New York Times",
-          "region": "us",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Spain Installs Floating Barrier in Ceuta After Influx of Migrants",
-          "url": "https://www.nytimes.com/2026/08/01/world/europe/spain-ceuta-migrants-morocco-border.html",
-          "published": "2026-08-01T21:23:42+00:00",
-          "orig_title": "Spain Installs Floating Barrier in Ceuta After Influx of Migrants",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall",
-          "more": [
-            {
-              "outlet": "The New York Times",
-              "region": "us",
-              "lean": "left",
-              "ownership": "private",
-              "title": "Migration Surge on the Spain-Morocco Border",
-              "url": "https://www.nytimes.com/video/world/europe/100000011066115/migration-surge-on-the-spain-morocco-border.html",
-              "published": "2026-08-01T16:01:07+00:00",
-              "orig_title": "Migration Surge on the Spain-Morocco Border",
-              "lang": "en",
-              "translated": false,
-              "access": "paywall"
-            }
-          ]
-        },
-        {
-          "outlet": "Kommersant",
-          "region": "russia",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Death toll reaches 67 in Moroccan migrant surge at Ceuta border",
-          "url": "https://www.kommersant.ru/doc/8860620",
-          "published": "2026-08-01T09:01:05+00:00",
-          "orig_title": "Число погибших при попытке прорваться в Сеуту мигрантов из Марокко достигло 67",
-          "lang": "ru",
-          "translated": true,
-          "access": "unknown",
-          "more": [
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Death toll of migrants attempting to reach Spanish Ceuta rises to 90",
-              "url": "https://www.kommersant.ru/doc/8860844",
-              "published": "2026-08-02T09:13:09+00:00",
-              "orig_title": "Число погибших мигрантов при попытке попасть в испанскую Сеуту выросло до 90",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            }
-          ]
-        },
-        {
-          "outlet": "South China Morning Post",
-          "region": "china",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Death toll from migrant rush into Spain’s Ceuta rises to 72",
-          "url": "https://www.scmp.com/news/world/africa/article/3362727/death-toll-migrant-rush-spains-ceuta-rises-72?utm_source=rss_feed",
-          "published": "2026-08-02T17:44:55+00:00",
-          "orig_title": "Death toll from migrant rush into Spain’s Ceuta rises to 72",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "The Japan Times",
-          "region": "japan",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Spain installs floating barrier in Ceuta after deadly migrant rush",
-          "url": "https://www.japantimes.co.jp/news/2026/08/02/world/spain-floating-barrier-ceuta/",
-          "published": "2026-08-01T22:32:00+00:00",
-          "orig_title": "Spain installs floating barrier in Ceuta after deadly migrant rush",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
-        },
-        {
-          "outlet": "Fox News",
-          "region": "us",
-          "lean": "right",
-          "ownership": "private",
-          "title": "At least 72 dead amid mass migrant rush to storm Spanish enclave of Ceuta sparking border crisis",
-          "url": "https://www.foxnews.com/world/least-72-dead-mass-migrant-rush-storm-spanish-enclave-ceuta-sparking-border-crisis",
-          "published": "2026-08-02T17:01:11+00:00",
-          "orig_title": "At least 72 dead amid mass migrant rush to storm Spanish enclave of Ceuta sparking border crisis",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "The Wall Street Journal",
-          "region": "us",
-          "lean": "right",
-          "ownership": "private",
-          "title": "Spain Regains Control of Enclave After Migrants Overrun It",
-          "url": "https://www.wsj.com/world/europe/spain-rushes-to-control-border-after-tens-of-thousands-of-migrants-flood-into-exclave-0a6382d0",
-          "published": "2026-08-01T10:34:00+00:00",
-          "orig_title": "Spain Regains Control of Enclave After Migrants Overrun It",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
-        }
-      ]
-    },
-    {
-      "id": 23,
-      "topic": "World & Politics",
-      "label": "Greece · Two · collide",
-      "title": "Two helicopters collide outside Athens as Greece battles to control wildfires",
-      "summary": "Fire department says two-person crew of one aircraft killed in incident during gale-force winds to west of capital Two firefighting helicopters have collided west of Athens, killing the two-person cre",
-      "score": 9.925,
-      "n_outlets": 9,
       "n_articles": 11,
       "regions": [
         "china",
         "europe",
         "india",
-        "russia"
+        "russia",
+        "south_america"
       ],
-      "last_seen": "2026-08-02T19:38:28+00:00",
+      "last_seen": "2026-08-02T20:43:00+00:00",
       "leans": [
         "center",
         "left",
@@ -1197,10 +957,10 @@
           "region": "europe",
           "lean": "center",
           "ownership": "public",
-          "title": "Two crew killed as British pilot survives after firefighting helicopters collide in Greece",
+          "title": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
           "url": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-02T19:15:57+00:00",
-          "orig_title": "Two crew killed as British pilot survives after firefighting helicopters collide in Greece",
+          "published": "2026-08-02T20:36:37+00:00",
+          "orig_title": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
           "lang": "en",
           "translated": false,
           "access": "open"
@@ -1232,6 +992,19 @@
               "access": "unknown"
             }
           ]
+        },
+        {
+          "outlet": "MercoPress",
+          "region": "south_america",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Two crew killed as firefighting helicopters collide in midair in Greece",
+          "url": "https://en.mercopress.com/2026/08/02/two-crew-killed-as-firefighting-helicopters-collide-in-midair-in-greece?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+          "published": "2026-08-02T20:43:00+00:00",
+          "orig_title": "Two crew killed as firefighting helicopters collide in midair in Greece",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
         },
         {
           "outlet": "Politico Europe",
@@ -1270,22 +1043,7 @@
           "orig_title": "Großbrand bei Athen außer Kontrolle – Hunderte Feuerwehrleute im Einsatz",
           "lang": "de",
           "translated": true,
-          "access": "unknown",
-          "more": [
-            {
-              "outlet": "Die Welt",
-              "region": "europe",
-              "lean": "right",
-              "ownership": "private",
-              "title": "Flames Threaten City of Megara as Fire Destroys 12,000 Hectares in Greece",
-              "url": "https://www.welt.de/vermischtes/article6a6f261ed75325eb7c4b4349/waldbrand-flammen-bedrohen-die-stadt-megara-12-000hektar-land-in-griechenland-vernichtet.html",
-              "published": "2026-08-02T11:45:33+00:00",
-              "orig_title": "Flammen bedrohen die Stadt Megara – 12.000 Hektar Land in Griechenland vernichtet",
-              "lang": "de",
-              "translated": true,
-              "access": "unknown"
-            }
-          ]
+          "access": "unknown"
         },
         {
           "outlet": "TASS",
@@ -1303,17 +1061,18 @@
       ]
     },
     {
-      "id": 47,
+      "id": 82,
       "topic": "World & Politics",
-      "label": "Ceuta · Spain · crisis",
+      "label": "Ceuta · Spain · Migrants",
       "title": "Spain’s Ceuta migration influx: What we know",
       "summary": "Ceuta’s migrant influx raises EU border management concerns as 60,000 migrants enter and swiftly leave amid political tensions",
-      "score": 8.825,
+      "score": 8.76,
       "n_outlets": 8,
-      "n_articles": 13,
+      "n_articles": 14,
       "regions": [
         "europe",
         "india",
+        "japan",
         "russia",
         "us"
       ],
@@ -1325,14 +1084,27 @@
       ],
       "sources": [
         {
+          "outlet": "Novaya Gazeta Europe",
+          "region": "russia",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Spain reports return of nearly 70,000 migrants from Ceuta to Morocco",
+          "url": "https://novayagazeta.eu/articles/2026/08/01/ispaniia-zaiavila-o-vozvrashchenii-iz-seuty-v-marokko-pochti-70-tysiach-migrantov-news",
+          "published": "2026-08-01T10:47:32+00:00",
+          "orig_title": "Испания заявила о возвращении из Сеуты в Марокко почти 70 тысяч мигрантов",
+          "lang": "ru",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
           "outlet": "The Guardian",
           "region": "europe",
           "lean": "left",
           "ownership": "private",
-          "title": "Italy says it’s temporarily suspending EU Schengen arrangement with Spain after 60,000 migrants reach Ceuta – as it happened",
-          "url": "https://www.theguardian.com/world/live/2026/jul/31/cueta-spain-morocco-italy-migration-schengen-europe-latest-news-updates",
-          "published": "2026-08-02T12:25:01+00:00",
-          "orig_title": "Italy says it’s temporarily suspending EU Schengen arrangement with Spain after 60,000 migrants reach Ceuta – as it happened",
+          "title": "EU to hold urgent meeting of interior ministers on Tuesday over Ceuta crisis",
+          "url": "https://www.theguardian.com/world/2026/aug/01/spain-pedro-sanchez-calls-for-eu-meeting-ceuta-border-crossing",
+          "published": "2026-08-01T19:03:39+00:00",
+          "orig_title": "EU to hold urgent meeting of interior ministers on Tuesday over Ceuta crisis",
           "lang": "en",
           "translated": false,
           "access": "open",
@@ -1342,10 +1114,10 @@
               "region": "europe",
               "lean": "left",
               "ownership": "private",
-              "title": "EU to hold urgent meeting of interior ministers on Tuesday over Ceuta crisis",
-              "url": "https://www.theguardian.com/world/2026/aug/01/spain-pedro-sanchez-calls-for-eu-meeting-ceuta-border-crossing",
-              "published": "2026-08-01T19:03:39+00:00",
-              "orig_title": "EU to hold urgent meeting of interior ministers on Tuesday over Ceuta crisis",
+              "title": "Italy says it’s temporarily suspending EU Schengen arrangement with Spain after 60,000 migrants reach Ceuta – as it happened",
+              "url": "https://www.theguardian.com/world/live/2026/jul/31/cueta-spain-morocco-italy-migration-schengen-europe-latest-news-updates",
+              "published": "2026-08-02T12:25:01+00:00",
+              "orig_title": "Italy says it’s temporarily suspending EU Schengen arrangement with Spain after 60,000 migrants reach Ceuta – as it happened",
               "lang": "en",
               "translated": false,
               "access": "open"
@@ -1383,10 +1155,10 @@
               "region": "india",
               "lean": "left",
               "ownership": "private",
-              "title": "Italy suspends EU Schengen free-travel pact with Spain over Ceuta crisis",
-              "url": "https://www.thehindu.com/news/international/italy-suspends-eu-schengen-free-travel-pact-with-spain-over-ceuta-crisis/article71294642.ece",
-              "published": "2026-08-01T13:32:25+00:00",
-              "orig_title": "Italy suspends EU Schengen free-travel pact with Spain over Ceuta crisis",
+              "title": "Spain to put containment fence on Ceuta's border with Morocco after frontier rush that killed 67",
+              "url": "https://www.thehindu.com/news/spain-to-put-containment-fence-on-ceutas-border-with-morocco-after-frontier-rush-that-killed-67/article71294879.ece",
+              "published": "2026-08-01T14:48:25+00:00",
+              "orig_title": "Spain to put containment fence on Ceuta's border with Morocco after frontier rush that killed 67",
               "lang": "en",
               "translated": false,
               "access": "open"
@@ -1398,10 +1170,192 @@
           "region": "us",
           "lean": "left",
           "ownership": "private",
-          "title": "Far-Right Leaders Step Up Calls for Expelling Remaining Migrants in Ceuta",
-          "url": "https://www.nytimes.com/2026/08/02/world/europe/spain-ceuta-far-right.html",
-          "published": "2026-08-02T13:50:27+00:00",
-          "orig_title": "Far-Right Leaders Step Up Calls for Expelling Remaining Migrants in Ceuta",
+          "title": "Spain Installs Floating Barrier in Ceuta After Influx of Migrants",
+          "url": "https://www.nytimes.com/2026/08/01/world/europe/spain-ceuta-migrants-morocco-border.html",
+          "published": "2026-08-01T21:23:42+00:00",
+          "orig_title": "Spain Installs Floating Barrier in Ceuta After Influx of Migrants",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall",
+          "more": [
+            {
+              "outlet": "The New York Times",
+              "region": "us",
+              "lean": "left",
+              "ownership": "private",
+              "title": "Migration Surge on the Spain-Morocco Border",
+              "url": "https://www.nytimes.com/video/world/europe/100000011066115/migration-surge-on-the-spain-morocco-border.html",
+              "published": "2026-08-01T16:01:07+00:00",
+              "orig_title": "Migration Surge on the Spain-Morocco Border",
+              "lang": "en",
+              "translated": false,
+              "access": "paywall"
+            },
+            {
+              "outlet": "The New York Times",
+              "region": "us",
+              "lean": "left",
+              "ownership": "private",
+              "title": "Far-Right Leaders Step Up Calls for Expelling Remaining Migrants in Ceuta",
+              "url": "https://www.nytimes.com/2026/08/02/world/europe/spain-ceuta-far-right.html",
+              "published": "2026-08-02T13:50:27+00:00",
+              "orig_title": "Far-Right Leaders Step Up Calls for Expelling Remaining Migrants in Ceuta",
+              "lang": "en",
+              "translated": false,
+              "access": "paywall"
+            },
+            {
+              "outlet": "The New York Times",
+              "region": "us",
+              "lean": "left",
+              "ownership": "private",
+              "title": "What Caused the Surge of Migrants From Morocco Into Ceuta?",
+              "url": "https://www.nytimes.com/2026/07/31/world/europe/migrants-surge-morocco-ceuta-spain.html",
+              "published": "2026-08-01T14:56:40+00:00",
+              "orig_title": "What Caused the Surge of Migrants From Morocco Into Ceuta?",
+              "lang": "en",
+              "translated": false,
+              "access": "paywall"
+            }
+          ]
+        },
+        {
+          "outlet": "Kommersant",
+          "region": "russia",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Spain Deploys Around 3,000 Security Forces to Ceuta to Stem Migration",
+          "url": "https://www.kommersant.ru/doc/8860910",
+          "published": "2026-08-02T12:15:28+00:00",
+          "orig_title": "Испания развернула в Сеуте около 3 тыс. силовиков для сдерживания миграции",
+          "lang": "ru",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
+          "outlet": "The Japan Times",
+          "region": "japan",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Spain installs floating barrier in Ceuta after deadly migrant rush",
+          "url": "https://www.japantimes.co.jp/news/2026/08/02/world/spain-floating-barrier-ceuta/",
+          "published": "2026-08-01T22:32:00+00:00",
+          "orig_title": "Spain installs floating barrier in Ceuta after deadly migrant rush",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall"
+        },
+        {
+          "outlet": "Fox News",
+          "region": "us",
+          "lean": "right",
+          "ownership": "private",
+          "title": "State Department raises travel warning for part of Spain as migrant surge sparks military deployment",
+          "url": "https://www.foxnews.com/world/state-department-raises-travel-warning-part-spain-migrant-surge-sparks-military-deployment",
+          "published": "2026-08-01T23:16:46+00:00",
+          "orig_title": "State Department raises travel warning for part of Spain as migrant surge sparks military deployment",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "Le Figaro",
+          "region": "europe",
+          "lean": "right",
+          "ownership": "private",
+          "title": "Massive migrant influx in Ceuta: what happens to minors arriving in the enclave?",
+          "url": "https://www.lefigaro.fr/international/afflux-massif-de-migrants-a-ceuta-qu-advient-il-pour-les-mineurs-arrives-dans-l-enclave-20260801",
+          "published": "2026-08-01T16:08:56+00:00",
+          "orig_title": "Afflux massif de migrants à Ceuta : qu’advient-il pour les mineurs arrivés dans l’enclave ?",
+          "lang": "fr",
+          "translated": true,
+          "access": "unknown"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "topic": "World & Politics",
+      "label": "Ceuta · crisis · European",
+      "title": "Ceuta migration crisis exposes EU divisions",
+      "summary": "Die Blitzmigrationskrise in Ceuta zeigt: Die europäische Solidarität wird in so einer Ausnahmesituation schnell brüchig. Einer der Antreiber dieser Spaltung ist die rechte Politikerin Giorgia Meloni.",
+      "score": 7.946,
+      "n_outlets": 7,
+      "n_articles": 14,
+      "regions": [
+        "europe",
+        "us"
+      ],
+      "last_seen": "2026-08-02T20:54:07+00:00",
+      "leans": [
+        "center",
+        "left",
+        "right"
+      ],
+      "sources": [
+        {
+          "outlet": "Der Spiegel",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Ceuta migration crisis exposes EU divisions",
+          "url": "https://www.spiegel.de/politik/deutschland/ceuta-blitzmigrationskrise-legt-spaltung-in-der-eu-mitte-offen-a-8da70fe1-6b51-476f-9be1-2827b4749910#ref=rss",
+          "published": "2026-08-02T16:23:00+00:00",
+          "orig_title": "Ceuta: Blitzmigrationskrise legt Spaltung in der EU offen",
+          "lang": "de",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
+          "outlet": "El Pais",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Geopolitics at stake in Ceuta crisis",
+          "url": "https://elpais.com/opinion/2026-08-02/la-geopolitica-se-juega-en-la-crisis-de-ceuta.html",
+          "published": "2026-08-02T03:30:01+00:00",
+          "orig_title": "La geopolítica se juega en la crisis de Ceuta",
+          "lang": "es",
+          "translated": true,
+          "access": "unknown",
+          "more": [
+            {
+              "outlet": "El Pais",
+              "region": "europe",
+              "lean": "left",
+              "ownership": "private",
+              "title": "Ceuta crisis unites European right against Sánchez",
+              "url": "https://elpais.com/espana/2026-08-02/la-crisis-de-ceuta-alinea-a-la-derecha-europea-contra-sanchez.html",
+              "published": "2026-08-02T03:30:01+00:00",
+              "orig_title": "La crisis de Ceuta alinea a la derecha europea contra Sánchez",
+              "lang": "es",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "El Pais",
+              "region": "europe",
+              "lean": "left",
+              "ownership": "private",
+              "title": "Invasion of Ceuta or youth crossing without permits?",
+              "url": "https://elpais.com/opinion/2026-08-02/invasion-de-ceuta-o-mas-bien-excursion-juvenil-ilegal.html",
+              "published": "2026-08-02T03:30:01+00:00",
+              "orig_title": "¿‘Invasión’ de Ceuta o más bien excursión juvenil ilegal?",
+              "lang": "es",
+              "translated": true,
+              "access": "unknown"
+            }
+          ]
+        },
+        {
+          "outlet": "The New York Times",
+          "region": "us",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Unraveling the Chaos in Ceuta",
+          "url": "https://www.nytimes.com/2026/08/02/world/spain-morocco-migration-iran.html",
+          "published": "2026-08-02T20:54:07+00:00",
+          "orig_title": "Unraveling the Chaos in Ceuta",
           "lang": "en",
           "translated": false,
           "access": "paywall",
@@ -1422,17 +1376,17 @@
           ]
         },
         {
-          "outlet": "Kommersant",
-          "region": "russia",
+          "outlet": "BBC News",
+          "region": "europe",
           "lean": "center",
-          "ownership": "private",
-          "title": "Spain Deploys Around 3,000 Security Forces to Ceuta to Stem Migration",
-          "url": "https://www.kommersant.ru/doc/8860910",
-          "published": "2026-08-02T12:15:28+00:00",
-          "orig_title": "Испания развернула в Сеуте около 3 тыс. силовиков для сдерживания миграции",
-          "lang": "ru",
-          "translated": true,
-          "access": "unknown"
+          "ownership": "public",
+          "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
+          "url": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-02T10:32:28+00:00",
+          "orig_title": "How Spain's migrant crisis created a political storm - whipped up by social media",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
         },
         {
           "outlet": "Politico Europe",
@@ -1476,19 +1430,6 @@
           ]
         },
         {
-          "outlet": "Fox News",
-          "region": "us",
-          "lean": "right",
-          "ownership": "private",
-          "title": "State Department raises travel warning for part of Spain as migrant surge sparks military deployment",
-          "url": "https://www.foxnews.com/world/state-department-raises-travel-warning-part-spain-migrant-surge-sparks-military-deployment",
-          "published": "2026-08-01T23:16:46+00:00",
-          "orig_title": "State Department raises travel warning for part of Spain as migrant surge sparks military deployment",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
           "outlet": "Le Figaro",
           "region": "europe",
           "lean": "right",
@@ -1499,17 +1440,58 @@
           "orig_title": "Ceuta : comment le pacte migratoire entre l’Espagne et le Maroc a révélé ses failles",
           "lang": "fr",
           "translated": true,
-          "access": "unknown"
+          "access": "unknown",
+          "more": [
+            {
+              "outlet": "Le Figaro",
+              "region": "europe",
+              "lean": "right",
+              "ownership": "private",
+              "title": "Ceuta residents alarmed by sudden migration wave, fearing fragility of Spanish enclave",
+              "url": "https://www.lefigaro.fr/international/frappes-pas-la-soudainete-de-la-vague-migratoire-les-habitants-de-ceuta-s-inquietent-de-la-fragilite-de-l-enclave-espagnole-20260802",
+              "published": "2026-08-02T18:57:46+00:00",
+              "orig_title": "Frappés par la soudaineté de la vague migratoire, les habitants de Ceuta s’inquiètent de la fragilité de l’enclave espagnole",
+              "lang": "fr",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Le Figaro",
+              "region": "europe",
+              "lean": "right",
+              "ownership": "private",
+              "title": "In US, Trump and conservatives weaponize Ceuta crisis for election gains",
+              "url": "https://www.lefigaro.fr/international/aux-etats-unis-donald-trump-et-les-conservateurs-s-emparent-de-la-crise-de-ceuta-pour-en-faire-un-argument-electoral-20260802",
+              "published": "2026-08-02T17:12:14+00:00",
+              "orig_title": "Aux États-Unis, Donald Trump et les conservateurs s’emparent de la crise de Ceuta pour en faire un argument électoral",
+              "lang": "fr",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Le Figaro",
+              "region": "europe",
+              "lean": "right",
+              "ownership": "private",
+              "title": "International press sees Ceuta as mirror of Western failings amid migration system collapse and humanitarian emergency",
+              "url": "https://www.lefigaro.fr/international/l-europe-entrevoit-ce-qui-pourrait-l-attendre-faillite-du-systeme-migratoire-urgence-humanitaire-la-presse-internationale-voit-en-ceuta-le-miroir-des-failles-occidentales-20260801",
+              "published": "2026-08-01T10:34:46+00:00",
+              "orig_title": "«L’Europe entrevoit ce qui pourrait l’attendre», «faillite du système migratoire», «urgence humanitaire»: la presse internationale voit en Ceuta le miroir des failles occidentales",
+              "lang": "fr",
+              "translated": true,
+              "access": "unknown"
+            }
+          ]
         }
       ]
     },
     {
-      "id": 269,
+      "id": 285,
       "topic": "World & Politics",
       "label": "Peru · Plane · Nazca",
       "title": "Tourist plane crashes in Peru, killing 13",
       "summary": "The small plane was flying over the Nazca Lines ​archaeological site when it crashed, according to local reports.",
-      "score": 7.302,
+      "score": 7.277,
       "n_outlets": 7,
       "n_articles": 8,
       "regions": [
@@ -1634,183 +1616,25 @@
       ]
     },
     {
-      "id": 5,
-      "topic": "World & Politics",
-      "label": "Ceuta · Migrants · Left",
-      "title": "\"We Wanted to Flee Morocco to Find Work, There's Nothing There\": In Ceuta, European Dreams End in Disappointment for Thousands of Migrants",
-      "summary": "REPORTAGE - Selon les autorités espagnoles, près de 50 000 migrants qui avaient déferlé sur l’enclave jeudi et vendredi avaient samedi pris le chemin du retour.",
-      "score": 6.987,
-      "n_outlets": 6,
-      "n_articles": 10,
-      "regions": [
-        "europe",
-        "india",
-        "us"
-      ],
-      "last_seen": "2026-08-02T20:25:00+00:00",
-      "leans": [
-        "center",
-        "left",
-        "right"
-      ],
-      "sources": [
-        {
-          "outlet": "Der Spiegel",
-          "region": "europe",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Ceuta migration crisis exposes EU divisions",
-          "url": "https://www.spiegel.de/politik/deutschland/ceuta-blitzmigrationskrise-legt-spaltung-in-der-eu-mitte-offen-a-8da70fe1-6b51-476f-9be1-2827b4749910#ref=rss",
-          "published": "2026-08-02T16:23:00+00:00",
-          "orig_title": "Ceuta: Blitzmigrationskrise legt Spaltung in der EU offen",
-          "lang": "de",
-          "translated": true,
-          "access": "unknown"
-        },
-        {
-          "outlet": "The Hindu",
-          "region": "india",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Ceuta | A slice of Europe in Africa",
-          "url": "https://www.thehindu.com/news/international/spain-ceuta-mass-migration-a-slice-of-europe-in-africa/article71295816.ece",
-          "published": "2026-08-02T07:24:03+00:00",
-          "orig_title": "Ceuta | A slice of Europe in Africa",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "The New York Times",
-          "region": "us",
-          "lean": "left",
-          "ownership": "private",
-          "title": "What Caused the Surge of Migrants From Morocco Into Ceuta?",
-          "url": "https://www.nytimes.com/2026/07/31/world/europe/migrants-surge-morocco-ceuta-spain.html",
-          "published": "2026-08-01T14:56:40+00:00",
-          "orig_title": "What Caused the Surge of Migrants From Morocco Into Ceuta?",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall",
-          "more": [
-            {
-              "outlet": "The New York Times",
-              "region": "us",
-              "lean": "left",
-              "ownership": "private",
-              "title": "After Most Migrants Leave Ceuta, Exhausted Holdouts Find Shelter on Beach",
-              "url": "https://www.nytimes.com/2026/08/02/world/europe/ceuta-spain-morocco-migrant-holdouts-beach.html",
-              "published": "2026-08-02T16:29:12+00:00",
-              "orig_title": "After Most Migrants Leave Ceuta, Exhausted Holdouts Find Shelter on Beach",
-              "lang": "en",
-              "translated": false,
-              "access": "paywall"
-            }
-          ]
-        },
-        {
-          "outlet": "BBC News",
-          "region": "europe",
-          "lean": "center",
-          "ownership": "public",
-          "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
-          "url": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-02T10:32:28+00:00",
-          "orig_title": "How Spain's migrant crisis created a political storm - whipped up by social media",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "Le Figaro",
-          "region": "europe",
-          "lean": "right",
-          "ownership": "private",
-          "title": "\"We Wanted to Flee Morocco to Find Work, There's Nothing There\": In Ceuta, European Dreams End in Disappointment for Thousands of Migrants",
-          "url": "https://www.lefigaro.fr/international/on-a-voulu-fuir-le-maroc-pour-trouver-un-travail-il-n-y-a-rien-la-bas-a-ceuta-l-aventure-europeenne-a-tourne-court-pour-des-milliers-de-migrants-20260801",
-          "published": "2026-08-02T06:15:39+00:00",
-          "orig_title": "«On a voulu fuir le Maroc pour trouver un travail, il n’y a rien là-bas» : à Ceuta, l’aventure européenne a tourné court pour des milliers de migrants",
-          "lang": "fr",
-          "translated": true,
-          "access": "unknown",
-          "more": [
-            {
-              "outlet": "Le Figaro",
-              "region": "europe",
-              "lean": "right",
-              "ownership": "private",
-              "title": "Ceuta residents alarmed by sudden migration wave, fearing fragility of Spanish enclave",
-              "url": "https://www.lefigaro.fr/international/frappes-pas-la-soudainete-de-la-vague-migratoire-les-habitants-de-ceuta-s-inquietent-de-la-fragilite-de-l-enclave-espagnole-20260802",
-              "published": "2026-08-02T18:57:46+00:00",
-              "orig_title": "Frappés par la soudaineté de la vague migratoire, les habitants de Ceuta s’inquiètent de la fragilité de l’enclave espagnole",
-              "lang": "fr",
-              "translated": true,
-              "access": "unknown"
-            },
-            {
-              "outlet": "Le Figaro",
-              "region": "europe",
-              "lean": "right",
-              "ownership": "private",
-              "title": "Massive migrant influx in Ceuta: what happens to minors arriving in the enclave?",
-              "url": "https://www.lefigaro.fr/international/afflux-massif-de-migrants-a-ceuta-qu-advient-il-pour-les-mineurs-arrives-dans-l-enclave-20260801",
-              "published": "2026-08-01T16:08:56+00:00",
-              "orig_title": "Afflux massif de migrants à Ceuta : qu’advient-il pour les mineurs arrivés dans l’enclave ?",
-              "lang": "fr",
-              "translated": true,
-              "access": "unknown"
-            }
-          ]
-        },
-        {
-          "outlet": "The Wall Street Journal",
-          "region": "us",
-          "lean": "right",
-          "ownership": "private",
-          "title": "Spain Says Most Immigrants Who Overran Its African Enclave Have Left",
-          "url": "https://www.wsj.com/world/europe/spain-migrants-morocco-update-0f16944d",
-          "published": "2026-08-01T16:38:00+00:00",
-          "orig_title": "Spain Says Most Immigrants Who Overran Its African Enclave Have Left",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall",
-          "more": [
-            {
-              "outlet": "The Wall Street Journal",
-              "region": "us",
-              "lean": "right",
-              "ownership": "private",
-              "title": "The Migrants Have Left Ceuta, But the Trauma Lingers",
-              "url": "https://www.wsj.com/world/europe/the-migrants-have-left-ceuta-but-the-trauma-lingers-27ae5ac7",
-              "published": "2026-08-02T20:25:00+00:00",
-              "orig_title": "The Migrants Have Left Ceuta, But the Trauma Lingers",
-              "lang": "en",
-              "translated": false,
-              "access": "paywall"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 0,
+      "id": 10,
       "topic": "World & Politics",
       "label": "Lula · Brazil · President",
-      "title": "Brazil: President Lula da Silva faces Jair Bolsonaro's son in election",
-      "summary": "Die linke Arbeiterpartei Brasiliens hat Amtsinhaber Luiz Inácio Lula da Silva erneut zum Kandidaten für die Präsidentschaftswahlen ernannt. Sein Gegner wird, wie bei der letzten Wahl, Bolsonaro heißen",
-      "score": 5.992,
-      "n_outlets": 5,
-      "n_articles": 5,
+      "title": "Workers’ Party nominates Lula da Silva candidate for Brazilian president",
+      "summary": "Incumbent Vice President Geraldo Alckmin will run alongside the Brazilian leader for the vice presidency, the party’s convention decided",
+      "score": 6.975,
+      "n_outlets": 6,
+      "n_articles": 6,
       "regions": [
         "china",
         "europe",
         "russia",
         "south_america"
       ],
-      "last_seen": "2026-08-02T20:29:00+00:00",
+      "last_seen": "2026-08-02T21:16:03+00:00",
       "leans": [
         "center",
         "left",
+        "right",
         "state"
       ],
       "sources": [
@@ -1867,6 +1691,19 @@
           "access": "open"
         },
         {
+          "outlet": "The Rio Times",
+          "region": "south_america",
+          "lean": "right",
+          "ownership": "private",
+          "title": "PT Nominates Lula for Re-election, Alckmin Returns",
+          "url": "https://www.riotimesonline.com/pt-nominates-lula-for-re-election-alckmin-returns/",
+          "published": "2026-08-02T21:16:03+00:00",
+          "orig_title": "PT Nominates Lula for Re-election, Alckmin Returns",
+          "lang": "en",
+          "translated": false,
+          "access": "unknown"
+        },
+        {
           "outlet": "TASS",
           "region": "russia",
           "lean": "state",
@@ -1882,21 +1719,22 @@
       ]
     },
     {
-      "id": 37,
+      "id": 16,
       "topic": "World & Politics",
-      "label": "Pakistan · Police · attack",
-      "title": "At least 14 dead in suicide bomb attack at anti-militant rally in Pakistan",
-      "summary": "A suicide bomber targeted protesters at an anti-militant rally in northwestern Pakistan on Sunday, killing at least 14 people, including police officers, and wounding more than two dozen others, offic",
-      "score": 5.851,
-      "n_outlets": 5,
-      "n_articles": 5,
+      "label": "Gaza · Israeli · Israel",
+      "title": "Israel says military will not yet withdraw from Gaza, as strikes kill 9",
+      "summary": "Israeli ⁠air strikes continued in Gaza for a second straight day on Sunday, killing at least nine Palestinians, despite US President Donald Trump’s Thursday announcement of a breakthrough in efforts t",
+      "score": 6.956,
+      "n_outlets": 6,
+      "n_articles": 7,
       "regions": [
         "china",
+        "europe",
         "india",
         "russia",
         "us"
       ],
-      "last_seen": "2026-08-02T18:38:32+00:00",
+      "last_seen": "2026-08-02T21:02:24+00:00",
       "leans": [
         "center",
         "left",
@@ -1904,53 +1742,81 @@
       ],
       "sources": [
         {
+          "outlet": "Der Spiegel",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Gaza war: Israeli strikes kill at least 15 Palestinians",
+          "url": "https://www.spiegel.de/ausland/krieg-in-gaza-israelische-angriffe-toeten-mindestens-15-palaestinenser-a-a9e5a14d-e547-415e-a4b4-437610ac954e#ref=rss",
+          "published": "2026-08-02T19:22:00+00:00",
+          "orig_title": "Krieg in Gaza: Israelische Angriffe töten mindestens 15 Palästinenser",
+          "lang": "de",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
           "outlet": "The Hindu",
           "region": "india",
           "lean": "left",
           "ownership": "private",
-          "title": "Suicide attack kills 13 during protest in northern Pakistan: Police",
-          "url": "https://www.thehindu.com/news/international/suicide-attack-during-protest-in-northern-pakistan-police/article71298666.ece",
-          "published": "2026-08-02T16:26:39+00:00",
-          "orig_title": "Suicide attack kills 13 during protest in northern Pakistan: Police",
+          "title": "Israeli strikes kill nine in Gaza, Israeli Minister says no deal to halt attacks",
+          "url": "https://www.thehindu.com/news/international/israeli-strikes-northern-gaza-city-and-jabalia-israeli-minister-eli-cohen-says-no-deal-to-halt-attacks/article71297603.ece",
+          "published": "2026-08-02T12:21:39+00:00",
+          "orig_title": "Israeli strikes kill nine in Gaza, Israeli Minister says no deal to halt attacks",
           "lang": "en",
           "translated": false,
-          "access": "open"
+          "access": "open",
+          "more": [
+            {
+              "outlet": "The Hindu",
+              "region": "india",
+              "lean": "left",
+              "ownership": "private",
+              "title": "Israeli strikes in Gaza kill two; medical supply warehouses hit",
+              "url": "https://www.thehindu.com/news/international/israeli-strikes-in-gaza-medical-supply-warehouses-hit/article71295680.ece",
+              "published": "2026-08-02T12:21:05+00:00",
+              "orig_title": "Israeli strikes in Gaza kill two; medical supply warehouses hit",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            }
+          ]
         },
         {
           "outlet": "The New York Times",
           "region": "us",
           "lean": "left",
           "ownership": "private",
-          "title": "Pakistan Police Station Bombing Kills at Least 14",
-          "url": "https://www.nytimes.com/2026/08/02/world/asia/pakistan-police-station-bombing.html",
-          "published": "2026-08-02T18:25:12+00:00",
-          "orig_title": "Pakistan Police Station Bombing Kills at Least 14",
+          "title": "Israel Bombards Gaza, Days After Trump Announced Deal to Advance Cease-Fire",
+          "url": "https://www.nytimes.com/2026/08/01/world/middleeast/israel-gaza-strikes-trump-hamas.html",
+          "published": "2026-08-02T06:53:14+00:00",
+          "orig_title": "Israel Bombards Gaza, Days After Trump Announced Deal to Advance Cease-Fire",
           "lang": "en",
           "translated": false,
           "access": "paywall"
         },
         {
-          "outlet": "Kommersant",
-          "region": "russia",
+          "outlet": "BBC News",
+          "region": "europe",
           "lean": "center",
-          "ownership": "private",
-          "title": "14 killed in suicide bombing in Pakistan",
-          "url": "https://www.kommersant.ru/doc/8861028",
-          "published": "2026-08-02T18:38:32+00:00",
-          "orig_title": "14 человек погибло в результате подрыва террориста-смертника в Пакистане",
-          "lang": "ru",
-          "translated": true,
-          "access": "unknown"
+          "ownership": "public",
+          "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
+          "url": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-02T15:50:59+00:00",
+          "orig_title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
         },
         {
           "outlet": "South China Morning Post",
           "region": "china",
           "lean": "center",
           "ownership": "private",
-          "title": "At least 14 dead in suicide bomb attack at anti-militant rally in Pakistan",
-          "url": "https://www.scmp.com/news/asia/south-asia/article/3362726/least-14-dead-suicide-bomb-attack-anti-militant-rally-pakistan?utm_source=rss_feed",
-          "published": "2026-08-02T16:31:28+00:00",
-          "orig_title": "At least 14 dead in suicide bomb attack at anti-militant rally in Pakistan",
+          "title": "Israel says military will not yet withdraw from Gaza, as strikes kill 9",
+          "url": "https://www.scmp.com/news/world/middle-east/article/3362722/israeli-strikes-kill-9-gaza-cabinet-minister-says-no-deal-stop?utm_source=rss_feed",
+          "published": "2026-08-02T14:04:37+00:00",
+          "orig_title": "Israel says military will not yet withdraw from Gaza, as strikes kill 9",
           "lang": "en",
           "translated": false,
           "access": "open"
@@ -1960,10 +1826,10 @@
           "region": "russia",
           "lean": "state",
           "ownership": "state",
-          "title": "At least 14 die, 20 wounded in terror attack in northwestern Pakistan",
-          "url": "https://tass.com/emergencies/2168181",
-          "published": "2026-08-02T17:26:15+00:00",
-          "orig_title": "At least 14 die, 20 wounded in terror attack in northwestern Pakistan",
+          "title": "At least 19 Palestinians killed in Gaza during day as result of Israel’s operations",
+          "url": "https://tass.com/world/2168207",
+          "published": "2026-08-02T21:02:24+00:00",
+          "orig_title": "At least 19 Palestinians killed in Gaza during day as result of Israel’s operations",
           "lang": "en",
           "translated": false,
           "access": "open"
@@ -1971,12 +1837,203 @@
       ]
     },
     {
-      "id": 25,
+      "id": 51,
+      "topic": "World & Politics",
+      "label": "Ceuta · Death · Spain",
+      "title": "Death toll from migrant rush into Spain’s Ceuta rises to 72",
+      "summary": "The death toll from Thursday’s mass rush into Spain’s North African enclave of Ceuta from Morocco reached at least 72 on Sunday as five more bodies were found along Ceuta’s coast, officials said. More",
+      "score": 6.896,
+      "n_outlets": 6,
+      "n_articles": 10,
+      "regions": [
+        "china",
+        "europe",
+        "india",
+        "russia",
+        "us"
+      ],
+      "last_seen": "2026-08-02T20:15:24+00:00",
+      "leans": [
+        "center",
+        "left",
+        "right"
+      ],
+      "sources": [
+        {
+          "outlet": "El Pais",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Ceuta Crisis: The Crucial Hours When Morocco Challenged Spain",
+          "url": "https://elpais.com/espana/2026-08-02/los-tres-dias-de-horror-que-acorralaron-a-ceuta.html",
+          "published": "2026-08-02T03:30:01+00:00",
+          "orig_title": "Crisis de Ceuta: las horas cruciales en que Marruecos puso en jaque a España",
+          "lang": "es",
+          "translated": true,
+          "access": "unknown",
+          "more": [
+            {
+              "outlet": "El Pais",
+              "region": "europe",
+              "lean": "left",
+              "ownership": "private",
+              "title": "Border deaths continue filling makeshift morgue in Ceuta",
+              "url": "https://elpais.com/espana/2026-08-02/los-fallecidos-en-la-frontera-siguen-llenando-la-gran-morgue-improvisada-en-ceuta.html",
+              "published": "2026-08-02T19:12:49+00:00",
+              "orig_title": "Los fallecidos en la frontera siguen llenando la gran morgue improvisada en Ceuta",
+              "lang": "es",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "El Pais",
+              "region": "europe",
+              "lean": "left",
+              "ownership": "private",
+              "title": "Morocco acknowledges 11 deaths on its territory from Ceuta landslide, presents itself as reliable partner",
+              "url": "https://elpais.com/espana/2026-08-02/marruecos-impone-la-ley-del-silencio-sobre-el-drama-de-las-decenas-de-muertos-en-la-frontera.html",
+              "published": "2026-08-02T20:15:24+00:00",
+              "orig_title": "Marruecos admite 11 muertos en su territorio tras la avalancha en Ceuta y se presenta como un socio “fiable y responsable”",
+              "lang": "es",
+              "translated": true,
+              "access": "unknown"
+            }
+          ]
+        },
+        {
+          "outlet": "The Guardian",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Chaos of border crossing gives way to limbo for Moroccans on Ceuta’s streets",
+          "url": "https://www.theguardian.com/world/2026/aug/02/ceuta-border-crossing-spain-morocco",
+          "published": "2026-08-02T13:11:56+00:00",
+          "orig_title": "Chaos of border crossing gives way to limbo for Moroccans on Ceuta’s streets",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "The Hindu",
+          "region": "india",
+          "lean": "left",
+          "ownership": "private",
+          "title": "At least 72 died in Spain’s Ceuta migrant rush",
+          "url": "https://www.thehindu.com/news/international/at-least-72-died-in-spains-ceuta-migrant-rush/article71298103.ece",
+          "published": "2026-08-02T16:47:58+00:00",
+          "orig_title": "At least 72 died in Spain’s Ceuta migrant rush",
+          "lang": "en",
+          "translated": false,
+          "access": "open",
+          "more": [
+            {
+              "outlet": "The Hindu",
+              "region": "india",
+              "lean": "left",
+              "ownership": "private",
+              "title": "Spain-Morocco border crisis: Death toll in Ceuta reaches 67",
+              "url": "https://www.thehindu.com/news/international/spain-morocco-border-crisis-death-toll-in-ceuta/article71294017.ece",
+              "published": "2026-08-01T10:35:09+00:00",
+              "orig_title": "Spain-Morocco border crisis: Death toll in Ceuta reaches 67",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            },
+            {
+              "outlet": "The Hindu",
+              "region": "india",
+              "lean": "left",
+              "ownership": "private",
+              "title": "Ceuta | A slice of Europe in Africa",
+              "url": "https://www.thehindu.com/news/international/spain-ceuta-mass-migration-a-slice-of-europe-in-africa/article71295816.ece",
+              "published": "2026-08-02T07:24:03+00:00",
+              "orig_title": "Ceuta | A slice of Europe in Africa",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            }
+          ]
+        },
+        {
+          "outlet": "Kommersant",
+          "region": "russia",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Death toll of migrants attempting to reach Spanish Ceuta rises to 90",
+          "url": "https://www.kommersant.ru/doc/8860844",
+          "published": "2026-08-02T09:13:09+00:00",
+          "orig_title": "Число погибших мигрантов при попытке попасть в испанскую Сеуту выросло до 90",
+          "lang": "ru",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
+          "outlet": "South China Morning Post",
+          "region": "china",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Death toll from migrant rush into Spain’s Ceuta rises to 72",
+          "url": "https://www.scmp.com/news/world/africa/article/3362727/death-toll-migrant-rush-spains-ceuta-rises-72?utm_source=rss_feed",
+          "published": "2026-08-02T17:44:55+00:00",
+          "orig_title": "Death toll from migrant rush into Spain’s Ceuta rises to 72",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "Fox News",
+          "region": "us",
+          "lean": "right",
+          "ownership": "private",
+          "title": "At least 72 dead amid mass migrant rush to storm Spanish enclave of Ceuta sparking border crisis",
+          "url": "https://www.foxnews.com/world/least-72-dead-mass-migrant-rush-storm-spanish-enclave-ceuta-sparking-border-crisis",
+          "published": "2026-08-02T17:01:11+00:00",
+          "orig_title": "At least 72 dead amid mass migrant rush to storm Spanish enclave of Ceuta sparking border crisis",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "topic": "Economics",
+      "label": "Court · Blocks · Brazil",
+      "title": "Court Blocks Brazil Central Bank from Ambipar Restructuring",
+      "summary": "BUSINESS · RESTRUCTURING, 2 AUGUST 2026 Key Facts —Ruling — Rio de Janeiro&#8217;s 3rd Business Court rejected the Banco Central&#8217;s bid to join Ambipar&#8217;s judicial reorganisation as amicus c",
+      "score": 1.975,
+      "n_outlets": 1,
+      "n_articles": 1,
+      "regions": [
+        "south_america"
+      ],
+      "last_seen": "2026-08-02T21:16:25+00:00",
+      "leans": [
+        "right"
+      ],
+      "sources": [
+        {
+          "outlet": "The Rio Times",
+          "region": "south_america",
+          "lean": "right",
+          "ownership": "private",
+          "title": "Court Blocks Brazil Central Bank from Ambipar Restructuring",
+          "url": "https://www.riotimesonline.com/court-bars-central-bank-from-ambipar-restructuring/",
+          "published": "2026-08-02T21:16:25+00:00",
+          "orig_title": "Court Blocks Brazil Central Bank from Ambipar Restructuring",
+          "lang": "en",
+          "translated": false,
+          "access": "unknown"
+        }
+      ]
+    },
+    {
+      "id": 63,
       "topic": "Economics",
       "label": "Francesca · Hong · what",
       "title": "Francesca Hong says what’s radical is US still has $7.25 minimum wage",
       "summary": "Wisconsin Democratic gubernatorial candidate Francesca Hong, a democratic socialist, said Sunday that the U.S.’s current minimum wage is radical. When asked by NewsNation’s Chris Stirewalt on “The Hil",
-      "score": 1.911,
+      "score": 1.838,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -2003,44 +2060,12 @@
       ]
     },
     {
-      "id": 135,
-      "topic": "Economics",
-      "label": "Ecuador · Raises · Intercity",
-      "title": "Ecuador Raises Intercity Bus Fares 25%: What Expats Now Pay",
-      "summary": "Ecuador's intercity bus fares jumped 25% nationwide on August 1, 2026, as the transitional tariff adjustment took effect at ticket windows. The increase arrives the month after government compensation",
-      "score": 1.612,
-      "n_outlets": 1,
-      "n_articles": 1,
-      "regions": [
-        "south_america"
-      ],
-      "last_seen": "2026-08-02T14:40:37+00:00",
-      "leans": [
-        "right"
-      ],
-      "sources": [
-        {
-          "outlet": "The Rio Times",
-          "region": "south_america",
-          "lean": "right",
-          "ownership": "private",
-          "title": "Ecuador Raises Intercity Bus Fares 25%: What Expats Now Pay",
-          "url": "https://www.riotimesonline.com/ecuador-intercity-bus-fares-25-percent-increase-august-2026/",
-          "published": "2026-08-02T14:40:37+00:00",
-          "orig_title": "Ecuador Raises Intercity Bus Fares 25%: What Expats Now Pay",
-          "lang": "en",
-          "translated": false,
-          "access": "unknown"
-        }
-      ]
-    },
-    {
-      "id": 137,
+      "id": 156,
       "topic": "Economics",
       "label": "July · Petrol · Coal",
       "title": "Petrol, diesel consumption surges in July amid lower-than-usual monsoons",
       "summary": "Consumption of LPG although declined 17.4% in July this year",
-      "score": 1.61,
+      "score": 1.561,
       "n_outlets": 1,
       "n_articles": 2,
       "regions": [
@@ -2082,44 +2107,12 @@
       ]
     },
     {
-      "id": 146,
-      "topic": "Economics",
-      "label": "Paraguay · Stock · Exchange",
-      "title": "Paraguay Stock Exchange Trades to Settle at Central Bank",
-      "summary": "Paraguay's depository CAVAPY expects to link to the central bank's real-time settlement system in August, taking commercial banks out of every trade. The post Paraguay Stock Exchange Trades to Settle ",
-      "score": 1.597,
-      "n_outlets": 1,
-      "n_articles": 1,
-      "regions": [
-        "south_america"
-      ],
-      "last_seen": "2026-08-02T14:23:08+00:00",
-      "leans": [
-        "right"
-      ],
-      "sources": [
-        {
-          "outlet": "The Rio Times",
-          "region": "south_america",
-          "lean": "right",
-          "ownership": "private",
-          "title": "Paraguay Stock Exchange Trades to Settle at Central Bank",
-          "url": "https://www.riotimesonline.com/paraguay-stock-market-central-bank-settlement-2026/",
-          "published": "2026-08-02T14:23:08+00:00",
-          "orig_title": "Paraguay Stock Exchange Trades to Settle at Central Bank",
-          "lang": "en",
-          "translated": false,
-          "access": "unknown"
-        }
-      ]
-    },
-    {
-      "id": 170,
+      "id": 188,
       "topic": "Economics",
       "label": "AIIB · Hong · Kong",
       "title": "AIIB explores digital payments, eyes Hong Kong hub as it raises record funds",
       "summary": "The Asian Infrastructure Investment Bank (AIIB) is setting its sights on tokenised payments and digital settlement systems, tapping into Hong Kong’s growing digital finance ecosystem as part of a broa",
-      "score": 1.532,
+      "score": 1.49,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -2146,12 +2139,12 @@
       ]
     },
     {
-      "id": 187,
+      "id": 205,
       "topic": "Economics",
       "label": "Trump · determined · pursue",
       "title": "Trump is determined to pursue his trade war – and he may be difficult to stop",
       "summary": "The president’s minions have trawled the statutes to restore roadblocks to trade. The invocation of Smoot-Hawley looks especially dangerous Donald Trump may have found the killer weapon to punish coun",
-      "score": 1.49,
+      "score": 1.451,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -2178,12 +2171,12 @@
       ]
     },
     {
-      "id": 233,
+      "id": 250,
       "topic": "Economics",
       "label": "Hong · Kong · Why",
       "title": "Why Hong Kong’s elites must become risk-takers again",
       "summary": "Hong Kong is drafting its first‑ever five‑year plan, a historic blueprint to chart long‑term development. Much has been said about reforms and paradigm shifts, but far less attention has been paid to ",
-      "score": 1.366,
+      "score": 1.336,
       "n_outlets": 1,
       "n_articles": 3,
       "regions": [
@@ -2238,12 +2231,12 @@
       ]
     },
     {
-      "id": 274,
+      "id": 290,
       "topic": "Economics",
       "label": "Cheung · Kong · Center",
       "title": "Cheung Kong Center II tests higher rents amid rebound in Central office market",
       "summary": "Cheung Kong Center II is testing office rents above HK$100 (US$12.75) per square foot, as the once slow-leasing tower begins to close the gap with Central’s most in-demand office buildings, according ",
-      "score": 1.297,
+      "score": 1.273,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -2270,12 +2263,12 @@
       ]
     },
     {
-      "id": 283,
+      "id": 300,
       "topic": "Economics",
       "label": "Parents · save · school",
       "title": "Parents save on school uniforms at city swap shop",
       "summary": "Parents take home school uniform for free at a pop-up that organisers hope can become a regular event.",
-      "score": 1.271,
+      "score": 1.249,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -2302,12 +2295,12 @@
       ]
     },
     {
-      "id": 342,
+      "id": 359,
       "topic": "Economics",
       "label": "German · Auto · Industry",
       "title": "The German Auto Industry, a Pillar of the National Psyche, Is Trembling",
       "summary": "The country’s iconic carmakers are struggling with tariffs, the growth of electric vehicles and intense competition from Chinese companies.",
-      "score": 1.195,
+      "score": 1.18,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -2334,27 +2327,73 @@
       ]
     },
     {
-      "id": 88,
+      "id": 377,
+      "topic": "Economics",
+      "label": "China · next · export",
+      "title": "China’s next export is the world’s factory itself",
+      "summary": "China’s export boom is reaching its limits. The country’s next phase of growth will come not from shipping more goods abroad, but from exporting its factories, technologies and brands. China is runnin",
+      "score": 1.135,
+      "n_outlets": 1,
+      "n_articles": 1,
+      "regions": [
+        "china"
+      ],
+      "last_seen": "2026-08-01T21:30:07+00:00",
+      "leans": [
+        "center"
+      ],
+      "sources": [
+        {
+          "outlet": "South China Morning Post",
+          "region": "china",
+          "lean": "center",
+          "ownership": "private",
+          "title": "China’s next export is the world’s factory itself",
+          "url": "https://www.scmp.com/opinion/china-opinion/article/3362151/chinas-next-export-worlds-factory-itself?utm_source=rss_feed",
+          "published": "2026-08-01T21:30:07+00:00",
+          "orig_title": "China’s next export is the world’s factory itself",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 42,
       "topic": "Trading & Markets",
-      "label": "Hungary · Paks · nuclear",
+      "label": "Hungary · nuclear · Paks",
       "title": "Climate crisis: Hungary closes nuclear power plant, Greece wildfires spread",
       "summary": "Hungary is fully shutting down its sole nuclear power plant for the first time due to the record low levels of the Danube River, straining energy supplies and posing a major test for the economy and n",
-      "score": 7.694,
-      "n_outlets": 7,
-      "n_articles": 8,
+      "score": 8.914,
+      "n_outlets": 8,
+      "n_articles": 9,
       "regions": [
         "china",
         "europe",
         "india",
+        "japan",
         "russia"
       ],
-      "last_seen": "2026-08-02T16:11:53+00:00",
+      "last_seen": "2026-08-02T20:30:00+00:00",
       "leans": [
         "center",
         "left",
         "state"
       ],
       "sources": [
+        {
+          "outlet": "Asahi Shimbun",
+          "region": "japan",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Hungary shuts down nuclear reactors amid heatwave; France and Romania impose restrictions",
+          "url": "http://www.asahi.com/articles/ASV824VWQV82UHBI00DM.html?ref=rss",
+          "published": "2026-08-02T20:30:00+00:00",
+          "orig_title": "ハンガリー、猛暑で原発運転を全面停止 フランスやルーマニアも制限",
+          "lang": "ja",
+          "translated": true,
+          "access": "unknown"
+        },
         {
           "outlet": "The Hindu",
           "region": "india",
@@ -2464,58 +2503,12 @@
       ]
     },
     {
-      "id": 124,
-      "topic": "Trading & Markets",
-      "label": "Alan · Jones · trial",
-      "title": "Alan Jones trial on indecent assault and sexual touching charges begins in Sydney",
-      "summary": "The 85-year-old former broadcaster faces 22 charges from six different complainants in what is expected to be a four-month trial Get our breaking news email , free app or daily news podcast The high-p",
-      "score": 2.629,
-      "n_outlets": 2,
-      "n_articles": 2,
-      "regions": [
-        "australia",
-        "europe"
-      ],
-      "last_seen": "2026-08-02T15:00:27+00:00",
-      "leans": [
-        "left"
-      ],
-      "sources": [
-        {
-          "outlet": "The Guardian",
-          "region": "europe",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Alan Jones trial on indecent assault and sexual touching charges begins in Sydney",
-          "url": "https://www.theguardian.com/media/2026/aug/03/trial-alan-jones-begins-sydney-ntwnfb",
-          "published": "2026-08-02T15:00:27+00:00",
-          "orig_title": "Alan Jones trial on indecent assault and sexual touching charges begins in Sydney",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "The Guardian Australia",
-          "region": "australia",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Your guide to Alan Jones’ trial – podcast",
-          "url": "https://www.theguardian.com/australia-news/audio/2026/aug/03/your-guide-to-alan-jones-trial-full-story-podcast",
-          "published": "2026-08-02T15:00:26+00:00",
-          "orig_title": "Your guide to Alan Jones’ trial – podcast",
-          "lang": "en",
-          "translated": false,
-          "access": "unknown"
-        }
-      ]
-    },
-    {
-      "id": 290,
+      "id": 307,
       "topic": "Trading & Markets",
       "label": "How · China · Keeps",
       "title": "How China Keeps Tabs on Foreigners",
       "summary": "An unsecured police dashboard was a rare window into how the authorities track foreigners by collecting and aggregating vast amounts of private data.",
-      "score": 2.252,
+      "score": 2.232,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -2557,59 +2550,76 @@
       ]
     },
     {
-      "id": 329,
+      "id": 9,
       "topic": "Trading & Markets",
-      "label": "Truth · Social · Trump",
-      "title": "Trump faces ethics storm for ‘pimping’ fast access to his Truth Social posts",
-      "summary": "US President Donald Trump knows the world hangs on his every word. Now he wants you to pay for it. The social media posts of the world’s most powerful man went on sale on Saturday, when his Truth Soci",
-      "score": 2.216,
-      "n_outlets": 2,
-      "n_articles": 2,
+      "label": "Vale · Approves · Buyback",
+      "title": "Vale Approves Buyback and US$1.7bn Shareholder Payout",
+      "summary": "MARKETS · VALE3, 2 AUGUST 2026 Key Facts —Buyback — Vale&#8217;s board approved a repurchase of up to 100 million common shares over 18 months, starting 19 August 2026, according to the company&#8217;",
+      "score": 1.975,
+      "n_outlets": 1,
+      "n_articles": 1,
       "regions": [
-        "china",
-        "us"
+        "south_america"
       ],
-      "last_seen": "2026-08-02T02:09:31+00:00",
+      "last_seen": "2026-08-02T21:16:13+00:00",
       "leans": [
-        "center",
-        "left"
+        "right"
       ],
       "sources": [
         {
-          "outlet": "NPR",
-          "region": "us",
-          "lean": "left",
-          "ownership": "public",
-          "title": "For sale: early access to Trump's Truth Social posts",
-          "url": "https://www.npr.org/2026/08/01/nx-s1-5912219/trump-truth-social-access-insider-trading",
-          "published": "2026-08-01T09:00:00+00:00",
-          "orig_title": "For sale: early access to Trump's Truth Social posts",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "South China Morning Post",
-          "region": "china",
-          "lean": "center",
+          "outlet": "The Rio Times",
+          "region": "south_america",
+          "lean": "right",
           "ownership": "private",
-          "title": "Trump faces ethics storm for ‘pimping’ fast access to his Truth Social posts",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3362674/trump-faces-ethics-storm-pimping-fast-access-his-truth-social-posts?utm_source=rss_feed",
-          "published": "2026-08-02T02:09:31+00:00",
-          "orig_title": "Trump faces ethics storm for ‘pimping’ fast access to his Truth Social posts",
+          "title": "Vale Approves Buyback and US$1.7bn Shareholder Payout",
+          "url": "https://www.riotimesonline.com/vale-buyback-us1-7bn-payout-2026/",
+          "published": "2026-08-02T21:16:13+00:00",
+          "orig_title": "Vale Approves Buyback and US$1.7bn Shareholder Payout",
           "lang": "en",
           "translated": false,
-          "access": "open"
+          "access": "unknown"
         }
       ]
     },
     {
-      "id": 2,
+      "id": 19,
+      "topic": "Trading & Markets",
+      "label": "Hill · Thune · week",
+      "title": "This week on the Hill: Thune faces jam-packed week before senators leave for recess",
+      "summary": "Senate Majority Leader John Thune (R-S.D.) is staring down one of his busiest weeks of the year as Republicans race to wrap up a lengthy to-do list before lawmakers leave Washington for the month-long",
+      "score": 1.953,
+      "n_outlets": 1,
+      "n_articles": 1,
+      "regions": [
+        "us"
+      ],
+      "last_seen": "2026-08-02T21:00:00+00:00",
+      "leans": [
+        "center"
+      ],
+      "sources": [
+        {
+          "outlet": "The Hill",
+          "region": "us",
+          "lean": "center",
+          "ownership": "private",
+          "title": "This week on the Hill: Thune faces jam-packed week before senators leave for recess",
+          "url": "https://thehill.com/homenews/senate/6004556-thune-budget-resolution-stopgap-blanche/",
+          "published": "2026-08-02T21:00:00+00:00",
+          "orig_title": "This week on the Hill: Thune faces jam-packed week before senators leave for recess",
+          "lang": "en",
+          "translated": false,
+          "access": "unknown"
+        }
+      ]
+    },
+    {
+      "id": 45,
       "topic": "Trading & Markets",
       "label": "Beyond · How · Dangote",
       "title": "Beyond liquid fuels: How the Dangote Refinery could become the catalytic industrial base for Nigeria, By Dan D. Kunle",
       "summary": "For decades, Nigeria has been known as one of the world’s largest crude oil producers, yet it captured only a fraction of the wealth its natural resources created. The country exported crude, imported",
-      "score": 1.99,
+      "score": 1.911,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -2636,12 +2646,12 @@
       ]
     },
     {
-      "id": 15,
+      "id": 56,
       "topic": "Trading & Markets",
       "label": "Opinion · Brief · History",
       "title": "Opinion | A Brief History of Wealth Creation",
       "summary": "The ancients aggregated wealth. America was built by creating it. Socialists are blind to all this.",
-      "score": 1.948,
+      "score": 1.872,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -2668,12 +2678,12 @@
       ]
     },
     {
-      "id": 42,
+      "id": 77,
       "topic": "Trading & Markets",
       "label": "Capital · One · Trump",
       "title": "Capital One says it closed Trump Organization accounts over money-laundering concerns",
       "summary": "The bank is asking a judge to permanently dismiss a lawsuit from Trump-affiliated businesses, arguing a monthslong internal review — not the Jan. 6 riot — explains why hundreds of accounts were shut d",
-      "score": 1.843,
+      "score": 1.776,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -2700,44 +2710,12 @@
       ]
     },
     {
-      "id": 122,
-      "topic": "Trading & Markets",
-      "label": "Hong · Kong · CSRC",
-      "title": "Hong Kong, CSRC deepen financial ties ahead of first yuan bond futures launch",
-      "summary": "Hong Kong’s leader has met the head of mainland China’s securities regulator to discuss deepening links between the two financial markets ahead of the launch of the city’s first yuan-denominated bond ",
-      "score": 1.63,
-      "n_outlets": 1,
-      "n_articles": 1,
-      "regions": [
-        "china"
-      ],
-      "last_seen": "2026-08-02T15:02:08+00:00",
-      "leans": [
-        "center"
-      ],
-      "sources": [
-        {
-          "outlet": "South China Morning Post",
-          "region": "china",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Hong Kong, CSRC deepen financial ties ahead of first yuan bond futures launch",
-          "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3362724/hong-kong-csrc-deepen-financial-ties-ahead-first-yuan-bond-futures-launch?utm_source=rss_feed",
-          "published": "2026-08-02T15:02:08+00:00",
-          "orig_title": "Hong Kong, CSRC deepen financial ties ahead of first yuan bond futures launch",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        }
-      ]
-    },
-    {
-      "id": 150,
+      "id": 168,
       "topic": "Trading & Markets",
       "label": "House · Australia · Middle",
       "title": "House prices slide across Australia as Middle East conflict and tax changes begin to bite",
       "summary": "Cotality data shows a drop in Brisbane, Adelaide and Perth, as nation’s median home price falls about $19,000 below its March peak Get our breaking news email , free app or daily news podcast House pr",
-      "score": 1.579,
+      "score": 1.533,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -2764,12 +2742,12 @@
       ]
     },
     {
-      "id": 180,
+      "id": 198,
       "topic": "Trading & Markets",
       "label": "Satellite · Oman · images",
       "title": "Satellite images show evidence of oil leak spreading from sanctioned vessel near Oman",
       "summary": "The Caroline Bezengi, reportedly carrying over 800,000 barrels of Russian crude, is leaking oil into a marine reserve home to endangered wildlife off Oman&apos;s coast.",
-      "score": 1.514,
+      "score": 1.473,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -2796,53 +2774,57 @@
       ]
     },
     {
-      "id": 131,
-      "topic": "Science",
-      "label": "Spain · Wildfires · Bordeaux",
-      "title": "Bordeaux vineyards escaped the immediate wildfires, but repeated heatwaves are shrinking...",
-      "summary": "European vineyards face an early harvest due to prolonged heat and drought conditions. Wildfires across southwestern France and Greece have forced thousands to evacuate their homes. Emergency services",
-      "score": 4.621,
-      "n_outlets": 4,
-      "n_articles": 6,
+      "id": 219,
+      "topic": "Trading & Markets",
+      "label": "Why · rate · premature",
+      "title": "Why is the rate of premature births so high in this community?",
+      "summary": "About 1 in 4 babies in the Pakistani fishing settlement of Rehri Goth are born prematurely. Researchers are trying to figure out how to bring the numbers down.",
+      "score": 1.416,
+      "n_outlets": 1,
+      "n_articles": 1,
       "regions": [
-        "europe",
-        "india",
-        "japan"
+        "us"
       ],
-      "last_seen": "2026-08-02T14:52:06+00:00",
+      "last_seen": "2026-08-02T11:03:47+00:00",
       "leans": [
-        "center",
         "left"
       ],
       "sources": [
         {
-          "outlet": "El Pais",
-          "region": "europe",
+          "outlet": "NPR",
+          "region": "us",
           "lean": "left",
-          "ownership": "private",
-          "title": "Map | 8.5 million people in Spain structurally exposed to wildfires",
-          "url": "https://elpais.com/clima-y-medio-ambiente/2026-08-02/mapa-85-millones-de-personas-en-espana-viven-expuestas-estructuralmente-a-los-incendios.html",
-          "published": "2026-08-02T03:30:01+00:00",
-          "orig_title": "Mapa | 8,5 millones de personas en España viven expuestas estructuralmente a los incendios",
-          "lang": "es",
-          "translated": true,
-          "access": "unknown",
-          "more": [
-            {
-              "outlet": "El Pais",
-              "region": "europe",
-              "lean": "left",
-              "ownership": "private",
-              "title": "Spain strings together record heat and wildfires in a historic July",
-              "url": "https://elpais.com/videos/2026-08-02/espana-encadena-record-de-calor-e-incendios-en-un-julio-historico.html",
-              "published": "2026-08-02T03:15:00+00:00",
-              "orig_title": "España encadena récord de calor e incendios en un julio histórico",
-              "lang": "es",
-              "translated": true,
-              "access": "unknown"
-            }
-          ]
-        },
+          "ownership": "public",
+          "title": "Why is the rate of premature births so high in this community?",
+          "url": "https://www.npr.org/2026/08/02/g-s1-135946/premature-birth-slum-pakistan",
+          "published": "2026-08-02T11:03:47+00:00",
+          "orig_title": "Why is the rate of premature births so high in this community?",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 152,
+      "topic": "Science",
+      "label": "France · Wildfires · Bordeaux",
+      "title": "Bordeaux vineyards escaped the immediate wildfires, but repeated heatwaves are shrinking...",
+      "summary": "European vineyards face an early harvest due to prolonged heat and drought conditions. Wildfires across southwestern France and Greece have forced thousands to evacuate their homes. Emergency services",
+      "score": 4.572,
+      "n_outlets": 4,
+      "n_articles": 5,
+      "regions": [
+        "europe",
+        "india",
+        "japan",
+        "russia"
+      ],
+      "last_seen": "2026-08-02T14:52:06+00:00",
+      "leans": [
+        "center"
+      ],
+      "sources": [
         {
           "outlet": "Deutsche Welle",
           "region": "europe",
@@ -2855,6 +2837,19 @@
           "lang": "en",
           "translated": false,
           "access": "open"
+        },
+        {
+          "outlet": "Kommersant",
+          "region": "russia",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Forest fires in France brought under control",
+          "url": "https://www.kommersant.ru/doc/8860745",
+          "published": "2026-08-01T22:26:57+00:00",
+          "orig_title": "Лесные пожары во Франции удалось взять под контроль",
+          "lang": "ru",
+          "translated": true,
+          "access": "unknown"
         },
         {
           "outlet": "The Japan Times",
@@ -2900,19 +2895,19 @@
       ]
     },
     {
-      "id": 19,
+      "id": 35,
       "topic": "Science",
       "label": "RFK · Jr. · Trump",
       "title": "RFK Jr. says Trump 'certainly' wants him to investigate any link between autism and vaccines",
       "summary": "Health and Human Services (HHS) Secretary Robert F. Kennedy Jr. on Sunday said President Trump \"certainly\" wants him to investigate perceived links between autism and vaccines. Kennedy made the remark",
-      "score": 2.938,
+      "score": 2.924,
       "n_outlets": 2,
-      "n_articles": 3,
+      "n_articles": 2,
       "regions": [
         "europe",
         "us"
       ],
-      "last_seen": "2026-08-02T19:48:18+00:00",
+      "last_seen": "2026-08-02T20:37:11+00:00",
       "leans": [
         "center",
         "left"
@@ -2925,7 +2920,7 @@
           "ownership": "private",
           "title": "RFK Jr tells US families to vaccinate children against measles amid outbreak",
           "url": "https://www.theguardian.com/us-news/2026/aug/02/rfk-jr-measles-vaccination",
-          "published": "2026-08-02T18:28:43+00:00",
+          "published": "2026-08-02T20:37:11+00:00",
           "orig_title": "RFK Jr tells US families to vaccinate children against measles amid outbreak",
           "lang": "en",
           "translated": false,
@@ -2942,32 +2937,17 @@
           "orig_title": "RFK Jr. says Trump 'certainly' wants him to investigate any link between autism and vaccines",
           "lang": "en",
           "translated": false,
-          "access": "unknown",
-          "more": [
-            {
-              "outlet": "The Hill",
-              "region": "us",
-              "lean": "center",
-              "ownership": "private",
-              "title": "RFK Jr., CNN's Bash clash in heated interview: ‘This is not productive’",
-              "url": "https://thehill.com/policy/healthcare/6004265-kennedy-bash-clash-vaccine-safety/",
-              "published": "2026-08-02T15:10:15+00:00",
-              "orig_title": "RFK Jr., CNN's Bash clash in heated interview: ‘This is not productive’",
-              "lang": "en",
-              "translated": false,
-              "access": "unknown"
-            }
-          ]
+          "access": "unknown"
         }
       ]
     },
     {
-      "id": 48,
+      "id": 83,
       "topic": "Science",
       "label": "scientists · analysed · storm",
       "title": "US scientists analysed 55 storm and atmospheric variables to identify hurricane rapid intensification",
       "summary": "Coastal communities might soon benefit from enhanced hurricane forecasting. A groundbreaking statistical model predicts rapid hurricane intensification up to five days in advance, significantly improv",
-      "score": 1.825,
+      "score": 1.759,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -2994,12 +2974,12 @@
       ]
     },
     {
-      "id": 105,
+      "id": 132,
       "topic": "Science",
       "label": "Brazilian · Amazon · scientists",
       "title": "Brazilian scientists sampled 800 trees across 63 Amazon locations; their atomic fingerprinting...",
       "summary": "Brazilian scientists are innovating with an isotopic mapping model designed to tackle illegal logging head-on. This novel forensic tool examines atomic signatures within trees, allowing them to trace ",
-      "score": 1.661,
+      "score": 1.608,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -3026,12 +3006,12 @@
       ]
     },
     {
-      "id": 111,
+      "id": 135,
       "topic": "Science",
       "label": "Christmas · Orleans · discarded",
       "title": "9,000 discarded Christmas trees help restore New Orleans wetlands",
       "summary": "New Orleans is giving used Christmas trees a second life by dropping them into coastal marshes to help slow land loss. The bundled trees trap sediment, reduce wave energy and support marsh grass growt",
-      "score": 1.655,
+      "score": 1.603,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -3058,12 +3038,12 @@
       ]
     },
     {
-      "id": 114,
+      "id": 138,
       "topic": "Science",
       "label": "U.S. · Restores · Some",
       "title": "U.S. Restores Some Vaccine and Health Aid to Unicef, Gavi and World Food Programme",
       "summary": "The amount is still far below what the U.S. spent previously on humanitarian and health aid, but resumes the flow of money for key efforts to fight malnutrition and disease.",
-      "score": 1.648,
+      "score": 1.596,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -3090,12 +3070,12 @@
       ]
     },
     {
-      "id": 125,
+      "id": 146,
       "topic": "Science",
-      "label": "Coalition · Tasmanias · Queensland",
-      "title": "The ‘great net zero debate’ was anything but – so beware Coalition claims of renewables taking over ‘two Tasmanias’",
+      "label": "Coalition · Tasmanias · Temperature",
+      "title": "The ‘great net zero debate’ was anything but – so beware Coalition claims of renewables taking over ‘two Tasmanias’ | Temperature Check",
       "summary": "One expert described Nationals leader Matt Canavan’s claim of land used for clean energy as ‘plain wrong and plain silly’ Sign up for climate and environment editor Adam Morton’s free Clear Air newsle",
-      "score": 1.629,
+      "score": 1.579,
       "n_outlets": 1,
       "n_articles": 2,
       "regions": [
@@ -3111,10 +3091,10 @@
           "region": "australia",
           "lean": "left",
           "ownership": "private",
-          "title": "The ‘great net zero debate’ was anything but – so beware Coalition claims of renewables taking over ‘two Tasmanias’",
+          "title": "The ‘great net zero debate’ was anything but – so beware Coalition claims of renewables taking over ‘two Tasmanias’ | Temperature Check",
           "url": "https://www.theguardian.com/environment/2026/aug/03/the-great-net-zero-debate-was-anything-but-so-beware-coalition-claims-of-renewables-taking-over-two-tasmanias",
           "published": "2026-08-02T15:00:27+00:00",
-          "orig_title": "The ‘great net zero debate’ was anything but – so beware Coalition claims of renewables taking over ‘two Tasmanias’",
+          "orig_title": "The ‘great net zero debate’ was anything but – so beware Coalition claims of renewables taking over ‘two Tasmanias’ | Temperature Check",
           "lang": "en",
           "translated": false,
           "access": "unknown",
@@ -3137,12 +3117,12 @@
       ]
     },
     {
-      "id": 130,
+      "id": 151,
       "topic": "Science",
       "label": "Researchers · Americans · mapped",
       "title": "Researchers mapped 128 million US buildings for landslide exposure; 6.5 million Americans live in...",
       "summary": "A recent study identifies millions of Americans at risk from landslide hazards, revealing that densely populated eastern states have higher exposure. The challenges mount for rural communities when re",
-      "score": 1.623,
+      "score": 1.573,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -3169,12 +3149,12 @@
       ]
     },
     {
-      "id": 151,
+      "id": 169,
       "topic": "Science",
       "label": "Chinese · rocket · scientists",
       "title": "Chinese rocket scientists find ‘most effective’ way to nuke a doomsday asteroid",
       "summary": "Chinese researchers believe they may have found the most effective way to destroy or deflect a large, Earth-threatening asteroid – by burying a nuclear bomb beneath its surface and exploding it. The i",
-      "score": 1.578,
+      "score": 1.532,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -3201,12 +3181,12 @@
       ]
     },
     {
-      "id": 243,
+      "id": 260,
       "topic": "Science",
       "label": "understanding · housemate · student",
       "title": "‘I have an understanding housemate’: the student who makes videos of fungus on faeces",
       "summary": "Alfred Drummond-Herdman’s extraordinary timelapses have been viewed by millions – and led him to identify new species Alfred Drummond-Herdman is possibly the only person in the UK who is sent animal f",
-      "score": 1.351,
+      "score": 1.323,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -3233,12 +3213,12 @@
       ]
     },
     {
-      "id": 98,
+      "id": 129,
       "topic": "Technology",
       "label": "China · China's · African",
       "title": "US companies win billions in African data center deals in direct competition with China",
       "summary": "From Lesotho to Gabon, American firms are winning AI data center and power contracts worth billions as the U.S.-China trade war intensifies in Africa.",
-      "score": 4.676,
+      "score": 4.622,
       "n_outlets": 4,
       "n_articles": 4,
       "regions": [
@@ -3308,12 +3288,12 @@
       ]
     },
     {
-      "id": 26,
+      "id": 64,
       "topic": "Technology",
       "label": "Google · Day · Made",
       "title": "Google disables AI map generator Nano Banana days after launch due to fake terror attack imagery",
       "summary": "Сайт Google Earth 30 июля запустил функцию по модификации изображений, в том числе карт, с помощью искусственного интеллекта (ИИ). Однако уже 1 августа дня пресс-служба компании сообщила, что функцию ",
-      "score": 3.909,
+      "score": 3.837,
       "n_outlets": 3,
       "n_articles": 3,
       "regions": [
@@ -3368,79 +3348,18 @@
       ]
     },
     {
-      "id": 338,
+      "id": 40,
       "topic": "Technology",
-      "label": "When · Rogue · Hacks",
-      "title": "Rogue AI Hacks Herald New Era of Cyber Chaos",
-      "summary": "Security experts find validation of their fears after AI hacking models from OpenAI and Anthropic escaped corporate test-beds.",
-      "score": 3.2,
-      "n_outlets": 3,
+      "label": "Opinion · Public · Pension",
+      "title": "Opinion | The Math on AI Works Out Well for You",
+      "summary": "Efforts to curtail data centers risk a potential gold mine for our society.",
+      "score": 2.916,
+      "n_outlets": 2,
       "n_articles": 3,
       "regions": [
-        "japan",
         "us"
       ],
-      "last_seen": "2026-08-02T01:15:00+00:00",
-      "leans": [
-        "center",
-        "left",
-        "right"
-      ],
-      "sources": [
-        {
-          "outlet": "NPR",
-          "region": "us",
-          "lean": "left",
-          "ownership": "public",
-          "title": "Why did OpenAI's and Anthropic's AI models hack other companies?",
-          "url": "https://www.npr.org/2026/08/01/nx-s1-5914852/anthropic-openai-models-hack-cybersecurity",
-          "published": "2026-08-01T09:00:00+00:00",
-          "orig_title": "Why did OpenAI's and Anthropic's AI models hack other companies?",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "The Japan Times",
-          "region": "japan",
-          "lean": "center",
-          "ownership": "private",
-          "title": "When rogue AI launches a cyberattack, who is legally responsible?",
-          "url": "https://www.japantimes.co.jp/business/2026/08/02/tech/ai-cyberattack-legally-responsible/",
-          "published": "2026-08-02T01:15:00+00:00",
-          "orig_title": "When rogue AI launches a cyberattack, who is legally responsible?",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
-        },
-        {
-          "outlet": "The Wall Street Journal",
-          "region": "us",
-          "lean": "right",
-          "ownership": "private",
-          "title": "Rogue AI Hacks Herald New Era of Cyber Chaos",
-          "url": "https://www.wsj.com/tech/ai/openai-anthropic-rogue-ai-models-20b6bb3c?mod=rss_Technology",
-          "published": "2026-08-01T23:00:00+00:00",
-          "orig_title": "Rogue AI Hacks Herald New Era of Cyber Chaos",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
-        }
-      ]
-    },
-    {
-      "id": 50,
-      "topic": "Technology",
-      "label": "Opinion · Math · Works",
-      "title": "Wall Street Thinks It Knows How Tech Giants Will Make AI Pay",
-      "summary": "Investors are coming around to the idea that Big Tech spending on AI can make sense—as long as there is a cloud-computing business involved.",
-      "score": 2.812,
-      "n_outlets": 2,
-      "n_articles": 5,
-      "regions": [
-        "us"
-      ],
-      "last_seen": "2026-08-02T18:05:00+00:00",
+      "last_seen": "2026-08-02T20:31:00+00:00",
       "leans": [
         "left",
         "right"
@@ -3464,10 +3383,10 @@
           "region": "us",
           "lean": "right",
           "ownership": "private",
-          "title": "Wall Street Thinks It Knows How Tech Giants Will Make AI Pay",
-          "url": "https://www.wsj.com/tech/ai/wall-street-thinks-it-knows-how-tech-giants-will-make-ai-pay-96f76438?mod=rss_markets_main",
-          "published": "2026-08-01T09:30:00+00:00",
-          "orig_title": "Wall Street Thinks It Knows How Tech Giants Will Make AI Pay",
+          "title": "Opinion | The Math on AI Works Out Well for You",
+          "url": "https://www.wsj.com/opinion/the-math-on-ai-works-out-well-for-you-eaf0f8c8?mod=rss_markets_main",
+          "published": "2026-08-02T18:05:00+00:00",
+          "orig_title": "Opinion | The Math on AI Works Out Well for You",
           "lang": "en",
           "translated": false,
           "access": "paywall",
@@ -3477,36 +3396,10 @@
               "region": "us",
               "lean": "right",
               "ownership": "private",
-              "title": "Opinion | The Math on AI Works Out Well for You",
-              "url": "https://www.wsj.com/opinion/the-math-on-ai-works-out-well-for-you-eaf0f8c8?mod=rss_markets_main",
-              "published": "2026-08-02T18:05:00+00:00",
-              "orig_title": "Opinion | The Math on AI Works Out Well for You",
-              "lang": "en",
-              "translated": false,
-              "access": "paywall"
-            },
-            {
-              "outlet": "The Wall Street Journal",
-              "region": "us",
-              "lean": "right",
-              "ownership": "private",
-              "title": "The Race to Build an American Alternative to Cheap AI From China",
-              "url": "https://www.wsj.com/tech/ai/the-race-to-build-an-american-alternative-to-cheap-ai-from-china-2e99a28a?mod=rss_Technology",
-              "published": "2026-08-02T01:00:00+00:00",
-              "orig_title": "The Race to Build an American Alternative to Cheap AI From China",
-              "lang": "en",
-              "translated": false,
-              "access": "paywall"
-            },
-            {
-              "outlet": "The Wall Street Journal",
-              "region": "us",
-              "lean": "right",
-              "ownership": "private",
-              "title": "Opinion | Does AI Have a Fiduciary Duty?",
-              "url": "https://www.wsj.com/opinion/does-ai-have-a-fiduciary-duty-4eaa49d1?mod=rss_Technology",
-              "published": "2026-08-02T17:32:00+00:00",
-              "orig_title": "Opinion | Does AI Have a Fiduciary Duty?",
+              "title": "Opinion | The Public Pension AI Boom",
+              "url": "https://www.wsj.com/opinion/public-pensions-ai-equable-institute-report-16281797?mod=rss_markets_main",
+              "published": "2026-08-02T20:31:00+00:00",
+              "orig_title": "Opinion | The Public Pension AI Boom",
               "lang": "en",
               "translated": false,
               "access": "paywall"
@@ -3516,12 +3409,59 @@
       ]
     },
     {
-      "id": 101,
+      "id": 93,
+      "topic": "Technology",
+      "label": "Opinion · Does · Fiduciary",
+      "title": "Opinion | Does AI Have a Fiduciary Duty?",
+      "summary": "How to regulate the new technology? The answer may lie in the common law.",
+      "score": 2.714,
+      "n_outlets": 2,
+      "n_articles": 2,
+      "regions": [
+        "japan",
+        "us"
+      ],
+      "last_seen": "2026-08-02T17:32:00+00:00",
+      "leans": [
+        "center",
+        "right"
+      ],
+      "sources": [
+        {
+          "outlet": "The Japan Times",
+          "region": "japan",
+          "lean": "center",
+          "ownership": "private",
+          "title": "When rogue AI launches a cyberattack, who is legally responsible?",
+          "url": "https://www.japantimes.co.jp/business/2026/08/02/tech/ai-cyberattack-legally-responsible/",
+          "published": "2026-08-02T01:15:00+00:00",
+          "orig_title": "When rogue AI launches a cyberattack, who is legally responsible?",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall"
+        },
+        {
+          "outlet": "The Wall Street Journal",
+          "region": "us",
+          "lean": "right",
+          "ownership": "private",
+          "title": "Opinion | Does AI Have a Fiduciary Duty?",
+          "url": "https://www.wsj.com/opinion/does-ai-have-a-fiduciary-duty-4eaa49d1?mod=rss_Technology",
+          "published": "2026-08-02T17:32:00+00:00",
+          "orig_title": "Opinion | Does AI Have a Fiduciary Duty?",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall"
+        }
+      ]
+    },
+    {
+      "id": 130,
       "topic": "Technology",
       "label": "Larry · Ellison · Bet",
       "title": "Larry Ellison Bet It All on the A.I. Boom. Will He Be the Face of the A.I. Bubble?",
       "summary": "Inside the 81-year-old billionaire’s risky, debt-fueled scramble to transform his data empire into an A.I. juggernaut.",
-      "score": 2.669,
+      "score": 2.616,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -3562,87 +3502,58 @@
       ]
     },
     {
-      "id": 134,
+      "id": 277,
       "topic": "Technology",
-      "label": "Iran · water · cyberattacks",
-      "title": "US authorities suspect Iran of cyberattacks on water systems in seven states",
-      "summary": "Хакеры взломали компьютерные сети систем водоснабжения в семи американских штатах, что стало самой серьезной кибератакой на такие системы в США за многие годы. Как сообщает CBS News, эксперты агентств",
-      "score": 2.614,
+      "label": "Brisbane · Queensland · Olympic",
+      "title": "Concept images of controversial 2032 Brisbane Olympics precinct revealed – as it happened",
+      "summary": "Community members concerned about loss of community green space and areas of cultural importance. This blog is now closed Get our breaking news email , free app or daily news podcast Yolngu leaders in",
+      "score": 2.289,
       "n_outlets": 2,
-      "n_articles": 4,
+      "n_articles": 2,
       "regions": [
-        "europe",
-        "russia"
+        "australia",
+        "europe"
       ],
-      "last_seen": "2026-08-02T14:43:44+00:00",
+      "last_seen": "2026-08-02T06:40:41+00:00",
       "leans": [
-        "center",
         "left"
       ],
       "sources": [
         {
-          "outlet": "El Pais",
+          "outlet": "The Guardian",
           "region": "europe",
           "lean": "left",
           "ownership": "private",
-          "title": "Multiple cyberattacks on U.S. water systems raise Iran involvement concerns",
-          "url": "https://elpais.com/us/2026-08-01/multiples-cibertaques-en-el-sistema-de-aguas-inquietan-a-ee-uu-por-la-posible-participacion-de-iran.html",
-          "published": "2026-08-01T18:07:59+00:00",
-          "orig_title": "Múltiples ciberataques en el sistema de aguas inquietan a EE UU por la posible participación de Irán",
-          "lang": "es",
-          "translated": true,
-          "access": "unknown"
+          "title": "Queensland reveals concept plans for Brisbane Olympic stadium precinct – but critics say they are ‘fantasy vision’",
+          "url": "https://www.theguardian.com/sport/2026/aug/02/queensland-reveals-concept-plans-for-brisbane-olympic-stadium-precinct-but-critics-say-they-are-fantasy-vision",
+          "published": "2026-08-02T06:40:41+00:00",
+          "orig_title": "Queensland reveals concept plans for Brisbane Olympic stadium precinct – but critics say they are ‘fantasy vision’",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
         },
         {
-          "outlet": "Kommersant",
-          "region": "russia",
-          "lean": "center",
+          "outlet": "The Guardian Australia",
+          "region": "australia",
+          "lean": "left",
           "ownership": "private",
-          "title": "US authorities suspect Iran of cyberattacks on water systems in seven states",
-          "url": "https://www.kommersant.ru/doc/8860928",
-          "published": "2026-08-02T14:43:44+00:00",
-          "orig_title": "Власти США подозревают Иран в кибератаках на системы водоснабжения в семи штатах",
-          "lang": "ru",
-          "translated": true,
-          "access": "unknown",
-          "more": [
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "NYT reports US strike on Iranian residential building with 900-kilogram bomb",
-              "url": "https://www.kommersant.ru/doc/8860722",
-              "published": "2026-08-01T16:47:59+00:00",
-              "orig_title": "NYT сообщила об ударе США 900-килограммовой бомбой по жилому дому в Иране",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            },
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Danube's low water level reveals World War III warship wreckage in Serbia",
-              "url": "https://www.kommersant.ru/doc/8860867",
-              "published": "2026-08-02T10:09:26+00:00",
-              "orig_title": "В Сербии из-за обмеления Дуная обнаружили обломки корабля Третьего рейха",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            }
-          ]
+          "title": "Concept images of controversial 2032 Brisbane Olympics precinct revealed – as it happened",
+          "url": "https://www.theguardian.com/australia-news/live/2026/aug/02/insiders-jane-hume-coalition-anthony-albanese-labor-garma-festival-fuel-excise-bird-flu-updates-ntwnfb",
+          "published": "2026-08-02T03:11:48+00:00",
+          "orig_title": "Concept images of controversial 2032 Brisbane Olympics precinct revealed – as it happened",
+          "lang": "en",
+          "translated": false,
+          "access": "unknown"
         }
       ]
     },
     {
-      "id": 1,
+      "id": 44,
       "topic": "Technology",
       "label": "Opinion · Trump · TikTok",
       "title": "Opinion | Trump, TikTok and Federal Devices",
       "summary": "The Justice Department green lights the app for U.S. officials, despite spying worries.",
-      "score": 1.991,
+      "score": 1.912,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -3669,12 +3580,12 @@
       ]
     },
     {
-      "id": 31,
+      "id": 68,
       "topic": "Technology",
       "label": "Shanghai · Shenhua · Slutsky",
       "title": "Slutsky's Shanghai Shenhua suffers third straight defeat in Chinese championship",
       "summary": "В матче 21-го тура китайской Суперлиги футбольный клуб «Шанхай Шэньхуа» под руководством российского тренера Леонида Слуцкого проиграл «Ляонин Тежэнь» на выезде со счетом 1:3. Хозяева поля открыли сче",
-      "score": 1.882,
+      "score": 1.812,
       "n_outlets": 1,
       "n_articles": 2,
       "regions": [
@@ -3716,12 +3627,12 @@
       ]
     },
     {
-      "id": 46,
+      "id": 81,
       "topic": "Technology",
       "label": "Implementation · Lebanon · Hezbollah",
       "title": "Implementation of agreement with Lebanon to depend on Hezbollah’s disarmament",
       "summary": "\"Israel’s security is not a bargaining chip,\" adviser in the Israeli prime minister’s office Dmitri Gendelman said.",
-      "score": 1.827,
+      "score": 1.761,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -3748,12 +3659,12 @@
       ]
     },
     {
-      "id": 126,
+      "id": 147,
       "topic": "Technology",
       "label": "Inside · Sydney · hottest",
       "title": "Inside Sydney’s hottest nightspot, where shoes are off, laptops are on and customers drink matcha",
       "summary": "A ‘study cafe’ has opened on the site that once housed the radical Gould’s Book Arcade – and students are paying by the hour to be there Get our breaking news email , free app or daily news podcast In",
-      "score": 1.629,
+      "score": 1.579,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -3780,74 +3691,134 @@
       ]
     },
     {
-      "id": 80,
+      "id": 1,
       "topic": "Sports",
-      "label": "Ukraine · Russian · Moscow",
-      "title": "Ukraine hits multiple Russian regions, killing 8: Officials",
-      "summary": "Both Moscow and Kyiv have upped attacks on each other in recent months, as U.S.-led talks aimed at ending the conflict remain largely frozen",
-      "score": 4.708,
-      "n_outlets": 4,
+      "label": "Alan · Jones · trial",
+      "title": "Alan Jones trial on indecent assault and sexual touching charges begins in Sydney",
+      "summary": "The 85-year-old former broadcaster faces 22 charges from six different complainants in what is expected to be a four-month trial Get our breaking news email , free app or daily news podcast The high-p",
+      "score": 2.981,
+      "n_outlets": 2,
       "n_articles": 4,
       "regions": [
-        "china",
-        "europe",
-        "india",
-        "russia"
+        "australia",
+        "europe"
       ],
-      "last_seen": "2026-08-02T16:26:24+00:00",
+      "last_seen": "2026-08-02T21:20:41+00:00",
       "leans": [
-        "center",
         "left"
       ],
       "sources": [
         {
-          "outlet": "The Hindu",
-          "region": "india",
+          "outlet": "The Guardian",
+          "region": "europe",
           "lean": "left",
           "ownership": "private",
-          "title": "Ukraine hits multiple Russian regions, killing 8: Officials",
-          "url": "https://www.thehindu.com/news/international/ukraine-hits-multiple-russian-regions-say-officials/article71298652.ece",
-          "published": "2026-08-02T16:26:24+00:00",
-          "orig_title": "Ukraine hits multiple Russian regions, killing 8: Officials",
+          "title": "Alan Jones trial on indecent assault and sexual touching charges begins in Sydney",
+          "url": "https://www.theguardian.com/media/2026/aug/03/trial-alan-jones-begins-sydney-ntwnfb",
+          "published": "2026-08-02T15:00:27+00:00",
+          "orig_title": "Alan Jones trial on indecent assault and sexual touching charges begins in Sydney",
           "lang": "en",
           "translated": false,
           "access": "open"
         },
         {
-          "outlet": "BBC News",
-          "region": "europe",
-          "lean": "center",
-          "ownership": "public",
-          "title": "Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths",
-          "url": "https://www.bbc.co.uk/news/articles/c998gg5pe09o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-02T15:48:00+00:00",
-          "orig_title": "Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "South China Morning Post",
-          "region": "china",
-          "lean": "center",
+          "outlet": "The Guardian Australia",
+          "region": "australia",
+          "lean": "left",
           "ownership": "private",
-          "title": "Ukraine strikes kill 9 in Russia, Moscow says, another Wildberries warehouse hit",
-          "url": "https://www.scmp.com/news/world/europe/article/3362698/ukrainian-drone-strikes-kill-2-russia-hit-another-wildberries-warehouse?utm_source=rss_feed",
-          "published": "2026-08-02T07:42:05+00:00",
-          "orig_title": "Ukraine strikes kill 9 in Russia, Moscow says, another Wildberries warehouse hit",
+          "title": "Your guide to Alan Jones’ trial – podcast",
+          "url": "https://www.theguardian.com/australia-news/audio/2026/aug/03/your-guide-to-alan-jones-trial-full-story-podcast",
+          "published": "2026-08-02T15:00:26+00:00",
+          "orig_title": "Your guide to Alan Jones’ trial – podcast",
           "lang": "en",
           "translated": false,
-          "access": "open"
-        },
+          "access": "unknown",
+          "more": [
+            {
+              "outlet": "The Guardian Australia",
+              "region": "australia",
+              "lean": "left",
+              "ownership": "private",
+              "title": "Australia news live: Chalmers asks regulator to watch service stations ‘like a hawk’ as fuel excise cut ends",
+              "url": "https://www.theguardian.com/australia-news/live/2026/aug/03/australia-news-live-fuel-excise-cut-jim-chalmers-cost-of-living-anthony-albanese-labor-angus-taylor-coalition-one-nation-pauline-hanson-ntwnfb",
+              "published": "2026-08-02T21:20:41+00:00",
+              "orig_title": "Australia news live: Chalmers asks regulator to watch service stations ‘like a hawk’ as fuel excise cut ends",
+              "lang": "en",
+              "translated": false,
+              "access": "unknown"
+            },
+            {
+              "outlet": "The Guardian Australia",
+              "region": "australia",
+              "lean": "left",
+              "ownership": "private",
+              "title": "Morning Mail: House price slide spreads across nation; Alan Jones trial due to start; Commonwealth Games conclude",
+              "url": "https://www.theguardian.com/australia-news/2026/aug/03/morning-mail-monday-ntwnfb",
+              "published": "2026-08-02T20:44:47+00:00",
+              "orig_title": "Morning Mail: House price slide spreads across nation; Alan Jones trial due to start; Commonwealth Games conclude",
+              "lang": "en",
+              "translated": false,
+              "access": "unknown"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "topic": "Sports",
+      "label": "WTA · Kristina · Lyutova",
+      "title": "16-year-old Kristina Lyutova reaches WTA tennis tournament final",
+      "summary": "Российская теннисистка Кристина Лютова вышла в финал турнира категории WTA 250 в Мемфисе. Она стала первой спортсменкой, которая родилась в 2010-х годах и вышла в финал турнира WTA.",
+      "score": 2.945,
+      "n_outlets": 2,
+      "n_articles": 3,
+      "regions": [
+        "russia"
+      ],
+      "last_seen": "2026-08-02T20:53:54+00:00",
+      "leans": [
+        "center",
+        "state"
+      ],
+      "sources": [
         {
-          "outlet": "The Moscow Times",
+          "outlet": "Kommersant",
           "region": "russia",
           "lean": "center",
           "ownership": "private",
-          "title": "Russia Pounds Kyiv With Missiles, Killing At Least 10",
-          "url": "https://www.themoscowtimes.com/2026/08/01/russia-pounds-kyiv-with-missiles-killing-at-least-10-a93392",
-          "published": "2026-08-01T12:52:00+00:00",
-          "orig_title": "Russia Pounds Kyiv With Missiles, Killing At Least 10",
+          "title": "16-year-old Kristina Lyutova reaches WTA tennis tournament final",
+          "url": "https://www.kommersant.ru/doc/8860740",
+          "published": "2026-08-01T20:41:21+00:00",
+          "orig_title": "16-летняя Кристина Лютова вышла в финал теннисного турнира WTA",
+          "lang": "ru",
+          "translated": true,
+          "access": "unknown",
+          "more": [
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "16-year-old tennis player Kristina Lyutova wins debut WTA tournament",
+              "url": "https://www.kommersant.ru/doc/8861045",
+              "published": "2026-08-02T20:53:54+00:00",
+              "orig_title": "16-летняя теннисистка Кристина Лютова выиграла дебютный турнир WTA",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            }
+          ]
+        },
+        {
+          "outlet": "TASS",
+          "region": "russia",
+          "lean": "state",
+          "ownership": "state",
+          "title": "16-year-old Russian Liutova becomes youngest tennis player in 7 years to reach WTA final",
+          "url": "https://tass.com/sports/2168043",
+          "published": "2026-08-01T22:16:04+00:00",
+          "orig_title": "16-year-old Russian Liutova becomes youngest tennis player in 7 years to reach WTA final",
           "lang": "en",
           "translated": false,
           "access": "open"
@@ -3855,19 +3826,19 @@
       ]
     },
     {
-      "id": 53,
+      "id": 39,
       "topic": "Sports",
-      "label": "India's · Commonwealth · Games",
-      "title": "'This is Indian sport at its finest': Iyer applauds India's 39-medal CWG campaign",
-      "summary": "India secured fourth place in the Commonwealth Games 2026 medal standings. The nation achieved a total of thirty-nine medals, including thirteen gold awards. Indian boxers achieved a historic success,",
-      "score": 2.79,
+      "label": "Commonwealth · Games · India",
+      "title": "India secure top-four finish at 2026 Commonwealth Games after historic 39-medal campaign",
+      "summary": "India finished fourth at the 2026 Commonwealth Games in Glasgow with 39 medals (13 gold, 17 silver and nine bronze), despite failing to add to their tally on the final day. A record 16-medal haul on S",
+      "score": 2.917,
       "n_outlets": 2,
-      "n_articles": 4,
+      "n_articles": 5,
       "regions": [
         "africa",
         "india"
       ],
-      "last_seen": "2026-08-02T17:45:03+00:00",
+      "last_seen": "2026-08-02T20:31:42+00:00",
       "leans": [
         "center"
       ],
@@ -3890,14 +3861,27 @@
           "region": "india",
           "lean": "center",
           "ownership": "private",
-          "title": "'This is Indian sport at its finest': Iyer applauds India's 39-medal CWG campaign",
-          "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/this-is-indian-sport-at-its-finest-shreyas-iyer-applauds-team-indias-39-medal-cwg-campaign/articleshow/132810330.cms",
-          "published": "2026-08-02T17:05:46+00:00",
-          "orig_title": "'This is Indian sport at its finest': Iyer applauds India's 39-medal CWG campaign",
+          "title": "India secure top-four finish at 2026 Commonwealth Games after historic 39-medal campaign",
+          "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/india-secure-top-four-finish-at-2026-commonwealth-games-after-historic-39-medal-campaign/articleshow/132813477.cms",
+          "published": "2026-08-02T20:31:42+00:00",
+          "orig_title": "India secure top-four finish at 2026 Commonwealth Games after historic 39-medal campaign",
           "lang": "en",
           "translated": false,
           "access": "open",
           "more": [
+            {
+              "outlet": "Times of India",
+              "region": "india",
+              "lean": "center",
+              "ownership": "private",
+              "title": "'This is Indian sport at its finest': Iyer applauds India's 39-medal CWG campaign",
+              "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/this-is-indian-sport-at-its-finest-shreyas-iyer-applauds-team-indias-39-medal-cwg-campaign/articleshow/132810330.cms",
+              "published": "2026-08-02T17:05:46+00:00",
+              "orig_title": "'This is Indian sport at its finest': Iyer applauds India's 39-medal CWG campaign",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            },
             {
               "outlet": "Times of India",
               "region": "india",
@@ -3929,12 +3913,12 @@
       ]
     },
     {
-      "id": 165,
+      "id": 183,
       "topic": "Sports",
       "label": "Zhovner · European · Russia",
       "title": "Russian Zhovner wins gold at European rowing championship",
       "summary": "Российская спортсменка Мария Жовнер завоевала золотую медаль в соревнованиях одиночек легкого веса на чемпионате Европы по академической гребле, который проходит в Варезе, Италия. В финальном заплыве ",
-      "score": 2.544,
+      "score": 2.501,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -3975,12 +3959,12 @@
       ]
     },
     {
-      "id": 259,
+      "id": 275,
       "topic": "Sports",
       "label": "What · Ukraine · Iran",
       "title": "The cost of defending Romania's skies from Russian drones",
       "summary": "El aumento de las incursiones de aparatos no tripulados en su espacio aéreo lleva a Bucarest abandonar su política de contención pese al elevado precio de las interceptaciones",
-      "score": 2.316,
+      "score": 2.29,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -4022,12 +4006,12 @@
       ]
     },
     {
-      "id": 328,
+      "id": 347,
       "topic": "Sports",
       "label": "Asmita · Dey's · CWG",
       "title": "Boxer secures Tuvalu’s first Commonwealth Games medal without winning a bout",
       "summary": "Tarona Taafaki makes history in women’s 75kg category All boxers eliminated in semis receive bronze medals A boxer has made history for ⁠Tuvalu by winning the tiny Pacific island nation’s first Common",
-      "score": 2.229,
+      "score": 2.211,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -4069,45 +4053,31 @@
       ]
     },
     {
-      "id": 360,
+      "id": 30,
       "topic": "Sports",
-      "label": "WTA · year-old · Russian",
-      "title": "16-year-old Kristina Lyutova reaches WTA tennis tournament final",
-      "summary": "Российская теннисистка Кристина Лютова вышла в финал турнира категории WTA 250 в Мемфисе. Она стала первой спортсменкой, которая родилась в 2010-х годах и вышла в финал турнира WTA.",
-      "score": 2.156,
-      "n_outlets": 2,
-      "n_articles": 2,
+      "label": "Global · Nigeria · Customs",
+      "title": "Global recognition for Nigeria Customs as ‘Customs Cares’ CSR initiative wins Commonwealth Gold Award",
+      "summary": "The award honours organisations with measurable, sustainable and community-driven interventions that advance the United Nations Sustainable Development Goals. The post Global recognition for Nigeria C",
+      "score": 1.938,
+      "n_outlets": 1,
+      "n_articles": 1,
       "regions": [
-        "russia"
+        "africa"
       ],
-      "last_seen": "2026-08-01T22:16:04+00:00",
+      "last_seen": "2026-08-02T20:48:29+00:00",
       "leans": [
-        "center",
-        "state"
+        "center"
       ],
       "sources": [
         {
-          "outlet": "Kommersant",
-          "region": "russia",
+          "outlet": "Premium Times",
+          "region": "africa",
           "lean": "center",
           "ownership": "private",
-          "title": "16-year-old Kristina Lyutova reaches WTA tennis tournament final",
-          "url": "https://www.kommersant.ru/doc/8860740",
-          "published": "2026-08-01T20:41:21+00:00",
-          "orig_title": "16-летняя Кристина Лютова вышла в финал теннисного турнира WTA",
-          "lang": "ru",
-          "translated": true,
-          "access": "unknown"
-        },
-        {
-          "outlet": "TASS",
-          "region": "russia",
-          "lean": "state",
-          "ownership": "state",
-          "title": "16-year-old Russian Liutova becomes youngest tennis player in 7 years to reach WTA final",
-          "url": "https://tass.com/sports/2168043",
-          "published": "2026-08-01T22:16:04+00:00",
-          "orig_title": "16-year-old Russian Liutova becomes youngest tennis player in 7 years to reach WTA final",
+          "title": "Global recognition for Nigeria Customs as ‘Customs Cares’ CSR initiative wins Commonwealth Gold Award",
+          "url": "https://www.premiumtimesng.com/promoted/900297-global-recognition-for-nigeria-customs-as-customs-cares-csr-initiative-wins-commonwealth-gold-award.html",
+          "published": "2026-08-02T20:48:29+00:00",
+          "orig_title": "Global recognition for Nigeria Customs as ‘Customs Cares’ CSR initiative wins Commonwealth Gold Award",
           "lang": "en",
           "translated": false,
           "access": "open"
@@ -4115,12 +4085,44 @@
       ]
     },
     {
-      "id": 22,
+      "id": 32,
+      "topic": "Sports",
+      "label": "Amstel · Malta · Super",
+      "title": "Amstel Malta congratulates Super Falcons, Oshoala, after crucial Zambia victory",
+      "summary": "Oshoala scored the decisive goal in the eighth minute after connecting with a well-worked assist The post Amstel Malta congratulates Super Falcons, Oshoala, after crucial Zambia victory appeared first",
+      "score": 1.931,
+      "n_outlets": 1,
+      "n_articles": 1,
+      "regions": [
+        "africa"
+      ],
+      "last_seen": "2026-08-02T20:42:50+00:00",
+      "leans": [
+        "center"
+      ],
+      "sources": [
+        {
+          "outlet": "Premium Times",
+          "region": "africa",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Amstel Malta congratulates Super Falcons, Oshoala, after crucial Zambia victory",
+          "url": "https://www.premiumtimesng.com/sports/football/900294-amstel-malta-congratulates-super-falcons-oshoala-after-crucial-zambia-victory.html",
+          "published": "2026-08-02T20:42:50+00:00",
+          "orig_title": "Amstel Malta congratulates Super Falcons, Oshoala, after crucial Zambia victory",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 62,
       "topic": "Sports",
       "label": "Gulveer · Singh · Land",
       "title": "Land mine blast survivor Soman Rana scripts golden CWG story",
       "summary": "The triumph was particularly significant for Soman Rana, who was a national-level boxer before the accident abruptly ended his sporting career. He had trained alongside Vijender Singh and represented ",
-      "score": 1.925,
+      "score": 1.852,
       "n_outlets": 1,
       "n_articles": 2,
       "regions": [
@@ -4162,12 +4164,12 @@
       ]
     },
     {
-      "id": 43,
+      "id": 78,
       "topic": "Sports",
       "label": "Coachella · William · Shatner",
       "title": "Coachella 2026: William Shatner performs with heavy metal band",
       "summary": "Coachella scheint seine ersten Künstler für 2027 gebucht zu haben: den 95-jährigen William Shatner mit seiner Heavy-Metal-Band The *uckers. Der kennt das Festival nur als »das in der Wüste«.",
-      "score": 1.842,
+      "score": 1.775,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -4190,70 +4192,6 @@
           "lang": "de",
           "translated": true,
           "access": "unknown"
-        }
-      ]
-    },
-    {
-      "id": 106,
-      "topic": "Sports",
-      "label": "Petro · Farewell · Concert",
-      "title": "Petro Farewell Concert Cost About US$1.4 Million, Not US$4.4 Million",
-      "summary": "A currency misreading inflated the cost of Saturday's free concert in Bogotá. The real base contract value is COP 4,437 million, or about US$1.4 million, not US$4.4 million. The post Petro Farewell Co",
-      "score": 1.661,
-      "n_outlets": 1,
-      "n_articles": 1,
-      "regions": [
-        "south_america"
-      ],
-      "last_seen": "2026-08-02T15:36:09+00:00",
-      "leans": [
-        "right"
-      ],
-      "sources": [
-        {
-          "outlet": "The Rio Times",
-          "region": "south_america",
-          "lean": "right",
-          "ownership": "private",
-          "title": "Petro Farewell Concert Cost About US$1.4 Million, Not US$4.4 Million",
-          "url": "https://www.riotimesonline.com/petro-farewell-concert-cost-usd-1-4-million/",
-          "published": "2026-08-02T15:36:09+00:00",
-          "orig_title": "Petro Farewell Concert Cost About US$1.4 Million, Not US$4.4 Million",
-          "lang": "en",
-          "translated": false,
-          "access": "unknown"
-        }
-      ]
-    },
-    {
-      "id": 108,
-      "topic": "Sports",
-      "label": "TRENDING · Kano · TikTok",
-      "title": "TRENDING: Kano TikTok star tackles Adam Zango following divorce of sixth wife",
-      "summary": "Mr Al-Amin stated that Mr Zango’s claim of a genotype mismatch shouldn’t have been aired on social media, adding that the excuse lacks credibility. The post TRENDING: Kano TikTok star tackles Adam Zan",
-      "score": 1.658,
-      "n_outlets": 1,
-      "n_articles": 1,
-      "regions": [
-        "africa"
-      ],
-      "last_seen": "2026-08-02T15:33:35+00:00",
-      "leans": [
-        "center"
-      ],
-      "sources": [
-        {
-          "outlet": "Premium Times",
-          "region": "africa",
-          "lean": "center",
-          "ownership": "private",
-          "title": "TRENDING: Kano TikTok star tackles Adam Zango following divorce of sixth wife",
-          "url": "https://www.premiumtimesng.com/news/more-news/900219-trending-kano-tiktok-star-tackles-adam-zango-following-divorce-of-sixth-wife.html",
-          "published": "2026-08-02T15:33:35+00:00",
-          "orig_title": "TRENDING: Kano TikTok star tackles Adam Zango following divorce of sixth wife",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
         }
       ]
     }
