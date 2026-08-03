@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T19:12:53.993563+00:00",
+  "generated_at": "2026-08-03T20:50:18.017532+00:00",
   "topics": [
     "World & Politics",
     "Economics",
@@ -14,14 +14,14 @@
       "name": "United States",
       "lat": 39.0,
       "lng": -98.0,
-      "count": 19
+      "count": 25
     },
     {
       "id": "europe",
       "name": "Europe",
       "lat": 50.0,
       "lng": 10.0,
-      "count": 28
+      "count": 29
     },
     {
       "id": "china",
@@ -63,33 +63,527 @@
       "name": "Japan",
       "lat": 36.5,
       "lng": 139.0,
-      "count": 6
+      "count": 5
     },
     {
       "id": "russia",
       "name": "Russia",
       "lat": 61.0,
       "lng": 90.0,
-      "count": 18
+      "count": 15
     }
   ],
   "clusters": [
     {
-      "id": 21,
+      "id": 3,
+      "topic": "World & Politics",
+      "label": "Iran · Trump · U.S.",
+      "title": "Fresh US-Iran talks are ‘last chance’ for Tehran to avoid war escalating, Trump says",
+      "summary": "US president expects negotiations to begin in next day or two but Iran says it is not reviving talks with Washington Middle East crisis live – latest updates New talks between Washington and Tehran ar",
+      "score": 15.977,
+      "n_outlets": 15,
+      "n_articles": 35,
+      "regions": [
+        "africa",
+        "europe",
+        "india",
+        "japan",
+        "russia",
+        "us"
+      ],
+      "last_seen": "2026-08-03T20:33:35+00:00",
+      "leans": [
+        "center",
+        "left",
+        "right",
+        "state"
+      ],
+      "sources": [
+        {
+          "outlet": "Asahi Shimbun",
+          "region": "japan",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Trump says negotiations with Iran to end conflict start \"in three days\"; Iran denies",
+          "url": "http://www.asahi.com/articles/ASV8313RHV83UHBI00PM.html?ref=rss",
+          "published": "2026-08-03T10:11:49+00:00",
+          "orig_title": "トランプ氏、イランとの戦闘終結向け「3日から交渉」 イランは否定",
+          "lang": "ja",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
+          "outlet": "Der Spiegel",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Iran conflict: Trump threatens Tehran with 'last chance' – yet again",
+          "url": "https://www.spiegel.de/ausland/irankrieg-donald-trump-droht-teheran-mit-letzter-chance-wieder-einmal-a-e0755007-43cf-4199-95c5-b9453dca4011#ref=rss",
+          "published": "2026-08-03T19:54:00+00:00",
+          "orig_title": "Irankrieg: Donald Trump droht Teheran mit »letzter Chance« – wieder einmal",
+          "lang": "de",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
+          "outlet": "El Pais",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Trump threatens Iran with last chance to negotiate or face \"decapitation\"",
+          "url": "https://elpais.com/internacional/2026-08-03/trump-asegura-que-las-conversaciones-con-iran-se-reanudaran-este-lunes.html",
+          "published": "2026-08-03T19:40:54+00:00",
+          "orig_title": "Trump amenaza a Irán con una última oportunidad de negociar para evitar “la decapitación”",
+          "lang": "es",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
+          "outlet": "The Guardian",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Fresh US-Iran talks are ‘last chance’ for Tehran to avoid war escalating, Trump says",
+          "url": "https://www.theguardian.com/world/2026/aug/03/iran-in-talks-with-oman-over-shipping-route-but-not-us-says-tehran",
+          "published": "2026-08-03T19:36:44+00:00",
+          "orig_title": "Fresh US-Iran talks are ‘last chance’ for Tehran to avoid war escalating, Trump says",
+          "lang": "en",
+          "translated": false,
+          "access": "open",
+          "more": [
+            {
+              "outlet": "The Guardian",
+              "region": "europe",
+              "lean": "left",
+              "ownership": "private",
+              "title": "Middle East crisis live: Trump claims strait of Hormuz could open ‘by tomorrow’ as Iran denies any talks taking place",
+              "url": "https://www.theguardian.com/world/live/2026/aug/03/us-iran-trump-strait-of-hormuz-talks-israel-gaza-lebanon-latest-news-updates",
+              "published": "2026-08-03T20:06:49+00:00",
+              "orig_title": "Middle East crisis live: Trump claims strait of Hormuz could open ‘by tomorrow’ as Iran denies any talks taking place",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            },
+            {
+              "outlet": "The Guardian",
+              "region": "europe",
+              "lean": "left",
+              "ownership": "private",
+              "title": "Trump meets his obstinate match in Iran’s hardball regime",
+              "url": "https://www.theguardian.com/world/2026/aug/03/trump-meets-his-obstinate-match-in-irans-hardball-regime",
+              "published": "2026-08-03T18:27:41+00:00",
+              "orig_title": "Trump meets his obstinate match in Iran’s hardball regime",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            }
+          ]
+        },
+        {
+          "outlet": "The Hindu",
+          "region": "india",
+          "lean": "left",
+          "ownership": "private",
+          "title": "New talks 'last chance' for Iran to forge deal, avoid escalation of U.S. strikes: Trump",
+          "url": "https://www.thehindu.com/news/international/new-talks-last-chance-for-iran-to-forge-deal-avoid-escalation-of-us-strikes-trump/article71302832.ece",
+          "published": "2026-08-03T20:33:35+00:00",
+          "orig_title": "New talks 'last chance' for Iran to forge deal, avoid escalation of U.S. strikes: Trump",
+          "lang": "en",
+          "translated": false,
+          "access": "open",
+          "more": [
+            {
+              "outlet": "The Hindu",
+              "region": "india",
+              "lean": "left",
+              "ownership": "private",
+              "title": "West Asia LIVE: Iran says currently no negotiations with U.S.",
+              "url": "https://www.thehindu.com/news/international/iran-us-war-live-updates-donald-trump-on-iran-us-talk-strait-of-hormuz-ceasefire-deal/article71299723.ece",
+              "published": "2026-08-03T16:21:45+00:00",
+              "orig_title": "West Asia LIVE: Iran says currently no negotiations with U.S.",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            },
+            {
+              "outlet": "The Hindu",
+              "region": "india",
+              "lean": "left",
+              "ownership": "private",
+              "title": "Iran denies negotiating with U.S. after Trump announces talks",
+              "url": "https://www.thehindu.com/news/international/trump-claims-iran-talks-will-start-august-3-and-other-developments-in-west-asia/article71302731.ece",
+              "published": "2026-08-03T17:59:48+00:00",
+              "orig_title": "Iran denies negotiating with U.S. after Trump announces talks",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            },
+            {
+              "outlet": "The Hindu",
+              "region": "india",
+              "lean": "left",
+              "ownership": "private",
+              "title": "West Asia updates: Iran media denies Trump claim that Tehran asked U.S. not to strike",
+              "url": "https://www.thehindu.com/news/international/iran-us-war-live-updates-donald-trump-mojtaba-khamenei-fresh-strikes-irgc-strait-of-hormuz-ceasefire-deal/article71297056.ece",
+              "published": "2026-08-02T17:47:40+00:00",
+              "orig_title": "West Asia updates: Iran media denies Trump claim that Tehran asked U.S. not to strike",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            },
+            {
+              "outlet": "The Hindu",
+              "region": "india",
+              "lean": "left",
+              "ownership": "private",
+              "title": "Iran media denies Trump claim that Tehran asked U.S. not to strike",
+              "url": "https://www.thehindu.com/news/international/iran-media-denies-trump-claim-that-tehran-asked-us-not-to-strike/article71297512.ece",
+              "published": "2026-08-02T11:14:16+00:00",
+              "orig_title": "Iran media denies Trump claim that Tehran asked U.S. not to strike",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            },
+            {
+              "outlet": "The Hindu",
+              "region": "india",
+              "lean": "left",
+              "ownership": "private",
+              "title": "What’s at stake in the latest U.S.-Iran talks?",
+              "url": "https://www.thehindu.com/news/international/iran-israel-us-war-news-donald-trump-mojtaba-khamenei-ceasefire-talks-agreement-lebanon-issue-strait-of-hormuz/article71300054.ece",
+              "published": "2026-08-03T06:18:32+00:00",
+              "orig_title": "What’s at stake in the latest U.S.-Iran talks?",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            }
+          ]
+        },
+        {
+          "outlet": "The New York Times",
+          "region": "us",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Iran Says No Current Talks With U.S. After Trump Cites Progress on the Strait of Hormuz",
+          "url": "https://www.nytimes.com/2026/08/03/world/middleeast/iran-talks-us-oman-strait-hormuz-trump.html",
+          "published": "2026-08-03T20:06:28+00:00",
+          "orig_title": "Iran Says No Current Talks With U.S. After Trump Cites Progress on the Strait of Hormuz",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall",
+          "more": [
+            {
+              "outlet": "The New York Times",
+              "region": "us",
+              "lean": "left",
+              "ownership": "private",
+              "title": "For Iran, Trump’s Reversal on Escalation Shows Who Has the Upper Hand",
+              "url": "https://www.nytimes.com/2026/08/03/world/middleeast/iran-trump-escalation.html",
+              "published": "2026-08-03T08:50:11+00:00",
+              "orig_title": "For Iran, Trump’s Reversal on Escalation Shows Who Has the Upper Hand",
+              "lang": "en",
+              "translated": false,
+              "access": "paywall"
+            },
+            {
+              "outlet": "The New York Times",
+              "region": "us",
+              "lean": "left",
+              "ownership": "private",
+              "title": "Fact-Checking Trump’s Claims About the Effect of the Iran War on Oil Prices, Munitions and More",
+              "url": "https://www.nytimes.com/2026/08/01/us/politics/trump-iran-war-toll-oil-fact-check.html",
+              "published": "2026-08-03T20:00:24+00:00",
+              "orig_title": "Fact-Checking Trump’s Claims About the Effect of the Iran War on Oil Prices, Munitions and More",
+              "lang": "en",
+              "translated": false,
+              "access": "paywall"
+            }
+          ]
+        },
+        {
+          "outlet": "BBC News",
+          "region": "europe",
+          "lean": "center",
+          "ownership": "public",
+          "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
+          "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-03T19:42:55+00:00",
+          "orig_title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "Kommersant",
+          "region": "russia",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Trump urges Iran to choose between deal and complete surrender",
+          "url": "https://www.kommersant.ru/doc/8861772",
+          "published": "2026-08-03T16:46:32+00:00",
+          "orig_title": "Трамп призвал Иран выбрать между сделкой и полной капитуляцией",
+          "lang": "ru",
+          "translated": true,
+          "access": "unknown",
+          "more": [
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Trump says Iran has last chance for peaceful settlement",
+              "url": "https://www.kommersant.ru/doc/8861846",
+              "published": "2026-08-03T19:59:17+00:00",
+              "orig_title": "Трамп заявил о последнем шансе для Ирана на мирное урегулирование",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Trump accuses Iranian leadership of duplicity in conflict resolution",
+              "url": "https://www.kommersant.ru/doc/8861753",
+              "published": "2026-08-03T16:14:55+00:00",
+              "orig_title": "Трамп обвинил руководство Ирана в двуличности при урегулировании конфликта",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            }
+          ]
+        },
+        {
+          "outlet": "Le Matin",
+          "region": "africa",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Trump announces new Iran talks beginning Monday amid Middle East tensions",
+          "url": "https://lematin.ma/monde/trump-annonce-de-nouveaux-pourparlers-avec-liran-a-partir-de-lundi/359075",
+          "published": "2026-08-03T08:32:00+00:00",
+          "orig_title": "Guerre au Moyen-Orient : Trump annonce de nouveaux pourparlers avec l'Iran à partir de lundi",
+          "lang": "fr",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
+          "outlet": "Politico Europe",
+          "region": "europe",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Iran signals no immediate U.S. talks after Trump says negotiations to resume",
+          "url": "https://www.politico.eu/article/donald-trump-restart-war-iran-talks-strikes/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "published": "2026-08-03T09:53:42+00:00",
+          "orig_title": "Iran signals no immediate U.S. talks after Trump says negotiations to resume",
+          "lang": "en",
+          "translated": false,
+          "access": "unknown"
+        },
+        {
+          "outlet": "The Hill",
+          "region": "us",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Trump says Iran facing 'last chance' before 'decapitation'",
+          "url": "https://thehill.com/homenews/6006445-trump-warns-iran-last-chance/",
+          "published": "2026-08-03T19:31:38+00:00",
+          "orig_title": "Trump says Iran facing 'last chance' before 'decapitation'",
+          "lang": "en",
+          "translated": false,
+          "access": "unknown"
+        },
+        {
+          "outlet": "The Japan Times",
+          "region": "japan",
+          "lean": "center",
+          "ownership": "private",
+          "title": "A misdiagnosis of U.S. failings leaves Trump stuck in Iran",
+          "url": "https://www.japantimes.co.jp/commentary/2026/08/03/world/us-iran-misdiagnosis-failings/",
+          "published": "2026-08-03T08:38:00+00:00",
+          "orig_title": "A misdiagnosis of U.S. failings leaves Trump stuck in Iran",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall"
+        },
+        {
+          "outlet": "Die Welt",
+          "region": "europe",
+          "lean": "right",
+          "ownership": "private",
+          "title": "\"Ongoing now\" – Trump contradicts Iran's denial of negotiations",
+          "url": "https://www.welt.de/politik/ausland/article6a70e166cc46967c04cadd98/us-praesident-laufen-gerade-trump-widerspricht-irans-dementi-zu-verhandlungen.html",
+          "published": "2026-08-03T19:25:35+00:00",
+          "orig_title": "„Laufen gerade“ – Trump widerspricht Irans Dementi zu Verhandlungen",
+          "lang": "de",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
+          "outlet": "The Wall Street Journal",
+          "region": "us",
+          "lean": "right",
+          "ownership": "private",
+          "title": "Iran Says No Talks With the U.S. on Hormuz Strait",
+          "url": "https://www.wsj.com/world/middle-east/iran-says-no-talks-with-the-u-s-on-hormuz-strait-9863c9f0",
+          "published": "2026-08-03T18:54:00+00:00",
+          "orig_title": "Iran Says No Talks With the U.S. on Hormuz Strait",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall",
+          "more": [
+            {
+              "outlet": "The Wall Street Journal",
+              "region": "us",
+              "lean": "right",
+              "ownership": "private",
+              "title": "Trump Pivots Back to Diplomacy as Iran Victory Eludes Him",
+              "url": "https://www.wsj.com/world/middle-east/trump-pivots-back-to-diplomacy-as-iran-victory-eludes-him-a925ee98",
+              "published": "2026-08-02T23:00:00+00:00",
+              "orig_title": "Trump Pivots Back to Diplomacy as Iran Victory Eludes Him",
+              "lang": "en",
+              "translated": false,
+              "access": "paywall"
+            },
+            {
+              "outlet": "The Wall Street Journal",
+              "region": "us",
+              "lean": "right",
+              "ownership": "private",
+              "title": "Opinion | The Way Out of Trump’s Iran Trap? We’ll Find Out in 2029",
+              "url": "https://www.wsj.com/opinion/the-way-out-of-trumps-iran-trap-well-find-out-in-2029-6abd049c",
+              "published": "2026-08-03T15:38:00+00:00",
+              "orig_title": "Opinion | The Way Out of Trump’s Iran Trap? We’ll Find Out in 2029",
+              "lang": "en",
+              "translated": false,
+              "access": "paywall"
+            }
+          ]
+        },
+        {
+          "outlet": "TASS",
+          "region": "russia",
+          "lean": "state",
+          "ownership": "state",
+          "title": "Trump says US and Iran in talks, even if Tehran denies it",
+          "url": "https://tass.com/world/2168545",
+          "published": "2026-08-03T16:19:33+00:00",
+          "orig_title": "Trump says US and Iran in talks, even if Tehran denies it",
+          "lang": "en",
+          "translated": false,
+          "access": "open",
+          "more": [
+            {
+              "outlet": "TASS",
+              "region": "russia",
+              "lean": "state",
+              "ownership": "state",
+              "title": "Trump claims US fully controls Strait of Hormuz",
+              "url": "https://tass.com/world/2168553",
+              "published": "2026-08-03T16:39:01+00:00",
+              "orig_title": "Trump claims US fully controls Strait of Hormuz",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            },
+            {
+              "outlet": "TASS",
+              "region": "russia",
+              "lean": "state",
+              "ownership": "state",
+              "title": "Negotiations are Iran’s chance to avoid ‘decapitation’ — Trump",
+              "url": "https://tass.com/world/2168589",
+              "published": "2026-08-03T20:24:01+00:00",
+              "orig_title": "Negotiations are Iran’s chance to avoid ‘decapitation’ — Trump",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            },
+            {
+              "outlet": "TASS",
+              "region": "russia",
+              "lean": "state",
+              "ownership": "state",
+              "title": "US and Iran discuss resumption of shipping in Strait of Hormuz by August 4, Trump says",
+              "url": "https://tass.com/world/2168575",
+              "published": "2026-08-03T19:02:13+00:00",
+              "orig_title": "US and Iran discuss resumption of shipping in Strait of Hormuz by August 4, Trump says",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            },
+            {
+              "outlet": "TASS",
+              "region": "russia",
+              "lean": "state",
+              "ownership": "state",
+              "title": "US still ready for strikes on Iran on scale \"not seen since World War II\" — Pentagon chief",
+              "url": "https://tass.com/world/2168375",
+              "published": "2026-08-03T09:45:09+00:00",
+              "orig_title": "US still ready for strikes on Iran on scale \"not seen since World War II\" — Pentagon chief",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            },
+            {
+              "outlet": "TASS",
+              "region": "russia",
+              "lean": "state",
+              "ownership": "state",
+              "title": "Trump says won't let Iran charge toll for Hormuz passage",
+              "url": "https://tass.com/world/2168579",
+              "published": "2026-08-03T19:43:14+00:00",
+              "orig_title": "Trump says won't let Iran charge toll for Hormuz passage",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            },
+            {
+              "outlet": "TASS",
+              "region": "russia",
+              "lean": "state",
+              "ownership": "state",
+              "title": "Iran not conducting any talks US, continuing dialogue only with Oman — diplomat",
+              "url": "https://tass.com/world/2168291",
+              "published": "2026-08-03T07:55:46+00:00",
+              "orig_title": "Iran not conducting any talks US, continuing dialogue only with Oman — diplomat",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            },
+            {
+              "outlet": "TASS",
+              "region": "russia",
+              "lean": "state",
+              "ownership": "state",
+              "title": "Iran says Oman agreement alone not enough to reopen Strait of Hormuz",
+              "url": "https://tass.com/world/2168343",
+              "published": "2026-08-03T09:13:13+00:00",
+              "orig_title": "Iran says Oman agreement alone not enough to reopen Strait of Hormuz",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14,
       "topic": "World & Politics",
       "label": "Ceuta · Spain · Morocco",
-      "title": "How Ceuta migrant crisis exposes divisions within Europe - The Latest",
-      "summary": "Dozens of people died attempting to reach the Spanish enclave of Ceuta after an estimated 50,000 crossed from Morocco last week. The incident has led to a political crisis in Spain and criticism from ",
-      "score": 11.961,
+      "title": "Live: Migrant entry into Ceuta – Morocco claims it warned Spain days before court ruling weakened migration cooperation",
+      "summary": "El Gobierno asegura que ningún informe de inteligencia alertó de la magnitud de la crisis de Ceuta | Von der Leyen felicita a España y Marruecos por la gestión de la crisis, pero pide reforzar las fro",
+      "score": 11.952,
       "n_outlets": 11,
-      "n_articles": 21,
+      "n_articles": 24,
       "regions": [
         "china",
         "europe",
         "russia",
         "us"
       ],
-      "last_seen": "2026-08-03T18:44:19+00:00",
+      "last_seen": "2026-08-03T20:15:14+00:00",
       "leans": [
         "center",
         "left",
@@ -115,14 +609,27 @@
           "region": "europe",
           "lean": "left",
           "ownership": "private",
-          "title": "Tense calm in Ceuta five days after mass migrant arrival",
-          "url": "https://elpais.com/espana/2026-08-03/calma-tensa-en-ceuta-cinco-dias-despues-de-la-entrada-masiva-de-inmigrantes.html",
-          "published": "2026-08-03T18:36:28+00:00",
-          "orig_title": "Calma tensa en Ceuta cinco días después de la entrada masiva de inmigrantes",
+          "title": "Live: Migrant entry into Ceuta – Morocco claims it warned Spain days before court ruling weakened migration cooperation",
+          "url": "https://elpais.com/espana/2026-08-03/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
+          "published": "2026-08-03T20:15:14+00:00",
+          "orig_title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Marruecos dice que alertó a España días antes de que la decisión del Supremo debilitaba la cooperación sobre migración",
           "lang": "es",
           "translated": true,
           "access": "unknown",
           "more": [
+            {
+              "outlet": "El Pais",
+              "region": "europe",
+              "lean": "left",
+              "ownership": "private",
+              "title": "Tense calm in Ceuta five days after mass migrant arrival",
+              "url": "https://elpais.com/espana/2026-08-03/calma-tensa-en-ceuta-cinco-dias-despues-de-la-entrada-masiva-de-inmigrantes.html",
+              "published": "2026-08-03T18:36:28+00:00",
+              "orig_title": "Calma tensa en Ceuta cinco días después de la entrada masiva de inmigrantes",
+              "lang": "es",
+              "translated": true,
+              "access": "unknown"
+            },
             {
               "outlet": "El Pais",
               "region": "europe",
@@ -182,10 +689,10 @@
               "region": "europe",
               "lean": "left",
               "ownership": "private",
-              "title": "Ceuta leader accuses Morocco over ‘atrocity’ of mass border crossing",
-              "url": "https://www.theguardian.com/world/2026/aug/03/ceuta-leader-border-crossing-morocco-spain",
-              "published": "2026-08-03T14:13:01+00:00",
-              "orig_title": "Ceuta leader accuses Morocco over ‘atrocity’ of mass border crossing",
+              "title": "Stronger EU borders needed after Ceuta crisis, von der Leyen says",
+              "url": "https://www.theguardian.com/world/2026/aug/03/stronger-eu-borders-physical-barriers-ceuta-von-der-leyen",
+              "published": "2026-08-03T17:44:01+00:00",
+              "orig_title": "Stronger EU borders needed after Ceuta crisis, von der Leyen says",
               "lang": "en",
               "translated": false,
               "access": "open"
@@ -195,10 +702,10 @@
               "region": "europe",
               "lean": "left",
               "ownership": "private",
-              "title": "Stronger EU borders needed after Ceuta crisis, von der Leyen says",
-              "url": "https://www.theguardian.com/world/2026/aug/03/stronger-eu-borders-physical-barriers-ceuta-von-der-leyen",
-              "published": "2026-08-03T17:44:01+00:00",
-              "orig_title": "Stronger EU borders needed after Ceuta crisis, von der Leyen says",
+              "title": "Ceuta leader accuses Morocco over ‘atrocity’ of mass border crossing",
+              "url": "https://www.theguardian.com/world/2026/aug/03/ceuta-leader-border-crossing-morocco-spain",
+              "published": "2026-08-03T14:13:01+00:00",
+              "orig_title": "Ceuta leader accuses Morocco over ‘atrocity’ of mass border crossing",
               "lang": "en",
               "translated": false,
               "access": "open"
@@ -249,19 +756,6 @@
               "region": "us",
               "lean": "left",
               "ownership": "private",
-              "title": "Europe’s Far Right, Once Marginal, Now Sets Tone on Spain Migrant Crisis",
-              "url": "https://www.nytimes.com/2026/08/02/world/europe/europe-migrants-ceuta.html",
-              "published": "2026-08-02T07:30:02+00:00",
-              "orig_title": "Europe’s Far Right, Once Marginal, Now Sets Tone on Spain Migrant Crisis",
-              "lang": "en",
-              "translated": false,
-              "access": "paywall"
-            },
-            {
-              "outlet": "The New York Times",
-              "region": "us",
-              "lean": "left",
-              "ownership": "private",
               "title": "In Ceuta, Far-Right Leaders Call on Spain to Expel Migrants",
               "url": "https://www.nytimes.com/2026/08/02/world/europe/spain-ceuta-far-right.html",
               "published": "2026-08-02T21:49:48+00:00",
@@ -290,13 +784,28 @@
           "region": "europe",
           "lean": "center",
           "ownership": "private",
-          "title": "Spain’s politicians point finger at Morocco over Ceuta crisis",
-          "url": "https://www.politico.eu/article/spain-morocco-ceuta-migrant-surge-border-crisis/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-          "published": "2026-08-03T11:51:46+00:00",
-          "orig_title": "Spain’s politicians point finger at Morocco over Ceuta crisis",
+          "title": "EU ministers to back Spain as Ceuta crisis pushes migration up the agenda",
+          "url": "https://www.politico.eu/article/eu-ministers-spain-morocco-ceuta-crisis-pushes-migration-up-the-agenda/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "published": "2026-08-03T19:47:08+00:00",
+          "orig_title": "EU ministers to back Spain as Ceuta crisis pushes migration up the agenda",
           "lang": "en",
           "translated": false,
-          "access": "unknown"
+          "access": "unknown",
+          "more": [
+            {
+              "outlet": "Politico Europe",
+              "region": "europe",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Spain’s politicians point finger at Morocco over Ceuta crisis",
+              "url": "https://www.politico.eu/article/spain-morocco-ceuta-migrant-surge-border-crisis/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+              "published": "2026-08-03T11:51:46+00:00",
+              "orig_title": "Spain’s politicians point finger at Morocco over Ceuta crisis",
+              "lang": "en",
+              "translated": false,
+              "access": "unknown"
+            }
+          ]
         },
         {
           "outlet": "South China Morning Post",
@@ -322,7 +831,22 @@
           "orig_title": "80.000 Migranten sollen aus Marokko nach Ceuta gekommen sein",
           "lang": "de",
           "translated": true,
-          "access": "unknown"
+          "access": "unknown",
+          "more": [
+            {
+              "outlet": "Die Welt",
+              "region": "europe",
+              "lean": "right",
+              "ownership": "private",
+              "title": "Ceuta president calls migrant surge \"not a crisis but essentially an attack\"",
+              "url": "https://www.welt.de/politik/ausland/article6a6bb459dd06dd5ef2e3fe60/ceuta-das-war-keine-migrationskrise-sondern-im-kern-ein-angriff-sagt-der-stadt-praesident.html",
+              "published": "2026-08-03T19:01:00+00:00",
+              "orig_title": "„Das war keine Migrationskrise, sondern im Kern ein Angriff“, sagt der Präsident von Ceuta",
+              "lang": "de",
+              "translated": true,
+              "access": "unknown"
+            }
+          ]
         },
         {
           "outlet": "Le Figaro",
@@ -362,6 +886,19 @@
               "lang": "fr",
               "translated": true,
               "access": "unknown"
+            },
+            {
+              "outlet": "Le Figaro",
+              "region": "europe",
+              "lean": "right",
+              "ownership": "private",
+              "title": "Immigration, defense, trade: Pedro Sanchez increasingly isolated in Europe",
+              "url": "https://www.lefigaro.fr/international/immigration-defense-commerce-pedro-sanchez-de-plus-en-plus-isole-en-europe-20260803",
+              "published": "2026-08-03T18:15:00+00:00",
+              "orig_title": "Immigration, défense, commerce : Pedro Sanchez de plus en plus isolé en Europe",
+              "lang": "fr",
+              "translated": true,
+              "access": "unknown"
             }
           ]
         },
@@ -381,534 +918,12 @@
       ]
     },
     {
-      "id": 1,
-      "topic": "World & Politics",
-      "label": "Iran · Trump · Hormuz",
-      "title": "Iran Says No Talks With the U.S. on Hormuz Strait",
-      "summary": "The country’s foreign ministry said discussions with Oman are continuing on managing traffic through the critical passage, while President Trump called Tehran “unbelievably duplicitous.”",
-      "score": 9.988,
-      "n_outlets": 9,
-      "n_articles": 19,
-      "regions": [
-        "africa",
-        "europe",
-        "india",
-        "russia",
-        "us"
-      ],
-      "last_seen": "2026-08-03T19:04:16+00:00",
-      "leans": [
-        "center",
-        "left",
-        "right",
-        "state"
-      ],
-      "sources": [
-        {
-          "outlet": "El Pais",
-          "region": "europe",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Trump says Iran talks will resume Monday; Tehran denies it",
-          "url": "https://elpais.com/internacional/2026-08-03/trump-asegura-que-las-conversaciones-con-iran-se-reanudaran-este-lunes.html",
-          "published": "2026-08-03T11:29:36+00:00",
-          "orig_title": "Trump asegura que las conversaciones con Irán se reanudarán este lunes y Teherán lo niega",
-          "lang": "es",
-          "translated": true,
-          "access": "unknown"
-        },
-        {
-          "outlet": "The Guardian",
-          "region": "europe",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Iran in talks with Oman over shipping but US negotiations on hold, says Tehran",
-          "url": "https://www.theguardian.com/world/2026/aug/03/iran-in-talks-with-oman-over-shipping-route-but-not-us-says-tehran",
-          "published": "2026-08-03T11:52:56+00:00",
-          "orig_title": "Iran in talks with Oman over shipping but US negotiations on hold, says Tehran",
-          "lang": "en",
-          "translated": false,
-          "access": "open",
-          "more": [
-            {
-              "outlet": "The Guardian",
-              "region": "europe",
-              "lean": "left",
-              "ownership": "private",
-              "title": "Middle East crisis live: Trump claims strait of Hormuz could open ‘by tomorrow’ as Iran denies any talks taking place",
-              "url": "https://www.theguardian.com/world/live/2026/aug/03/us-iran-trump-strait-of-hormuz-talks-israel-gaza-lebanon-latest-news-updates",
-              "published": "2026-08-03T18:46:26+00:00",
-              "orig_title": "Middle East crisis live: Trump claims strait of Hormuz could open ‘by tomorrow’ as Iran denies any talks taking place",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
-            }
-          ]
-        },
-        {
-          "outlet": "The Hindu",
-          "region": "india",
-          "lean": "left",
-          "ownership": "private",
-          "title": "West Asia LIVE: Iran says currently no negotiations with U.S.",
-          "url": "https://www.thehindu.com/news/international/iran-us-war-live-updates-donald-trump-on-iran-us-talk-strait-of-hormuz-ceasefire-deal/article71299723.ece",
-          "published": "2026-08-03T16:21:45+00:00",
-          "orig_title": "West Asia LIVE: Iran says currently no negotiations with U.S.",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "The New York Times",
-          "region": "us",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Iran Says No Current Talks With U.S. After Trump Cites Progress on the Strait of Hormuz",
-          "url": "https://www.nytimes.com/2026/08/03/world/middleeast/iran-talks-us-oman-strait-hormuz-trump.html",
-          "published": "2026-08-03T16:11:52+00:00",
-          "orig_title": "Iran Says No Current Talks With U.S. After Trump Cites Progress on the Strait of Hormuz",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
-        },
-        {
-          "outlet": "Kommersant",
-          "region": "russia",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Trump urges Iran to choose between deal and complete surrender",
-          "url": "https://www.kommersant.ru/doc/8861772",
-          "published": "2026-08-03T16:46:32+00:00",
-          "orig_title": "Трамп призвал Иран выбрать между сделкой и полной капитуляцией",
-          "lang": "ru",
-          "translated": true,
-          "access": "unknown",
-          "more": [
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Araghchi announces imminent completion of Iran-Oman talks on Strait of Hormuz",
-              "url": "https://www.kommersant.ru/doc/8861025",
-              "published": "2026-08-02T17:10:24+00:00",
-              "orig_title": "Аракчи заявил о скором завершении контактов Ирана и Омана по Ормузскому проливу",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            },
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Trump suggests Strait of Hormuz could open by August 4",
-              "url": "https://www.kommersant.ru/doc/8861838",
-              "published": "2026-08-03T19:04:16+00:00",
-              "orig_title": "Трамп допустил открытие Ормузского пролива к 4 августа",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            }
-          ]
-        },
-        {
-          "outlet": "Le Matin",
-          "region": "africa",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Trump announces new Iran talks beginning Monday amid Middle East tensions",
-          "url": "https://lematin.ma/monde/trump-annonce-de-nouveaux-pourparlers-avec-liran-a-partir-de-lundi/359075",
-          "published": "2026-08-03T08:32:00+00:00",
-          "orig_title": "Guerre au Moyen-Orient : Trump annonce de nouveaux pourparlers avec l'Iran à partir de lundi",
-          "lang": "fr",
-          "translated": true,
-          "access": "unknown"
-        },
-        {
-          "outlet": "Politico Europe",
-          "region": "europe",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Iran signals no immediate U.S. talks after Trump says negotiations to resume",
-          "url": "https://www.politico.eu/article/donald-trump-restart-war-iran-talks-strikes/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-          "published": "2026-08-03T09:53:42+00:00",
-          "orig_title": "Iran signals no immediate U.S. talks after Trump says negotiations to resume",
-          "lang": "en",
-          "translated": false,
-          "access": "unknown"
-        },
-        {
-          "outlet": "The Wall Street Journal",
-          "region": "us",
-          "lean": "right",
-          "ownership": "private",
-          "title": "Iran Says No Talks With the U.S. on Hormuz Strait",
-          "url": "https://www.wsj.com/world/middle-east/iran-says-no-talks-with-the-u-s-on-hormuz-strait-9863c9f0",
-          "published": "2026-08-03T18:54:00+00:00",
-          "orig_title": "Iran Says No Talks With the U.S. on Hormuz Strait",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall",
-          "more": [
-            {
-              "outlet": "The Wall Street Journal",
-              "region": "us",
-              "lean": "right",
-              "ownership": "private",
-              "title": "Oil Selloff Likely Overdone As Strait of Hormuz Issue Unresolved",
-              "url": "https://www.wsj.com/finance/commodities-futures/oil-prices-fall-amid-hopes-of-possible-u-s-iran-deal-9a3f0ff4?mod=rss_markets_main",
-              "published": "2026-08-03T18:26:00+00:00",
-              "orig_title": "Oil Selloff Likely Overdone As Strait of Hormuz Issue Unresolved",
-              "lang": "en",
-              "translated": false,
-              "access": "paywall"
-            },
-            {
-              "outlet": "The Wall Street Journal",
-              "region": "us",
-              "lean": "right",
-              "ownership": "private",
-              "title": "Trump Pivots Back to Diplomacy as Iran Victory Eludes Him",
-              "url": "https://www.wsj.com/world/middle-east/trump-pivots-back-to-diplomacy-as-iran-victory-eludes-him-a925ee98",
-              "published": "2026-08-02T23:00:00+00:00",
-              "orig_title": "Trump Pivots Back to Diplomacy as Iran Victory Eludes Him",
-              "lang": "en",
-              "translated": false,
-              "access": "paywall"
-            },
-            {
-              "outlet": "The Wall Street Journal",
-              "region": "us",
-              "lean": "right",
-              "ownership": "private",
-              "title": "Opinion | The Way Out of Trump’s Iran Trap? We’ll Find Out in 2029",
-              "url": "https://www.wsj.com/opinion/the-way-out-of-trumps-iran-trap-well-find-out-in-2029-6abd049c",
-              "published": "2026-08-03T15:38:00+00:00",
-              "orig_title": "Opinion | The Way Out of Trump’s Iran Trap? We’ll Find Out in 2029",
-              "lang": "en",
-              "translated": false,
-              "access": "paywall"
-            }
-          ]
-        },
-        {
-          "outlet": "TASS",
-          "region": "russia",
-          "lean": "state",
-          "ownership": "state",
-          "title": "US and Iran discuss resumption of shipping in Strait of Hormuz by August 4, Trump says",
-          "url": "https://tass.com/world/2168575",
-          "published": "2026-08-03T19:02:13+00:00",
-          "orig_title": "US and Iran discuss resumption of shipping in Strait of Hormuz by August 4, Trump says",
-          "lang": "en",
-          "translated": false,
-          "access": "open",
-          "more": [
-            {
-              "outlet": "TASS",
-              "region": "russia",
-              "lean": "state",
-              "ownership": "state",
-              "title": "Trump claims US fully controls Strait of Hormuz",
-              "url": "https://tass.com/world/2168553",
-              "published": "2026-08-03T16:39:01+00:00",
-              "orig_title": "Trump claims US fully controls Strait of Hormuz",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
-            },
-            {
-              "outlet": "TASS",
-              "region": "russia",
-              "lean": "state",
-              "ownership": "state",
-              "title": "Iran not conducting any talks US, continuing dialogue only with Oman — diplomat",
-              "url": "https://tass.com/world/2168291",
-              "published": "2026-08-03T07:55:46+00:00",
-              "orig_title": "Iran not conducting any talks US, continuing dialogue only with Oman — diplomat",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
-            },
-            {
-              "outlet": "TASS",
-              "region": "russia",
-              "lean": "state",
-              "ownership": "state",
-              "title": "Iran says Oman agreement alone not enough to reopen Strait of Hormuz",
-              "url": "https://tass.com/world/2168343",
-              "published": "2026-08-03T09:13:13+00:00",
-              "orig_title": "Iran says Oman agreement alone not enough to reopen Strait of Hormuz",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
-            },
-            {
-              "outlet": "TASS",
-              "region": "russia",
-              "lean": "state",
-              "ownership": "state",
-              "title": "US, Iran to focus on Strait of Hormuz, lifting blockade during talks — media",
-              "url": "https://tass.com/world/2168277",
-              "published": "2026-08-03T07:19:25+00:00",
-              "orig_title": "US, Iran to focus on Strait of Hormuz, lifting blockade during talks — media",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 34,
-      "topic": "World & Politics",
-      "label": "Iran · Trump · denies",
-      "title": "Iran denies negotiating with U.S. after Trump announces talks",
-      "summary": "The rebuttal by the Iranian Foreign Ministry follows Mr. Trump saying he had held off launching new strikes on the Islamic republic to allow for further diplomatic efforts, a familiar pattern in the c",
-      "score": 9.939,
-      "n_outlets": 9,
-      "n_articles": 16,
-      "regions": [
-        "europe",
-        "india",
-        "japan",
-        "russia",
-        "us"
-      ],
-      "last_seen": "2026-08-03T18:27:41+00:00",
-      "leans": [
-        "center",
-        "left",
-        "state"
-      ],
-      "sources": [
-        {
-          "outlet": "Asahi Shimbun",
-          "region": "japan",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Trump says negotiations with Iran to end conflict start \"in three days\"; Iran denies",
-          "url": "http://www.asahi.com/articles/ASV8313RHV83UHBI00PM.html?ref=rss",
-          "published": "2026-08-03T10:11:49+00:00",
-          "orig_title": "トランプ氏、イランとの戦闘終結向け「3日から交渉」 イランは否定",
-          "lang": "ja",
-          "translated": true,
-          "access": "unknown"
-        },
-        {
-          "outlet": "The Guardian",
-          "region": "europe",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Trump meets his obstinate match in Iran’s hardball regime",
-          "url": "https://www.theguardian.com/world/2026/aug/03/trump-meets-his-obstinate-match-in-irans-hardball-regime",
-          "published": "2026-08-03T18:27:41+00:00",
-          "orig_title": "Trump meets his obstinate match in Iran’s hardball regime",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "The Hindu",
-          "region": "india",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Iran denies negotiating with U.S. after Trump announces talks",
-          "url": "https://www.thehindu.com/news/international/trump-claims-iran-talks-will-start-august-3-and-other-developments-in-west-asia/article71302731.ece",
-          "published": "2026-08-03T17:59:48+00:00",
-          "orig_title": "Iran denies negotiating with U.S. after Trump announces talks",
-          "lang": "en",
-          "translated": false,
-          "access": "open",
-          "more": [
-            {
-              "outlet": "The Hindu",
-              "region": "india",
-              "lean": "left",
-              "ownership": "private",
-              "title": "What’s at stake in the latest U.S.-Iran talks?",
-              "url": "https://www.thehindu.com/news/international/iran-israel-us-war-news-donald-trump-mojtaba-khamenei-ceasefire-talks-agreement-lebanon-issue-strait-of-hormuz/article71300054.ece",
-              "published": "2026-08-03T06:18:32+00:00",
-              "orig_title": "What’s at stake in the latest U.S.-Iran talks?",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
-            }
-          ]
-        },
-        {
-          "outlet": "The New York Times",
-          "region": "us",
-          "lean": "left",
-          "ownership": "private",
-          "title": "For Iran, Trump’s Reversal on Escalation Shows Who Has the Upper Hand",
-          "url": "https://www.nytimes.com/2026/08/03/world/middleeast/iran-trump-escalation.html",
-          "published": "2026-08-03T08:50:11+00:00",
-          "orig_title": "For Iran, Trump’s Reversal on Escalation Shows Who Has the Upper Hand",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
-        },
-        {
-          "outlet": "BBC News",
-          "region": "europe",
-          "lean": "center",
-          "ownership": "public",
-          "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
-          "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-03T17:41:27+00:00",
-          "orig_title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "Kommersant",
-          "region": "russia",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Trump announces negotiations between US and Iran",
-          "url": "https://www.kommersant.ru/doc/8861063",
-          "published": "2026-08-02T21:59:49+00:00",
-          "orig_title": "Трамп анонсировал переговоры США и Ирана",
-          "lang": "ru",
-          "translated": true,
-          "access": "unknown",
-          "more": [
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Iran denies Trump's claim about resuming US negotiations",
-              "url": "https://www.kommersant.ru/doc/8861307",
-              "published": "2026-08-03T08:41:41+00:00",
-              "orig_title": "Иран опроверг заявление Трампа о возобновлении переговоров с США",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            },
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Trump accuses Iranian leadership of duplicity in conflict resolution",
-              "url": "https://www.kommersant.ru/doc/8861753",
-              "published": "2026-08-03T16:14:55+00:00",
-              "orig_title": "Трамп обвинил руководство Ирана в двуличности при урегулировании конфликта",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            },
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Iran denies resumption of talks with US",
-              "url": "https://www.kommersant.ru/doc/8861513",
-              "published": "2026-08-03T11:49:33+00:00",
-              "orig_title": "Иран опроверг возобновление переговоров с США",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            }
-          ]
-        },
-        {
-          "outlet": "The Hill",
-          "region": "us",
-          "lean": "center",
-          "ownership": "private",
-          "title": "How Trump can avoid a bloody, costly ground war in Iran",
-          "url": "https://thehill.com/opinion/national-security/6003826-us-war-iran-options/",
-          "published": "2026-08-03T16:30:00+00:00",
-          "orig_title": "How Trump can avoid a bloody, costly ground war in Iran",
-          "lang": "en",
-          "translated": false,
-          "access": "unknown",
-          "more": [
-            {
-              "outlet": "The Hill",
-              "region": "us",
-              "lean": "center",
-              "ownership": "private",
-              "title": "If regime change isn't the goal, then why fight Iran again?",
-              "url": "https://thehill.com/opinion/national-security/6004708-us-iran-strategy-failure/",
-              "published": "2026-08-03T17:00:00+00:00",
-              "orig_title": "If regime change isn't the goal, then why fight Iran again?",
-              "lang": "en",
-              "translated": false,
-              "access": "unknown"
-            }
-          ]
-        },
-        {
-          "outlet": "The Japan Times",
-          "region": "japan",
-          "lean": "center",
-          "ownership": "private",
-          "title": "A misdiagnosis of U.S. failings leaves Trump stuck in Iran",
-          "url": "https://www.japantimes.co.jp/commentary/2026/08/03/world/us-iran-misdiagnosis-failings/",
-          "published": "2026-08-03T08:38:00+00:00",
-          "orig_title": "A misdiagnosis of U.S. failings leaves Trump stuck in Iran",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
-        },
-        {
-          "outlet": "TASS",
-          "region": "russia",
-          "lean": "state",
-          "ownership": "state",
-          "title": "Trump says US and Iran in talks, even if Tehran denies it",
-          "url": "https://tass.com/world/2168545",
-          "published": "2026-08-03T16:19:33+00:00",
-          "orig_title": "Trump says US and Iran in talks, even if Tehran denies it",
-          "lang": "en",
-          "translated": false,
-          "access": "open",
-          "more": [
-            {
-              "outlet": "TASS",
-              "region": "russia",
-              "lean": "state",
-              "ownership": "state",
-              "title": "US, Iran to begin negotiations on August 3 — President Trump",
-              "url": "https://tass.com/world/2168221",
-              "published": "2026-08-03T00:10:45+00:00",
-              "orig_title": "US, Iran to begin negotiations on August 3 — President Trump",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
-            },
-            {
-              "outlet": "TASS",
-              "region": "russia",
-              "lean": "state",
-              "ownership": "state",
-              "title": "US still ready for strikes on Iran on scale \"not seen since World War II\" — Pentagon chief",
-              "url": "https://tass.com/world/2168375",
-              "published": "2026-08-03T09:45:09+00:00",
-              "orig_title": "US still ready for strikes on Iran on scale \"not seen since World War II\" — Pentagon chief",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 186,
+      "id": 219,
       "topic": "World & Politics",
       "label": "Suu · Kyi · Aung",
       "title": "Red Cross visits Aung San Suu Kyi after Myanmar military pushed to prove she is alive",
       "summary": "Meeting follows years of questions over wellbeing of detained former leader, who was ousted by coup in 2021 Myanmar’s detained former leader Aung San Suu Kyi has met a representative of the Internatio",
-      "score": 9.667,
+      "score": 9.582,
       "n_outlets": 9,
       "n_articles": 9,
       "regions": [
@@ -1045,14 +1060,140 @@
       ]
     },
     {
-      "id": 52,
+      "id": 12,
       "topic": "World & Politics",
-      "label": "Ukrainian · Russian · drone",
-      "title": "Ukrainian drone crashes on beach with vacationers at Russian Black Sea resort as warning system fails to sound. Seven people killed.",
-      "summary": "Six people, including three children, were killed in a Ukrainian drone attack on the village of Arkhipo-Osipovka near Gelendzhik, Krasnodar Krai Governor Veniamin Kondratyev said.",
-      "score": 8.909,
+      "label": "Nadezhdin · Russia · France",
+      "title": "Russian Opposition Politician Flees to France",
+      "summary": "Boris B. Nadezhdin, 63, appeared in a video standing in front of the Eiffel Tower. He said he was “alive and free, but, unfortunately, not yet in Russia.”",
+      "score": 8.956,
       "n_outlets": 8,
-      "n_articles": 10,
+      "n_articles": 8,
+      "regions": [
+        "europe",
+        "russia",
+        "us"
+      ],
+      "last_seen": "2026-08-03T20:18:10+00:00",
+      "leans": [
+        "center",
+        "left"
+      ],
+      "sources": [
+        {
+          "outlet": "El Pais",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Putin Critic Boris Nadezhdin Flees Russia, Appears in Paris: 'I'm Alive and Free'",
+          "url": "https://elpais.com/internacional/2026-08-03/el-opositor-al-kremlin-boris-nadezhdin-abandona-rusia-estoy-vivo-y-libre.html",
+          "published": "2026-08-03T16:42:51+00:00",
+          "orig_title": "El opositor a Putin Borís Nadezhdin abandona Rusia y aparece en París: “Estoy vivo y libre”",
+          "lang": "es",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
+          "outlet": "Novaya Gazeta Europe",
+          "region": "russia",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Politician Boris Nadezhdin emigrates to France",
+          "url": "https://novayagazeta.eu/articles/2026/08/03/politik-boris-nadezhdin-emigriroval-vo-frantsiiu-news",
+          "published": "2026-08-03T11:17:00+00:00",
+          "orig_title": "Политик Борис Надеждин эмигрировал во Францию",
+          "lang": "ru",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
+          "outlet": "The Guardian",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Anti-war politician flees Russia amid pre-election crackdown on dissent",
+          "url": "https://www.theguardian.com/world/2026/aug/03/anti-war-politician-flees-russia-pre-election-crackdown-dissent-boris-nadezhdin",
+          "published": "2026-08-03T15:49:50+00:00",
+          "orig_title": "Anti-war politician flees Russia amid pre-election crackdown on dissent",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "The New York Times",
+          "region": "us",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Russian Opposition Politician Flees to France",
+          "url": "https://www.nytimes.com/2026/08/03/world/europe/russian-politician-exile-france.html",
+          "published": "2026-08-03T20:18:10+00:00",
+          "orig_title": "Russian Opposition Politician Flees to France",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall"
+        },
+        {
+          "outlet": "BBC News",
+          "region": "europe",
+          "lean": "center",
+          "ownership": "public",
+          "title": "Russian anti-war politician says he has fled the country",
+          "url": "https://www.bbc.co.uk/news/articles/c70gjw60033o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-03T15:41:08+00:00",
+          "orig_title": "Russian anti-war politician says he has fled the country",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "Kommersant",
+          "region": "russia",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Opposition politician Nadezhdin leaves Russia for France",
+          "url": "https://www.kommersant.ru/doc/8861412",
+          "published": "2026-08-03T10:12:30+00:00",
+          "orig_title": "Политик-иноагент Надеждин уехал из России во Францию",
+          "lang": "ru",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
+          "outlet": "Meduza",
+          "region": "russia",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Boris Nadezhdin, the anti-war politician who sought to challenge Putin in Russia’s 2024 presidential election, has left for France",
+          "url": "https://meduza.io/en/news/2026/08/03/boris-nadezhdin-the-anti-war-politician-who-sought-to-challenge-putin-in-russia-s-2024-presidential-election-has-left-for-france",
+          "published": "2026-08-03T10:43:05+00:00",
+          "orig_title": "Boris Nadezhdin, the anti-war politician who sought to challenge Putin in Russia’s 2024 presidential election, has left for France",
+          "lang": "en",
+          "translated": false,
+          "access": "unknown"
+        },
+        {
+          "outlet": "The Moscow Times",
+          "region": "russia",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Boris Nadezhdin Leaves Russia",
+          "url": "https://www.themoscowtimes.com/2026/08/03/boris-nadezhdin-leaves-russia-a93401",
+          "published": "2026-08-03T10:39:00+00:00",
+          "orig_title": "Boris Nadezhdin Leaves Russia",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "topic": "World & Politics",
+      "label": "Gelendzhik · drone · killed",
+      "title": "Seven killed in drone attack near Gelendzhik",
+      "summary": "Количество погибших при атаке БПЛА в селе Архипо-Осиповка под Геленджиком увеличилось до семи человек. Трое из погибших -- дети.",
+      "score": 8.794,
+      "n_outlets": 8,
+      "n_articles": 16,
       "regions": [
         "europe",
         "india",
@@ -1080,15 +1221,15 @@
           "access": "unknown"
         },
         {
-          "outlet": "El Pais",
-          "region": "europe",
+          "outlet": "Novaya Gazeta Europe",
+          "region": "russia",
           "lean": "left",
           "ownership": "private",
-          "title": "At least six dead, including three children, from Ukrainian drone crash on Russian beach",
-          "url": "https://elpais.com/internacional/2026-08-03/el-derribo-de-un-dron-ucranio-en-una-playa-del-sur-de-rusia-causa-al-menos-seis-muertos-tres-de-ellas-ninos.html",
-          "published": "2026-08-03T16:14:20+00:00",
-          "orig_title": "Al menos seis muertos, tres de ellos niños, por la caída de un dron ucranio en una playa de Rusia",
-          "lang": "es",
+          "title": "Drone strikes beachgoers in Gelendzhik, at least seven killed",
+          "url": "https://novayagazeta.eu/articles/2026/08/03/dron-udaril-po-otdykhaiushchim-v-gelendzhike-pogibli-kak-minimum-chetyre-cheloveka-news",
+          "published": "2026-08-03T10:48:29+00:00",
+          "orig_title": "Дрон ударил по отдыхающим в Геленджике, погибли как минимум семь человек",
+          "lang": "ru",
           "translated": true,
           "access": "unknown"
         },
@@ -1129,7 +1270,87 @@
           "orig_title": "При атаке БПЛА под Геленджиком погибли семь человек",
           "lang": "ru",
           "translated": true,
-          "access": "unknown"
+          "access": "unknown",
+          "more": [
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Three adults and child killed in drone attack near Gelendzhik",
+              "url": "https://www.kommersant.ru/doc/8861450",
+              "published": "2026-08-03T10:44:14+00:00",
+              "orig_title": "Трое взрослых и ребенок погибли при атаке БПЛА под Геленджиком",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Three killed, 13 wounded in drone attack near Gelendzhik",
+              "url": "https://www.kommersant.ru/doc/8861296",
+              "published": "2026-08-03T08:26:55+00:00",
+              "orig_title": "Три человека погибли и 13 пострадали при атаке БПЛА под Геленджиком",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Death toll from Gelendzhik drone strike rises to six",
+              "url": "https://www.kommersant.ru/doc/8861521",
+              "published": "2026-08-03T11:59:01+00:00",
+              "orig_title": "Число жертв атаки БПЛА в Геленджике выросло до шести",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Death toll from drone strike on Gelendzhik rises to 47",
+              "url": "https://www.kommersant.ru/doc/8861552",
+              "published": "2026-08-03T12:27:52+00:00",
+              "orig_title": "До 47 выросло число пострадавших при ударе БПЛА по Геленджику",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Child killed by drone strike near playground in Belgorod region",
+              "url": "https://www.kommersant.ru/doc/8861030",
+              "published": "2026-08-02T17:45:29+00:00",
+              "orig_title": "Ребенок погиб при ударе БПЛА рядом с детской площадкой в Белгородской области",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Headquarters established near Gelendzhik after drone attack deaths",
+              "url": "https://www.kommersant.ru/doc/8861366",
+              "published": "2026-08-03T09:24:15+00:00",
+              "orig_title": "Под Геленджиком развернули штаб после гибели людей при атаке БПЛА // В Архипо-Осиповке развернули штаб после гибели людей при атаке БПЛА",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            }
+          ]
         },
         {
           "outlet": "Meduza",
@@ -1203,205 +1424,19 @@
       ]
     },
     {
-      "id": 27,
-      "topic": "World & Politics",
-      "label": "Infantino · Wales · UEFA",
-      "title": "UEFA threatens Infantino with lawsuit over World Cup rights sale plans",
-      "summary": "Союз европейских футбольных ассоциаций (UEFA) направил письмо президенту Международной федерации футбола (FIFA) Джанни Инфантино, в котором заявил о готовности подать в суд из-за предложения о продаже",
-      "score": 7.955,
-      "n_outlets": 7,
-      "n_articles": 12,
-      "regions": [
-        "europe",
-        "india",
-        "russia"
-      ],
-      "last_seen": "2026-08-03T18:39:34+00:00",
-      "leans": [
-        "center",
-        "left",
-        "right"
-      ],
-      "sources": [
-        {
-          "outlet": "Der Spiegel",
-          "region": "europe",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Today's news: Donald Trump and Iran war, Ceuta, Infantino and UEFA",
-          "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-und-der-irankrieg-ceuta-infantino-und-die-uefa-a-fab2b55b-4966-4612-8f08-e05fa7870ef5#ref=rss",
-          "published": "2026-08-03T15:28:00+00:00",
-          "orig_title": "News des Tages: Donald Trump und der Irankrieg, Ceuta, Infantino und die Uefa",
-          "lang": "de",
-          "translated": true,
-          "access": "unknown"
-        },
-        {
-          "outlet": "El Pais",
-          "region": "europe",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Football isn't being privatized (this time)",
-          "url": "https://elpais.com/deportes/futbol/2026-08-03/el-futbol-no-se-privatiza-esta-vez.html",
-          "published": "2026-08-03T03:30:01+00:00",
-          "orig_title": "El fútbol no se privatiza (esta vez)",
-          "lang": "es",
-          "translated": true,
-          "access": "unknown",
-          "more": [
-            {
-              "outlet": "El Pais",
-              "region": "europe",
-              "lean": "left",
-              "ownership": "private",
-              "title": "Infantino, football's pope, is faltering",
-              "url": "https://elpais.com/deportes/futbol/2026-08-03/infantino-el-papa-del-futbol-se-tambalea.html",
-              "published": "2026-08-03T03:30:01+00:00",
-              "orig_title": "Infantino, el papa del fútbol se tambalea",
-              "lang": "es",
-              "translated": true,
-              "access": "unknown"
-            }
-          ]
-        },
-        {
-          "outlet": "Kommersant",
-          "region": "russia",
-          "lean": "center",
-          "ownership": "private",
-          "title": "UEFA threatens Infantino with lawsuit over World Cup rights sale plans",
-          "url": "https://www.kommersant.ru/doc/8861354",
-          "published": "2026-08-03T09:18:04+00:00",
-          "orig_title": "UEFA пригрозил Инфантино судебным иском из-за планов продать права на ЧМ",
-          "lang": "ru",
-          "translated": true,
-          "access": "unknown",
-          "more": [
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "NYP: Infantino hopes to keep FIFA presidency with White House support",
-              "url": "https://www.kommersant.ru/doc/8861520",
-              "published": "2026-08-03T11:52:15+00:00",
-              "orig_title": "NYP: Инфантино надеется сохранить пост президента FIFA при содействии Белого дома",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            },
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Wales first to withdraw support for Infantino's FIFA presidency bid",
-              "url": "https://www.kommersant.ru/doc/8861382",
-              "published": "2026-08-03T09:50:41+00:00",
-              "orig_title": "Уэльс первым отозвал поддержку кандидатуры Инфантино на пост главы FIFA",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            },
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "FIFA president faces removal over commercial ventures",
-              "url": "https://www.kommersant.ru/doc/8861009",
-              "published": "2026-08-02T16:04:34+00:00",
-              "orig_title": "Президент FIFA может лишиться должности из-за своих коммерческих проектов",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            }
-          ]
-        },
-        {
-          "outlet": "Politico Europe",
-          "region": "europe",
-          "lean": "center",
-          "ownership": "private",
-          "title": "UEFA threatens Infantino, Joshua Kushner with legal action",
-          "url": "https://www.politico.eu/article/uefa-legal-action-against-gianni-infantino-joshua-kushner/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-          "published": "2026-08-03T09:32:53+00:00",
-          "orig_title": "UEFA threatens Infantino, Joshua Kushner with legal action",
-          "lang": "en",
-          "translated": false,
-          "access": "unknown"
-        },
-        {
-          "outlet": "Times of India",
-          "region": "india",
-          "lean": "center",
-          "ownership": "private",
-          "title": "World Cup rights row: Wales withdraw support for Infantino's re-election bid",
-          "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/world-cup-rights-gamble-backfires-wales-withdraw-support-for-infantinos-fifa-re-election-bid/articleshow/132827083.cms",
-          "published": "2026-08-03T09:56:48+00:00",
-          "orig_title": "World Cup rights row: Wales withdraw support for Infantino's re-election bid",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "Die Welt",
-          "region": "europe",
-          "lean": "right",
-          "ownership": "private",
-          "title": "England and Wales also withdraw support from Infantino",
-          "url": "https://www.welt.de/videos/video6a70d368cc46967c04cadcea/machtverlust-bei-fifa-auch-england-und-wales-entziehen-infantino-die-unterstuetzung.html",
-          "published": "2026-08-03T18:39:34+00:00",
-          "orig_title": "Auch England und Wales entziehen Infantino die Unterstützung",
-          "lang": "de",
-          "translated": true,
-          "access": "unknown",
-          "more": [
-            {
-              "outlet": "Die Welt",
-              "region": "europe",
-              "lean": "right",
-              "ownership": "private",
-              "title": "Infantino visibly pleads for support at White House",
-              "url": "https://www.welt.de/sport/fussball/wm/article6a709a95935ebc37ca9d44de/fifa-praesident-infantino-bettelt-offensichtlich-im-weissen-haus-nach-unterstuetzung.html",
-              "published": "2026-08-03T15:02:21+00:00",
-              "orig_title": "Infantino bettelt offensichtlich im Weißen Haus nach Unterstützung",
-              "lang": "de",
-              "translated": true,
-              "access": "unknown"
-            }
-          ]
-        },
-        {
-          "outlet": "Le Figaro",
-          "region": "europe",
-          "lean": "right",
-          "ownership": "private",
-          "title": "Immigration, defense, trade: Pedro Sanchez increasingly isolated in Europe",
-          "url": "https://www.lefigaro.fr/international/immigration-defense-commerce-pedro-sanchez-de-plus-en-plus-isole-en-europe-20260803",
-          "published": "2026-08-03T18:15:00+00:00",
-          "orig_title": "Immigration, défense, commerce : Pedro Sanchez de plus en plus isolé en Europe",
-          "lang": "fr",
-          "translated": true,
-          "access": "unknown"
-        }
-      ]
-    },
-    {
-      "id": 46,
+      "id": 93,
       "topic": "World & Politics",
       "label": "Japan · Yen · yen",
       "title": "U.S., Japan Intervene to Boost Yen for First Time Since 1998",
       "summary": "The intervention comes after the yen touched a 40-year low against the dollar late last month",
-      "score": 7.918,
-      "n_outlets": 7,
-      "n_articles": 10,
+      "score": 6.802,
+      "n_outlets": 6,
+      "n_articles": 9,
       "regions": [
         "china",
         "europe",
         "india",
         "japan",
-        "russia",
         "us"
       ],
       "last_seen": "2026-08-03T18:11:00+00:00",
@@ -1479,19 +1514,6 @@
           "access": "open"
         },
         {
-          "outlet": "Kommersant",
-          "region": "russia",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Reuters: US and Japan conduct joint currency intervention for first time in 15 years",
-          "url": "https://www.kommersant.ru/doc/8860807",
-          "published": "2026-08-02T07:48:17+00:00",
-          "orig_title": "Reuters: CША и Япония впервые за 15 лет провели совместную валютную интервенцию",
-          "lang": "ru",
-          "translated": true,
-          "access": "unknown"
-        },
-        {
           "outlet": "South China Morning Post",
           "region": "china",
           "lean": "center",
@@ -1548,19 +1570,20 @@
       ]
     },
     {
-      "id": 101,
+      "id": 17,
       "topic": "World & Politics",
-      "label": "Nadezhdin · Russia · Boris",
-      "title": "Boris Nadezhdin, the anti-war politician who sought to challenge Putin in Russia’s 2024 presidential election, has left for France",
-      "summary": "Boris Nadezhdin has left Russia for France, the politician revealed in a video posted to his Telegram channel showing him standing in front of the Eiffel Tower in Paris.",
-      "score": 7.812,
-      "n_outlets": 7,
-      "n_articles": 7,
+      "label": "Michigan · deaths · outbreak",
+      "title": "Michigan reports the first 2 US deaths related to a diarrhoea-causing parasite",
+      "summary": "Two people have died in the cyclospora outbreak in Michigan, state health officials announced on Monday, the first deaths confirmed in the US related to the microscopic parasite. The Michigan Departme",
+      "score": 5.94,
+      "n_outlets": 5,
+      "n_articles": 5,
       "regions": [
+        "china",
         "europe",
-        "russia"
+        "us"
       ],
-      "last_seen": "2026-08-03T16:42:51+00:00",
+      "last_seen": "2026-08-03T20:05:46+00:00",
       "leans": [
         "center",
         "left"
@@ -1571,36 +1594,36 @@
           "region": "europe",
           "lean": "left",
           "ownership": "private",
-          "title": "Putin Critic Boris Nadezhdin Flees Russia, Appears in Paris: 'I'm Alive and Free'",
-          "url": "https://elpais.com/internacional/2026-08-03/el-opositor-al-kremlin-boris-nadezhdin-abandona-rusia-estoy-vivo-y-libre.html",
-          "published": "2026-08-03T16:42:51+00:00",
-          "orig_title": "El opositor a Putin Borís Nadezhdin abandona Rusia y aparece en París: “Estoy vivo y libre”",
+          "title": "First US deaths from explosive diarrhea outbreak linked to Cyclospora-contaminated lettuce",
+          "url": "https://elpais.com/us/2026-08-03/primeros-muertos-en-estados-unidos-por-un-brote-de-diarrea-explosiva-causado-por-lechugas-contaminadas-de-cyclospora.html",
+          "published": "2026-08-03T18:03:07+00:00",
+          "orig_title": "Primeros muertos en Estados Unidos por un brote de diarrea explosiva causado por lechugas contaminadas de Cyclospora",
           "lang": "es",
           "translated": true,
           "access": "unknown"
         },
         {
-          "outlet": "Novaya Gazeta Europe",
-          "region": "russia",
+          "outlet": "NPR",
+          "region": "us",
           "lean": "left",
-          "ownership": "private",
-          "title": "Politician Boris Nadezhdin emigrates to France",
-          "url": "https://novayagazeta.eu/articles/2026/08/03/politik-boris-nadezhdin-emigriroval-vo-frantsiiu-news",
-          "published": "2026-08-03T11:17:00+00:00",
-          "orig_title": "Политик Борис Надеждин эмигрировал во Францию",
-          "lang": "ru",
-          "translated": true,
-          "access": "unknown"
+          "ownership": "public",
+          "title": "Two people in Michigan have died after becoming ill with cyclosporiasis",
+          "url": "https://www.npr.org/2026/08/03/g-s1-137048/michigan-cyclosporiasis-deaths-cyclospora-outbreak",
+          "published": "2026-08-03T17:46:16+00:00",
+          "orig_title": "Two people in Michigan have died after becoming ill with cyclosporiasis",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
         },
         {
           "outlet": "The Guardian",
           "region": "europe",
           "lean": "left",
           "ownership": "private",
-          "title": "Anti-war politician flees Russia amid pre-election crackdown on dissent",
-          "url": "https://www.theguardian.com/world/2026/aug/03/anti-war-politician-flees-russia-pre-election-crackdown-dissent-boris-nadezhdin",
-          "published": "2026-08-03T15:49:50+00:00",
-          "orig_title": "Anti-war politician flees Russia amid pre-election crackdown on dissent",
+          "title": "US cyclosporiasis outbreak kills two people in Michigan, officials say",
+          "url": "https://www.theguardian.com/us-news/2026/aug/03/cyclospora-deaths-michigan",
+          "published": "2026-08-03T18:49:24+00:00",
+          "orig_title": "US cyclosporiasis outbreak kills two people in Michigan, officials say",
           "lang": "en",
           "translated": false,
           "access": "open"
@@ -1610,10 +1633,74 @@
           "region": "europe",
           "lean": "center",
           "ownership": "public",
-          "title": "Russian anti-war politician says he has fled the country",
-          "url": "https://www.bbc.co.uk/news/articles/c70gjw60033o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-03T15:41:08+00:00",
-          "orig_title": "Russian anti-war politician says he has fled the country",
+          "title": "US reports first two deaths linked to 'explosive diarrhoea' outbreak",
+          "url": "https://www.bbc.co.uk/news/articles/c2k7px317eeo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-03T20:05:46+00:00",
+          "orig_title": "US reports first two deaths linked to 'explosive diarrhoea' outbreak",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "South China Morning Post",
+          "region": "china",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Michigan reports the first 2 US deaths related to a diarrhoea-causing parasite",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3362845/michigan-reports-first-2-us-deaths-related-diarrhoea-causing-parasite?utm_source=rss_feed",
+          "published": "2026-08-03T19:10:16+00:00",
+          "orig_title": "Michigan reports the first 2 US deaths related to a diarrhoea-causing parasite",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 321,
+      "topic": "World & Politics",
+      "label": "Ceuta · Spain · Spanish",
+      "title": "At least 72 died in Spain’s Ceuta migrant rush",
+      "summary": "The largest migrant rush into the enclave has caused an international crisis for Spain, with European partners criticising Madrid for its immigration policies.",
+      "score": 5.431,
+      "n_outlets": 5,
+      "n_articles": 8,
+      "regions": [
+        "europe",
+        "india",
+        "russia",
+        "us"
+      ],
+      "last_seen": "2026-08-03T10:44:55+00:00",
+      "leans": [
+        "center",
+        "left",
+        "right",
+        "state"
+      ],
+      "sources": [
+        {
+          "outlet": "The Guardian",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Chaos of border crossing gives way to limbo for Moroccans on Ceuta’s streets",
+          "url": "https://www.theguardian.com/world/2026/aug/02/ceuta-border-crossing-spain-morocco",
+          "published": "2026-08-02T13:11:56+00:00",
+          "orig_title": "Chaos of border crossing gives way to limbo for Moroccans on Ceuta’s streets",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "The Hindu",
+          "region": "india",
+          "lean": "left",
+          "ownership": "private",
+          "title": "At least 72 died in Spain’s Ceuta migrant rush",
+          "url": "https://www.thehindu.com/news/international/at-least-72-died-in-spains-ceuta-migrant-rush/article71298103.ece",
+          "published": "2026-08-02T16:47:58+00:00",
+          "orig_title": "At least 72 died in Spain’s Ceuta migrant rush",
           "lang": "en",
           "translated": false,
           "access": "open"
@@ -1623,164 +1710,102 @@
           "region": "russia",
           "lean": "center",
           "ownership": "private",
-          "title": "Opposition politician Nadezhdin leaves Russia for France",
-          "url": "https://www.kommersant.ru/doc/8861412",
-          "published": "2026-08-03T10:12:30+00:00",
-          "orig_title": "Политик-иноагент Надеждин уехал из России во Францию",
+          "title": "Death toll of migrants attempting to reach Spanish Ceuta rises to 90",
+          "url": "https://www.kommersant.ru/doc/8860844",
+          "published": "2026-08-02T09:13:09+00:00",
+          "orig_title": "Число погибших мигрантов при попытке попасть в испанскую Сеуту выросло до 90",
           "lang": "ru",
           "translated": true,
-          "access": "unknown"
+          "access": "unknown",
+          "more": [
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Morocco's Interior Ministry: 40,000 migrants breach Spanish Ceuta",
+              "url": "https://www.kommersant.ru/doc/8861052",
+              "published": "2026-08-02T22:45:10+00:00",
+              "orig_title": "МВД Марокко: в испанскую Сеуту проникли 40 тыс. мигрантов",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Spain Deploys Around 3,000 Security Forces to Ceuta to Stem Migration",
+              "url": "https://www.kommersant.ru/doc/8860910",
+              "published": "2026-08-02T12:15:28+00:00",
+              "orig_title": "Испания развернула в Сеуте около 3 тыс. силовиков для сдерживания миграции",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            }
+          ]
         },
         {
-          "outlet": "Meduza",
-          "region": "russia",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Boris Nadezhdin, the anti-war politician who sought to challenge Putin in Russia’s 2024 presidential election, has left for France",
-          "url": "https://meduza.io/en/news/2026/08/03/boris-nadezhdin-the-anti-war-politician-who-sought-to-challenge-putin-in-russia-s-2024-presidential-election-has-left-for-france",
-          "published": "2026-08-03T10:43:05+00:00",
-          "orig_title": "Boris Nadezhdin, the anti-war politician who sought to challenge Putin in Russia’s 2024 presidential election, has left for France",
-          "lang": "en",
-          "translated": false,
-          "access": "unknown"
-        },
-        {
-          "outlet": "The Moscow Times",
-          "region": "russia",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Boris Nadezhdin Leaves Russia",
-          "url": "https://www.themoscowtimes.com/2026/08/03/boris-nadezhdin-leaves-russia-a93401",
-          "published": "2026-08-03T10:39:00+00:00",
-          "orig_title": "Boris Nadezhdin Leaves Russia",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        }
-      ]
-    },
-    {
-      "id": 8,
-      "topic": "World & Politics",
-      "label": "Danube · Romania · Hungary",
-      "title": "FACTBOX: Danube River's low water level and effect on nuke plants in Hungary, Romania",
-      "summary": "Due to a severe drought, the Danube's water level has dropped to a 30-year low of 1,700 cubic meters per second",
-      "score": 6.977,
-      "n_outlets": 6,
-      "n_articles": 6,
-      "regions": [
-        "europe",
-        "japan",
-        "russia",
-        "us"
-      ],
-      "last_seen": "2026-08-03T18:56:00+00:00",
-      "leans": [
-        "center",
-        "left",
-        "right",
-        "state"
-      ],
-      "sources": [
-        {
-          "outlet": "Asahi Shimbun",
-          "region": "japan",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Heat wave forces European nuclear shutdowns; Danube water levels drop, emergency declared",
-          "url": "http://www.asahi.com/articles/ASV833TMSV83UHBI01CM.html?ref=rss",
-          "published": "2026-08-03T12:59:11+00:00",
-          "orig_title": "猛暑で原発停止相次ぐヨーロッパ ドナウ川水位低下、非常事態宣言も",
-          "lang": "ja",
-          "translated": true,
-          "access": "unknown"
-        },
-        {
-          "outlet": "The Guardian",
-          "region": "europe",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Romania blasts rock to divert water from drought-hit Danube to nuclear reactor",
-          "url": "https://www.theguardian.com/world/2026/aug/03/romania-blasts-divert-danube-water-nuclear-reactor-energy-crisis-hungary",
-          "published": "2026-08-03T14:40:22+00:00",
-          "orig_title": "Romania blasts rock to divert water from drought-hit Danube to nuclear reactor",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "BBC News",
-          "region": "europe",
-          "lean": "center",
-          "ownership": "public",
-          "title": "Rhine falls to record low levels as drought strains Europe's rivers",
-          "url": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-03T16:27:43+00:00",
-          "orig_title": "Rhine falls to record low levels as drought strains Europe's rivers",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "Deutsche Welle",
-          "region": "europe",
-          "lean": "center",
-          "ownership": "public",
-          "title": "Dry Danube River threatens nuclear power in Romania, Hungary",
-          "url": "https://www.dw.com/en/dry-danube-river-threatens-nuclear-power-in-romania-hungary/a-78223402?maca=en-rss-en-world-4025-rdf",
-          "published": "2026-08-03T17:59:00+00:00",
-          "orig_title": "Dry Danube River threatens nuclear power in Romania, Hungary",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "The Wall Street Journal",
+          "outlet": "Fox News",
           "region": "us",
           "lean": "right",
           "ownership": "private",
-          "title": "Ships Can’t Move and Power Plants Shut Down as Drought Saps Europe’s Rivers",
-          "url": "https://www.wsj.com/world/europe/ships-cant-move-and-power-plants-shut-down-as-drought-saps-europes-rivers-8b083c62",
-          "published": "2026-08-03T18:56:00+00:00",
-          "orig_title": "Ships Can’t Move and Power Plants Shut Down as Drought Saps Europe’s Rivers",
+          "title": "At least 72 dead amid mass migrant rush to storm Spanish enclave of Ceuta sparking border crisis",
+          "url": "https://www.foxnews.com/world/least-72-dead-mass-migrant-rush-storm-spanish-enclave-ceuta-sparking-border-crisis",
+          "published": "2026-08-02T17:01:11+00:00",
+          "orig_title": "At least 72 dead amid mass migrant rush to storm Spanish enclave of Ceuta sparking border crisis",
           "lang": "en",
           "translated": false,
-          "access": "paywall"
+          "access": "open"
         },
         {
           "outlet": "TASS",
           "region": "russia",
           "lean": "state",
           "ownership": "state",
-          "title": "FACTBOX: Danube River's low water level and effect on nuke plants in Hungary, Romania",
-          "url": "https://tass.com/world/2168493",
-          "published": "2026-08-03T13:45:55+00:00",
-          "orig_title": "FACTBOX: Danube River's low water level and effect on nuke plants in Hungary, Romania",
+          "title": "Ceuta authorities report 88 deaths amid mass influx of migrants — news agency",
+          "url": "https://tass.com/world/2168303",
+          "published": "2026-08-03T08:25:30+00:00",
+          "orig_title": "Ceuta authorities report 88 deaths amid mass influx of migrants — news agency",
           "lang": "en",
           "translated": false,
-          "access": "open"
+          "access": "open",
+          "more": [
+            {
+              "outlet": "TASS",
+              "region": "russia",
+              "lean": "state",
+              "ownership": "state",
+              "title": "Over 1,500 migrants seek medical assistance in Spain’s Ceuta — agency",
+              "url": "https://tass.com/world/2168399",
+              "published": "2026-08-03T10:44:55+00:00",
+              "orig_title": "Over 1,500 migrants seek medical assistance in Spain’s Ceuta — agency",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            }
+          ]
         }
       ]
     },
     {
-      "id": 394,
+      "id": 409,
       "topic": "World & Politics",
-      "label": "Iran · Trump · Tehran",
+      "label": "Iran · Trump · Strikes",
       "title": "Trump Says He Canceled Strikes on Iran, Claiming Progress on Outlines of a Deal",
       "summary": "President Trump has repeatedly threatened to escalate the war with Iran, only to abruptly back down. Saudi Arabia said its leader had urged Mr. Trump not to renew attacks.",
-      "score": 6.368,
-      "n_outlets": 6,
-      "n_articles": 10,
+      "score": 5.321,
+      "n_outlets": 5,
+      "n_articles": 7,
       "regions": [
         "europe",
         "india",
         "russia",
-        "south_america",
         "us"
       ],
       "last_seen": "2026-08-03T07:12:47+00:00",
       "leans": [
-        "center",
         "left",
         "right",
         "state"
@@ -1791,41 +1816,13 @@
           "region": "india",
           "lean": "left",
           "ownership": "private",
-          "title": "West Asia updates: Iran media denies Trump claim that Tehran asked U.S. not to strike",
-          "url": "https://www.thehindu.com/news/international/iran-us-war-live-updates-donald-trump-mojtaba-khamenei-fresh-strikes-irgc-strait-of-hormuz-ceasefire-deal/article71297056.ece",
-          "published": "2026-08-02T17:47:40+00:00",
-          "orig_title": "West Asia updates: Iran media denies Trump claim that Tehran asked U.S. not to strike",
+          "title": "Trump says Gulf leaders' input weighed heavily in decision to hold off on ordering new Iran strikes",
+          "url": "https://www.thehindu.com/news/international/trump-says-gulf-leaders-input-weighed-heavily-in-decision-to-hold-off-on-ordering-new-iran-strikes/article71299741.ece",
+          "published": "2026-08-03T01:58:40+00:00",
+          "orig_title": "Trump says Gulf leaders' input weighed heavily in decision to hold off on ordering new Iran strikes",
           "lang": "en",
           "translated": false,
-          "access": "open",
-          "more": [
-            {
-              "outlet": "The Hindu",
-              "region": "india",
-              "lean": "left",
-              "ownership": "private",
-              "title": "Iran media denies Trump claim that Tehran asked U.S. not to strike",
-              "url": "https://www.thehindu.com/news/international/iran-media-denies-trump-claim-that-tehran-asked-us-not-to-strike/article71297512.ece",
-              "published": "2026-08-02T11:14:16+00:00",
-              "orig_title": "Iran media denies Trump claim that Tehran asked U.S. not to strike",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
-            },
-            {
-              "outlet": "The Hindu",
-              "region": "india",
-              "lean": "left",
-              "ownership": "private",
-              "title": "Trump says Gulf leaders' input weighed heavily in decision to hold off on ordering new Iran strikes",
-              "url": "https://www.thehindu.com/news/international/trump-says-gulf-leaders-input-weighed-heavily-in-decision-to-hold-off-on-ordering-new-iran-strikes/article71299741.ece",
-              "published": "2026-08-03T01:58:40+00:00",
-              "orig_title": "Trump says Gulf leaders' input weighed heavily in decision to hold off on ordering new Iran strikes",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
-            }
-          ]
+          "access": "open"
         },
         {
           "outlet": "The New York Times",
@@ -1854,19 +1851,6 @@
               "access": "paywall"
             }
           ]
-        },
-        {
-          "outlet": "MercoPress",
-          "region": "south_america",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Trump halts strikes on Iran as Tehran denies any deal exists",
-          "url": "https://en.mercopress.com/2026/08/02/trump-halts-strikes-on-iran-as-tehran-denies-any-deal-exists?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
-          "published": "2026-08-02T20:00:00+00:00",
-          "orig_title": "Trump halts strikes on Iran as Tehran denies any deal exists",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
         },
         {
           "outlet": "Le Figaro",
@@ -1925,12 +1909,147 @@
       ]
     },
     {
-      "id": 333,
+      "id": 498,
+      "topic": "World & Politics",
+      "label": "Moscow · Mayor · Kills",
+      "title": "Mayor calls upscale restaurant bombing a 'brutal terrorist act' after 3 killed, 21 injured",
+      "summary": "Moscow Mayor Sergei Sobyanin vowed to hunt down those responsible after a body-worn bomb detonated at an upscale restaurant on Saturday killing three.",
+      "score": 5.133,
+      "n_outlets": 5,
+      "n_articles": 5,
+      "regions": [
+        "europe",
+        "india",
+        "russia",
+        "us"
+      ],
+      "last_seen": "2026-08-02T20:36:53+00:00",
+      "leans": [
+        "center",
+        "left",
+        "right"
+      ],
+      "sources": [
+        {
+          "outlet": "The Hindu",
+          "region": "india",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Moscow Mayor calls deadly bomb attack on a restaurant a 'terrorist act'",
+          "url": "https://www.thehindu.com/news/international/moscow-mayor-calls-deadly-bomb-attack-on-a-restaurant-a-terrorist-act/article71299021.ece",
+          "published": "2026-08-02T20:36:53+00:00",
+          "orig_title": "Moscow Mayor calls deadly bomb attack on a restaurant a 'terrorist act'",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "The New York Times",
+          "region": "us",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Improvised Bomb Kills 3 at an Upscale Moscow Restaurant",
+          "url": "https://www.nytimes.com/2026/08/01/world/europe/deadly-bombing-moscow-restaurant.html",
+          "published": "2026-08-02T11:55:03+00:00",
+          "orig_title": "Improvised Bomb Kills 3 at an Upscale Moscow Restaurant",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall"
+        },
+        {
+          "outlet": "Deutsche Welle",
+          "region": "europe",
+          "lean": "center",
+          "ownership": "public",
+          "title": "Moscow restaurant blast a 'brutal terror attack,' mayor says",
+          "url": "https://www.dw.com/en/moscow-restaurant-blast-a-brutal-terror-attack-mayor-says/a-78205022?maca=en-rss-en-world-4025-rdf",
+          "published": "2026-08-02T11:39:00+00:00",
+          "orig_title": "Moscow restaurant blast a 'brutal terror attack,' mayor says",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "The Moscow Times",
+          "region": "russia",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Female Bomber Kills At Least 3, Injures 21 Near Moscow Restaurant",
+          "url": "https://www.themoscowtimes.com/2026/08/02/female-bomber-kills-at-least-3-injures-21-near-moscow-restaurant-a93395",
+          "published": "2026-08-02T11:34:00+00:00",
+          "orig_title": "Female Bomber Kills At Least 3, Injures 21 Near Moscow Restaurant",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "Fox News",
+          "region": "us",
+          "lean": "right",
+          "ownership": "private",
+          "title": "Mayor calls upscale restaurant bombing a 'brutal terrorist act' after 3 killed, 21 injured",
+          "url": "https://www.foxnews.com/world/mayor-calls-upscale-restaurant-bombing-brutal-terrorist-act-3-killed-21-injured",
+          "published": "2026-08-02T15:18:25+00:00",
+          "orig_title": "Mayor calls upscale restaurant bombing a 'brutal terrorist act' after 3 killed, 21 injured",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "topic": "Economics",
+      "label": "Trump · Democratic · states",
+      "title": "Blue states sue Trump administration for data sharing on cash assistance program",
+      "summary": "Democratic-led states sued the Trump administration on Monday over concerns it will soon hand immigration authorities access to Temporary Assistance for Needy Families (TANF) recipients’ personal data",
+      "score": 2.958,
+      "n_outlets": 2,
+      "n_articles": 2,
+      "regions": [
+        "china",
+        "us"
+      ],
+      "last_seen": "2026-08-03T20:19:44+00:00",
+      "leans": [
+        "center"
+      ],
+      "sources": [
+        {
+          "outlet": "South China Morning Post",
+          "region": "china",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Democratic US states sue to challenge Trump’s latest round of tariffs",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3362848/democratic-us-states-sue-challenge-trumps-latest-round-tariffs?utm_source=rss_feed",
+          "published": "2026-08-03T20:19:44+00:00",
+          "orig_title": "Democratic US states sue to challenge Trump’s latest round of tariffs",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "The Hill",
+          "region": "us",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Blue states sue Trump administration for data sharing on cash assistance program",
+          "url": "https://thehill.com/regulation/court-battles/6006356-trump-administration-tanf-privacy-lawsuit/",
+          "published": "2026-08-03T19:07:15+00:00",
+          "orig_title": "Blue states sue Trump administration for data sharing on cash assistance program",
+          "lang": "en",
+          "translated": false,
+          "access": "unknown"
+        }
+      ]
+    },
+    {
+      "id": 354,
       "topic": "Economics",
       "label": "Chinese · EVs · China",
       "title": "Chinese EV sales falter at home as growth slows",
       "summary": "Chinese carmakers reported slack sales for July, igniting fears of fresh price wars, and the country’s central bank pledged to promote stable growth and continue monetary easing after the pace of econ",
-      "score": 2.454,
+      "score": 2.397,
       "n_outlets": 2,
       "n_articles": 5,
       "regions": [
@@ -2012,12 +2131,44 @@
       ]
     },
     {
-      "id": 51,
+      "id": 58,
+      "topic": "Economics",
+      "label": "Spain · American · imported",
+      "title": "In 1974, Spain imported two tons of American red crayfish for aquaculture; 50 years later...",
+      "summary": "Fifty years ago, American red crayfish were introduced to Spain's Guadalquivir River basin, and they have since established a permanent presence. These aggressive invaders have wreaked havoc on local ",
+      "score": 1.863,
+      "n_outlets": 1,
+      "n_articles": 1,
+      "regions": [
+        "india"
+      ],
+      "last_seen": "2026-08-03T19:03:58+00:00",
+      "leans": [
+        "center"
+      ],
+      "sources": [
+        {
+          "outlet": "Times of India",
+          "region": "india",
+          "lean": "center",
+          "ownership": "private",
+          "title": "In 1974, Spain imported two tons of American red crayfish for aquaculture; 50 years later...",
+          "url": "https://timesofindia.indiatimes.com/science/in-1974-spain-imported-two-tons-of-american-red-crayfish-for-aquaculture-50-years-later-the-species-cannot-be-removed/articleshow/132840067.cms",
+          "published": "2026-08-03T19:03:58+00:00",
+          "orig_title": "In 1974, Spain imported two tons of American red crayfish for aquaculture; 50 years later...",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 98,
       "topic": "Economics",
       "label": "Trump · California · taking",
       "title": "Trump taking economic message to California",
       "summary": "President Trump will travel to California and Nevada to sell his economic message this week with stops in Los Angeles and Las Vegas. On Tuesday, the president will attend a Republican National Committ",
-      "score": 1.911,
+      "score": 1.796,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -2044,12 +2195,12 @@
       ]
     },
     {
-      "id": 103,
+      "id": 141,
       "topic": "Economics",
       "label": "India · Apple · proposes",
       "title": "India proposes extending tax breaks for contract manufacturing in a boost for Apple",
       "summary": "Apple had feared that, ‌unlike in China, tax laws in India could treat ownership of machinery supplied to its contract manufacturers as so-called “business connection”, exposing its iPhone profits to ",
-      "score": 1.807,
+      "score": 1.705,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -2076,12 +2227,12 @@
       ]
     },
     {
-      "id": 152,
+      "id": 185,
       "topic": "Economics",
       "label": "Derelict · BHS · former",
       "title": "Derelict former BHS site a 'continuing nightmare'",
       "summary": "The former department store closed in 2016.",
-      "score": 1.719,
+      "score": 1.628,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -2108,12 +2259,12 @@
       ]
     },
     {
-      "id": 197,
+      "id": 230,
       "topic": "Economics",
       "label": "Trump · US-China · Iran",
       "title": "Trump election claims debunked, US critical minerals fears: 7 US-China relations reads",
       "summary": "We have selected seven of the most interesting and important news stories covering US-China relations from the past few weeks. If you would like to see more of our reporting, please consider subscribi",
-      "score": 1.648,
+      "score": 1.566,
       "n_outlets": 1,
       "n_articles": 2,
       "regions": [
@@ -2155,12 +2306,12 @@
       ]
     },
     {
-      "id": 214,
+      "id": 242,
       "topic": "Economics",
       "label": "Government · proposes · ease",
       "title": "Government proposes to ease tax relief conditions for offshore funds",
       "summary": "The Bill, which has been circulated by the Government among the members of Parliament, is expected to be introduced by Finance Minister Nirmala Sitharaman in the Lok Sabha soon.",
-      "score": 1.625,
+      "score": 1.546,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -2187,12 +2338,12 @@
       ]
     },
     {
-      "id": 223,
+      "id": 251,
       "topic": "Economics",
       "label": "Best · High-Yield · Savings",
       "title": "Best High-Yield Savings Accounts for August 2026: Up to 4.50%",
       "summary": "These are the accounts that offer the best interest rates—without burdensome fees, gimmicks or other hassles",
-      "score": 1.602,
+      "score": 1.526,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -2219,12 +2370,12 @@
       ]
     },
     {
-      "id": 244,
+      "id": 271,
       "topic": "Economics",
       "label": "Arjuna · Awardee · Indian",
       "title": "After Arjuna Awardee calls out Indian calendar, AICF moves to find solution",
       "summary": "The All India Chess Federation (AICF) is working to hold the senior National Chess Championship in November-December 2026 after it was initially scheduled for March 2027. Following concerns raised by ",
-      "score": 1.566,
+      "score": 1.494,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -2251,31 +2402,89 @@
       ]
     },
     {
-      "id": 263,
-      "topic": "Economics",
-      "label": "Almost · Iran · fuel",
-      "title": "Almost £200,000 of fuel stolen from UK forecourts every day since Iran war began",
-      "summary": "Incidents of fuel being taken without payment have risen by a fifth in five months, according to industry analysis.",
-      "score": 1.54,
-      "n_outlets": 1,
-      "n_articles": 1,
+      "id": 214,
+      "topic": "Trading & Markets",
+      "label": "Danube · Hungary · Romania",
+      "title": "Heat wave forces European nuclear shutdowns; Danube water levels drop, emergency declared",
+      "summary": "Heat wave forces European nuclear shutdowns; Danube water levels drop, emergency declared",
+      "score": 4.598,
+      "n_outlets": 4,
+      "n_articles": 5,
       "regions": [
-        "europe"
+        "europe",
+        "japan",
+        "russia"
       ],
-      "last_seen": "2026-08-03T11:49:41+00:00",
+      "last_seen": "2026-08-03T14:40:22+00:00",
       "leans": [
-        "center"
+        "center",
+        "left",
+        "state"
       ],
       "sources": [
         {
-          "outlet": "BBC News",
+          "outlet": "Asahi Shimbun",
+          "region": "japan",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Heat wave forces European nuclear shutdowns; Danube water levels drop, emergency declared",
+          "url": "http://www.asahi.com/articles/ASV833TMSV83UHBI01CM.html?ref=rss",
+          "published": "2026-08-03T12:59:11+00:00",
+          "orig_title": "猛暑で原発停止相次ぐヨーロッパ ドナウ川水位低下、非常事態宣言も",
+          "lang": "ja",
+          "translated": true,
+          "access": "unknown",
+          "more": [
+            {
+              "outlet": "Asahi Shimbun",
+              "region": "japan",
+              "lean": "left",
+              "ownership": "private",
+              "title": "Extreme heat forces Hungary nuclear plant shutdown; Japan power companies reassure on safety",
+              "url": "http://www.asahi.com/articles/ASV833GVQV83ULFA014M.html?ref=rss",
+              "published": "2026-08-03T11:30:00+00:00",
+              "orig_title": "猛暑でハンガリーの原発が運転停止 日本は大丈夫？電力会社に聞いた",
+              "lang": "ja",
+              "translated": true,
+              "access": "unknown"
+            }
+          ]
+        },
+        {
+          "outlet": "The Guardian",
           "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Romania blasts rock to divert water from drought-hit Danube to nuclear reactor",
+          "url": "https://www.theguardian.com/world/2026/aug/03/romania-blasts-divert-danube-water-nuclear-reactor-energy-crisis-hungary",
+          "published": "2026-08-03T14:40:22+00:00",
+          "orig_title": "Romania blasts rock to divert water from drought-hit Danube to nuclear reactor",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "Kommersant",
+          "region": "russia",
           "lean": "center",
-          "ownership": "public",
-          "title": "Almost £200,000 of fuel stolen from UK forecourts every day since Iran war began",
-          "url": "https://www.bbc.co.uk/news/articles/cy8mrrlkjppo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-03T11:49:41+00:00",
-          "orig_title": "Almost £200,000 of fuel stolen from UK forecourts every day since Iran war began",
+          "ownership": "private",
+          "title": "Hungary considers shutting Paks nuclear plant August 4 due to Danube water levels",
+          "url": "https://www.kommersant.ru/doc/8861275",
+          "published": "2026-08-03T08:13:06+00:00",
+          "orig_title": "Венгрия допустила остановку АЭС «Пакш» 4 августа из-за падения уровня воды в Дунае",
+          "lang": "ru",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
+          "outlet": "TASS",
+          "region": "russia",
+          "lean": "state",
+          "ownership": "state",
+          "title": "FACTBOX: Danube River's low water level and effect on nuke plants in Hungary, Romania",
+          "url": "https://tass.com/world/2168493",
+          "published": "2026-08-03T13:45:55+00:00",
+          "orig_title": "FACTBOX: Danube River's low water level and effect on nuke plants in Hungary, Romania",
           "lang": "en",
           "translated": false,
           "access": "open"
@@ -2283,44 +2492,12 @@
       ]
     },
     {
-      "id": 328,
-      "topic": "Economics",
-      "label": "easier · get · your",
-      "title": "It may be easier to get your first mortgage than you think - here's why",
-      "summary": "More relaxed mortgage regulation opens the door for some first-time buyers, but it comes with risk.",
-      "score": 1.461,
-      "n_outlets": 1,
-      "n_articles": 1,
-      "regions": [
-        "europe"
-      ],
-      "last_seen": "2026-08-03T09:55:36+00:00",
-      "leans": [
-        "center"
-      ],
-      "sources": [
-        {
-          "outlet": "BBC News",
-          "region": "europe",
-          "lean": "center",
-          "ownership": "public",
-          "title": "It may be easier to get your first mortgage than you think - here's why",
-          "url": "https://www.bbc.co.uk/news/articles/cp3rkzpl7ngo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-03T09:55:36+00:00",
-          "orig_title": "It may be easier to get your first mortgage than you think - here's why",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        }
-      ]
-    },
-    {
-      "id": 117,
+      "id": 151,
       "topic": "Trading & Markets",
       "label": "July · PMI · India's",
       "title": "Russian Manufacturing Purchasing Managers' Index (PMI) rose to 50.7 in July",
       "summary": "The study notes that total new sales rose for the second consecutive month in July, and the pace of growth accelerated to the highest since May 2025",
-      "score": 3.79,
+      "score": 3.69,
       "n_outlets": 3,
       "n_articles": 3,
       "regions": [
@@ -2376,19 +2553,66 @@
       ]
     },
     {
-      "id": 252,
+      "id": 24,
       "topic": "Trading & Markets",
-      "label": "Oil · Stocks · Diplomacy",
+      "label": "Trump · Max · Miller",
+      "title": "Rogers beats El-Sayed, loses to Stevens in Michigan Senate poll",
+      "summary": "Former Rep. Mike Rogers (R-Mich.) has a lead over Democratic Senate candidate Abdul El-Sayed and is falling behind Rep. Haley Stevens (D-Mich.) in the race for Sen. Gary Peters’s (D-Mich.) seat, per a",
+      "score": 2.932,
+      "n_outlets": 2,
+      "n_articles": 2,
+      "regions": [
+        "europe",
+        "us"
+      ],
+      "last_seen": "2026-08-03T19:59:21+00:00",
+      "leans": [
+        "center",
+        "left"
+      ],
+      "sources": [
+        {
+          "outlet": "The Guardian",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Trump declines to call for Max Miller’s resignation amid abuse allegations – live",
+          "url": "https://www.theguardian.com/us-news/live/2026/aug/03/donald-trump-todd-blanche-anti-weaponization-fund-iran-latest-news-updates",
+          "published": "2026-08-03T19:59:21+00:00",
+          "orig_title": "Trump declines to call for Max Miller’s resignation amid abuse allegations – live",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "The Hill",
+          "region": "us",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Rogers beats El-Sayed, loses to Stevens in Michigan Senate poll",
+          "url": "https://thehill.com/homenews/campaign/6006366-michigan-senate-poll-rogers-stevens/",
+          "published": "2026-08-03T19:12:03+00:00",
+          "orig_title": "Rogers beats El-Sayed, loses to Stevens in Michigan Senate poll",
+          "lang": "en",
+          "translated": false,
+          "access": "unknown"
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "topic": "Trading & Markets",
+      "label": "Oil · Settles · Lower",
       "title": "Oil prices plunge and Europe’s markets rally after Trump calls off Iran strikes",
       "summary": "Brent crude drops by 5% after US president claimed talks on Middle East peace deal would resume Business live – latest updates Crude oil prices fell sharply while stocks and government bonds rallied o",
-      "score": 2.557,
+      "score": 2.88,
       "n_outlets": 2,
       "n_articles": 3,
       "regions": [
         "europe",
         "us"
       ],
-      "last_seen": "2026-08-03T12:10:59+00:00",
+      "last_seen": "2026-08-03T19:18:00+00:00",
       "leans": [
         "left",
         "right"
@@ -2425,10 +2649,10 @@
               "region": "us",
               "lean": "right",
               "ownership": "private",
-              "title": "Stock Market Today: Stocks Rally, Oil Slides on Return to Mideast Diplomacy",
-              "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-03-2026?mod=rss_markets_main",
-              "published": "2026-08-03T07:58:14+00:00",
-              "orig_title": "Stock Market Today: Stocks Rally, Oil Slides on Return to Mideast Diplomacy",
+              "title": "Oil Settles Lower As U.S. Gives Talks Another Chance",
+              "url": "https://www.wsj.com/finance/commodities-futures/oil-prices-fall-amid-hopes-of-possible-u-s-iran-deal-9a3f0ff4?mod=rss_markets_main",
+              "published": "2026-08-03T19:18:00+00:00",
+              "orig_title": "Oil Settles Lower As U.S. Gives Talks Another Chance",
               "lang": "en",
               "translated": false,
               "access": "paywall"
@@ -2438,59 +2662,12 @@
       ]
     },
     {
-      "id": 274,
-      "topic": "Trading & Markets",
-      "label": "Hungary · Extreme · nuclear",
-      "title": "Hungary considers shutting Paks nuclear plant August 4 due to Danube water levels",
-      "summary": "АЭС «Пакш» в Венгрии может проработать до понедельника или вторника «на нынешнем пониженном уровне мощности». Об этом заявил венгерский премьер-министр Петер Мадьяр, передает Reuters.",
-      "score": 2.526,
-      "n_outlets": 2,
-      "n_articles": 2,
-      "regions": [
-        "japan",
-        "russia"
-      ],
-      "last_seen": "2026-08-03T11:30:00+00:00",
-      "leans": [
-        "center",
-        "left"
-      ],
-      "sources": [
-        {
-          "outlet": "Asahi Shimbun",
-          "region": "japan",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Extreme heat forces Hungary nuclear plant shutdown; Japan power companies reassure on safety",
-          "url": "http://www.asahi.com/articles/ASV833GVQV83ULFA014M.html?ref=rss",
-          "published": "2026-08-03T11:30:00+00:00",
-          "orig_title": "猛暑でハンガリーの原発が運転停止 日本は大丈夫？電力会社に聞いた",
-          "lang": "ja",
-          "translated": true,
-          "access": "unknown"
-        },
-        {
-          "outlet": "Kommersant",
-          "region": "russia",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Hungary considers shutting Paks nuclear plant August 4 due to Danube water levels",
-          "url": "https://www.kommersant.ru/doc/8861275",
-          "published": "2026-08-03T08:13:06+00:00",
-          "orig_title": "Венгрия допустила остановку АЭС «Пакш» 4 августа из-за падения уровня воды в Дунае",
-          "lang": "ru",
-          "translated": true,
-          "access": "unknown"
-        }
-      ]
-    },
-    {
-      "id": 307,
+      "id": 328,
       "topic": "Trading & Markets",
       "label": "Safety · Hong · Kong",
       "title": "Four killed, two injured in central China apartment building fire",
       "summary": "Firefighters rescued the six people from the high-rise residential building and sent them to the hospital for treatment. Four of them later died despite medical efforts, while the remaining two are st",
-      "score": 2.484,
+      "score": 2.423,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -2532,18 +2709,18 @@
       ]
     },
     {
-      "id": 24,
+      "id": 8,
       "topic": "Trading & Markets",
-      "label": "High-Powered · Real-Estate · Fund",
-      "title": "This High-Powered Real-Estate Fund Is Run by College Students",
-      "summary": "Indiana University undergrads operate Sample Gates Management, a commercial private-equity fund that just sold its first investment and earned a 65% gross profit.",
-      "score": 1.955,
+      "label": "Stocks · Rally · Oil",
+      "title": "U.S. Stocks Rally, While Oil Slides on Middle East Diplomacy Hopes",
+      "summary": "U.S. stocks jumped and oil prices fell sharply as President Trump signaled a return to diplomacy with Iran.",
+      "score": 1.967,
       "n_outlets": 1,
-      "n_articles": 1,
+      "n_articles": 3,
       "regions": [
         "us"
       ],
-      "last_seen": "2026-08-03T18:40:00+00:00",
+      "last_seen": "2026-08-03T20:26:00+00:00",
       "leans": [
         "right"
       ],
@@ -2553,138 +2730,10 @@
           "region": "us",
           "lean": "right",
           "ownership": "private",
-          "title": "This High-Powered Real-Estate Fund Is Run by College Students",
-          "url": "https://www.wsj.com/finance/investing/this-high-powered-real-estate-fund-is-run-by-college-students-11ad5ebb?mod=rss_markets_main",
-          "published": "2026-08-03T18:40:00+00:00",
-          "orig_title": "This High-Powered Real-Estate Fund Is Run by College Students",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
-        }
-      ]
-    },
-    {
-      "id": 54,
-      "topic": "Trading & Markets",
-      "label": "Comex · Gold · Settles",
-      "title": "Comex Gold Settles 0.38% Lower at $4033.70",
-      "summary": "Gold settled 0.4% lower, down for a second-consecutive session, while silver rose 0.1%, up three of the past four sessions.",
-      "score": 1.906,
-      "n_outlets": 1,
-      "n_articles": 1,
-      "regions": [
-        "us"
-      ],
-      "last_seen": "2026-08-03T18:02:00+00:00",
-      "leans": [
-        "right"
-      ],
-      "sources": [
-        {
-          "outlet": "The Wall Street Journal",
-          "region": "us",
-          "lean": "right",
-          "ownership": "private",
-          "title": "Comex Gold Settles 0.38% Lower at $4033.70",
-          "url": "https://www.wsj.com/finance/commodities-futures/gold-rises-on-technical-rebound-e221dd67?mod=rss_markets_main",
-          "published": "2026-08-03T18:02:00+00:00",
-          "orig_title": "Comex Gold Settles 0.38% Lower at $4033.70",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
-        }
-      ]
-    },
-    {
-      "id": 81,
-      "topic": "Trading & Markets",
-      "label": "Who · Isabel · Peralta",
-      "title": "Who is Isabel Peralta, the Spanish woman filmed performing Nazi salute in Madrid at rally after Ceuta migrant influx?",
-      "summary": "La séquence, largement relayée sur les réseaux sociaux, a suscité de nombreuses réactions, y compris en France, où le maire de Montpellier, Michaël Delafosse, l’a dénoncée. La militante revendique dep",
-      "score": 1.854,
-      "n_outlets": 1,
-      "n_articles": 1,
-      "regions": [
-        "europe"
-      ],
-      "last_seen": "2026-08-03T17:19:41+00:00",
-      "leans": [
-        "right"
-      ],
-      "sources": [
-        {
-          "outlet": "Le Figaro",
-          "region": "europe",
-          "lean": "right",
-          "ownership": "private",
-          "title": "Who is Isabel Peralta, the Spanish woman filmed performing Nazi salute in Madrid at rally after Ceuta migrant influx?",
-          "url": "https://www.lefigaro.fr/international/qui-est-isabel-peralta-l-espagnole-filmee-a-madrid-en-train-d-effectuer-un-salut-nazi-lors-d-une-manifestation-apres-l-afflux-de-migrants-a-ceuta-20260803",
-          "published": "2026-08-03T17:19:41+00:00",
-          "orig_title": "Qui est Isabel Peralta, l’Espagnole filmée à Madrid en train d’effectuer un salut nazi lors d’une manifestation après l’afflux de migrants à Ceuta ?",
-          "lang": "fr",
-          "translated": true,
-          "access": "unknown"
-        }
-      ]
-    },
-    {
-      "id": 83,
-      "topic": "Trading & Markets",
-      "label": "Jay · Clayton · Senate",
-      "title": "Jay Clayton sworn in as US spy chief after contentious Senate confirmation hearing",
-      "summary": "Jay ⁠Clayton was sworn in on Monday as ⁠the US director of national intelligence after a contentious Senate confirmation hearing in which he refused to directly acknowledge that President Donald Trump",
-      "score": 1.848,
-      "n_outlets": 1,
-      "n_articles": 1,
-      "regions": [
-        "china"
-      ],
-      "last_seen": "2026-08-03T17:13:59+00:00",
-      "leans": [
-        "center"
-      ],
-      "sources": [
-        {
-          "outlet": "South China Morning Post",
-          "region": "china",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Jay Clayton sworn in as US spy chief after contentious Senate confirmation hearing",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3362842/jay-clayton-sworn-us-spy-chief-after-contentious-senate-confirmation-hearing?utm_source=rss_feed",
-          "published": "2026-08-03T17:13:59+00:00",
-          "orig_title": "Jay Clayton sworn in as US spy chief after contentious Senate confirmation hearing",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        }
-      ]
-    },
-    {
-      "id": 109,
-      "topic": "Trading & Markets",
-      "label": "Roundup · Market · Talk",
-      "title": "Financial Services Roundup: Market Talk",
-      "summary": "Find insight on Bitcoin, Banco BPM and more in the latest Market Talks covering financial services.",
-      "score": 1.798,
-      "n_outlets": 1,
-      "n_articles": 4,
-      "regions": [
-        "us"
-      ],
-      "last_seen": "2026-08-03T16:30:00+00:00",
-      "leans": [
-        "right"
-      ],
-      "sources": [
-        {
-          "outlet": "The Wall Street Journal",
-          "region": "us",
-          "lean": "right",
-          "ownership": "private",
-          "title": "Financial Services Roundup: Market Talk",
-          "url": "https://www.wsj.com/business/financial-services-roundup-market-talk-310674da?mod=rss_markets_main",
-          "published": "2026-08-03T16:23:00+00:00",
-          "orig_title": "Financial Services Roundup: Market Talk",
+          "title": "U.S. Stocks Rally, While Oil Slides on Middle East Diplomacy Hopes",
+          "url": "https://www.wsj.com/finance/stocks/u-s-stocks-rally-while-oil-slides-on-middle-east-diplomacy-hopes-5a2d3f06?mod=rss_markets_main",
+          "published": "2026-08-03T20:19:00+00:00",
+          "orig_title": "U.S. Stocks Rally, While Oil Slides on Middle East Diplomacy Hopes",
           "lang": "en",
           "translated": false,
           "access": "paywall",
@@ -2694,10 +2743,10 @@
               "region": "us",
               "lean": "right",
               "ownership": "private",
-              "title": "Tech, Media & Telecom Roundup: Market Talk",
-              "url": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-7aecaefc?mod=rss_markets_main",
-              "published": "2026-08-03T16:26:00+00:00",
-              "orig_title": "Tech, Media & Telecom Roundup: Market Talk",
+              "title": "Stock Market Today: Stocks Rally, Oil Slides on Return to Mideast Diplomacy",
+              "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-03-2026?mod=rss_markets_main",
+              "published": "2026-08-03T07:58:14+00:00",
+              "orig_title": "Stock Market Today: Stocks Rally, Oil Slides on Return to Mideast Diplomacy",
               "lang": "en",
               "translated": false,
               "access": "paywall"
@@ -2707,23 +2756,10 @@
               "region": "us",
               "lean": "right",
               "ownership": "private",
-              "title": "Auto & Transport Roundup: Market Talk",
-              "url": "https://www.wsj.com/business/earnings/auto-transport-roundup-market-talk-226d8148?mod=rss_markets_main",
-              "published": "2026-08-03T16:30:00+00:00",
-              "orig_title": "Auto & Transport Roundup: Market Talk",
-              "lang": "en",
-              "translated": false,
-              "access": "paywall"
-            },
-            {
-              "outlet": "The Wall Street Journal",
-              "region": "us",
-              "lean": "right",
-              "ownership": "private",
-              "title": "Health Care Roundup: Market Talk",
-              "url": "https://www.wsj.com/business/health-care-roundup-market-talk-743726ce?mod=rss_markets_main",
-              "published": "2026-08-03T16:25:00+00:00",
-              "orig_title": "Health Care Roundup: Market Talk",
+              "title": "Stocks Rally as Oil Drops on Hormuz Diplomatic Hopes",
+              "url": "https://www.wsj.com/finance/stocks/stocks-rally-as-oil-drops-on-hormuz-diplomatic-hopes-75cf4ce1?mod=rss_markets_main",
+              "published": "2026-08-03T20:26:00+00:00",
+              "orig_title": "Stocks Rally as Oil Drops on Hormuz Diplomatic Hopes",
               "lang": "en",
               "translated": false,
               "access": "paywall"
@@ -2733,18 +2769,114 @@
       ]
     },
     {
-      "id": 135,
+      "id": 16,
       "topic": "Trading & Markets",
-      "label": "Chennai · entrepreneur · shares",
-      "title": "Chennai entrepreneur shares how he started business with ₹90,000 after quitting ₹1 crore US job",
-      "summary": "Chennai entrepreneur shares how he started business with ₹90,000 after quitting ₹1 crore US job",
-      "score": 1.756,
+      "label": "When · A.I. · Invaded",
+      "title": "When A.I. Invaded ‘Heated Rivalry’ Fan Fiction, the Meltdown Was Epic",
+      "summary": "An anonymous X account posted a detailed breakdown of chatbot text in 38 popular stories inspired by the hockey romance. The fandom spiraled.",
+      "score": 1.946,
+      "n_outlets": 1,
+      "n_articles": 1,
+      "regions": [
+        "us"
+      ],
+      "last_seen": "2026-08-03T20:10:18+00:00",
+      "leans": [
+        "left"
+      ],
+      "sources": [
+        {
+          "outlet": "The New York Times",
+          "region": "us",
+          "lean": "left",
+          "ownership": "private",
+          "title": "When A.I. Invaded ‘Heated Rivalry’ Fan Fiction, the Meltdown Was Epic",
+          "url": "https://www.nytimes.com/2026/07/30/technology/ai-heated-rivalry-fan-fiction.html",
+          "published": "2026-08-03T20:10:18+00:00",
+          "orig_title": "When A.I. Invaded ‘Heated Rivalry’ Fan Fiction, the Meltdown Was Epic",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "topic": "Trading & Markets",
+      "label": "Brown · University · president",
+      "title": "Brown University president to step down after 15 years",
+      "summary": "Brown University President Christina Paxson said Monday she will step down at the end of the academic year, after she oversaw negotiations with the Trump administration over the past 18 months. Paxson",
+      "score": 1.939,
+      "n_outlets": 1,
+      "n_articles": 1,
+      "regions": [
+        "us"
+      ],
+      "last_seen": "2026-08-03T20:04:40+00:00",
+      "leans": [
+        "center"
+      ],
+      "sources": [
+        {
+          "outlet": "The Hill",
+          "region": "us",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Brown University president to step down after 15 years",
+          "url": "https://thehill.com/homenews/education/6006307-brown-president-paxson-resigning/",
+          "published": "2026-08-03T20:04:40+00:00",
+          "orig_title": "Brown University president to step down after 15 years",
+          "lang": "en",
+          "translated": false,
+          "access": "unknown"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "topic": "Trading & Markets",
+      "label": "Treasury · Yields · Fall",
+      "title": "Treasury Yields Fall as Geopolitical Fears Ease",
+      "summary": "Treasury yields fell as hopes for a diplomatic solution to reopen the Strait of Hormuz picked up.",
+      "score": 1.926,
+      "n_outlets": 1,
+      "n_articles": 1,
+      "regions": [
+        "us"
+      ],
+      "last_seen": "2026-08-03T19:55:00+00:00",
+      "leans": [
+        "right"
+      ],
+      "sources": [
+        {
+          "outlet": "The Wall Street Journal",
+          "region": "us",
+          "lean": "right",
+          "ownership": "private",
+          "title": "Treasury Yields Fall as Geopolitical Fears Ease",
+          "url": "https://www.wsj.com/finance/investing/short-dated-jgbs-fall-on-growing-boj-rate-increase-expectations-c0bac28f?mod=rss_markets_main",
+          "published": "2026-08-03T19:55:00+00:00",
+          "orig_title": "Treasury Yields Fall as Geopolitical Fears Ease",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "topic": "Trading & Markets",
+      "label": "Quote · Ludwig · Wittgenstein",
+      "title": "Quote by Ludwig Wittgenstein: 'The real question of life after death isn't whether or not it exists...'",
+      "summary": "Philosopher Ludwig Wittgenstein challenged the preoccupation with life after death, suggesting that eternal existence does not address the fundamental questions of life’s meaning. His reflections emer",
+      "score": 1.917,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
         "india"
       ],
-      "last_seen": "2026-08-03T15:51:51+00:00",
+      "last_seen": "2026-08-03T19:48:07+00:00",
       "leans": [
         "center"
       ],
@@ -2754,10 +2886,10 @@
           "region": "india",
           "lean": "center",
           "ownership": "private",
-          "title": "Chennai entrepreneur shares how he started business with ₹90,000 after quitting ₹1 crore US job",
-          "url": "https://timesofindia.indiatimes.com/world/us/chennai-entrepreneur-shares-how-he-started-business-with-90000-after-quitting-1-crore-us-job/articleshow/132835390.cms",
-          "published": "2026-08-03T15:51:51+00:00",
-          "orig_title": "Chennai entrepreneur shares how he started business with ₹90,000 after quitting ₹1 crore US job",
+          "title": "Quote by Ludwig Wittgenstein: 'The real question of life after death isn't whether or not it exists...'",
+          "url": "https://timesofindia.indiatimes.com/world/uk/quote-of-the-day-by-ludwig-wittgenstein-the-real-question-of-life-after-death-isnt-whether-or-not-it-exists-but-and-why-forever-wont-fix-us/articleshow/132840908.cms",
+          "published": "2026-08-03T19:48:07+00:00",
+          "orig_title": "Quote by Ludwig Wittgenstein: 'The real question of life after death isn't whether or not it exists...'",
           "lang": "en",
           "translated": false,
           "access": "open"
@@ -2765,12 +2897,12 @@
       ]
     },
     {
-      "id": 47,
+      "id": 94,
       "topic": "Science",
       "label": "France · Opinion · How",
       "title": "In 2022, France promised 1 billion trees within a decade; four years later, a court...",
       "summary": "France's top court invalidated a tree-planting funding decree due to procedural flaws. Ministers failed to consult the public on forestry subsidies impacting biodiversity. This ruling halts financial ",
-      "score": 2.917,
+      "score": 2.801,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -2812,12 +2944,12 @@
       ]
     },
     {
-      "id": 340,
+      "id": 361,
       "topic": "Science",
       "label": "Russia · cancer · Ginzburg",
       "title": "Ginzburg outlines plans for three new cancer vaccines in Russia",
       "summary": "В России намерены разработать вакцины от рака мочевого пузыря, мелкоклеточного рака легкого и рака толстой кишки. Об этом сообщил «РИА Новости» академик РАН, научный руководитель НИЦ эпидемиологии и м",
-      "score": 2.439,
+      "score": 2.383,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -2858,12 +2990,44 @@
       ]
     },
     {
-      "id": 112,
+      "id": 5,
+      "topic": "Science",
+      "label": "Maryland · largest · human",
+      "title": "The largest human composting facility is coming to Maryland",
+      "summary": "The largest human composting facility in the nation is soon opening in Maryland, with capacity to handle 2,000 bodies a year. It's meeting a growing demand for eco-friendly interment options.",
+      "score": 1.973,
+      "n_outlets": 1,
+      "n_articles": 1,
+      "regions": [
+        "us"
+      ],
+      "last_seen": "2026-08-03T20:30:54+00:00",
+      "leans": [
+        "left"
+      ],
+      "sources": [
+        {
+          "outlet": "NPR",
+          "region": "us",
+          "lean": "left",
+          "ownership": "public",
+          "title": "The largest human composting facility is coming to Maryland",
+          "url": "https://www.npr.org/2026/08/03/nx-s1-5905361/the-largest-human-composting-facility-is-coming-to-maryland",
+          "published": "2026-08-03T20:30:54+00:00",
+          "orig_title": "The largest human composting facility is coming to Maryland",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 146,
       "topic": "Science",
       "label": "Poland · Pfizer · appeals",
       "title": "Poland appeals €1.3B Pfizer vaccine ruling",
       "summary": "Warsaw says the end of the pandemic and Russia's invasion of Ukraine upended the deal.",
-      "score": 1.796,
+      "score": 1.696,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -2890,12 +3054,12 @@
       ]
     },
     {
-      "id": 146,
+      "id": 178,
       "topic": "Science",
       "label": "Science · Britain · Letters",
       "title": "Science funding cuts will harm Britain’s global standing | Letters",
       "summary": "Readers respond to an editorial about the threat to research funding, including plans to close the Jodrell Bank Observatory Your editorial rightly criticises the decision to cease funding the Lovell t",
-      "score": 1.732,
+      "score": 1.639,
       "n_outlets": 1,
       "n_articles": 2,
       "regions": [
@@ -2937,12 +3101,12 @@
       ]
     },
     {
-      "id": 154,
+      "id": 187,
       "topic": "Science",
       "label": "Children · using · social",
       "title": "Children using social media at younger age appear to do worse in school tests",
       "summary": "Pupils who open accounts aged 11 to 12 score lower in some subjects than those who wait a few years, study finds Children who open social media accounts at the start of secondary school appear to perf",
-      "score": 1.718,
+      "score": 1.627,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -2969,12 +3133,12 @@
       ]
     },
     {
-      "id": 183,
+      "id": 216,
       "topic": "Science",
       "label": "China · Beidaihe · political",
       "title": "China’s political and scientific elite head to Beidaihe for summer retreat season",
       "summary": "Beijing has signalled the start of the summer break for China’s political elite with the announcement of retreats at the seaside resort of Beidaihe. State news agency Xinhua reported on Monday that Ca",
-      "score": 1.678,
+      "score": 1.592,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -3001,44 +3165,12 @@
       ]
     },
     {
-      "id": 200,
-      "topic": "Science",
-      "label": "Houston · Aiden · student",
-      "title": "Houston student Aiden Jo, 14, and his origami-inspired answer reached a national science final",
-      "summary": "Aiden Jo, a bright fourteen-year-old, has ingeniously crafted a collapsible container called 'Squeeze-gami' aimed at minimizing waste volume. His innovative solution has earned him a spot among ten na",
-      "score": 1.645,
-      "n_outlets": 1,
-      "n_articles": 1,
-      "regions": [
-        "india"
-      ],
-      "last_seen": "2026-08-03T13:56:52+00:00",
-      "leans": [
-        "center"
-      ],
-      "sources": [
-        {
-          "outlet": "Times of India",
-          "region": "india",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Houston student Aiden Jo, 14, and his origami-inspired answer reached a national science final",
-          "url": "https://timesofindia.indiatimes.com/science/houston-student-aiden-jo-14-saw-bulky-packaging-as-a-design-problem-his-origami-inspired-answer-reached-a-national-science-final/articleshow/132833463.cms",
-          "published": "2026-08-03T13:56:52+00:00",
-          "orig_title": "Houston student Aiden Jo, 14, and his origami-inspired answer reached a national science final",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        }
-      ]
-    },
-    {
-      "id": 288,
+      "id": 311,
       "topic": "Science",
       "label": "such · neat · busy",
       "title": "‘They are such neat, busy little folk’: the unexpected superpowers of the common woodlouse",
       "summary": "This detritivore – known by a range of colourful names – tidies up our world and can withstand toxic pollution Revealed: the top 10 invertebrates of the year Chucky pig. Slater. Monkey pea. Roly-poly.",
-      "score": 1.504,
+      "score": 1.441,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -3065,12 +3197,12 @@
       ]
     },
     {
-      "id": 326,
+      "id": 347,
       "topic": "Science",
       "label": "Find · Jodrell · Bank",
       "title": "Find funding and save Jodrell Bank, stars say",
       "summary": "Astronaut Tim Peake, guitarist Johnny Marr and 150 other public figures have signed an open letter.",
-      "score": 1.462,
+      "score": 1.404,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -3097,12 +3229,12 @@
       ]
     },
     {
-      "id": 364,
+      "id": 381,
       "topic": "Science",
       "label": "Antarctica · nations · created",
       "title": "In 2016, nations created the world's largest marine reserve in Antarctica",
       "summary": "The Ross Sea Marine Protected Area became a global conservation milestone after years of negotiation. This vast Antarctic reserve was established by the CCAMLR member states in 2016. It protects a sig",
-      "score": 1.403,
+      "score": 1.352,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -3129,14 +3261,14 @@
       ]
     },
     {
-      "id": 7,
+      "id": 64,
       "topic": "Technology",
-      "label": "Companies · Opinion · How",
-      "title": "How to Play the Flood of AI Bonds",
-      "summary": "Big tech wants to borrow money for decades, but investors have better options.",
-      "score": 3.977,
+      "label": "Companies · How · What",
+      "title": "NVIDIA is about to spend $750 billion on AI. Critics are calling it a bubble",
+      "summary": "NPR's Ayesha Rascoe asks Bloomberg AI infrastructure reporter Dina Bass about concerns over circular financing in the AI sector.",
+      "score": 3.854,
       "n_outlets": 3,
-      "n_articles": 6,
+      "n_articles": 5,
       "regions": [
         "us"
       ],
@@ -3190,19 +3322,6 @@
               "region": "us",
               "lean": "right",
               "ownership": "private",
-              "title": "Opinion | Does AI Have a Fiduciary Duty?",
-              "url": "https://www.wsj.com/opinion/does-ai-have-a-fiduciary-duty-4eaa49d1?mod=rss_Technology",
-              "published": "2026-08-02T17:32:00+00:00",
-              "orig_title": "Opinion | Does AI Have a Fiduciary Duty?",
-              "lang": "en",
-              "translated": false,
-              "access": "paywall"
-            },
-            {
-              "outlet": "The Wall Street Journal",
-              "region": "us",
-              "lean": "right",
-              "ownership": "private",
               "title": "Opinion | AI Companies Need to Drill, Baby, Drill",
               "url": "https://www.wsj.com/opinion/ai-companies-need-to-drill-baby-drill-3294837c?mod=rss_Technology",
               "published": "2026-08-03T14:10:00+00:00",
@@ -3229,12 +3348,59 @@
       ]
     },
     {
-      "id": 89,
+      "id": 36,
+      "topic": "Technology",
+      "label": "Opinion · Regulate · Follow",
+      "title": "White House finalizes voluntary AI oversight framework",
+      "summary": "The administration is preparing to brief leading AI companies on its blueprint for reviewing advanced AI models.",
+      "score": 2.908,
+      "n_outlets": 2,
+      "n_articles": 2,
+      "regions": [
+        "europe",
+        "us"
+      ],
+      "last_seen": "2026-08-03T19:41:00+00:00",
+      "leans": [
+        "center",
+        "right"
+      ],
+      "sources": [
+        {
+          "outlet": "Politico Europe",
+          "region": "europe",
+          "lean": "center",
+          "ownership": "private",
+          "title": "White House finalizes voluntary AI oversight framework",
+          "url": "https://www.politico.com/news/2026/08/03/white-house-finalizes-voluntary-ai-oversight-framework-01022437?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "published": "2026-08-03T16:49:31+00:00",
+          "orig_title": "White House finalizes voluntary AI oversight framework",
+          "lang": "en",
+          "translated": false,
+          "access": "unknown"
+        },
+        {
+          "outlet": "The Wall Street Journal",
+          "region": "us",
+          "lean": "right",
+          "ownership": "private",
+          "title": "Opinion | To Regulate AI, Follow the Cfius Model",
+          "url": "https://www.wsj.com/opinion/to-regulate-ai-follow-the-cfius-model-93a071b1?mod=rss_Technology",
+          "published": "2026-08-03T19:41:00+00:00",
+          "orig_title": "Opinion | To Regulate AI, Follow the Cfius Model",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall"
+        }
+      ]
+    },
+    {
+      "id": 133,
       "topic": "Technology",
       "label": "Visa · BioCatch · Buy",
       "title": "Visa to Buy Fraud Defense Platform BioCatch in $2.4 Billion Deal",
       "summary": "Visa is acquiring BioCatch, a fraud-reduction platform that uses artificial intelligence , for $2.4 billion in cash.",
-      "score": 2.839,
+      "score": 2.733,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -3276,12 +3442,12 @@
       ]
     },
     {
-      "id": 275,
+      "id": 299,
       "topic": "Technology",
       "label": "DeepSeek · V4-Flash · model",
       "title": "China’s DeepSeek beefs up agentic AI with ‘harness’ tests as V4 model jolts Silicon Valley",
       "summary": "Chinese AI company DeepSeek is inviting open-source developers to test its upcoming “harness” – software designed to turn large language models (LLMs) into AI agents – accelerating a push into agentic",
-      "score": 2.523,
+      "score": 2.457,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -3322,58 +3488,12 @@
       ]
     },
     {
-      "id": 403,
-      "topic": "Technology",
-      "label": "Thai · Suspect · Russian",
-      "title": "Suspect arrested in Russian woman's murder in Serbia; faces over 10 years imprisonment",
-      "summary": "В Сербии арестован гражданин Турции К. Э., подозреваемый в убийстве 28-летней россиянки Людмилы Турковой.",
-      "score": 2.346,
-      "n_outlets": 2,
-      "n_articles": 2,
-      "regions": [
-        "china",
-        "russia"
-      ],
-      "last_seen": "2026-08-03T06:27:58+00:00",
-      "leans": [
-        "center"
-      ],
-      "sources": [
-        {
-          "outlet": "Kommersant",
-          "region": "russia",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Suspect arrested in Russian woman's murder in Serbia; faces over 10 years imprisonment",
-          "url": "https://www.kommersant.ru/doc/8860942",
-          "published": "2026-08-02T13:37:02+00:00",
-          "orig_title": "Арестован подозреваемый в убийстве россиянки в Сербии // Подозреваемому в убийстве россиянки в Сербии грозит более 10 лет",
-          "lang": "ru",
-          "translated": true,
-          "access": "unknown"
-        },
-        {
-          "outlet": "South China Morning Post",
-          "region": "china",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Thai justice system under fire after freed criminal confesses to killing 5",
-          "url": "https://www.scmp.com/week-asia/health-environment/article/3362762/thai-justice-system-under-fire-after-freed-criminal-confesses-killing-5?utm_source=rss_feed",
-          "published": "2026-08-03T06:27:58+00:00",
-          "orig_title": "Thai justice system under fire after freed criminal confesses to killing 5",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        }
-      ]
-    },
-    {
-      "id": 18,
+      "id": 71,
       "topic": "Technology",
       "label": "Former · Tory · Somerset",
       "title": "Former neo-Nazi activist selected as Tory candidate for Somerset council election",
-      "summary": "Joshua Bonehill-Paine, creator of satirical Crewkerne Gazette, has convictions including harassment of a Jewish MP A former neo-Nazi activist with convictions including for harassing a Jewish MP has b",
-      "score": 1.962,
+      "summary": "Joshua Bonehill-Paine, creator of satirical Crewkerne Gazette, has convictions including for harassing a Jewish MP A former neo-Nazi activist with convictions including for harassing a Jewish MP has b",
+      "score": 1.841,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -3400,76 +3520,12 @@
       ]
     },
     {
-      "id": 84,
-      "topic": "Technology",
-      "label": "Prince · Harry · Meghan's",
-      "title": "Prince Harry and Meghan's charitable arm urges Congress to act on AI deepfakes: 'More bills are sitting, waiting'",
-      "summary": "The Duke and Duchess of Sussex are urging lawmakers to act on legislation involving AI deepfakes as their charitable organization, Archewell Philanthropies, calls out Big Tech for what it describes as",
-      "score": 1.845,
-      "n_outlets": 1,
-      "n_articles": 1,
-      "regions": [
-        "us"
-      ],
-      "last_seen": "2026-08-03T17:11:51+00:00",
-      "leans": [
-        "center"
-      ],
-      "sources": [
-        {
-          "outlet": "The Hill",
-          "region": "us",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Prince Harry and Meghan's charitable arm urges Congress to act on AI deepfakes: 'More bills are sitting, waiting'",
-          "url": "https://thehill.com/blogs/in-the-know/6006089-prince-harry-meghans-archewell-ai-deepfakes/",
-          "published": "2026-08-03T17:11:51+00:00",
-          "orig_title": "Prince Harry and Meghan's charitable arm urges Congress to act on AI deepfakes: 'More bills are sitting, waiting'",
-          "lang": "en",
-          "translated": false,
-          "access": "unknown"
-        }
-      ]
-    },
-    {
-      "id": 96,
-      "topic": "Technology",
-      "label": "White · House · finalizes",
-      "title": "White House finalizes voluntary AI oversight framework",
-      "summary": "The administration is preparing to brief leading AI companies on its blueprint for reviewing advanced AI models.",
-      "score": 1.819,
-      "n_outlets": 1,
-      "n_articles": 1,
-      "regions": [
-        "europe"
-      ],
-      "last_seen": "2026-08-03T16:49:31+00:00",
-      "leans": [
-        "center"
-      ],
-      "sources": [
-        {
-          "outlet": "Politico Europe",
-          "region": "europe",
-          "lean": "center",
-          "ownership": "private",
-          "title": "White House finalizes voluntary AI oversight framework",
-          "url": "https://www.politico.com/news/2026/08/03/white-house-finalizes-voluntary-ai-oversight-framework-01022437?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-          "published": "2026-08-03T16:49:31+00:00",
-          "orig_title": "White House finalizes voluntary AI oversight framework",
-          "lang": "en",
-          "translated": false,
-          "access": "unknown"
-        }
-      ]
-    },
-    {
-      "id": 125,
+      "id": 159,
       "topic": "Technology",
       "label": "literature · need · seal",
       "title": "AI in literature: Do we need a seal of quality for human-written books?",
       "summary": "Schriftstellerinnen werden mit KI-Texten erwischt, Cover von Maschinen gestaltet: Die Buchbranche ringt um ihre Haltung zu künstlicher Intelligenz. Schon jetzt durchleuchten Start-ups Manuskripte auf ",
-      "score": 1.778,
+      "score": 1.679,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -3496,12 +3552,12 @@
       ]
     },
     {
-      "id": 145,
+      "id": 177,
       "topic": "Technology",
       "label": "Love · Time · Chatbots",
       "title": "Love in the Time of AI: Chatbots Are Taking Over Online Dating",
       "summary": "Some singles are turning to artificial intelligence-trained matchmakers as they burn out on swiping.",
-      "score": 1.734,
+      "score": 1.641,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -3528,12 +3584,12 @@
       ]
     },
     {
-      "id": 166,
+      "id": 199,
       "topic": "Technology",
       "label": "Kmart · Meta · Australia",
       "title": "Kmart sells out of low-cost rival to Meta camera glasses across Australia amid warnings of ‘privacy nightmare’",
       "summary": "Expert says people face being filmed without their consent as $89 Anko smartglasses sell out in stores and online Get our breaking news email , free app or daily news podcast Kmart has sold out of Ank",
-      "score": 1.704,
+      "score": 1.615,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -3560,38 +3616,260 @@
       ]
     },
     {
-      "id": 92,
-      "topic": "Sports",
-      "label": "Russian · European · first",
-      "title": "Russian synchronized swimmers claim first gold for country at European Championship",
-      "summary": "Российские синхронистки завоевали золотую медаль чемпионата Европы по водным видам спорта в произвольной программе командных соревнований. За свое выступление они получили 285,0346 балла.",
-      "score": 3.833,
-      "n_outlets": 3,
-      "n_articles": 4,
+      "id": 201,
+      "topic": "Technology",
+      "label": "Most · Sydney · Transurban",
+      "title": "Most Sydney road tolls to keep rising after Transurban accused of blocking reforms",
+      "summary": "Handful of tollroads to get one-off price cuts but WestConnex toll to keep rising at least 4% a year Get our breaking news email , free app or daily news podcast The cost of using Sydney’s biggest tol",
+      "score": 1.615,
+      "n_outlets": 1,
+      "n_articles": 1,
       "regions": [
-        "europe",
-        "russia"
+        "europe"
       ],
-      "last_seen": "2026-08-03T17:01:00+00:00",
+      "last_seen": "2026-08-03T15:00:21+00:00",
       "leans": [
-        "center",
-        "left",
-        "state"
+        "left"
       ],
       "sources": [
         {
-          "outlet": "Der Spiegel",
+          "outlet": "The Guardian",
           "region": "europe",
           "lean": "left",
           "ownership": "private",
-          "title": "Ultra Baltic Swim: Bartlomiej Kubkowski first to swim 160 kilometers across Baltic Sea",
-          "url": "https://www.spiegel.de/sport/ultra-baltic-swim-bartlomiej-kubkowski-schwimmt-als-erster-160-kilometer-durch-die-ostsee-a-5020ed3a-0295-4ddd-9577-b3c533ac46db#ref=rss",
-          "published": "2026-08-03T17:01:00+00:00",
-          "orig_title": "Ultra Baltic Swim: Bartlomiej Kubkowski schwimmt als Erster 160 Kilometer durch die Ostsee",
+          "title": "Most Sydney road tolls to keep rising after Transurban accused of blocking reforms",
+          "url": "https://www.theguardian.com/australia-news/2026/aug/03/most-sydney-road-tolls-to-keep-rising-after-transurban-accused-of-blocking-reforms",
+          "published": "2026-08-03T15:00:21+00:00",
+          "orig_title": "Most Sydney road tolls to keep rising after Transurban accused of blocking reforms",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 202,
+      "topic": "Technology",
+      "label": "Alan · Jones · argues",
+      "title": "Alan Jones argues ‘rivalry’ and ‘treachery’ but after decades wielding the sword of public opinion, he’s the one on trial",
+      "summary": "His legal strategy was apparent from the very first. Jones will, it was explicitly stated, seek to undermine the ‘credibility and reliability’ of his accusers Get our breaking news email , free app or",
+      "score": 1.615,
+      "n_outlets": 1,
+      "n_articles": 1,
+      "regions": [
+        "europe"
+      ],
+      "last_seen": "2026-08-03T15:00:21+00:00",
+      "leans": [
+        "left"
+      ],
+      "sources": [
+        {
+          "outlet": "The Guardian",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Alan Jones argues ‘rivalry’ and ‘treachery’ but after decades wielding the sword of public opinion, he’s the one on trial",
+          "url": "https://www.theguardian.com/media/2026/aug/04/alan-jones-trial-analysis-ntwnfb",
+          "published": "2026-08-03T15:00:21+00:00",
+          "orig_title": "Alan Jones argues ‘rivalry’ and ‘treachery’ but after decades wielding the sword of public opinion, he’s the one on trial",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "topic": "Sports",
+      "label": "Infantino · FIFA · Wales",
+      "title": "UEFA threatens Infantino with lawsuit over World Cup rights sale plans",
+      "summary": "Союз европейских футбольных ассоциаций (UEFA) направил письмо президенту Международной федерации футбола (FIFA) Джанни Инфантино, в котором заявил о готовности подать в суд из-за предложения о продаже",
+      "score": 6.964,
+      "n_outlets": 6,
+      "n_articles": 11,
+      "regions": [
+        "europe",
+        "india",
+        "russia",
+        "south_america"
+      ],
+      "last_seen": "2026-08-03T20:24:00+00:00",
+      "leans": [
+        "center",
+        "left",
+        "right"
+      ],
+      "sources": [
+        {
+          "outlet": "El Pais",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Football isn't being privatized (this time)",
+          "url": "https://elpais.com/deportes/futbol/2026-08-03/el-futbol-no-se-privatiza-esta-vez.html",
+          "published": "2026-08-03T03:30:01+00:00",
+          "orig_title": "El fútbol no se privatiza (esta vez)",
+          "lang": "es",
+          "translated": true,
+          "access": "unknown",
+          "more": [
+            {
+              "outlet": "El Pais",
+              "region": "europe",
+              "lean": "left",
+              "ownership": "private",
+              "title": "Infantino, football's pope, is faltering",
+              "url": "https://elpais.com/deportes/futbol/2026-08-03/infantino-el-papa-del-futbol-se-tambalea.html",
+              "published": "2026-08-03T03:30:01+00:00",
+              "orig_title": "Infantino, el papa del fútbol se tambalea",
+              "lang": "es",
+              "translated": true,
+              "access": "unknown"
+            }
+          ]
+        },
+        {
+          "outlet": "BBC News",
+          "region": "europe",
+          "lean": "center",
+          "ownership": "public",
+          "title": "Infantino opponents threaten 'non co-operation' with Fifa",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cp30vg829nxo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-03T07:49:33+00:00",
+          "orig_title": "Infantino opponents threaten 'non co-operation' with Fifa",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "Kommersant",
+          "region": "russia",
+          "lean": "center",
+          "ownership": "private",
+          "title": "UEFA threatens Infantino with lawsuit over World Cup rights sale plans",
+          "url": "https://www.kommersant.ru/doc/8861354",
+          "published": "2026-08-03T09:18:04+00:00",
+          "orig_title": "UEFA пригрозил Инфантино судебным иском из-за планов продать права на ЧМ",
+          "lang": "ru",
+          "translated": true,
+          "access": "unknown",
+          "more": [
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "NYP: Infantino hopes to keep FIFA presidency with White House support",
+              "url": "https://www.kommersant.ru/doc/8861520",
+              "published": "2026-08-03T11:52:15+00:00",
+              "orig_title": "NYP: Инфантино надеется сохранить пост президента FIFA при содействии Белого дома",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Wales first to withdraw support for Infantino's FIFA presidency bid",
+              "url": "https://www.kommersant.ru/doc/8861382",
+              "published": "2026-08-03T09:50:41+00:00",
+              "orig_title": "Уэльс первым отозвал поддержку кандидатуры Инфантино на пост главы FIFA",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "FIFA president faces removal over commercial ventures",
+              "url": "https://www.kommersant.ru/doc/8861009",
+              "published": "2026-08-02T16:04:34+00:00",
+              "orig_title": "Президент FIFA может лишиться должности из-за своих коммерческих проектов",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            }
+          ]
+        },
+        {
+          "outlet": "MercoPress",
+          "region": "south_america",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Infantino opponents threaten non-cooperation with FIFA unless he resigns",
+          "url": "https://en.mercopress.com/2026/08/03/infantino-opponents-threaten-non-cooperation-with-fifa-unless-he-resigns?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+          "published": "2026-08-03T20:24:00+00:00",
+          "orig_title": "Infantino opponents threaten non-cooperation with FIFA unless he resigns",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "Times of India",
+          "region": "india",
+          "lean": "center",
+          "ownership": "private",
+          "title": "World Cup rights row: Wales withdraw support for Infantino's re-election bid",
+          "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/world-cup-rights-gamble-backfires-wales-withdraw-support-for-infantinos-fifa-re-election-bid/articleshow/132827083.cms",
+          "published": "2026-08-03T09:56:48+00:00",
+          "orig_title": "World Cup rights row: Wales withdraw support for Infantino's re-election bid",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "Die Welt",
+          "region": "europe",
+          "lean": "right",
+          "ownership": "private",
+          "title": "England and Wales also withdraw support from Infantino",
+          "url": "https://www.welt.de/videos/video6a70d368cc46967c04cadcea/machtverlust-bei-fifa-auch-england-und-wales-entziehen-infantino-die-unterstuetzung.html",
+          "published": "2026-08-03T18:39:34+00:00",
+          "orig_title": "Auch England und Wales entziehen Infantino die Unterstützung",
           "lang": "de",
           "translated": true,
-          "access": "unknown"
-        },
+          "access": "unknown",
+          "more": [
+            {
+              "outlet": "Die Welt",
+              "region": "europe",
+              "lean": "right",
+              "ownership": "private",
+              "title": "Infantino visibly pleads for support at White House",
+              "url": "https://www.welt.de/sport/fussball/wm/article6a709a95935ebc37ca9d44de/fifa-praesident-infantino-bettelt-offensichtlich-im-weissen-haus-nach-unterstuetzung.html",
+              "published": "2026-08-03T15:02:21+00:00",
+              "orig_title": "Infantino bettelt offensichtlich im Weißen Haus nach Unterstützung",
+              "lang": "de",
+              "translated": true,
+              "access": "unknown"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "topic": "Sports",
+      "label": "Russian · European · Aquatics",
+      "title": "Russian synchronized swimmers claim first gold for country at European Championship",
+      "summary": "Российские синхронистки завоевали золотую медаль чемпионата Европы по водным видам спорта в произвольной программе командных соревнований. За свое выступление они получили 285,0346 балла.",
+      "score": 2.91,
+      "n_outlets": 2,
+      "n_articles": 5,
+      "regions": [
+        "russia"
+      ],
+      "last_seen": "2026-08-03T19:42:42+00:00",
+      "leans": [
+        "center",
+        "state"
+      ],
+      "sources": [
         {
           "outlet": "Kommersant",
           "region": "russia",
@@ -3631,76 +3909,30 @@
           "orig_title": "Russian synchronized swimmers win their first gold at European Aquatics Championships",
           "lang": "en",
           "translated": false,
-          "access": "open"
-        }
-      ]
-    },
-    {
-      "id": 82,
-      "topic": "Sports",
-      "label": "CWG · India's · Glasgow",
-      "title": "Over to Ahmedabad! Neeraj Chopra receives CWG flag as 2030 countdown begins",
-      "summary": "Glasgow hosted the 2026 Commonwealth Games, concluding with India receiving the hosting rights for 2030. India finished fourth in the medal standings with 39 medals. The closing ceremony showcased Ind",
-      "score": 2.854,
-      "n_outlets": 2,
-      "n_articles": 4,
-      "regions": [
-        "africa",
-        "india"
-      ],
-      "last_seen": "2026-08-03T17:19:40+00:00",
-      "leans": [
-        "center"
-      ],
-      "sources": [
-        {
-          "outlet": "Premium Times",
-          "region": "africa",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Glasgow 2026: Australian High Commission congratulates Team Nigeria on historic campaign",
-          "url": "https://www.premiumtimesng.com/foreign/900441-glasgow-2026-australian-high-commission-congratulates-team-nigeria-on-historic-campaign.html",
-          "published": "2026-08-03T17:19:40+00:00",
-          "orig_title": "Glasgow 2026: Australian High Commission congratulates Team Nigeria on historic campaign",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "Times of India",
-          "region": "india",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Over to Ahmedabad! Neeraj Chopra receives CWG flag as 2030 countdown begins",
-          "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/over-to-ahmedabad-neeraj-chopra-pt-usha-receive-cwg-flag-as-indias-countdown-to-historic-2030-commonwealth-games-begins/articleshow/132816110.cms",
-          "published": "2026-08-03T01:16:44+00:00",
-          "orig_title": "Over to Ahmedabad! Neeraj Chopra receives CWG flag as 2030 countdown begins",
-          "lang": "en",
-          "translated": false,
           "access": "open",
           "more": [
             {
-              "outlet": "Times of India",
-              "region": "india",
-              "lean": "center",
-              "ownership": "private",
-              "title": "India at CWG 2026: Complete list of India's medal winners and sport-wise medal tally",
-              "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/india-at-commonwealth-games-2026-complete-list-of-indias-medal-winners-and-sport-wise-medal-tally/articleshow/132819603.cms",
-              "published": "2026-08-03T05:58:24+00:00",
-              "orig_title": "India at CWG 2026: Complete list of India's medal winners and sport-wise medal tally",
+              "outlet": "TASS",
+              "region": "russia",
+              "lean": "state",
+              "ownership": "state",
+              "title": "Russian divers win silver at 2026 European Aquatics Championships",
+              "url": "https://tass.com/sports/2168581",
+              "published": "2026-08-03T19:42:42+00:00",
+              "orig_title": "Russian divers win silver at 2026 European Aquatics Championships",
               "lang": "en",
               "translated": false,
               "access": "open"
             },
             {
-              "outlet": "Times of India",
-              "region": "india",
-              "lean": "center",
-              "ownership": "private",
-              "title": "'Displayed exceptional skill, determination': PM Modi hails India's CWG heroes",
-              "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/displayed-exceptional-skill-determination-and-dedication-pm-modi-hails-indias-glasgow-cwg-heroes/articleshow/132818699.cms",
-              "published": "2026-08-03T04:28:17+00:00",
-              "orig_title": "'Displayed exceptional skill, determination': PM Modi hails India's CWG heroes",
+              "outlet": "TASS",
+              "region": "russia",
+              "lean": "state",
+              "ownership": "state",
+              "title": "ISU clears two more Russian figure skaters to compete as neutrals internationally",
+              "url": "https://tass.com/sports/2168397",
+              "published": "2026-08-03T10:46:35+00:00",
+              "orig_title": "ISU clears two more Russian figure skaters to compete as neutrals internationally",
               "lang": "en",
               "translated": false,
               "access": "open"
@@ -3710,12 +3942,12 @@
       ]
     },
     {
-      "id": 191,
+      "id": 224,
       "topic": "Sports",
       "label": "Mauricio · Pochettino · U.S.",
       "title": "Mauricio Pochettino to continue leading US men's soccer team through 2030",
       "summary": "Федерация футбола США (US Soccer)и главный тренер сборной Маурисио Почеттино договорились о новом контракте, рассчитанном до конца чемпионата мира 2030 года. Об этом сообщила пресс-служба организации.",
-      "score": 2.652,
+      "score": 2.57,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -3757,12 +3989,12 @@
       ]
     },
     {
-      "id": 455,
+      "id": 466,
       "topic": "Sports",
       "label": "Luke · Bateman · gambling",
       "title": "Ex-NRL player alleges gambling staff offered drugs as he lost thousands",
       "summary": "Luke Bateman says gambling company employees unofficially offered him illicit drugs in order to cultivate a relationship with him when he was high-spend punter.",
-      "score": 2.265,
+      "score": 2.232,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -3803,45 +4035,31 @@
       ]
     },
     {
-      "id": 456,
+      "id": 7,
       "topic": "Sports",
-      "label": "US-Iranian · conflict · Russian",
-      "title": "US-Iranian conflict likely to be over by year end — Russian senator",
-      "summary": "Grigory Karasin added that Middle Eastern countries are not comfortable living in a confrontation",
-      "score": 2.264,
-      "n_outlets": 2,
-      "n_articles": 2,
+      "label": "Former · Guardian · Anietie",
+      "title": "Former deputy bureau chief of The Guardian, Anietie Akpan, dies",
+      "summary": "A career defined by resilience and public service ends as veteran journalist Anietie Akpan dies, drawing tributes from colleagues who remember his unwavering commitment to the profession even in illne",
+      "score": 1.968,
+      "n_outlets": 1,
+      "n_articles": 1,
       "regions": [
-        "russia"
+        "africa"
       ],
-      "last_seen": "2026-08-03T03:14:44+00:00",
+      "last_seen": "2026-08-03T20:26:50+00:00",
       "leans": [
-        "center",
-        "state"
+        "center"
       ],
       "sources": [
         {
-          "outlet": "Kommersant",
-          "region": "russia",
+          "outlet": "Premium Times",
+          "region": "africa",
           "lean": "center",
           "ownership": "private",
-          "title": "Iran's foreign minister discusses Middle East conflict with three countries",
-          "url": "https://www.kommersant.ru/doc/8861074",
-          "published": "2026-08-03T01:21:36+00:00",
-          "orig_title": "Глава МИД Ирана обсудил конфликт на Ближнем Востоке с властями трех стран",
-          "lang": "ru",
-          "translated": true,
-          "access": "unknown"
-        },
-        {
-          "outlet": "TASS",
-          "region": "russia",
-          "lean": "state",
-          "ownership": "state",
-          "title": "US-Iranian conflict likely to be over by year end — Russian senator",
-          "url": "https://tass.com/politics/2168229",
-          "published": "2026-08-03T03:14:44+00:00",
-          "orig_title": "US-Iranian conflict likely to be over by year end — Russian senator",
+          "title": "Former deputy bureau chief of The Guardian, Anietie Akpan, dies",
+          "url": "https://www.premiumtimesng.com/news/top-news/900480-former-deputy-bureau-chief-of-the-guardian-anietie-akpan-dies.html",
+          "published": "2026-08-03T20:26:50+00:00",
+          "orig_title": "Former deputy bureau chief of The Guardian, Anietie Akpan, dies",
           "lang": "en",
           "translated": false,
           "access": "open"
@@ -3849,12 +4067,12 @@
       ]
     },
     {
-      "id": 22,
+      "id": 74,
       "topic": "Sports",
       "label": "Navy · Cross · River",
       "title": "Navy dismantles militants’ hideout in Cross River’s coastal settlement",
       "summary": "“NNS VICTORY patrol gunboats stormed the settlement, cordoned the area and conducted a thorough search of identified huts where intelligence indicated the militants were residing.” The post Navy disma",
-      "score": 1.961,
+      "score": 1.839,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -3881,12 +4099,12 @@
       ]
     },
     {
-      "id": 33,
+      "id": 82,
       "topic": "Sports",
       "label": "Baumann · Nagelsmann · call",
       "title": "Baumann on Nagelsmann call: \"not condescending or know-it-all\"",
       "summary": "Kurz vor der Fußball-Weltmeisterschaft bootet Bundestrainer Julian Nagelsmann seinen Torhüter aus. Nun spricht Oliver Baumann über die unfassbare Degradierung durch den inzwischen demissionierten Coac",
-      "score": 1.942,
+      "score": 1.823,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -3913,12 +4131,12 @@
       ]
     },
     {
-      "id": 75,
+      "id": 122,
       "topic": "Sports",
       "label": "Auqib · Nabi · How",
       "title": "'No excuses if you want to play for India': The philosophy that shaped Auqib Nabi",
       "summary": "On Monday, Jammu and Kashmir seamer Auqib Nabi replaced injured Jasprit Bumrah in the India squad for the upcoming two-match Test tour of Sri Lanka. With his maiden call-up to the senior national team",
-      "score": 1.866,
+      "score": 1.757,
       "n_outlets": 1,
       "n_articles": 5,
       "regions": [
@@ -3999,12 +4217,12 @@
       ]
     },
     {
-      "id": 76,
+      "id": 123,
       "topic": "Sports",
       "label": "CDU · Barei · politician",
       "title": "CDU politician Bareiß loses license—synthetic drug found in blood",
       "summary": "Bei einem Autounfall im Juli wurde der CDU-Politiker Thomas Bareiß schwer verletzt. Nun teilte die Polizei mit, dass der Abgeordnete den Vorfall möglicherweise selbst verursacht habe – unter Einfluss ",
-      "score": 1.865,
+      "score": 1.756,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -4031,12 +4249,12 @@
       ]
     },
     {
-      "id": 78,
+      "id": 125,
       "topic": "Sports",
       "label": "Rohit · Sharma · Dilip",
       "title": "'You created magic': Rohit Sharma hails T Dilip as India replace fielding coach",
       "summary": "'You created magic': Rohit Sharma hails T Dilip as India replace fielding coach",
-      "score": 1.863,
+      "score": 1.754,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
