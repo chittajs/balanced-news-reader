@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T21:55:11.030175+00:00",
+  "generated_at": "2026-08-05T23:11:26.906467+00:00",
   "topics": [
     "World & Politics",
     "Economics",
@@ -14,42 +14,42 @@
       "name": "United States",
       "lat": 39.0,
       "lng": -98.0,
-      "count": 34
+      "count": 31
     },
     {
       "id": "europe",
       "name": "Europe",
       "lat": 50.0,
       "lng": 10.0,
-      "count": 29
+      "count": 32
     },
     {
       "id": "china",
       "name": "China",
       "lat": 35.0,
       "lng": 105.0,
-      "count": 13
+      "count": 14
     },
     {
       "id": "india",
       "name": "India",
       "lat": 22.0,
       "lng": 79.0,
-      "count": 12
+      "count": 10
     },
     {
       "id": "australia",
       "name": "Australia",
       "lat": -25.0,
       "lng": 134.0,
-      "count": 4
+      "count": 5
     },
     {
       "id": "south_america",
       "name": "South America",
       "lat": -12.0,
       "lng": -58.0,
-      "count": 3
+      "count": 7
     },
     {
       "id": "africa",
@@ -75,22 +75,23 @@
   ],
   "clusters": [
     {
-      "id": 49,
+      "id": 13,
       "topic": "World & Politics",
-      "label": "Leipzig · German · Ukrainian",
-      "title": "Germany narrowly avoids disaster after explosive-laden drone found at Leipzig airport",
-      "summary": "L’appareil, qui n’a pas explosé à cause d’un souci technique, «n’est pas l’œuvre d’amateurs», selon le ministre allemand de l’Intérieur Alexander Dobrindt. L’aéroport de Leipzig est devenu l’un des si",
-      "score": 13.921,
-      "n_outlets": 13,
-      "n_articles": 21,
+      "label": "drone · Leipzig · German",
+      "title": "Drone with explosives found near Ukrainian aircraft at Leipzig airport",
+      "summary": "В аэропорту Лейпцига обнаружили беспилотник рядом с украинским самолетом. Источники агентства DPA в службах безопасности сообщили, что аппарат был оснащен взрывчатым веществом и детонатором.",
+      "score": 14.95,
+      "n_outlets": 14,
+      "n_articles": 28,
       "regions": [
         "australia",
         "china",
         "europe",
         "japan",
-        "russia"
+        "russia",
+        "us"
       ],
-      "last_seen": "2026-08-05T20:56:06+00:00",
+      "last_seen": "2026-08-05T22:34:48+00:00",
       "leans": [
         "center",
         "left",
@@ -192,6 +193,19 @@
           "access": "unknown"
         },
         {
+          "outlet": "The New York Times",
+          "region": "us",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Explosive Drone Found at German Airport Used by Ukrainian Carrier",
+          "url": "https://www.nytimes.com/2026/08/05/world/europe/germany-explosive-drone-airport.html",
+          "published": "2026-08-05T21:58:57+00:00",
+          "orig_title": "Explosive Drone Found at German Airport Used by Ukrainian Carrier",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall"
+        },
+        {
           "outlet": "BBC News",
           "region": "europe",
           "lean": "center",
@@ -222,10 +236,101 @@
               "region": "russia",
               "lean": "center",
               "ownership": "private",
+              "title": "Explosives from recovered drone neutralized at Leipzig airport",
+              "url": "https://www.kommersant.ru/doc/8863540",
+              "published": "2026-08-05T22:01:58+00:00",
+              "orig_title": "В аэропорту Лейпцига обезвредили взрывчатку с найденного беспилотника",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
               "title": "Drone spotted above Leipzig airport",
               "url": "https://www.kommersant.ru/doc/8862815",
               "published": "2026-08-05T06:53:36+00:00",
               "orig_title": "Над аэропортом Лейпцига заметили беспилотник",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Three drones shot down near Moscow",
+              "url": "https://www.kommersant.ru/doc/8863554",
+              "published": "2026-08-05T22:34:48+00:00",
+              "orig_title": "Вблизи Москвы сбиты три беспилотника",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "One killed, six wounded in drone attack on Kursk region",
+              "url": "https://www.kommersant.ru/doc/8863539",
+              "published": "2026-08-05T21:07:50+00:00",
+              "orig_title": "Один человек погиб и шесть пострадали при атаке БПЛА в Курской области",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Industrial zone fire in Ufa sparked by drone attack",
+              "url": "https://www.kommersant.ru/doc/8862926",
+              "published": "2026-08-05T08:35:19+00:00",
+              "orig_title": "В промзоне Уфы начался пожар из-за атаки беспилотников",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Two wounded in drone attacks on Belgorod region",
+              "url": "https://www.kommersant.ru/doc/8863530",
+              "published": "2026-08-05T20:21:40+00:00",
+              "orig_title": "Два человека пострадали при атаках БПЛА в Белгородской области",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Drone attack on military airbases case transferred to prosecutor general",
+              "url": "https://www.kommersant.ru/doc/8863195",
+              "published": "2026-08-05T12:41:17+00:00",
+              "orig_title": "Дело об атаке БПЛА на военные аэродромы передали в Генпрокуратуру",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Drone debris damages private home near Anapa",
+              "url": "https://www.kommersant.ru/doc/8863520",
+              "published": "2026-08-05T19:09:40+00:00",
+              "orig_title": "Обломки беспилотника повредили частный дом под Анапой",
               "lang": "ru",
               "translated": true,
               "access": "unknown"
@@ -322,32 +427,6 @@
               "lang": "de",
               "translated": true,
               "access": "unknown"
-            },
-            {
-              "outlet": "Die Welt",
-              "region": "europe",
-              "lean": "right",
-              "ownership": "private",
-              "title": "This was definitely a sabotage act",
-              "url": "https://www.welt.de/politik/deutschland/video6a7379b8cc46967c04caff32/drohnenfund-in-leipzig-das-war-definitiv-ein-sabotageakt.html",
-              "published": "2026-08-05T18:39:15+00:00",
-              "orig_title": "„Das war definitiv ein Sabotageakt“",
-              "lang": "de",
-              "translated": true,
-              "access": "unknown"
-            },
-            {
-              "outlet": "Die Welt",
-              "region": "europe",
-              "lean": "right",
-              "ownership": "private",
-              "title": "This can already be seen as a kind of escalation",
-              "url": "https://www.welt.de/vermischtes/video6a7346a4cc46967c04cafc85/drohnenfund-in-leipzig-man-kann-dies-schon-als-einer-art-eskalation-sehen.html",
-              "published": "2026-08-05T17:36:39+00:00",
-              "orig_title": "„Man kann dies schon als einer Art Eskalation sehen“",
-              "lang": "de",
-              "translated": true,
-              "access": "unknown"
             }
           ]
         },
@@ -369,10 +448,10 @@
           "region": "russia",
           "lean": "state",
           "ownership": "state",
-          "title": "NATO confirms discovery of UAV near Ukrainian aircraft at Leipzig airport — news agency",
-          "url": "https://tass.com/world/2169167",
-          "published": "2026-08-05T09:29:55+00:00",
-          "orig_title": "NATO confirms discovery of UAV near Ukrainian aircraft at Leipzig airport — news agency",
+          "title": "Ukrainian drone kills man in Kursk Region — governor",
+          "url": "https://tass.com/emergencies/2169453",
+          "published": "2026-08-05T20:00:39+00:00",
+          "orig_title": "Ukrainian drone kills man in Kursk Region — governor",
           "lang": "en",
           "translated": false,
           "access": "open"
@@ -380,14 +459,14 @@
       ]
     },
     {
-      "id": 3,
+      "id": 48,
       "topic": "World & Politics",
       "label": "Ukraine · Russian · Kyiv",
-      "title": "Russia’s Deadly Missile Attack on Kyiv Exploits Ukraine’s Depleted Air Defenses",
-      "summary": "At least 17 people were killed, officials said, as the country runs desperately low on interceptor missiles that could fend off Russian bombardments.",
-      "score": 11.98,
-      "n_outlets": 11,
-      "n_articles": 17,
+      "title": "Russian strikes kill 17 in Kyiv region as Ukraine fails to stop missiles",
+      "summary": "Russian missile and drone strikes killed at least 17 people and wounded dozens more in Kyiv and the surrounding region overnight, authorities said Wednesday. Kyiv was unable to shoot down any of the m",
+      "score": 12.882,
+      "n_outlets": 12,
+      "n_articles": 19,
       "regions": [
         "china",
         "europe",
@@ -416,6 +495,19 @@
           "lang": "en",
           "translated": false,
           "access": "open"
+        },
+        {
+          "outlet": "Novaya Gazeta Europe",
+          "region": "russia",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Russian forces attack Kyiv and region with missiles and drones; at least 17 killed",
+          "url": "https://novayagazeta.eu/articles/2026/08/05/rossiiskie-voiska-atakovali-kiev-i-oblast-raketami-i-dronami-pogibli-kak-minimum-17-chelovek-news",
+          "published": "2026-08-05T07:20:41+00:00",
+          "orig_title": "Российские войска атаковали Киев и область ракетами и дронами. Погибли как минимум 17 человек",
+          "lang": "ru",
+          "translated": true,
+          "access": "unknown"
         },
         {
           "outlet": "The Guardian",
@@ -452,6 +544,19 @@
               "url": "https://www.thehindu.com/news/international/russian-missile-drone-barrage-in-kyiv-kills-several-august-5-2026/article71308514.ece",
               "published": "2026-08-05T07:21:55+00:00",
               "orig_title": "Russian missile and drone barrage in Ukrainian capital region kills 15",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            },
+            {
+              "outlet": "The Hindu",
+              "region": "india",
+              "lean": "left",
+              "ownership": "private",
+              "title": "Russian and Ukrainian drone strikes kill at least 5 in each country",
+              "url": "https://www.thehindu.com/news/international/russian-and-ukrainian-drone-strikes-kill-at-least-5-in-each-country/article71306871.ece",
+              "published": "2026-08-04T17:41:18+00:00",
+              "orig_title": "Russian and Ukrainian drone strikes kill at least 5 in each country",
               "lang": "en",
               "translated": false,
               "access": "open"
@@ -638,12 +743,212 @@
       ]
     },
     {
-      "id": 23,
+      "id": 63,
+      "topic": "World & Politics",
+      "label": "Ceuta · migrants · Migration",
+      "title": "Ceuta migrant surge exposes Spain-Morocco tensions as Islamist groups reportedly seek to exploit border crisis",
+      "summary": "Spain reports 72 deaths as the Ceuta migrant crisis deepens, with intelligence officials saying Morocco allowed border controls to gradually relax.",
+      "score": 10.864,
+      "n_outlets": 10,
+      "n_articles": 13,
+      "regions": [
+        "europe",
+        "india",
+        "russia",
+        "us"
+      ],
+      "last_seen": "2026-08-05T21:26:11+00:00",
+      "leans": [
+        "center",
+        "left",
+        "right",
+        "state"
+      ],
+      "sources": [
+        {
+          "outlet": "Der Spiegel",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Migration crisis in Ceuta: They swam over bodies and want to try again",
+          "url": "https://www.spiegel.de/ausland/migrationskrise-in-ceuta-sie-schwammen-ueber-leichen-und-wollen-es-wieder-versuchen-a-24bdf72d-6fee-4dd3-b8b0-532f82745794#ref=rss",
+          "published": "2026-08-05T18:41:00+00:00",
+          "orig_title": "Migrationskrise in Ceuta: Sie schwammen über Leichen – und wollen es wieder versuchen",
+          "lang": "de",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
+          "outlet": "El Pais",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Trampolín Beach: open-air refuge for hundreds of sub-Saharan migrants seeking asylum",
+          "url": "https://elpais.com/espana/2026-08-05/playa-de-trampolin-el-refugio-a-sol-abierto-para-centenares-de-subsaharianos-en-busca-de-asilo.html",
+          "published": "2026-08-05T03:30:01+00:00",
+          "orig_title": "Playa de Trampolín: el refugio a sol abierto para centenares de subsaharianos que resisten en busca de asilo",
+          "lang": "es",
+          "translated": true,
+          "access": "unknown",
+          "more": [
+            {
+              "outlet": "El Pais",
+              "region": "europe",
+              "lean": "left",
+              "ownership": "private",
+              "title": "TPS for Haitian migrants officially ends: 350,000 migrants at risk of deportation",
+              "url": "https://elpais.com/us/migracion/2026-08-05/el-fin-del-tps-para-los-haitianos-ya-es-oficial-350000-migrantes-quedan-en-riesgo-de-deportacion.html",
+              "published": "2026-08-05T18:51:28+00:00",
+              "orig_title": "El fin del TPS para los haitianos ya es oficial: 350.000 migrantes quedan en riesgo de deportación",
+              "lang": "es",
+              "translated": true,
+              "access": "unknown"
+            }
+          ]
+        },
+        {
+          "outlet": "The Guardian",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Wednesday briefing: ​How misinformation and ​a​ hardened immigration policy ​turned Ceuta ​into Europe’s ​latest ​flashpoint",
+          "url": "https://www.theguardian.com/world/2026/aug/05/wednesday-briefing-how-misinformation-and-a-hardened-immigration-policy-turned-ceuta-into-europes-latest-flashpoint",
+          "published": "2026-08-05T05:54:54+00:00",
+          "orig_title": "Wednesday briefing: ​How misinformation and ​a​ hardened immigration policy ​turned Ceuta ​into Europe’s ​latest ​flashpoint",
+          "lang": "en",
+          "translated": false,
+          "access": "open",
+          "more": [
+            {
+              "outlet": "The Guardian",
+              "region": "europe",
+              "lean": "left",
+              "ownership": "private",
+              "title": "Hundreds in Morocco gather near Ceuta border in anxious wait for missing loved ones",
+              "url": "https://www.theguardian.com/world/2026/aug/05/hundreds-in-morocco-gather-near-ceuta-border-in-anxious-wait-for-missing-loved-ones",
+              "published": "2026-08-05T04:00:08+00:00",
+              "orig_title": "Hundreds in Morocco gather near Ceuta border in anxious wait for missing loved ones",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            }
+          ]
+        },
+        {
+          "outlet": "The Hindu",
+          "region": "india",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Spain's Ceuta seeks transfer of unaccompanied migrant minors to mainland Spain after border rush",
+          "url": "https://www.thehindu.com/news/international/spains-ceuta-seeks-transfer-of-unaccompanied-migrant-minors-to-mainland-spain-after-border-rush/article71311034.ece",
+          "published": "2026-08-05T21:26:11+00:00",
+          "orig_title": "Spain's Ceuta seeks transfer of unaccompanied migrant minors to mainland Spain after border rush",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "The New York Times",
+          "region": "us",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Migrant Crisis Reveals Vast Differences Between Ceuta and Its Moroccan Neighbor",
+          "url": "https://www.nytimes.com/2026/08/05/world/europe/ceuta-spain-fnideq-morocco-migration.html",
+          "published": "2026-08-05T13:09:18+00:00",
+          "orig_title": "Migrant Crisis Reveals Vast Differences Between Ceuta and Its Moroccan Neighbor",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall"
+        },
+        {
+          "outlet": "Kommersant",
+          "region": "russia",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Spanish Interior Ministry: 2,000 migrants remain in Ceuta",
+          "url": "https://www.kommersant.ru/doc/8862402",
+          "published": "2026-08-04T13:18:57+00:00",
+          "orig_title": "МВД Испании: в Сеуте осталось 2 тыс. мигрантов",
+          "lang": "ru",
+          "translated": true,
+          "access": "unknown",
+          "more": [
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "The Times: migrants stranded in Ceuta denied food and water",
+              "url": "https://www.kommersant.ru/doc/8862342",
+              "published": "2026-08-04T12:27:33+00:00",
+              "orig_title": "The Times: оставшимся в Сеуте мигрантам не дают пищи и воды",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            }
+          ]
+        },
+        {
+          "outlet": "Die Welt",
+          "region": "europe",
+          "lean": "right",
+          "ownership": "private",
+          "title": "Emergency services and NGOs still estimate migrants in Ceuta at up to 7,000",
+          "url": "https://www.welt.de/politik/ausland/article6a6bb459dd06dd5ef2e3fe60/ceuta-notdienst-und-ngo-schaetzen-zahl-der-migranten-noch-immer-auf-bis-zu-7000.html",
+          "published": "2026-08-05T17:12:00+00:00",
+          "orig_title": "Notdienst und NGO schätzen Zahl der Migranten in Ceuta noch immer auf bis zu 7000",
+          "lang": "de",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
+          "outlet": "Fox News",
+          "region": "us",
+          "lean": "right",
+          "ownership": "private",
+          "title": "Ceuta migrant surge exposes Spain-Morocco tensions as Islamist groups reportedly seek to exploit border crisis",
+          "url": "https://www.foxnews.com/world/ceuta-migrant-surge-exposes-spain-morocco-tensions-islamist-groups-reportedly-seek-exploit-border-crisis",
+          "published": "2026-08-04T14:44:14+00:00",
+          "orig_title": "Ceuta migrant surge exposes Spain-Morocco tensions as Islamist groups reportedly seek to exploit border crisis",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "Le Figaro",
+          "region": "europe",
+          "lean": "right",
+          "ownership": "private",
+          "title": "Migration is a European challenge requiring a European response: EU reaffirms solidarity after Ceuta crisis",
+          "url": "https://www.lefigaro.fr/international/la-migration-est-un-defi-europeen-qui-necessite-une-reponse-europeenne-apres-la-crise-de-ceuta-les-vingt-sept-affirment-leur-solidarite-20260804",
+          "published": "2026-08-04T20:42:06+00:00",
+          "orig_title": "« La migration est un défi européen qui nécessite une réponse européenne » : après la crise de Ceuta, les Vingt-Sept affirment leur solidarité",
+          "lang": "fr",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
+          "outlet": "TASS",
+          "region": "russia",
+          "lean": "state",
+          "ownership": "state",
+          "title": "Illegal migrant inflow to Ceuta by land up 164% vs 2025 before crisis erupted",
+          "url": "https://tass.com/world/2169341",
+          "published": "2026-08-05T14:29:32+00:00",
+          "orig_title": "Illegal migrant inflow to Ceuta by land up 164% vs 2025 before crisis erupted",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 67,
       "topic": "World & Politics",
       "label": "Hormuz · Iran · Oman",
       "title": "Iran and Oman agree on new Hormuz route, Tehran says",
       "summary": "Iran and Oman have agreed a route for ships transiting the Strait of Hormuz and are putting the final touches on arrangements for jointly managing the passage, Tehran’s foreign ministry said on Wednes",
-      "score": 10.955,
+      "score": 10.859,
       "n_outlets": 10,
       "n_articles": 23,
       "regions": [
@@ -976,21 +1281,23 @@
       ]
     },
     {
-      "id": 33,
+      "id": 39,
       "topic": "World & Politics",
-      "label": "El-Sayed · Abdul · Michigan",
-      "title": "Progressive Abdul El-Sayed wins Michigan primary in jolt to Democrats",
-      "summary": "The Democratic Party’s progressive ⁠wing scored a high-profile victory on Wednesday when Abdul El-Sayed won the party’s US Senate nomination ⁠in Michigan, giving its anti-establishment message a boost",
-      "score": 9.942,
-      "n_outlets": 9,
-      "n_articles": 13,
+      "label": "Brazil · Argentina · Milei's",
+      "title": "Brazil confirms ambassador will not return to Argentina until Milei stops repeated insults and aggression",
+      "summary": "El Gobierno argentino evita ofrecer disculpas por los agravios del presidente ultra a Lula",
+      "score": 7.899,
+      "n_outlets": 7,
+      "n_articles": 10,
       "regions": [
-        "australia",
-        "china",
         "europe",
+        "india",
+        "japan",
+        "russia",
+        "south_america",
         "us"
       ],
-      "last_seen": "2026-08-05T21:12:00+00:00",
+      "last_seen": "2026-08-05T21:55:00+00:00",
       "leans": [
         "center",
         "left",
@@ -1002,220 +1309,10 @@
           "region": "europe",
           "lean": "left",
           "ownership": "private",
-          "title": "Progressive Abdul El-Sayed wins Michigan Democratic primary, key battle for party's future",
-          "url": "https://elpais.com/us/2026-08-05/el-candidato-progresista-en-las-primarias-democratas-de-michigan-abdul-el-sayed-se-perfila-como-ganador.html",
-          "published": "2026-08-05T14:23:10+00:00",
-          "orig_title": "El progresista Abdul El-Sayed gana las primarias demócratas en Míchigan, una batalla clave para el futuro del partido",
-          "lang": "es",
-          "translated": true,
-          "access": "unknown"
-        },
-        {
-          "outlet": "NPR",
-          "region": "us",
-          "lean": "left",
-          "ownership": "public",
-          "title": "Progressive Abdul El-Sayed wins Michigan's Democratic primary for Senate",
-          "url": "https://www.npr.org/2026/08/05/nx-s1-5920403/michigan-senate-el-sayed-stevens-democrats",
-          "published": "2026-08-05T13:54:31+00:00",
-          "orig_title": "Progressive Abdul El-Sayed wins Michigan's Democratic primary for Senate",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "The Guardian",
-          "region": "europe",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Abdul El-Sayed’s Michigan primary victory is the latest win for progressives challenging establishment-backed Democrats – live",
-          "url": "https://www.theguardian.com/us-news/live/2026/aug/05/michigan-primary-race-democrats-midterms-senate-el-sayed-haley-stevens-donald-trump-republicans-us-politics-latest-news-updates",
-          "published": "2026-08-05T20:58:38+00:00",
-          "orig_title": "Abdul El-Sayed’s Michigan primary victory is the latest win for progressives challenging establishment-backed Democrats – live",
-          "lang": "en",
-          "translated": false,
-          "access": "open",
-          "more": [
-            {
-              "outlet": "The Guardian",
-              "region": "europe",
-              "lean": "left",
-              "ownership": "private",
-              "title": "Top Democrats set aside qualms and embrace progressive Abdul El-Sayed",
-              "url": "https://www.theguardian.com/us-news/2026/aug/05/top-democrats-embrace-abdul-el-sayed",
-              "published": "2026-08-05T21:03:40+00:00",
-              "orig_title": "Top Democrats set aside qualms and embrace progressive Abdul El-Sayed",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
-            }
-          ]
-        },
-        {
-          "outlet": "ABC News (Australia)",
-          "region": "australia",
-          "lean": "center",
-          "ownership": "public",
-          "title": "'We took on a machine': El-Sayed hails victory in Michigan primary",
-          "url": "https://www.abc.net.au/news/2026-08-06/el-sayed-hails-victory-in-michigan-primary/107002290",
-          "published": "2026-08-05T19:45:37+00:00",
-          "orig_title": "'We took on a machine': El-Sayed hails victory in Michigan primary",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "BBC News",
-          "region": "europe",
-          "lean": "center",
-          "ownership": "public",
-          "title": "El-Sayed's victory sends tremors through Democratic Party",
-          "url": "https://www.bbc.co.uk/news/articles/cp309ng0xq1o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-05T16:04:16+00:00",
-          "orig_title": "El-Sayed's victory sends tremors through Democratic Party",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "South China Morning Post",
-          "region": "china",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Progressive Abdul El-Sayed wins Michigan primary in jolt to Democrats",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3363097/progressive-abdul-el-sayed-wins-michigan-primary-jolt-democrats?utm_source=rss_feed",
-          "published": "2026-08-05T19:50:52+00:00",
-          "orig_title": "Progressive Abdul El-Sayed wins Michigan primary in jolt to Democrats",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "Die Welt",
-          "region": "europe",
-          "lean": "right",
-          "ownership": "private",
-          "title": "Israel critic Abdul El-Sayed wins key Michigan primary",
-          "url": "https://www.welt.de/politik/ausland/article6a734a012b19377cc1230fac/linker-demokrat-israel-kritiker-abdul-el-sayed-gewinnt-wichtige-vorwahl-in-michigan.html",
-          "published": "2026-08-05T15:22:57+00:00",
-          "orig_title": "Israel-Kritiker Abdul El-Sayed gewinnt wichtige Vorwahl in Michigan",
-          "lang": "de",
-          "translated": true,
-          "access": "unknown"
-        },
-        {
-          "outlet": "Le Figaro",
-          "region": "europe",
-          "lean": "right",
-          "ownership": "private",
-          "title": "Democratic primary in Michigan: Who is Abdul El-Sayed, the far-left candidate who upended his party's establishment",
-          "url": "https://www.lefigaro.fr/international/primaire-democrate-dans-le-michigan-qui-est-abdul-el-sayed-le-candidat-d-extreme-gauche-qui-a-renverse-l-establishment-de-son-parti-20260805",
-          "published": "2026-08-05T15:28:21+00:00",
-          "orig_title": "Primaire démocrate dans le Michigan : qui est Abdul El-Sayed, le candidat d’extrême gauche qui a renversé l’establishment de son parti",
-          "lang": "fr",
-          "translated": true,
-          "access": "unknown"
-        },
-        {
-          "outlet": "The Wall Street Journal",
-          "region": "us",
-          "lean": "right",
-          "ownership": "private",
-          "title": "Abdul El-Sayed’s victory in Michigan’s Democratic Senate primary is a landmark win for the party’s insurgent left wing—and a sign that the fight with centrists over the party’s course is unsettled",
-          "url": "https://www.wsj.com/politics/elections/progressive-victory-in-michigan-senate-primary-deepens-democratic-divide-b3b7fe16?mod=rss_socialpoliticsfeed",
-          "published": "2026-08-05T20:56:00+00:00",
-          "orig_title": "Abdul El-Sayed’s victory in Michigan’s Democratic Senate primary is a landmark win for the party’s insurgent left wing—and a sign that the fight with centrists over the party’s course is unsettled",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall",
-          "more": [
-            {
-              "outlet": "The Wall Street Journal",
-              "region": "us",
-              "lean": "right",
-              "ownership": "private",
-              "title": "Progressive Abdul El-Sayed won the Michigan Democratic Senate primary, dealing a setback to establishment Democrats",
-              "url": "https://www.wsj.com/politics/elections/michigan-primary-election-results-2026-d257c567?mod=rss_socialpoliticsfeed",
-              "published": "2026-08-05T16:12:00+00:00",
-              "orig_title": "Progressive Abdul El-Sayed won the Michigan Democratic Senate primary, dealing a setback to establishment Democrats",
-              "lang": "en",
-              "translated": false,
-              "access": "paywall"
-            },
-            {
-              "outlet": "The Wall Street Journal",
-              "region": "us",
-              "lean": "right",
-              "ownership": "private",
-              "title": "Some things to know about progressive firebrand Abdul El-Sayed, who beat four-term Rep. Haley Stevens to win the Democratic U.S. Senate nomination in Michigan",
-              "url": "https://www.wsj.com/politics/five-things-to-know-about-michigans-abdul-el-sayed-fa05caac?mod=rss_socialpoliticsfeed",
-              "published": "2026-08-05T14:15:00+00:00",
-              "orig_title": "Some things to know about progressive firebrand Abdul El-Sayed, who beat four-term Rep. Haley Stevens to win the Democratic U.S. Senate nomination in Michigan",
-              "lang": "en",
-              "translated": false,
-              "access": "paywall"
-            },
-            {
-              "outlet": "The Wall Street Journal",
-              "region": "us",
-              "lean": "right",
-              "ownership": "private",
-              "title": "Opinion | El-Sayed’s Deflected Bigotry",
-              "url": "https://www.wsj.com/opinion/el-sayeds-deflected-bigotry-25a4d05f?mod=rss_worldnews",
-              "published": "2026-08-05T21:12:00+00:00",
-              "orig_title": "Opinion | El-Sayed’s Deflected Bigotry",
-              "lang": "en",
-              "translated": false,
-              "access": "paywall"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 19,
-      "topic": "World & Politics",
-      "label": "Ceuta · migrants · Migration",
-      "title": "Migration crisis in Ceuta: They swam over bodies and want to try again",
-      "summary": "Zehntausende schwammen nach Ceuta, viele ertranken. Mehr als zwei Dutzend Migranten berichten dem SPIEGEL, marokkanische Sicherheitskräfte hätten sie über die Grenze gedrängt. Eine Rekonstruktion der ",
-      "score": 7.961,
-      "n_outlets": 7,
-      "n_articles": 10,
-      "regions": [
-        "europe",
-        "india",
-        "russia"
-      ],
-      "last_seen": "2026-08-05T21:26:11+00:00",
-      "leans": [
-        "center",
-        "left",
-        "right",
-        "state"
-      ],
-      "sources": [
-        {
-          "outlet": "Der Spiegel",
-          "region": "europe",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Migration crisis in Ceuta: They swam over bodies and want to try again",
-          "url": "https://www.spiegel.de/ausland/migrationskrise-in-ceuta-sie-schwammen-ueber-leichen-und-wollen-es-wieder-versuchen-a-24bdf72d-6fee-4dd3-b8b0-532f82745794#ref=rss",
-          "published": "2026-08-05T18:41:00+00:00",
-          "orig_title": "Migrationskrise in Ceuta: Sie schwammen über Leichen – und wollen es wieder versuchen",
-          "lang": "de",
-          "translated": true,
-          "access": "unknown"
-        },
-        {
-          "outlet": "El Pais",
-          "region": "europe",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Trampolín Beach: open-air refuge for hundreds of sub-Saharan migrants seeking asylum",
-          "url": "https://elpais.com/espana/2026-08-05/playa-de-trampolin-el-refugio-a-sol-abierto-para-centenares-de-subsaharianos-en-busca-de-asilo.html",
-          "published": "2026-08-05T03:30:01+00:00",
-          "orig_title": "Playa de Trampolín: el refugio a sol abierto para centenares de subsaharianos que resisten en busca de asilo",
+          "title": "Brazil confirms ambassador will not return to Argentina until Milei stops repeated insults and aggression",
+          "url": "https://elpais.com/argentina/2026-08-05/brasil-confirma-que-su-embajador-no-regresara-a-argentina-hasta-que-cesen-los-reiterados-insultos-y-agresiones-de-milei.html",
+          "published": "2026-08-05T19:37:11+00:00",
+          "orig_title": "Brasil confirma que su embajador no regresará a Argentina hasta que cesen “los reiterados insultos y agresiones” de Milei",
           "lang": "es",
           "translated": true,
           "access": "unknown",
@@ -1225,10 +1322,10 @@
               "region": "europe",
               "lean": "left",
               "ownership": "private",
-              "title": "TPS for Haitian migrants officially ends: 350,000 migrants at risk of deportation",
-              "url": "https://elpais.com/us/migracion/2026-08-05/el-fin-del-tps-para-los-haitianos-ya-es-oficial-350000-migrantes-quedan-en-riesgo-de-deportacion.html",
-              "published": "2026-08-05T18:51:28+00:00",
-              "orig_title": "El fin del TPS para los haitianos ya es oficial: 350.000 migrantes quedan en riesgo de deportación",
+              "title": "US and Brazil stage diplomatic showdown between giants",
+              "url": "https://elpais.com/america/2026-08-05/estados-unidos-y-brasil-escenifican-un-duelo-diplomatico-entre-gigantes.html",
+              "published": "2026-08-05T04:21:08+00:00",
+              "orig_title": "Estados Unidos y Brasil escenifican un duelo diplomático entre gigantes",
               "lang": "es",
               "translated": true,
               "access": "unknown"
@@ -1240,105 +1337,118 @@
           "region": "india",
           "lean": "left",
           "ownership": "private",
-          "title": "Spain's Ceuta seeks transfer of unaccompanied migrant minors to mainland Spain after border rush",
-          "url": "https://www.thehindu.com/news/international/spains-ceuta-seeks-transfer-of-unaccompanied-migrant-minors-to-mainland-spain-after-border-rush/article71311034.ece",
-          "published": "2026-08-05T21:26:11+00:00",
-          "orig_title": "Spain's Ceuta seeks transfer of unaccompanied migrant minors to mainland Spain after border rush",
+          "title": "Trump administration revokes visa of Brazil's Ambassador to U.S. in spat with Lula",
+          "url": "https://www.thehindu.com/news/international/trump-administration-revokes-visa-of-brazils-ambassador-to-us-in-spat-with-lula/article71307922.ece",
+          "published": "2026-08-05T03:02:08+00:00",
+          "orig_title": "Trump administration revokes visa of Brazil's Ambassador to U.S. in spat with Lula",
           "lang": "en",
           "translated": false,
           "access": "open"
+        },
+        {
+          "outlet": "Buenos Aires Times",
+          "region": "south_america",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Brazil hits new diplomatic lows with United States and Argentina",
+          "url": "https://www.batimes.com.ar/news/latin-america/brazil-hits-new-diplomatic-lows-with-united-states-and-argentina.phtml",
+          "published": "2026-08-05T21:50:38+00:00",
+          "orig_title": "Brazil hits new diplomatic lows with United States and Argentina",
+          "lang": "en",
+          "translated": false,
+          "access": "unknown"
         },
         {
           "outlet": "Kommersant",
           "region": "russia",
           "lean": "center",
           "ownership": "private",
-          "title": "The Times: migrants stranded in Ceuta denied food and water",
-          "url": "https://www.kommersant.ru/doc/8862342",
-          "published": "2026-08-04T12:27:33+00:00",
-          "orig_title": "The Times: оставшимся в Сеуте мигрантам не дают пищи и воды",
+          "title": "Brazil downgrades diplomatic relations with Argentina over Milei's remarks",
+          "url": "https://www.kommersant.ru/doc/8862701",
+          "published": "2026-08-05T00:15:46+00:00",
+          "orig_title": "Бразилия понизила уровень дипотношений с Аргентиной из-за высказываний Милея",
           "lang": "ru",
           "translated": true,
           "access": "unknown"
         },
         {
-          "outlet": "Die Welt",
-          "region": "europe",
-          "lean": "right",
+          "outlet": "MercoPress",
+          "region": "south_america",
+          "lean": "center",
           "ownership": "private",
-          "title": "Emergency services and NGOs still estimate migrants in Ceuta at up to 7,000",
-          "url": "https://www.welt.de/politik/ausland/article6a6bb459dd06dd5ef2e3fe60/ceuta-notdienst-und-ngo-schaetzen-zahl-der-migranten-noch-immer-auf-bis-zu-7000.html",
-          "published": "2026-08-05T17:12:00+00:00",
-          "orig_title": "Notdienst und NGO schätzen Zahl der Migranten in Ceuta noch immer auf bis zu 7000",
-          "lang": "de",
-          "translated": true,
-          "access": "unknown",
+          "title": "Brazil downgrades ties with Argentina to chargé d'affaires level over Milei's remarks",
+          "url": "https://en.mercopress.com/2026/08/05/brazil-downgrades-ties-with-argentina-to-charge-d-affaires-level-over-milei-s-remarks?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+          "published": "2026-08-05T08:38:00+00:00",
+          "orig_title": "Brazil downgrades ties with Argentina to chargé d'affaires level over Milei's remarks",
+          "lang": "en",
+          "translated": false,
+          "access": "open",
           "more": [
             {
-              "outlet": "Die Welt",
-              "region": "europe",
-              "lean": "right",
+              "outlet": "MercoPress",
+              "region": "south_america",
+              "lean": "center",
               "ownership": "private",
-              "title": "The situation is untenable",
-              "url": "https://www.welt.de/politik/ausland/video6a737c3c3013d32d678818b8/nach-ceuta-ansturm-die-situation-ist-untragbar.html",
-              "published": "2026-08-05T18:19:00+00:00",
-              "orig_title": "„Die Situation ist untragbar“",
-              "lang": "de",
-              "translated": true,
-              "access": "unknown"
+              "title": "Brazil ties its ambassador's return to an end to Milei's insults",
+              "url": "https://en.mercopress.com/2026/08/05/brazil-ties-its-ambassador-s-return-to-an-end-to-milei-s-insults?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+              "published": "2026-08-05T21:55:00+00:00",
+              "orig_title": "Brazil ties its ambassador's return to an end to Milei's insults",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
             },
             {
-              "outlet": "Die Welt",
-              "region": "europe",
-              "lean": "right",
+              "outlet": "MercoPress",
+              "region": "south_america",
+              "lean": "center",
               "ownership": "private",
-              "title": "Lithuania discovers migrant tunnel beneath Belarus border fence",
-              "url": "https://www.welt.de/politik/article6a735ffc203ba6592b08976a/eu-aussengrenze-litauen-entdeckt-migrantentunnel-unter-grenzzaun-zu-belarus.html",
-              "published": "2026-08-05T16:29:00+00:00",
-              "orig_title": "Litauen entdeckt Migrantentunnel unter Grenzzaun zu Belarus",
-              "lang": "de",
-              "translated": true,
-              "access": "unknown"
+              "title": "Brasília accuses Washington of seeking to interfere in the October elections",
+              "url": "https://en.mercopress.com/2026/08/05/brasilia-accuses-washington-of-seeking-to-interfere-in-the-october-elections?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+              "published": "2026-08-05T08:46:00+00:00",
+              "orig_title": "Brasília accuses Washington of seeking to interfere in the October elections",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
             }
           ]
         },
         {
-          "outlet": "Le Figaro",
-          "region": "europe",
-          "lean": "right",
+          "outlet": "The Japan Times",
+          "region": "japan",
+          "lean": "center",
           "ownership": "private",
-          "title": "Migration is a European challenge requiring a European response: EU reaffirms solidarity after Ceuta crisis",
-          "url": "https://www.lefigaro.fr/international/la-migration-est-un-defi-europeen-qui-necessite-une-reponse-europeenne-apres-la-crise-de-ceuta-les-vingt-sept-affirment-leur-solidarite-20260804",
-          "published": "2026-08-04T20:42:06+00:00",
-          "orig_title": "« La migration est un défi européen qui nécessite une réponse européenne » : après la crise de Ceuta, les Vingt-Sept affirment leur solidarité",
-          "lang": "fr",
-          "translated": true,
-          "access": "unknown"
-        },
-        {
-          "outlet": "TASS",
-          "region": "russia",
-          "lean": "state",
-          "ownership": "state",
-          "title": "Illegal migrant inflow to Ceuta by land up 164% vs 2025 before crisis erupted",
-          "url": "https://tass.com/world/2169341",
-          "published": "2026-08-05T14:29:32+00:00",
-          "orig_title": "Illegal migrant inflow to Ceuta by land up 164% vs 2025 before crisis erupted",
+          "title": "Brazil’s Lula battles Trump and Milei over perceived election meddling",
+          "url": "https://www.japantimes.co.jp/news/2026/08/05/world/politics/lula-trump-milei-election-meddling/",
+          "published": "2026-08-05T06:07:00+00:00",
+          "orig_title": "Brazil’s Lula battles Trump and Milei over perceived election meddling",
           "lang": "en",
           "translated": false,
-          "access": "open"
+          "access": "paywall"
+        },
+        {
+          "outlet": "The Wall Street Journal",
+          "region": "us",
+          "lean": "right",
+          "ownership": "private",
+          "title": "Trump Looms Over Brazil’s Closely Fought Election",
+          "url": "https://www.wsj.com/world/americas/trump-looms-over-brazils-closest-election-in-decades-5b6314f6?mod=rss_worldnews",
+          "published": "2026-08-05T16:55:00+00:00",
+          "orig_title": "Trump Looms Over Brazil’s Closely Fought Election",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall"
         }
       ]
     },
     {
-      "id": 72,
+      "id": 104,
       "topic": "World & Politics",
-      "label": "CEO · Russia · Yekaterinburg",
-      "title": "Russian drone developer seriously injured in car explosion in Yekaterinburg",
-      "summary": "Vladimir Tkachuk, CEO of Uraldronzavod and creator of the Telegram channel Povernutye na voine (“Obsessed with the war”), was injured in Yekaterinburg when his Mercedes exploded, according to the Russ",
-      "score": 7.868,
+      "label": "Ukraine · Russia · Kherson",
+      "title": "Ukraine accuses Russia of war crime after video shows drone attacking vegetable seller in Kherson",
+      "summary": "Footage released by Ukrainian police shows the drone pursuing a man around a van being used as a street stand before exploding as he dives for cover behind the vehicle",
+      "score": 7.78,
       "n_outlets": 7,
-      "n_articles": 9,
+      "n_articles": 7,
       "regions": [
         "europe",
         "india",
@@ -1349,8 +1459,7 @@
       "leans": [
         "center",
         "left",
-        "right",
-        "state"
+        "right"
       ],
       "sources": [
         {
@@ -1380,58 +1489,43 @@
           "access": "open"
         },
         {
-          "outlet": "Kommersant",
-          "region": "russia",
-          "lean": "center",
+          "outlet": "The New York Times",
+          "region": "us",
+          "lean": "left",
           "ownership": "private",
-          "title": "TASS: Uraldronzavod CEO Tkachuk injured in car explosion",
-          "url": "https://www.kommersant.ru/doc/8863056",
-          "published": "2026-08-05T10:33:05+00:00",
-          "orig_title": "ТАСС: гендиректор «Уралдронзавода» Ткачук пострадал при взрыве автомобиля",
-          "lang": "ru",
-          "translated": true,
-          "access": "unknown"
-        },
-        {
-          "outlet": "Meduza",
-          "region": "russia",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Russian drone developer seriously injured in car explosion in Yekaterinburg",
-          "url": "https://meduza.io/en/news/2026/08/05/russian-drone-developer-seriously-injured-in-car-explosion-in-yekaterinburg",
-          "published": "2026-08-05T14:11:52+00:00",
-          "orig_title": "Russian drone developer seriously injured in car explosion in Yekaterinburg",
+          "title": "A New Lethal Front in Ukraine: Its Beloved Gas Stations",
+          "url": "https://www.nytimes.com/2026/08/04/world/europe/ukraine-gas-stations-russia.html",
+          "published": "2026-08-04T14:33:18+00:00",
+          "orig_title": "A New Lethal Front in Ukraine: Its Beloved Gas Stations",
           "lang": "en",
           "translated": false,
-          "access": "unknown"
+          "access": "paywall"
+        },
+        {
+          "outlet": "BBC News",
+          "region": "europe",
+          "lean": "center",
+          "ownership": "public",
+          "title": "Ukrainian vegetable seller targeted in 'human safari' drone attack",
+          "url": "https://www.bbc.co.uk/news/videos/clye173d533o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-04T19:07:19+00:00",
+          "orig_title": "Ukrainian vegetable seller targeted in 'human safari' drone attack",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
         },
         {
           "outlet": "The Moscow Times",
           "region": "russia",
           "lean": "center",
           "ownership": "private",
-          "title": "Yekaterinburg Drone Maker CEO Wounded in Car Explosion",
-          "url": "https://www.themoscowtimes.com/2026/08/05/yekaterinburg-drone-maker-ceo-wounded-in-car-explosion-a93421",
-          "published": "2026-08-05T13:12:01+00:00",
-          "orig_title": "Yekaterinburg Drone Maker CEO Wounded in Car Explosion",
+          "title": "Can ‘Russia’s Amazon’ Survive Ukraine’s Drone Campaign?",
+          "url": "https://www.themoscowtimes.com/2026/08/05/can-russias-amazon-survive-ukraines-drone-campaign-a93422",
+          "published": "2026-08-05T15:33:00+00:00",
+          "orig_title": "Can ‘Russia’s Amazon’ Survive Ukraine’s Drone Campaign?",
           "lang": "en",
           "translated": false,
-          "access": "open",
-          "more": [
-            {
-              "outlet": "The Moscow Times",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Can ‘Russia’s Amazon’ Survive Ukraine’s Drone Campaign?",
-              "url": "https://www.themoscowtimes.com/2026/08/05/can-russias-amazon-survive-ukraines-drone-campaign-a93422",
-              "published": "2026-08-05T15:33:00+00:00",
-              "orig_title": "Can ‘Russia’s Amazon’ Survive Ukraine’s Drone Campaign?",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
-            }
-          ]
+          "access": "open"
         },
         {
           "outlet": "Fox News",
@@ -1447,42 +1541,27 @@
           "access": "open"
         },
         {
-          "outlet": "TASS",
-          "region": "russia",
-          "lean": "state",
-          "ownership": "state",
-          "title": "FACTBOX: What we know about attack on Uraldronzavod CEO Vladimir Tkachuk",
-          "url": "https://tass.com/emergencies/2169361",
-          "published": "2026-08-05T15:06:10+00:00",
-          "orig_title": "FACTBOX: What we know about attack on Uraldronzavod CEO Vladimir Tkachuk",
-          "lang": "en",
-          "translated": false,
-          "access": "open",
-          "more": [
-            {
-              "outlet": "TASS",
-              "region": "russia",
-              "lean": "state",
-              "ownership": "state",
-              "title": "Security guard for CEO of Russian drone producer killed in car blast in Yekaterinburg",
-              "url": "https://tass.com/emergencies/2169343",
-              "published": "2026-08-05T14:30:31+00:00",
-              "orig_title": "Security guard for CEO of Russian drone producer killed in car blast in Yekaterinburg",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
-            }
-          ]
+          "outlet": "Le Figaro",
+          "region": "europe",
+          "lean": "right",
+          "ownership": "private",
+          "title": "Russian soldiers enjoy killing and abusing civilians, Kherson residents say, as Moscow drones conduct human safaris",
+          "url": "https://www.lefigaro.fr/international/les-soldats-russes-prennent-plaisir-a-tuer-et-a-maltraiter-des-civils-a-kherson-la-vie-rythmee-par-les-safaris-humain-des-drones-de-moscou-20260804",
+          "published": "2026-08-05T11:28:00+00:00",
+          "orig_title": "« Les soldats russes prennent plaisir à tuer et à maltraiter des civils » : à Kherson, la vie rythmée par les « safaris humains » des drones de Moscou",
+          "lang": "fr",
+          "translated": true,
+          "access": "unknown"
         }
       ]
     },
     {
-      "id": 92,
+      "id": 122,
       "topic": "World & Politics",
       "label": "Putin · Russia · Russian",
       "title": "IN BRIEF: What is known about Russia's latest military reshuffle",
       "summary": "Personnel changes in the Russian Defense Ministry are aimed at improving the systems of material and military-technical support for troops",
-      "score": 6.832,
+      "score": 6.749,
       "n_outlets": 6,
       "n_articles": 9,
       "regions": [
@@ -1621,174 +1700,14 @@
       ]
     },
     {
-      "id": 94,
-      "topic": "World & Politics",
-      "label": "Brazil · Trump · Argentina",
-      "title": "US and Brazil stage diplomatic showdown between giants",
-      "summary": "El Gobierno de Lula acusa a la Administración de Trump de mentir y de buscar interferir en las elecciones presidenciales de octubre. Washington cancela el visado de la embajadora brasileña",
-      "score": 6.826,
-      "n_outlets": 6,
-      "n_articles": 10,
-      "regions": [
-        "europe",
-        "india",
-        "japan",
-        "russia",
-        "south_america",
-        "us"
-      ],
-      "last_seen": "2026-08-05T19:37:11+00:00",
-      "leans": [
-        "center",
-        "left",
-        "right"
-      ],
-      "sources": [
-        {
-          "outlet": "El Pais",
-          "region": "europe",
-          "lean": "left",
-          "ownership": "private",
-          "title": "US and Brazil stage diplomatic showdown between giants",
-          "url": "https://elpais.com/america/2026-08-05/estados-unidos-y-brasil-escenifican-un-duelo-diplomatico-entre-gigantes.html",
-          "published": "2026-08-05T04:21:08+00:00",
-          "orig_title": "Estados Unidos y Brasil escenifican un duelo diplomático entre gigantes",
-          "lang": "es",
-          "translated": true,
-          "access": "unknown",
-          "more": [
-            {
-              "outlet": "El Pais",
-              "region": "europe",
-              "lean": "left",
-              "ownership": "private",
-              "title": "Brazil confirms ambassador will not return to Argentina until Milei stops repeated insults and aggression",
-              "url": "https://elpais.com/argentina/2026-08-05/brasil-confirma-que-su-embajador-no-regresara-a-argentina-hasta-que-cesen-los-reiterados-insultos-y-agresiones-de-milei.html",
-              "published": "2026-08-05T19:37:11+00:00",
-              "orig_title": "Brasil confirma que su embajador no regresará a Argentina hasta que cesen “los reiterados insultos y agresiones” de Milei",
-              "lang": "es",
-              "translated": true,
-              "access": "unknown"
-            },
-            {
-              "outlet": "El Pais",
-              "region": "europe",
-              "lean": "left",
-              "ownership": "private",
-              "title": "How much does Trump help Bolsonaro?",
-              "url": "https://elpais.com/opinion/2026-08-05/hasta-que-punto-ayuda-trump-a-bolsonaro.html",
-              "published": "2026-08-05T03:30:01+00:00",
-              "orig_title": "¿Hasta qué punto ayuda Trump a Bolsonaro?",
-              "lang": "es",
-              "translated": true,
-              "access": "unknown"
-            },
-            {
-              "outlet": "El Pais",
-              "region": "europe",
-              "lean": "left",
-              "ownership": "private",
-              "title": "Minister Sira Rego won't run in 2027 general election",
-              "url": "https://elpais.com/espana/2026-08-05/la-ministra-sira-rego-no-ira-en-las-listas-para-las-generales-de-2027.html",
-              "published": "2026-08-05T09:29:26+00:00",
-              "orig_title": "La ministra Sira Rego no irá en las listas para las generales de 2027",
-              "lang": "es",
-              "translated": true,
-              "access": "unknown"
-            }
-          ]
-        },
-        {
-          "outlet": "The Hindu",
-          "region": "india",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Trump administration revokes visa of Brazil's Ambassador to U.S. in spat with Lula",
-          "url": "https://www.thehindu.com/news/international/trump-administration-revokes-visa-of-brazils-ambassador-to-us-in-spat-with-lula/article71307922.ece",
-          "published": "2026-08-05T03:02:08+00:00",
-          "orig_title": "Trump administration revokes visa of Brazil's Ambassador to U.S. in spat with Lula",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "Kommersant",
-          "region": "russia",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Brazil downgrades diplomatic relations with Argentina over Milei's remarks",
-          "url": "https://www.kommersant.ru/doc/8862701",
-          "published": "2026-08-05T00:15:46+00:00",
-          "orig_title": "Бразилия понизила уровень дипотношений с Аргентиной из-за высказываний Милея",
-          "lang": "ru",
-          "translated": true,
-          "access": "unknown"
-        },
-        {
-          "outlet": "MercoPress",
-          "region": "south_america",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Brasília accuses Washington of seeking to interfere in the October elections",
-          "url": "https://en.mercopress.com/2026/08/05/brasilia-accuses-washington-of-seeking-to-interfere-in-the-october-elections?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
-          "published": "2026-08-05T08:46:00+00:00",
-          "orig_title": "Brasília accuses Washington of seeking to interfere in the October elections",
-          "lang": "en",
-          "translated": false,
-          "access": "open",
-          "more": [
-            {
-              "outlet": "MercoPress",
-              "region": "south_america",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Brazil downgrades ties with Argentina to chargé d'affaires level over Milei's remarks",
-              "url": "https://en.mercopress.com/2026/08/05/brazil-downgrades-ties-with-argentina-to-charge-d-affaires-level-over-milei-s-remarks?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
-              "published": "2026-08-05T08:38:00+00:00",
-              "orig_title": "Brazil downgrades ties with Argentina to chargé d'affaires level over Milei's remarks",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
-            }
-          ]
-        },
-        {
-          "outlet": "The Japan Times",
-          "region": "japan",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Brazil’s Lula battles Trump and Milei over perceived election meddling",
-          "url": "https://www.japantimes.co.jp/news/2026/08/05/world/politics/lula-trump-milei-election-meddling/",
-          "published": "2026-08-05T06:07:00+00:00",
-          "orig_title": "Brazil’s Lula battles Trump and Milei over perceived election meddling",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
-        },
-        {
-          "outlet": "The Wall Street Journal",
-          "region": "us",
-          "lean": "right",
-          "ownership": "private",
-          "title": "Trump Looms Over Brazil’s Closely Fought Election",
-          "url": "https://www.wsj.com/world/americas/trump-looms-over-brazils-closest-election-in-decades-5b6314f6?mod=rss_worldnews",
-          "published": "2026-08-05T16:55:00+00:00",
-          "orig_title": "Trump Looms Over Brazil’s Closely Fought Election",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
-        }
-      ]
-    },
-    {
-      "id": 159,
+      "id": 184,
       "topic": "World & Politics",
       "label": "London · Woman · Four",
       "title": "4 people stabbed in London's Covent Garden area; woman arrested",
       "summary": "The ⁠woman was ​arrested on ‌suspicion of possession of an offensive weapon ‌and assault",
-      "score": 6.662,
-      "n_outlets": 6,
-      "n_articles": 7,
+      "score": 5.595,
+      "n_outlets": 5,
+      "n_articles": 6,
       "regions": [
         "china",
         "europe",
@@ -1803,19 +1722,6 @@
         "state"
       ],
       "sources": [
-        {
-          "outlet": "El Pais",
-          "region": "europe",
-          "lean": "left",
-          "ownership": "private",
-          "title": "London police arrest woman accused of stabbing four people",
-          "url": "https://elpais.com/internacional/2026-08-05/la-policia-de-londres-detiene-a-una-mujer-acusada-de-apunalar-a-cuatro-personas.html",
-          "published": "2026-08-05T14:28:37+00:00",
-          "orig_title": "La policía de Londres detiene a una mujer acusada de apuñalar a cuatro personas",
-          "lang": "es",
-          "translated": true,
-          "access": "unknown"
-        },
         {
           "outlet": "The Hindu",
           "region": "india",
@@ -1899,20 +1805,21 @@
       ]
     },
     {
-      "id": 6,
+      "id": 199,
       "topic": "World & Politics",
-      "label": "Infantino · FIFA · World",
-      "title": "Infantino offers Morocco 2030 World Cup final for support",
-      "summary": "Президент Международной федерации футбола (FIFA) Джанни Инфантино готов предоставить Марокко право проведения финала чемпионата мира 2030 года в обмен на поддержку. Об этом сообщает газета The Times.",
-      "score": 5.975,
+      "label": "Gaza · Hamas · Israel",
+      "title": "Israeli Strikes May Undermine Trump’s Peace Plan for Gaza",
+      "summary": "President Trump announced a proposal aimed at achieving the disarmament of Hamas and an Israeli withdrawal. Israel ramped up attacks on the Palestinian enclave.",
+      "score": 5.569,
       "n_outlets": 5,
-      "n_articles": 14,
+      "n_articles": 6,
       "regions": [
+        "china",
         "europe",
-        "india",
-        "russia"
+        "russia",
+        "us"
       ],
-      "last_seen": "2026-08-05T21:37:08+00:00",
+      "last_seen": "2026-08-05T16:25:00+00:00",
       "leans": [
         "center",
         "left",
@@ -1920,27 +1827,27 @@
       ],
       "sources": [
         {
-          "outlet": "El Pais",
-          "region": "europe",
+          "outlet": "The New York Times",
+          "region": "us",
           "lean": "left",
           "ownership": "private",
-          "title": "Infantino maneuvers for support at weakest moment as FIFA president",
-          "url": "https://elpais.com/deportes/futbol/2026-08-05/infantino-maniobra-para-ganar-apoyos-en-su-momento-de-maxima-debilidad-como-presidente-de-la-fifa.html",
-          "published": "2026-08-05T18:01:49+00:00",
-          "orig_title": "Infantino maniobra para ganar apoyos en su momento de máxima debilidad como presidente de la FIFA",
-          "lang": "es",
-          "translated": true,
-          "access": "unknown"
+          "title": "Israeli Strikes May Undermine Trump’s Peace Plan for Gaza",
+          "url": "https://www.nytimes.com/2026/08/05/world/middleeast/israel-strikes-gaza-peace-deal.html",
+          "published": "2026-08-05T12:05:18+00:00",
+          "orig_title": "Israeli Strikes May Undermine Trump’s Peace Plan for Gaza",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall"
         },
         {
-          "outlet": "BBC News",
+          "outlet": "Deutsche Welle",
           "region": "europe",
           "lean": "center",
           "ownership": "public",
-          "title": "Infantino remains Fifa president after executive meeting",
-          "url": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-05T21:37:08+00:00",
-          "orig_title": "Infantino remains Fifa president after executive meeting",
+          "title": "Gaza peace plan: Will US pressure Israel to accept it?",
+          "url": "https://www.dw.com/en/gaza-peace-plan-will-us-pressure-israel-to-accept-it/a-78237611?maca=en-rss-en-world-4025-rdf",
+          "published": "2026-08-04T19:48:00+00:00",
+          "orig_title": "Gaza peace plan: Will US pressure Israel to accept it?",
           "lang": "en",
           "translated": false,
           "access": "open"
@@ -1950,10 +1857,98 @@
           "region": "russia",
           "lean": "center",
           "ownership": "private",
-          "title": "Infantino offers Morocco 2030 World Cup final for support",
-          "url": "https://www.kommersant.ru/doc/8863453",
-          "published": "2026-08-05T17:03:30+00:00",
-          "orig_title": "Инфантино предложил Марокко провести финал ЧМ-2030 в обмен на поддержку",
+          "title": "Israel opposes US plan to disarm Hamas",
+          "url": "https://www.kommersant.ru/doc/8862463",
+          "published": "2026-08-04T14:03:58+00:00",
+          "orig_title": "Израиль выступил против плана США по разоружению «Хамаса»",
+          "lang": "ru",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
+          "outlet": "South China Morning Post",
+          "region": "china",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Netanyahu says Israel didn’t agree to US-backed Gaza plan as far-right pressure grows",
+          "url": "https://www.scmp.com/news/world/middle-east/article/3363077/netanyahu-says-israel-didnt-agree-us-backed-gaza-plan-far-right-pressure-grows?utm_source=rss_feed",
+          "published": "2026-08-05T12:13:01+00:00",
+          "orig_title": "Netanyahu says Israel didn’t agree to US-backed Gaza plan as far-right pressure grows",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "The Wall Street Journal",
+          "region": "us",
+          "lean": "right",
+          "ownership": "private",
+          "title": "Trump’s Days-Old Hamas Disarmament Deal Is Already in Danger",
+          "url": "https://www.wsj.com/world/middle-east/trumps-days-old-hamas-disarmament-deal-is-already-in-danger-24164a6a?mod=rss_worldnews",
+          "published": "2026-08-05T16:25:00+00:00",
+          "orig_title": "Trump’s Days-Old Hamas Disarmament Deal Is Already in Danger",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall",
+          "more": [
+            {
+              "outlet": "The Wall Street Journal",
+              "region": "us",
+              "lean": "right",
+              "ownership": "private",
+              "title": "Can Hamas Really Be Disarmed? Inside the Gaza Peace Deal",
+              "url": "https://www.wsj.com/world/middle-east/can-hamas-really-be-disarmed-inside-the-gaza-peace-deal-0f751fc9?mod=rss_worldnews",
+              "published": "2026-08-04T16:06:00+00:00",
+              "orig_title": "Can Hamas Really Be Disarmed? Inside the Gaza Peace Deal",
+              "lang": "en",
+              "translated": false,
+              "access": "paywall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 228,
+      "topic": "World & Politics",
+      "label": "Tkachuk · Uraldronzavod · CEO",
+      "title": "Russian drone developer seriously injured in car explosion in Yekaterinburg",
+      "summary": "Vladimir Tkachuk, CEO of Uraldronzavod and creator of the Telegram channel Povernutye na voine (“Obsessed with the war”), was injured in Yekaterinburg when his Mercedes exploded, according to the Russ",
+      "score": 5.527,
+      "n_outlets": 5,
+      "n_articles": 9,
+      "regions": [
+        "russia"
+      ],
+      "last_seen": "2026-08-05T15:29:58+00:00",
+      "leans": [
+        "center",
+        "left",
+        "state"
+      ],
+      "sources": [
+        {
+          "outlet": "Novaya Gazeta Europe",
+          "region": "russia",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Assassination attempt on drone creator Tkachuk and Uralvagonzavod director",
+          "url": "https://novayagazeta.eu/articles/2026/08/05/na-sozdatelia-dronov-upyr-i-direktora-uralvagonzavoda-vladimira-tkachuka-soversheno-pokushenie-news",
+          "published": "2026-08-05T11:05:09+00:00",
+          "orig_title": "На создателя дронов «Упырь» и директора «Уралвагонзавода» Владимира Ткачука совершено покушение",
+          "lang": "ru",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
+          "outlet": "Kommersant",
+          "region": "russia",
+          "lean": "center",
+          "ownership": "private",
+          "title": "TASS: Uraldronzavod CEO Tkachuk injured in car explosion",
+          "url": "https://www.kommersant.ru/doc/8863056",
+          "published": "2026-08-05T10:33:05+00:00",
+          "orig_title": "ТАСС: гендиректор «Уралдронзавода» Ткачук пострадал при взрыве автомобиля",
           "lang": "ru",
           "translated": true,
           "access": "unknown",
@@ -1963,10 +1958,10 @@
               "region": "russia",
               "lean": "center",
               "ownership": "private",
-              "title": "FIFA chief Infantino's opponents find his replacement",
-              "url": "https://www.kommersant.ru/doc/8862583",
-              "published": "2026-08-04T16:15:08+00:00",
-              "orig_title": "Противники главы FIFA Джанни Инфантино нашли ему замену",
+              "title": "Attempt on life of drone developer Tkachuk in Urals; case opened after car explosion",
+              "url": "https://www.kommersant.ru/doc/8863063",
+              "published": "2026-08-05T10:42:22+00:00",
+              "orig_title": "На Урале совершили покушение на разработчика дронов «Упырь» Ткачука // После подрыва машины главы «Уралдронзавода» Ткачука возбудили дело",
               "lang": "ru",
               "translated": true,
               "access": "unknown"
@@ -1976,10 +1971,10 @@
               "region": "russia",
               "lean": "center",
               "ownership": "private",
-              "title": "FIFA denies Infantino called White House",
-              "url": "https://www.kommersant.ru/doc/8862242",
-              "published": "2026-08-04T10:27:18+00:00",
-              "orig_title": "В FIFA опровергли звонок Инфантино в Белый дом",
+              "title": "Assassination attempt on Uraldronzavod head Vladimir Tkachuk",
+              "url": "https://www.kommersant.ru/doc/8863384",
+              "published": "2026-08-05T15:29:58+00:00",
+              "orig_title": "На руководителя «Уралдронзавода» Владимира Ткачука совершили покушение",
               "lang": "ru",
               "translated": true,
               "access": "unknown"
@@ -1989,36 +1984,10 @@
               "region": "russia",
               "lean": "center",
               "ownership": "private",
-              "title": "Infantino accused of blackmail and failure to meet financial obligations",
-              "url": "https://www.kommersant.ru/doc/8862719",
-              "published": "2026-08-05T04:17:48+00:00",
-              "orig_title": "Инфантино обвинили в шантаже и невыполнении финансовых обязательств",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            },
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Infantino convenes emergency meeting with senior FIFA officials",
-              "url": "https://www.kommersant.ru/doc/8863038",
-              "published": "2026-08-05T10:15:23+00:00",
-              "orig_title": "Инфантино созвал экстренное совещание с высокопоставленными чиновниками FIFA",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            },
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Spain opposes joint World Cup with Morocco over migration crisis",
-              "url": "https://www.kommersant.ru/doc/8863311",
-              "published": "2026-08-05T14:02:48+00:00",
-              "orig_title": "В Испании выступили против совместного ЧМ с Марокко из-за миграционного кризиса",
+              "title": "Director of Uraldronzavod killed in car bombing",
+              "url": "https://www.kommersant.ru/doc/8863126",
+              "published": "2026-08-05T11:22:51+00:00",
+              "orig_title": "Водитель директора «Уралдронзавода» погиб при подрыве автомобиля",
               "lang": "ru",
               "translated": true,
               "access": "unknown"
@@ -2026,94 +1995,68 @@
           ]
         },
         {
-          "outlet": "Times of India",
-          "region": "india",
+          "outlet": "Meduza",
+          "region": "russia",
           "lean": "center",
           "ownership": "private",
-          "title": "2030 World Cup Final Venue: Report claims Infantino offered Morocco final for support",
-          "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/gianni-infantino-promised-morocco-2030-world-cup-final-in-exchange-for-support-says-report/articleshow/132966278.cms",
-          "published": "2026-08-05T19:58:53+00:00",
-          "orig_title": "2030 World Cup Final Venue: Report claims Infantino offered Morocco final for support",
+          "title": "Russian drone developer seriously injured in car explosion in Yekaterinburg",
+          "url": "https://meduza.io/en/news/2026/08/05/russian-drone-developer-seriously-injured-in-car-explosion-in-yekaterinburg",
+          "published": "2026-08-05T14:11:52+00:00",
+          "orig_title": "Russian drone developer seriously injured in car explosion in Yekaterinburg",
+          "lang": "en",
+          "translated": false,
+          "access": "unknown"
+        },
+        {
+          "outlet": "The Moscow Times",
+          "region": "russia",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Yekaterinburg Drone Maker CEO Wounded in Car Explosion",
+          "url": "https://www.themoscowtimes.com/2026/08/05/yekaterinburg-drone-maker-ceo-wounded-in-car-explosion-a93421",
+          "published": "2026-08-05T13:12:01+00:00",
+          "orig_title": "Yekaterinburg Drone Maker CEO Wounded in Car Explosion",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "TASS",
+          "region": "russia",
+          "lean": "state",
+          "ownership": "state",
+          "title": "FACTBOX: What we know about attack on Uraldronzavod CEO Vladimir Tkachuk",
+          "url": "https://tass.com/emergencies/2169361",
+          "published": "2026-08-05T15:06:10+00:00",
+          "orig_title": "FACTBOX: What we know about attack on Uraldronzavod CEO Vladimir Tkachuk",
           "lang": "en",
           "translated": false,
           "access": "open",
           "more": [
             {
-              "outlet": "Times of India",
-              "region": "india",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Trump reportedly ready to do 'everything possible' to keep Infantino as FIFA president",
-              "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/donald-trump-reportedly-ready-to-do-everything-possible-to-keep-gianni-infantino-as-fifa-president/articleshow/132927680.cms",
-              "published": "2026-08-05T14:36:13+00:00",
-              "orig_title": "Trump reportedly ready to do 'everything possible' to keep Infantino as FIFA president",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
-            },
-            {
-              "outlet": "Times of India",
-              "region": "india",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Infantino running out of friends? Only 6 nations still want him re-elected as FIFA president",
-              "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/infantino-running-out-of-friends-only-six-nations-still-want-him-re-elected-as-fifa-president/articleshow/132923972.cms",
-              "published": "2026-08-05T11:59:14+00:00",
-              "orig_title": "Infantino running out of friends? Only 6 nations still want him re-elected as FIFA president",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
-            },
-            {
-              "outlet": "Times of India",
-              "region": "india",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Figo Urges Infantino Resignation: ex-star calls for FIFA chief to quit; cites litany of abuses",
-              "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/he-should-go-now-luis-figo-unleashes-bombshell-rant-tearing-apart-embattled-fifa-boss-infantino/articleshow/132970437.cms",
-              "published": "2026-08-05T20:57:34+00:00",
-              "orig_title": "Figo Urges Infantino Resignation: ex-star calls for FIFA chief to quit; cites litany of abuses",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
-            },
-            {
-              "outlet": "Times of India",
-              "region": "india",
-              "lean": "center",
-              "ownership": "private",
-              "title": "FIFA 'blackmailing' members to back Infantino, alleges former vice president",
-              "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/fifa-blackmailing-members-to-back-infantino-former-vice-president-levels-explosive-allegation/articleshow/132926643.cms",
-              "published": "2026-08-05T12:39:42+00:00",
-              "orig_title": "FIFA 'blackmailing' members to back Infantino, alleges former vice president",
+              "outlet": "TASS",
+              "region": "russia",
+              "lean": "state",
+              "ownership": "state",
+              "title": "Security guard for CEO of Russian drone producer killed in car blast in Yekaterinburg",
+              "url": "https://tass.com/emergencies/2169343",
+              "published": "2026-08-05T14:30:31+00:00",
+              "orig_title": "Security guard for CEO of Russian drone producer killed in car blast in Yekaterinburg",
               "lang": "en",
               "translated": false,
               "access": "open"
             }
           ]
-        },
-        {
-          "outlet": "Die Welt",
-          "region": "europe",
-          "lean": "right",
-          "ownership": "private",
-          "title": "The solution comes down to three words: Infantino must go",
-          "url": "https://www.welt.de/sport/fussball/wm/article6a736faacc46967c04cafebb/figos-forderung-die-loesung-laesst-sich-auf-drei-worte-reduzieren-infantino-muss-gehen.html",
-          "published": "2026-08-05T18:18:36+00:00",
-          "orig_title": "„Die Lösung lässt sich auf drei Worte reduzieren: Infantino muss gehen“",
-          "lang": "de",
-          "translated": true,
-          "access": "unknown"
         }
       ]
     },
     {
-      "id": 22,
+      "id": 66,
       "topic": "Economics",
       "label": "Trump · tariffs · administration",
       "title": "US refunds $100bn of Donald Trump’s ‘liberation day’ tariffs",
       "summary": "More than half of tariff income refunded after supreme court ruled Trump’s levies were illegal Business live – latest updates The Trump administration has refunded about $100bn from the tariffs it col",
-      "score": 4.955,
+      "score": 4.859,
       "n_outlets": 4,
       "n_articles": 4,
       "regions": [
@@ -2182,12 +2125,12 @@
       ]
     },
     {
-      "id": 11,
+      "id": 55,
       "topic": "Economics",
       "label": "China · Argentina · swap",
       "title": "Argentina, China extend currency swap deal",
       "summary": "Central banks of Argentina and China renew US$19-billion bilateral currency swap. Leer más",
-      "score": 2.966,
+      "score": 2.869,
       "n_outlets": 2,
       "n_articles": 5,
       "regions": [
@@ -2271,22 +2214,21 @@
       ]
     },
     {
-      "id": 199,
+      "id": 250,
       "topic": "Economics",
-      "label": "Opinion · Warsh · Silence",
-      "title": "Opinion | Warsh’s Silence Manufactures Market Noise",
-      "summary": "Investors aren’t asking for rate guarantees. They simply want to know how the Fed will react to changing economic data.",
-      "score": 2.594,
+      "label": "Nearly · Australia · NSW",
+      "title": "NSW police charge woman with 62 offences over alleged threatening letters – as it happened",
+      "summary": "This blog has now closed Alan Jones trial: live updates Get our breaking news email , free app or daily news podcast Almost every house sold in first six months of the year made a profit The vast majo",
+      "score": 2.506,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
-        "europe",
-        "us"
+        "australia",
+        "europe"
       ],
-      "last_seen": "2026-08-05T15:40:00+00:00",
+      "last_seen": "2026-08-05T15:00:23+00:00",
       "leans": [
-        "left",
-        "right"
+        "left"
       ],
       "sources": [
         {
@@ -2294,36 +2236,36 @@
           "region": "europe",
           "lean": "left",
           "ownership": "private",
-          "title": "Trump Fed chair’s inflation strategy: leave it to the market | Eduardo Porter",
-          "url": "https://www.theguardian.com/business/2026/aug/04/trump-fed-kevin-warsh",
-          "published": "2026-08-04T11:00:48+00:00",
-          "orig_title": "Trump Fed chair’s inflation strategy: leave it to the market | Eduardo Porter",
+          "title": "Nearly 1,500 properties bought using Australia’s first home buyers' 5% deposit scheme converted into investments",
+          "url": "https://www.theguardian.com/australia-news/2026/aug/06/first-home-buyers-deposit-scheme-investment-property",
+          "published": "2026-08-05T15:00:23+00:00",
+          "orig_title": "Nearly 1,500 properties bought using Australia’s first home buyers' 5% deposit scheme converted into investments",
           "lang": "en",
           "translated": false,
           "access": "open"
         },
         {
-          "outlet": "The Wall Street Journal",
-          "region": "us",
-          "lean": "right",
+          "outlet": "The Guardian Australia",
+          "region": "australia",
+          "lean": "left",
           "ownership": "private",
-          "title": "Opinion | Warsh’s Silence Manufactures Market Noise",
-          "url": "https://www.wsj.com/opinion/warshs-silence-manufactures-market-noise-9132a01f?mod=rss_markets_main",
-          "published": "2026-08-05T15:40:00+00:00",
-          "orig_title": "Opinion | Warsh’s Silence Manufactures Market Noise",
+          "title": "NSW police charge woman with 62 offences over alleged threatening letters – as it happened",
+          "url": "https://www.theguardian.com/australia-news/live/2026/aug/05/australia-news-live-jetstar-charge-overhead-luggage-labor-tax-coalition-economy-wednesday-ntwnfb",
+          "published": "2026-08-05T07:34:47+00:00",
+          "orig_title": "NSW police charge woman with 62 offences over alleged threatening letters – as it happened",
           "lang": "en",
           "translated": false,
-          "access": "paywall"
+          "access": "unknown"
         }
       ]
     },
     {
-      "id": 307,
+      "id": 332,
       "topic": "Economics",
       "label": "Chinese · Western · Japan",
-      "title": "Japan positions military industry as new engine for economic growth",
-      "summary": "Tras décadas de una actividad militar limitada desde la II Guerra Mundial, Tokio apuesta por el rearme y la inversión en tecnología de defensa",
-      "score": 2.456,
+      "title": "Chinese and Western firms are teaming up even as governments fight",
+      "summary": "In an era defined by escalating geopolitical tensions and the weaponisation of supply chains, a counterintuitive phenomenon is taking root in the industrial heartlands of China, the United States and ",
+      "score": 2.41,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -2365,12 +2307,12 @@
       ]
     },
     {
-      "id": 441,
+      "id": 454,
       "topic": "Economics",
       "label": "Police · Starbucks · Korea",
       "title": "Police raid Starbucks Korea headquarters over 'Tank Day' fiasco",
       "summary": "People have filed complaints against Starbucks for allegedly making light of the deadly Gwangju Uprising.",
-      "score": 2.29,
+      "score": 2.261,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -2411,12 +2353,12 @@
       ]
     },
     {
-      "id": 606,
+      "id": 615,
       "topic": "Economics",
       "label": "Japan · Yen · Currency",
-      "title": "Five Charts That Show Why the U.S. and Japan Teamed Up to Buy Yen",
-      "summary": "A rundown of why Friday’s historic intervention in currency markets happened.",
-      "score": 2.07,
+      "title": "A Currency Trader at Heart, Bessent Bets on Japan’s Yen",
+      "summary": "Coordinated intervention allowed Japan to support its currency without selling off its U.S. debt holdings.",
+      "score": 2.063,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -2457,31 +2399,63 @@
       ]
     },
     {
-      "id": 25,
+      "id": 2,
       "topic": "Economics",
-      "label": "Live · Trump · Las",
-      "title": "Live updates: Trump promotes economic agenda in Las Vegas; El-Sayed rocks Michigan with primary win",
-      "summary": "President Trump is on the West Coast, with an event in Las Vegas Wednesday afternoon before returning to the White House. He's making remarks on his economic agenda, reminding the crowd of his \"no tax",
-      "score": 1.952,
+      "label": "How · SAIC · China",
+      "title": "How SAIC’s recharged venture with GM plans to catch up with top EV makers in China",
+      "summary": "China’s SAIC Motor has extended its cooperation with General Motors by 20 years, renewing the joint venture through 2047 amid aggressive competition from home-grown rivals. SAIC and GM, the largest ca",
+      "score": 1.986,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
-        "us"
+        "china"
       ],
-      "last_seen": "2026-08-05T21:19:48+00:00",
+      "last_seen": "2026-08-05T23:01:04+00:00",
       "leans": [
         "center"
       ],
       "sources": [
         {
-          "outlet": "The Hill",
-          "region": "us",
+          "outlet": "South China Morning Post",
+          "region": "china",
           "lean": "center",
           "ownership": "private",
-          "title": "Live updates: Trump promotes economic agenda in Las Vegas; El-Sayed rocks Michigan with primary win",
-          "url": "https://thehill.com/homenews/administration/6010135-live-updates-trump-vegas-michigan-el-sayed-progressives/",
-          "published": "2026-08-05T21:19:48+00:00",
-          "orig_title": "Live updates: Trump promotes economic agenda in Las Vegas; El-Sayed rocks Michigan with primary win",
+          "title": "How SAIC’s recharged venture with GM plans to catch up with top EV makers in China",
+          "url": "https://www.scmp.com/business/china-evs/article/3363081/how-saics-recharged-venture-gm-plans-catch-top-ev-makers-china?utm_source=rss_feed",
+          "published": "2026-08-05T23:01:04+00:00",
+          "orig_title": "How SAIC’s recharged venture with GM plans to catch up with top EV makers in China",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "topic": "Economics",
+      "label": "Argentina · BCRA · Reform",
+      "title": "Argentina’s BCRA Reform Bill Would Ban State Financing",
+      "summary": "Economy: Buenos Aires Key Facts &#8212;Bill. President Javier Milei announced a bill to overhaul the charter of the Central Bank (BCRA) in a 30 July 2026 national address and sent it to Congress. &#82",
+      "score": 1.899,
+      "n_outlets": 1,
+      "n_articles": 1,
+      "regions": [
+        "south_america"
+      ],
+      "last_seen": "2026-08-05T21:54:58+00:00",
+      "leans": [
+        "right"
+      ],
+      "sources": [
+        {
+          "outlet": "The Rio Times",
+          "region": "south_america",
+          "lean": "right",
+          "ownership": "private",
+          "title": "Argentina’s BCRA Reform Bill Would Ban State Financing",
+          "url": "https://www.riotimesonline.com/argentina-milei-bcra-reform-bill-2026/",
+          "published": "2026-08-05T21:54:58+00:00",
+          "orig_title": "Argentina’s BCRA Reform Bill Would Ban State Financing",
           "lang": "en",
           "translated": false,
           "access": "unknown"
@@ -2489,302 +2463,108 @@
       ]
     },
     {
-      "id": 48,
+      "id": 42,
       "topic": "Economics",
-      "label": "U.S. · Cuts · Ties",
-      "title": "U.S. Cuts Ties With Organ Donor Group After Reports of Abuses",
-      "summary": "The federal government is ending its contract with a Kentucky nonprofit that it says pressured medical workers to remove organs from patients who were getting better.",
-      "score": 1.924,
+      "label": "Bolivia · Billion · IMF",
+      "title": "Bolivia’s US$1.9 Billion IMF Loan Deal Awaits Congress Approval",
+      "summary": "Economy: La Paz Key Facts &#8212;Deal. IMF staff and the Bolivian authorities reached a staff-level agreement on 29 July 2026 for a 36-month Extended Fund Facility (EFF) of about US$1.9 billion. &#821",
+      "score": 1.899,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
-        "us"
+        "south_america"
       ],
-      "last_seen": "2026-08-05T20:57:55+00:00",
+      "last_seen": "2026-08-05T21:54:47+00:00",
       "leans": [
-        "left"
+        "right"
       ],
       "sources": [
         {
-          "outlet": "The New York Times",
-          "region": "us",
-          "lean": "left",
+          "outlet": "The Rio Times",
+          "region": "south_america",
+          "lean": "right",
           "ownership": "private",
-          "title": "U.S. Cuts Ties With Organ Donor Group After Reports of Abuses",
-          "url": "https://www.nytimes.com/2026/08/05/us/organ-donations-kentucky.html",
-          "published": "2026-08-05T20:57:55+00:00",
-          "orig_title": "U.S. Cuts Ties With Organ Donor Group After Reports of Abuses",
+          "title": "Bolivia’s US$1.9 Billion IMF Loan Deal Awaits Congress Approval",
+          "url": "https://www.riotimesonline.com/bolivia-imf-loan-1-9-billion-2026/",
+          "published": "2026-08-05T21:54:47+00:00",
+          "orig_title": "Bolivia’s US$1.9 Billion IMF Loan Deal Awaits Congress Approval",
           "lang": "en",
           "translated": false,
-          "access": "paywall"
+          "access": "unknown"
         }
       ]
     },
     {
-      "id": 69,
+      "id": 43,
       "topic": "Economics",
-      "label": "Americans · Iran · Poll",
-      "title": "Americans more concerned about cost of living, inflation than Iran war: Poll",
-      "summary": "Americans are more concerned about the cost of living and inflation than they are about the Iran war, a new poll found. A Marquette University Law School poll released Wednesday shows 35 percent of Am",
-      "score": 1.884,
+      "label": "Fujimori · Government · Unveils",
+      "title": "Fujimori Government Unveils US$20.6 Billion Lima Metro Shock",
+      "summary": "Infrastructure: Lima Key Facts &#8212;Government. Keiko Fujimori was sworn in on 28 July 2026 for the 2026-2031 term, with Luis Galarreta as prime minister and economist Elmer Cuba leading the Ministr",
+      "score": 1.899,
       "n_outlets": 1,
+      "n_articles": 1,
+      "regions": [
+        "south_america"
+      ],
+      "last_seen": "2026-08-05T21:54:39+00:00",
+      "leans": [
+        "right"
+      ],
+      "sources": [
+        {
+          "outlet": "The Rio Times",
+          "region": "south_america",
+          "lean": "right",
+          "ownership": "private",
+          "title": "Fujimori Government Unveils US$20.6 Billion Lima Metro Shock",
+          "url": "https://www.riotimesonline.com/peru-fujimori-lima-metro-shock-2026/",
+          "published": "2026-08-05T21:54:39+00:00",
+          "orig_title": "Fujimori Government Unveils US$20.6 Billion Lima Metro Shock",
+          "lang": "en",
+          "translated": false,
+          "access": "unknown"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "topic": "Trading & Markets",
+      "label": "Milei · Argentine · Senate",
+      "title": "Argentine government pulls chapter on land sales to foreigners from Senate debate",
+      "summary": "Argentina's governing bloc withdrew on Wednesday the rural land chapter of the Inviolability of Private Property bill from the Senate agenda, lacking the votes to pass it and hours before the session ",
+      "score": 2.909,
+      "n_outlets": 2,
       "n_articles": 2,
       "regions": [
-        "us"
+        "south_america"
       ],
-      "last_seen": "2026-08-05T20:26:44+00:00",
+      "last_seen": "2026-08-05T22:02:51+00:00",
       "leans": [
         "center"
       ],
       "sources": [
         {
-          "outlet": "The Hill",
-          "region": "us",
+          "outlet": "Buenos Aires Times",
+          "region": "south_america",
           "lean": "center",
           "ownership": "private",
-          "title": "Americans more concerned about cost of living, inflation than Iran war: Poll",
-          "url": "https://thehill.com/business/6012178-inflation-cost-living-marquette-poll/",
-          "published": "2026-08-05T20:26:44+00:00",
-          "orig_title": "Americans more concerned about cost of living, inflation than Iran war: Poll",
+          "title": "Milei guts bill to ease property laws in face of public uproar",
+          "url": "https://www.batimes.com.ar/news/argentina/milei-guts-bill-to-ease-property-laws-in-face-of-public-uproar.phtml",
+          "published": "2026-08-05T22:02:51+00:00",
+          "orig_title": "Milei guts bill to ease property laws in face of public uproar",
           "lang": "en",
           "translated": false,
-          "access": "unknown",
-          "more": [
-            {
-              "outlet": "The Hill",
-              "region": "us",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Most Americans say Iran conflict not worth the cost, falls short of goals: Poll",
-              "url": "https://thehill.com/policy/defense/6012145-marquette-poll-iran-war-cost-goals/",
-              "published": "2026-08-05T20:03:54+00:00",
-              "orig_title": "Most Americans say Iran conflict not worth the cost, falls short of goals: Poll",
-              "lang": "en",
-              "translated": false,
-              "access": "unknown"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 84,
-      "topic": "Economics",
-      "label": "Highs · GST · lows",
-      "title": "Highs and lows: On GST metrics",
-      "summary": "GST must be fuelled by domestic production, not inflation or imports",
-      "score": 1.852,
-      "n_outlets": 1,
-      "n_articles": 1,
-      "regions": [
-        "india"
-      ],
-      "last_seen": "2026-08-05T19:59:56+00:00",
-      "leans": [
-        "left"
-      ],
-      "sources": [
-        {
-          "outlet": "The Hindu",
-          "region": "india",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Highs and lows: On GST metrics",
-          "url": "https://www.thehindu.com/opinion/editorial/highs-and-lows-on-gst-metrics/article71309455.ece",
-          "published": "2026-08-05T19:59:56+00:00",
-          "orig_title": "Highs and lows: On GST metrics",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        }
-      ]
-    },
-    {
-      "id": 397,
-      "topic": "Trading & Markets",
-      "label": "Moscow · Russia · drones",
-      "title": "Four Drones Shot Down Near Moscow",
-      "summary": "Силы ПВО уничтожили четыре беспилотника, летевших в сторону Москвы. Об этом сообщил мэр Сергей Собянин в «Максе».",
-      "score": 3.344,
-      "n_outlets": 3,
-      "n_articles": 13,
-      "regions": [
-        "russia"
-      ],
-      "last_seen": "2026-08-05T09:07:17+00:00",
-      "leans": [
-        "center",
-        "left",
-        "state"
-      ],
-      "sources": [
-        {
-          "outlet": "Novaya Gazeta Europe",
-          "region": "russia",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Drone Corps",
-          "url": "https://novayagazeta.eu/articles/2026/08/04/dronovyi-korpus",
-          "published": "2026-08-04T16:09:02+00:00",
-          "orig_title": "«Дроновый корпус»",
-          "lang": "ru",
-          "translated": true,
           "access": "unknown"
         },
         {
-          "outlet": "Kommersant",
-          "region": "russia",
+          "outlet": "MercoPress",
+          "region": "south_america",
           "lean": "center",
           "ownership": "private",
-          "title": "Four Drones Shot Down Near Moscow",
-          "url": "https://www.kommersant.ru/doc/8862282",
-          "published": "2026-08-04T11:03:27+00:00",
-          "orig_title": "Вблизи Москвы сбиты четыре беспилотника",
-          "lang": "ru",
-          "translated": true,
-          "access": "unknown",
-          "more": [
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Drones shot down near Moscow reaches six",
-              "url": "https://www.kommersant.ru/doc/8862348",
-              "published": "2026-08-04T12:18:38+00:00",
-              "orig_title": "Число сбитых вблизи Москвы БПЛА достигло шести",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            },
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Eight drones shot down near Moscow",
-              "url": "https://www.kommersant.ru/doc/8862703",
-              "published": "2026-08-05T00:22:41+00:00",
-              "orig_title": "Вблизи Москвы сбиты восемь беспилотников",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            },
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Number of drones shot down approaching Moscow rises to 13",
-              "url": "https://www.kommersant.ru/doc/8862558",
-              "published": "2026-08-04T15:42:03+00:00",
-              "orig_title": "Число сбитых на подлете к Москве беспилотников увеличилось до 13",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            },
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Sobyanin: two-thirds of drones attacking Russia target Moscow",
-              "url": "https://www.kommersant.ru/doc/8862911",
-              "published": "2026-08-05T08:35:40+00:00",
-              "orig_title": "Собянин: две трети всех атакующих Россию БПЛА направлены на Москву",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            },
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Drones shot down near Moscow increase to 10",
-              "url": "https://www.kommersant.ru/doc/8862705",
-              "published": "2026-08-05T01:45:07+00:00",
-              "orig_title": "Число сбитых вблизи Москвы БПЛА увеличилось до 10",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            },
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Air defense forces shot down 475 drones over Russia overnight",
-              "url": "https://www.kommersant.ru/doc/8862757",
-              "published": "2026-08-05T05:21:18+00:00",
-              "orig_title": "Силы ПВО за ночь сбили над Россией 475 БПЛА",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            },
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Russia downs 304 drones over regions in 12 hours",
-              "url": "https://www.kommersant.ru/doc/8862658",
-              "published": "2026-08-04T18:37:59+00:00",
-              "orig_title": "Над регионами России сбили 304 БПЛА за 12 часов",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            },
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "184 drones headed toward Moscow in a single day",
-              "url": "https://www.kommersant.ru/doc/8862672",
-              "published": "2026-08-04T19:40:28+00:00",
-              "orig_title": "В сторону Москвы за день летели 184 БПЛА",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            },
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Gelendzhik Airport loses 16% of flights due to drone attacks in June",
-              "url": "https://www.kommersant.ru/doc/8862540",
-              "published": "2026-08-04T15:21:09+00:00",
-              "orig_title": "Аэропорт Геленджика потерял 16% рейсов из-за «ковров» в июне",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            },
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Sirens activated in two Udmurtia cities over drone attack threat",
-              "url": "https://www.kommersant.ru/doc/8862783",
-              "published": "2026-08-05T06:16:41+00:00",
-              "orig_title": "В двух городах Удмуртии включили сирены из-за угрозы атаки БПЛА",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            }
-          ]
-        },
-        {
-          "outlet": "TASS",
-          "region": "russia",
-          "lean": "state",
-          "ownership": "state",
-          "title": "Two-thirds of all drones attacking Russia target Moscow — mayor",
-          "url": "https://tass.com/politics/2169161",
-          "published": "2026-08-05T09:07:17+00:00",
-          "orig_title": "Two-thirds of all drones attacking Russia target Moscow — mayor",
+          "title": "Argentine government pulls chapter on land sales to foreigners from Senate debate",
+          "url": "https://en.mercopress.com/2026/08/05/argentine-government-pulls-chapter-on-land-sales-to-foreigners-from-senate-debate?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+          "published": "2026-08-05T21:10:00+00:00",
+          "orig_title": "Argentine government pulls chapter on land sales to foreigners from Senate debate",
           "lang": "en",
           "translated": false,
           "access": "open"
@@ -2792,12 +2572,12 @@
       ]
     },
     {
-      "id": 26,
+      "id": 70,
       "topic": "Trading & Markets",
       "label": "Investing · Heavyweights · Backed",
       "title": "AI ambitions fuel growing tech debt",
       "summary": "{beacon} Technology Technology &#8202; The Big Story Tech firms rack up debt, risks to fund AI ambitions Major technology companies are taking on massive amounts of debt to fund their lofty AI ambitio",
-      "score": 2.952,
+      "score": 2.856,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -2838,59 +2618,12 @@
       ]
     },
     {
-      "id": 28,
-      "topic": "Trading & Markets",
-      "label": "Live · Labor's · gambling",
-      "title": "Live: Labor's gambling ad laws an 'absolute fail', says shadow minister",
-      "summary": "Anne Webster says a Senate inquiry into Labor's gambling advertising legislation shows the bill has \"plenty of deficiencies\". Follow live.",
-      "score": 2.95,
-      "n_outlets": 2,
-      "n_articles": 2,
-      "regions": [
-        "australia",
-        "europe"
-      ],
-      "last_seen": "2026-08-05T21:18:31+00:00",
-      "leans": [
-        "center",
-        "left"
-      ],
-      "sources": [
-        {
-          "outlet": "The Guardian",
-          "region": "europe",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Labor’s gambling reform friendless as Coalition withholds support amid drug and sex worker allegations",
-          "url": "https://www.theguardian.com/australia-news/2026/aug/05/labors-gambling-reform-friendless-as-coalition-withholds-support-amid-drug-and-sex-worker-allegations",
-          "published": "2026-08-05T07:50:14+00:00",
-          "orig_title": "Labor’s gambling reform friendless as Coalition withholds support amid drug and sex worker allegations",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "ABC News (Australia)",
-          "region": "australia",
-          "lean": "center",
-          "ownership": "public",
-          "title": "Live: Labor's gambling ad laws an 'absolute fail', says shadow minister",
-          "url": "https://www.abc.net.au/news/2026-08-06/federal-politics-live-blog-gambling-inquiry/107002328",
-          "published": "2026-08-05T21:18:31+00:00",
-          "orig_title": "Live: Labor's gambling ad laws an 'absolute fail', says shadow minister",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        }
-      ]
-    },
-    {
-      "id": 40,
+      "id": 79,
       "topic": "Trading & Markets",
       "label": "Musk · Money · Mars",
-      "title": "SpaceX Revenue Could Reach $1 Trillion, Elon Musk Says",
-      "summary": "The company’s first earnings report as a public company shows a surge in revenue and the tab for capital expenditures.",
-      "score": 2.934,
+      "title": "Musk, Money and Mars",
+      "summary": "SpaceX shares are down, but Elon Musk is still the richest man in the world. What’s next?",
+      "score": 2.84,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -2931,86 +2664,12 @@
       ]
     },
     {
-      "id": 296,
-      "topic": "Trading & Markets",
-      "label": "Gold · first · time",
-      "title": "Gold futures exceed $4,200 per troy ounce for first time since July 6",
-      "summary": "Стоимость декабрьского фьючерса на золото на бирже Comex растет на 1,3%, до $4206,7 за тройскую унцию. Золото превысило отметку $4200 впервые с 6 июля 2026 года.",
-      "score": 2.467,
-      "n_outlets": 2,
-      "n_articles": 4,
-      "regions": [
-        "russia"
-      ],
-      "last_seen": "2026-08-05T12:46:19+00:00",
-      "leans": [
-        "center",
-        "state"
-      ],
-      "sources": [
-        {
-          "outlet": "Kommersant",
-          "region": "russia",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Gold futures exceed $4,200 per troy ounce for first time since July 6",
-          "url": "https://www.kommersant.ru/doc/8862774",
-          "published": "2026-08-05T06:03:06+00:00",
-          "orig_title": "Фьючерс на золото превысил $4200 за тройскую унцию впервые с 6 июля",
-          "lang": "ru",
-          "translated": true,
-          "access": "unknown",
-          "more": [
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Diamonds stop falling in price for first time since March 2025",
-              "url": "https://www.kommersant.ru/doc/8862467",
-              "published": "2026-08-04T14:12:28+00:00",
-              "orig_title": "Бриллианты перестали дешеветь впервые с марта 2025 года",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            },
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Iron ore price hits 13-month low",
-              "url": "https://www.kommersant.ru/doc/8862329",
-              "published": "2026-08-04T12:05:41+00:00",
-              "orig_title": "Цена на железную руду упала до минимума за 13 месяцев",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            }
-          ]
-        },
-        {
-          "outlet": "TASS",
-          "region": "russia",
-          "lean": "state",
-          "ownership": "state",
-          "title": "Gold futures top $4,250/oz for first time since June 18",
-          "url": "https://tass.com/economy/2169271",
-          "published": "2026-08-05T12:46:19+00:00",
-          "orig_title": "Gold futures top $4,250/oz for first time since June 18",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        }
-      ]
-    },
-    {
-      "id": 487,
+      "id": 499,
       "topic": "Trading & Markets",
       "label": "Kashmir · just · want",
-      "title": "The avalanche that killed a climbing legend - and a generation of record-setting guides",
-      "summary": "Their fellow guides say their deaths in Pakistan dealt a devastating blow to Nepal's mountaineering community.",
-      "score": 2.225,
+      "title": "‘I just want to find them’: deadly cloudbursts devastate Kashmir’s mountain communities",
+      "summary": "Increasingly erratic weather patterns due to climate change mean people are losing homes, crops and livestock As rain lashed the Pir Panjal mountains before dawn on 19 July, Haji Mohammad Latief stepp",
+      "score": 2.202,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -3051,12 +2710,12 @@
       ]
     },
     {
-      "id": 491,
+      "id": 503,
       "topic": "Trading & Markets",
       "label": "China · A-share · Daily",
       "title": "Daily yuan trading volume falls to year's lowest",
       "summary": "По оценке “Ъ”, основанной на данных участников рынка, в июле объем торгов юанем с расчетом «завтра» составил 2,37 трлн руб. Этот результат на 15% превысил показатель июля 2025 года и стал лучшим для д",
-      "score": 2.221,
+      "score": 2.199,
       "n_outlets": 2,
       "n_articles": 3,
       "regions": [
@@ -3112,12 +2771,12 @@
       ]
     },
     {
-      "id": 568,
+      "id": 577,
       "topic": "Trading & Markets",
       "label": "Zaslavsky · GITIS · Grigory",
       "title": "Grigory Zaslavsky steps down as rector of GITIS",
       "summary": "Минкультуры с 5 августа снимает с должности ректора ГИТИСа Григория Заславского. Об этом «Ъ» сообщил сам господин Заславский.",
-      "score": 2.096,
+      "score": 2.086,
       "n_outlets": 2,
       "n_articles": 3,
       "regions": [
@@ -3173,12 +2832,76 @@
       ]
     },
     {
-      "id": 1,
+      "id": 3,
+      "topic": "Trading & Markets",
+      "label": "Prosecutors · Probed · Whistleblower",
+      "title": "Prosecutors Probed Whistleblower Claims That JPMorgan Mishandled Fraud Cases",
+      "summary": "A former executive alleged JPMorgan improperly denied reimbursements of more than $100 million to customers who were victims of financial scams.",
+      "score": 1.984,
+      "n_outlets": 1,
+      "n_articles": 1,
+      "regions": [
+        "us"
+      ],
+      "last_seen": "2026-08-05T23:00:00+00:00",
+      "leans": [
+        "right"
+      ],
+      "sources": [
+        {
+          "outlet": "The Wall Street Journal",
+          "region": "us",
+          "lean": "right",
+          "ownership": "private",
+          "title": "Prosecutors Probed Whistleblower Claims That JPMorgan Mishandled Fraud Cases",
+          "url": "https://www.wsj.com/finance/regulation/prosecutors-probed-whistleblower-claims-that-jpmorgan-mishandled-fraud-cases-3f941dc9?mod=rss_markets_main",
+          "published": "2026-08-05T23:00:00+00:00",
+          "orig_title": "Prosecutors Probed Whistleblower Claims That JPMorgan Mishandled Fraud Cases",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "topic": "Trading & Markets",
+      "label": "Man · Queensland · woman",
+      "title": "Man and woman found dead in outback Queensland home after hours-long police siege",
+      "summary": "A 45-year-old man and 23-year-old woman were found dead in the Charleville home after a near eight-hour siege by police An hours-long siege has ended in tragedy after a man and woman were found dead i",
+      "score": 1.935,
+      "n_outlets": 1,
+      "n_articles": 1,
+      "regions": [
+        "europe"
+      ],
+      "last_seen": "2026-08-05T22:23:15+00:00",
+      "leans": [
+        "left"
+      ],
+      "sources": [
+        {
+          "outlet": "The Guardian",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Man and woman found dead in outback Queensland home after hours-long police siege",
+          "url": "https://www.theguardian.com/australia-news/2026/aug/06/charleville-siege-death-man-woman-police-assault-queensland-ntwnfb",
+          "published": "2026-08-05T22:23:15+00:00",
+          "orig_title": "Man and woman found dead in outback Queensland home after hours-long police siege",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 44,
       "topic": "Trading & Markets",
       "label": "WSJ · Dollar · Index",
-      "title": "WSJ Dollar Index Falls 0.16% to 96.01",
-      "summary": "The WSJ Dollar Index fell 0.2% — down six of the past seven trading days.",
-      "score": 1.99,
+      "title": "WSJ Dollar Index Falls 0.02% to 96.17",
+      "summary": "The WSJ Dollar Index edged lower — down five of the past six trading days.",
+      "score": 1.891,
       "n_outlets": 1,
       "n_articles": 2,
       "regions": [
@@ -3194,10 +2917,10 @@
           "region": "us",
           "lean": "right",
           "ownership": "private",
-          "title": "WSJ Dollar Index Falls 0.16% to 96.01",
-          "url": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-may-gain-on-hopes-for-hormuz-reopening-72be347e?mod=rss_markets_main",
-          "published": "2026-08-05T21:48:00+00:00",
-          "orig_title": "WSJ Dollar Index Falls 0.16% to 96.01",
+          "title": "WSJ Dollar Index Falls 0.02% to 96.17",
+          "url": "https://www.wsj.com/finance/currencies/dollar-rising-vs-yen-in-possible-corrective-pattern-technical-analysis-shows-d48a2527?mod=rss_markets_main",
+          "published": "2026-08-04T21:33:00+00:00",
+          "orig_title": "WSJ Dollar Index Falls 0.02% to 96.17",
           "lang": "en",
           "translated": false,
           "access": "paywall",
@@ -3207,10 +2930,10 @@
               "region": "us",
               "lean": "right",
               "ownership": "private",
-              "title": "WSJ Dollar Index Falls 0.02% to 96.17",
-              "url": "https://www.wsj.com/finance/currencies/dollar-rising-vs-yen-in-possible-corrective-pattern-technical-analysis-shows-d48a2527?mod=rss_markets_main",
-              "published": "2026-08-04T21:33:00+00:00",
-              "orig_title": "WSJ Dollar Index Falls 0.02% to 96.17",
+              "title": "WSJ Dollar Index Falls 0.16% to 96.01",
+              "url": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-may-gain-on-hopes-for-hormuz-reopening-72be347e?mod=rss_markets_main",
+              "published": "2026-08-05T21:48:00+00:00",
+              "orig_title": "WSJ Dollar Index Falls 0.16% to 96.01",
               "lang": "en",
               "translated": false,
               "access": "paywall"
@@ -3220,44 +2943,44 @@
       ]
     },
     {
-      "id": 5,
+      "id": 68,
       "topic": "Trading & Markets",
-      "label": "Australia · NSW · news",
-      "title": "Australia news live: NSW man charged over alleged threats of violence against female MP",
-      "summary": "Police allege man issued threats on social media to find woman and hurt her. Follow today’s news live Get our breaking news email , free app or daily news podcast Ebikes to face new safety standards T",
-      "score": 1.977,
+      "label": "Strong · Earnings · Power",
+      "title": "Strong Earnings Power Dow to Another Record",
+      "summary": "Blue-chip average notches 24th high of the year, while Nasdaq slips.",
+      "score": 1.857,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
-        "europe"
+        "us"
       ],
-      "last_seen": "2026-08-05T21:38:38+00:00",
+      "last_seen": "2026-08-05T21:20:00+00:00",
       "leans": [
-        "left"
+        "right"
       ],
       "sources": [
         {
-          "outlet": "The Guardian",
-          "region": "europe",
-          "lean": "left",
+          "outlet": "The Wall Street Journal",
+          "region": "us",
+          "lean": "right",
           "ownership": "private",
-          "title": "Australia news live: NSW man charged over alleged threats of violence against female MP",
-          "url": "https://www.theguardian.com/australia-news/live/2026/aug/06/australia-news-live-nsw-politics-icac-corruption-perrottet-ibac-victoria-daniel-andrews-royal-commission-antisemitism-labor-tax-albanese-ntwnfb",
-          "published": "2026-08-05T21:38:38+00:00",
-          "orig_title": "Australia news live: NSW man charged over alleged threats of violence against female MP",
+          "title": "Strong Earnings Power Dow to Another Record",
+          "url": "https://www.wsj.com/finance/stocks/strong-earnings-power-dow-to-another-record-00bf7f81?mod=rss_markets_main",
+          "published": "2026-08-05T21:20:00+00:00",
+          "orig_title": "Strong Earnings Power Dow to Another Record",
           "lang": "en",
           "translated": false,
-          "access": "open"
+          "access": "paywall"
         }
       ]
     },
     {
-      "id": 2,
+      "id": 45,
       "topic": "Science",
       "label": "SpaceX · Moon · rocket",
       "title": "Part of SpaceX rocket believed to have struck Moon",
       "summary": "A stray SpaceX rocket is believed to have crashed into the Moon, forming a crater",
-      "score": 6.985,
+      "score": 6.886,
       "n_outlets": 6,
       "n_articles": 8,
       "regions": [
@@ -3382,12 +3105,12 @@
       ]
     },
     {
-      "id": 162,
+      "id": 187,
       "topic": "Science",
       "label": "images · Sun · sun",
       "title": "Unprecedented images may explain one of greatest mysteries of the sun",
       "summary": "Highest-ever resolution pictures of our star could help show why its corona is millions of degrees hotter than its surface Golden bands and swirling vortices have been spotted on the sun in the most d",
-      "score": 4.652,
+      "score": 4.587,
       "n_outlets": 4,
       "n_articles": 4,
       "regions": [
@@ -3455,12 +3178,12 @@
       ]
     },
     {
-      "id": 103,
+      "id": 130,
       "topic": "Science",
       "label": "Google · Demis · Hassabis",
       "title": "Google Names Demis Hassabis to New AI Role in a Leadership Shake-up",
       "summary": "Minutes after four top researchers said they were leaving, Google said that Demis Hassabis, the Nobel-winning scientist who led the company’s A.I. lab, was stepping into a new job.",
-      "score": 3.803,
+      "score": 3.723,
       "n_outlets": 3,
       "n_articles": 4,
       "regions": [
@@ -3530,12 +3253,12 @@
       ]
     },
     {
-      "id": 594,
+      "id": 603,
       "topic": "Science",
       "label": "Bezos · DiCaprio · Phoenix",
       "title": "Phoenix Species Project Announces Funds for Imperiled Wildlife",
       "summary": "A new fund called the Phoenix Species Project will provide $200 million to help pull imperiled wildlife back from the brink of extinction.",
-      "score": 2.076,
+      "score": 2.068,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -3577,12 +3300,76 @@
       ]
     },
     {
-      "id": 8,
+      "id": 22,
+      "topic": "Science",
+      "label": "Toronto · Zoo · Kindia",
+      "title": "Toronto Zoo announces birth of pygmy hippo calf, third for mother Kindia",
+      "summary": "The 20-year-old’s third calf is being monitored by officials as survival rates for the species are challenging, the zoo said The Toronto Zoo has announced the birth of a female pygmy hippo calf. Kindi",
+      "score": 1.926,
+      "n_outlets": 1,
+      "n_articles": 1,
+      "regions": [
+        "europe"
+      ],
+      "last_seen": "2026-08-05T22:16:20+00:00",
+      "leans": [
+        "left"
+      ],
+      "sources": [
+        {
+          "outlet": "The Guardian",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Toronto Zoo announces birth of pygmy hippo calf, third for mother Kindia",
+          "url": "https://www.theguardian.com/world/2026/aug/05/toronto-zoo-pygmy-hippo-calf",
+          "published": "2026-08-05T22:16:20+00:00",
+          "orig_title": "Toronto Zoo announces birth of pygmy hippo calf, third for mother Kindia",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "topic": "Science",
+      "label": "Marmots · OnlyFans · facing",
+      "title": "Marmots facing money troubles turn to OnlyFans",
+      "summary": "A Colorado lab researching the ground-squirrels comes up with an innovative way to raise money after funding cuts.",
+      "score": 1.901,
+      "n_outlets": 1,
+      "n_articles": 1,
+      "regions": [
+        "europe"
+      ],
+      "last_seen": "2026-08-05T21:56:38+00:00",
+      "leans": [
+        "center"
+      ],
+      "sources": [
+        {
+          "outlet": "BBC News",
+          "region": "europe",
+          "lean": "center",
+          "ownership": "public",
+          "title": "Marmots facing money troubles turn to OnlyFans",
+          "url": "https://www.bbc.co.uk/news/articles/c5ywqp5z5yzo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-05T21:56:38+00:00",
+          "orig_title": "Marmots facing money troubles turn to OnlyFans",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 52,
       "topic": "Science",
       "label": "Trump · Push · More",
       "title": "Trump’s Push for More A.I. Data Centers Will Mean Major Air Pollution",
       "summary": "Trump’s Push for More A.I. Data Centers Will Mean Major Air Pollution",
-      "score": 1.975,
+      "score": 1.877,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -3609,12 +3396,12 @@
       ]
     },
     {
-      "id": 34,
+      "id": 76,
       "topic": "Science",
       "label": "Zealand · Racing · Vaccinate",
       "title": "New Zealand is Racing to Vaccinate Its Endangered Birds Against Bird Flu",
       "summary": "Conservation experts are trying to slow the march of the viral disease in a country that is home to rare and endangered bird species.",
-      "score": 1.942,
+      "score": 1.847,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -3641,12 +3428,12 @@
       ]
     },
     {
-      "id": 78,
+      "id": 110,
       "topic": "Science",
       "label": "NHS · Yvette · Cooper",
       "title": "Adapting to global heating: which UK public services are struggling in hot weather?",
       "summary": "As NHS told to prepare for extreme weather, strain also felt in other areas including transport and farming NHS must prepare for annual summer heat pressures, says Yvette Cooper The NHS has been told ",
-      "score": 1.853,
+      "score": 1.767,
       "n_outlets": 1,
       "n_articles": 2,
       "regions": [
@@ -3688,12 +3475,12 @@
       ]
     },
     {
-      "id": 79,
+      "id": 111,
       "topic": "Science",
       "label": "Study · finds · three",
       "title": "Study finds three midlife health factors that could delay dementia for 13 years",
       "summary": "Research suggests addressing risk factors for poor cardiovascular health between the ages of 45 and 65 could help reduce risk of cognitive decline Scientists claim to have identified three health meas",
-      "score": 1.853,
+      "score": 1.767,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -3720,95 +3507,15 @@
       ]
     },
     {
-      "id": 93,
-      "topic": "Science",
-      "label": "Quantum · industry · research",
-      "title": "Quantum shift: On private industry and national research spending",
-      "summary": "Private R&amp;D spends should be used to bolster manufacturing",
-      "score": 1.826,
-      "n_outlets": 1,
-      "n_articles": 2,
-      "regions": [
-        "india"
-      ],
-      "last_seen": "2026-08-05T19:37:35+00:00",
-      "leans": [
-        "left"
-      ],
-      "sources": [
-        {
-          "outlet": "The Hindu",
-          "region": "india",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Quantum shift: On private industry and national research spending",
-          "url": "https://www.thehindu.com/opinion/editorial/quantum-shift-on-private-industry-and-national-research-spending/article71309476.ece",
-          "published": "2026-08-05T19:37:35+00:00",
-          "orig_title": "Quantum shift: On private industry and national research spending",
-          "lang": "en",
-          "translated": false,
-          "access": "open",
-          "more": [
-            {
-              "outlet": "The Hindu",
-              "region": "india",
-              "lean": "left",
-              "ownership": "private",
-              "title": "Transport, pharma and biotech as industry become India’s biggest research investors",
-              "url": "https://www.thehindu.com/business/Economy/transport-pharma-and-biotech-as-industry-become-indias-biggest-research-investors/article71305502.ece",
-              "published": "2026-08-04T16:25:54+00:00",
-              "orig_title": "Transport, pharma and biotech as industry become India’s biggest research investors",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 106,
-      "topic": "Science",
-      "label": "risks · many · diseases",
-      "title": "The risks of many diseases are linked to birth order, study finds",
-      "summary": "The study didn’t include uninsured families or those on Medicaid, which means the data may be skewed.",
-      "score": 1.792,
-      "n_outlets": 1,
-      "n_articles": 1,
-      "regions": [
-        "us"
-      ],
-      "last_seen": "2026-08-05T19:07:10+00:00",
-      "leans": [
-        "center"
-      ],
-      "sources": [
-        {
-          "outlet": "The Hill",
-          "region": "us",
-          "lean": "center",
-          "ownership": "private",
-          "title": "The risks of many diseases are linked to birth order, study finds",
-          "url": "https://thehill.com/policy/healthcare/6010758-risk-disease-disorders-linked-birth-order-study/",
-          "published": "2026-08-05T19:07:10+00:00",
-          "orig_title": "The risks of many diseases are linked to birth order, study finds",
-          "lang": "en",
-          "translated": false,
-          "access": "unknown"
-        }
-      ]
-    },
-    {
-      "id": 63,
+      "id": 99,
       "topic": "Technology",
       "label": "SpaceX · Shares · Spending",
-      "title": "SpaceX, in First Earnings After IPO, Reports Soaring AI Spending",
-      "summary": "Elon Musk’s rocket company said its capital expenditures jumped nearly seven times from a year ago. Revenue also rose.",
-      "score": 6.89,
-      "n_outlets": 6,
-      "n_articles": 8,
+      "title": "SpaceX Shares Sink on AI Spending Plans",
+      "summary": "The Elon Musk-led rocket company spent $15.8 billion on AI projects in the second quarter and doesn’t plan to slow down.",
+      "score": 5.8,
+      "n_outlets": 5,
+      "n_articles": 7,
       "regions": [
-        "china",
         "europe",
         "russia",
         "us"
@@ -3873,19 +3580,6 @@
           "access": "unknown"
         },
         {
-          "outlet": "South China Morning Post",
-          "region": "china",
-          "lean": "center",
-          "ownership": "private",
-          "title": "SpaceX report, share unlock may sway Hong Kong, mainland China stocks as AI trade recovers",
-          "url": "https://www.scmp.com/business/china-business/article/3362898/spacex-report-share-unlock-may-sway-hong-kong-mainland-china-stocks-ai-trade-recovers?utm_source=rss_feed",
-          "published": "2026-08-04T10:00:13+00:00",
-          "orig_title": "SpaceX report, share unlock may sway Hong Kong, mainland China stocks as AI trade recovers",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
           "outlet": "The Wall Street Journal",
           "region": "us",
           "lean": "right",
@@ -3929,12 +3623,12 @@
       ]
     },
     {
-      "id": 47,
+      "id": 86,
       "topic": "Technology",
       "label": "Anthropic · Advanced · deception",
       "title": "UK raises alert after discovering dangerous AI behavior from Anthropic and OpenAI: 'First deception targeting a real person'",
       "summary": "El británico Instituto de Seguridad de la IA advierte de que los agentes más avanzados perpetraron actividades prohibidas “potencialmente dañinas dirigidas hacia personas y organizaciones reales” para",
-      "score": 4.926,
+      "score": 4.833,
       "n_outlets": 4,
       "n_articles": 4,
       "regions": [
@@ -4004,12 +3698,88 @@
       ]
     },
     {
-      "id": 90,
+      "id": 28,
+      "topic": "Technology",
+      "label": "China · BBC · Palantir",
+      "title": "China’s Palantir? Private tech firms surge into defence AI, aiming to match US giants",
+      "summary": "The People’s Liberation Army is just a year away from its centenary goals in its evolution into a “world-class” fighting force. In this part of a series, Amber Wang looks at the growing influence of a",
+      "score": 3.906,
+      "n_outlets": 3,
+      "n_articles": 4,
+      "regions": [
+        "china",
+        "europe",
+        "us"
+      ],
+      "last_seen": "2026-08-05T22:00:32+00:00",
+      "leans": [
+        "center",
+        "left"
+      ],
+      "sources": [
+        {
+          "outlet": "The New York Times",
+          "region": "us",
+          "lean": "left",
+          "ownership": "private",
+          "title": "How China’s A.I. Is Surging Across Africa",
+          "url": "https://www.nytimes.com/2026/08/05/technology/ai-china-africa.html",
+          "published": "2026-08-05T20:41:15+00:00",
+          "orig_title": "How China’s A.I. Is Surging Across Africa",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall"
+        },
+        {
+          "outlet": "BBC News",
+          "region": "europe",
+          "lean": "center",
+          "ownership": "public",
+          "title": "AI or real? BBC analyses viral China disaster videos",
+          "url": "https://www.bbc.co.uk/news/videos/ckg9d2egn11o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-05T22:00:32+00:00",
+          "orig_title": "AI or real? BBC analyses viral China disaster videos",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "South China Morning Post",
+          "region": "china",
+          "lean": "center",
+          "ownership": "private",
+          "title": "China’s Palantir? Private tech firms surge into defence AI, aiming to match US giants",
+          "url": "https://www.scmp.com/news/china/military/article/3363032/chinas-palantir-private-tech-firms-surge-defence-ai-aiming-match-us-giants?utm_source=rss_feed",
+          "published": "2026-08-05T22:00:06+00:00",
+          "orig_title": "China’s Palantir? Private tech firms surge into defence AI, aiming to match US giants",
+          "lang": "en",
+          "translated": false,
+          "access": "open",
+          "more": [
+            {
+              "outlet": "South China Morning Post",
+              "region": "china",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Trump claims China is fuelling resistance to AI data centres in the US",
+              "url": "https://www.scmp.com/news/china/diplomacy/article/3363022/china-doesnt-want-these-built-trump-claims-beijing-behind-ai-data-centre-protests?utm_source=rss_feed",
+              "published": "2026-08-05T06:49:03+00:00",
+              "orig_title": "Trump claims China is fuelling resistance to AI data centres in the US",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 120,
       "topic": "Technology",
       "label": "OpenAI · Anthropic · Meta",
       "title": "AI agents from Anthropic and OpenAI lose control again during testing",
       "summary": "Компании Anthropic и OpenAI сообщили о новых случаях выхода их ИИ-агентов за пределы пространства, предназначенного для тестирования. Как сообщает Reuters, в ходе проверки безопасности моделей Mythos ",
-      "score": 3.835,
+      "score": 3.751,
       "n_outlets": 3,
       "n_articles": 3,
       "regions": [
@@ -4065,137 +3835,46 @@
       ]
     },
     {
-      "id": 331,
+      "id": 5,
       "topic": "Technology",
-      "label": "White · House · Government",
-      "title": "Trump White House Readies AI Framework to Review Security Risks",
-      "summary": "The voluntary review process will cover closed-source artificial intelligence models, but exclude those that publish the underlying code.",
-      "score": 3.415,
-      "n_outlets": 3,
-      "n_articles": 4,
+      "label": "America · systems · Iran",
+      "title": "America’s water systems are under attack. Iran may be to blame",
+      "summary": "A recent wave of cyberattacks on American water systems is raising alarm at all levels of government, with U.S. authorities reportedly suspecting Iran-linked hackers. The FBI reported Thursday that “m",
+      "score": 2.976,
+      "n_outlets": 2,
+      "n_articles": 2,
       "regions": [
         "russia",
         "us"
       ],
-      "last_seen": "2026-08-05T11:21:43+00:00",
+      "last_seen": "2026-08-05T22:54:11+00:00",
       "leans": [
         "center",
-        "left",
-        "right"
+        "state"
       ],
       "sources": [
         {
-          "outlet": "The New York Times",
+          "outlet": "The Hill",
           "region": "us",
-          "lean": "left",
+          "lean": "center",
           "ownership": "private",
-          "title": "Trump White House Readies AI Framework to Review Security Risks",
-          "url": "https://www.nytimes.com/2026/08/04/technology/white-house-ai-framework.html",
-          "published": "2026-08-05T00:17:54+00:00",
-          "orig_title": "Trump White House Readies AI Framework to Review Security Risks",
+          "title": "America’s water systems are under attack. Iran may be to blame",
+          "url": "https://thehill.com/policy/defense/6012602-iran-linked-water-utility-hacks/",
+          "published": "2026-08-05T22:54:11+00:00",
+          "orig_title": "America’s water systems are under attack. Iran may be to blame",
           "lang": "en",
           "translated": false,
-          "access": "paywall"
+          "access": "unknown"
         },
         {
-          "outlet": "Kommersant",
+          "outlet": "TASS",
           "region": "russia",
-          "lean": "center",
-          "ownership": "private",
-          "title": "White House agrees with tech giants on AI model audits",
-          "url": "https://www.kommersant.ru/doc/8862811",
-          "published": "2026-08-05T07:01:00+00:00",
-          "orig_title": "Белый дом договорился с IT-гигантами о проверках ИИ-моделей",
-          "lang": "ru",
-          "translated": true,
-          "access": "unknown",
-          "more": [
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Government task force created on artificial intelligence use",
-              "url": "https://www.kommersant.ru/doc/8863119",
-              "published": "2026-08-05T11:21:43+00:00",
-              "orig_title": "При правительстве создана рабочая группа по вопросам использования ИИ",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            }
-          ]
-        },
-        {
-          "outlet": "The Wall Street Journal",
-          "region": "us",
-          "lean": "right",
-          "ownership": "private",
-          "title": "White House AI Guidelines Exempt U.S. Open Models From Government Review",
-          "url": "https://www.wsj.com/tech/ai/white-houses-ai-guidelines-exempt-u-s-open-models-from-government-review-74924eb8?mod=rss_Technology",
-          "published": "2026-08-04T23:07:00+00:00",
-          "orig_title": "White House AI Guidelines Exempt U.S. Open Models From Government Review",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
-        }
-      ]
-    },
-    {
-      "id": 57,
-      "topic": "Technology",
-      "label": "China · A.I. · How",
-      "title": "Trump claims China is fuelling resistance to AI data centres in the US",
-      "summary": "US President Donald Trump has accused China of fuelling the growing nationwide backlash against AI data centres, claiming Beijing is promoting resistance because the United States is pulling ahead in ",
-      "score": 2.902,
-      "n_outlets": 2,
-      "n_articles": 3,
-      "regions": [
-        "china",
-        "us"
-      ],
-      "last_seen": "2026-08-05T20:41:15+00:00",
-      "leans": [
-        "center",
-        "left"
-      ],
-      "sources": [
-        {
-          "outlet": "The New York Times",
-          "region": "us",
-          "lean": "left",
-          "ownership": "private",
-          "title": "White House Whipsaws Silicon Valley (and Itself) Over A.I. Rules",
-          "url": "https://www.nytimes.com/2026/08/04/technology/ai-washington-regulation-whiplash.html",
-          "published": "2026-08-04T19:54:29+00:00",
-          "orig_title": "White House Whipsaws Silicon Valley (and Itself) Over A.I. Rules",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall",
-          "more": [
-            {
-              "outlet": "The New York Times",
-              "region": "us",
-              "lean": "left",
-              "ownership": "private",
-              "title": "How China’s A.I. Is Surging Across Africa",
-              "url": "https://www.nytimes.com/2026/08/05/technology/ai-china-africa.html",
-              "published": "2026-08-05T20:41:15+00:00",
-              "orig_title": "How China’s A.I. Is Surging Across Africa",
-              "lang": "en",
-              "translated": false,
-              "access": "paywall"
-            }
-          ]
-        },
-        {
-          "outlet": "South China Morning Post",
-          "region": "china",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Trump claims China is fuelling resistance to AI data centres in the US",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3363022/china-doesnt-want-these-built-trump-claims-beijing-behind-ai-data-centre-protests?utm_source=rss_feed",
-          "published": "2026-08-05T06:49:03+00:00",
-          "orig_title": "Trump claims China is fuelling resistance to AI data centres in the US",
+          "lean": "state",
+          "ownership": "state",
+          "title": "Water supply systems in 12 US states hit by cyberattacks — TV report",
+          "url": "https://tass.com/world/2169301",
+          "published": "2026-08-05T13:29:53+00:00",
+          "orig_title": "Water supply systems in 12 US states hit by cyberattacks — TV report",
           "lang": "en",
           "translated": false,
           "access": "open"
@@ -4203,12 +3882,59 @@
       ]
     },
     {
-      "id": 305,
+      "id": 11,
+      "topic": "Technology",
+      "label": "News · Corp · Australia",
+      "title": "Live: Gambling lobby questions 'conflict' over ex-NRL player's betting company past",
+      "summary": "Anne Webster says a Senate inquiry into Labor's gambling advertising legislation shows the bill has \"plenty of deficiencies\". Follow live.",
+      "score": 2.962,
+      "n_outlets": 2,
+      "n_articles": 2,
+      "regions": [
+        "australia",
+        "europe"
+      ],
+      "last_seen": "2026-08-05T22:43:50+00:00",
+      "leans": [
+        "center",
+        "left"
+      ],
+      "sources": [
+        {
+          "outlet": "The Guardian",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "News live: News Corp loses subscribers in Australia as company lashes out at AI ‘crass kleptomaniacs’ and ‘slimy sea of slop’",
+          "url": "https://www.theguardian.com/australia-news/live/2026/aug/06/australia-news-live-nsw-politics-icac-corruption-perrottet-ibac-victoria-daniel-andrews-royal-commission-antisemitism-labor-tax-albanese-ntwnfb",
+          "published": "2026-08-05T22:43:50+00:00",
+          "orig_title": "News live: News Corp loses subscribers in Australia as company lashes out at AI ‘crass kleptomaniacs’ and ‘slimy sea of slop’",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "ABC News (Australia)",
+          "region": "australia",
+          "lean": "center",
+          "ownership": "public",
+          "title": "Live: Gambling lobby questions 'conflict' over ex-NRL player's betting company past",
+          "url": "https://www.abc.net.au/news/2026-08-06/federal-politics-live-blog-gambling-inquiry/107002328",
+          "published": "2026-08-05T21:18:31+00:00",
+          "orig_title": "Live: Gambling lobby questions 'conflict' over ex-NRL player's betting company past",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 330,
       "topic": "Technology",
       "label": "China · Chinese · curbs",
       "title": "China’s AI revenue projected to reach US$13b on breakthroughs, adoption: Goldman Sachs",
       "summary": "Rising cost efficiency and rapidly advancing capabilities from players like DeepSeek and MiniMax have prompted Goldman Sachs to raise its run-rate revenue forecast for China’s artificial intelligence ",
-      "score": 2.457,
+      "score": 2.411,
       "n_outlets": 2,
       "n_articles": 4,
       "regions": [
@@ -4278,12 +4004,12 @@
       ]
     },
     {
-      "id": 381,
+      "id": 398,
       "topic": "Technology",
       "label": "Hong · Kong · IPO",
       "title": "China’s Moonshot AI aims for US$50b round as year-end Hong Kong IPO targeted: sources",
       "summary": "Chinese unicorn Moonshot AI has started and is expected to close its latest financing round by the end of this month, as it dismantles its offshore structure to pave the way for a potential Hong Kong ",
-      "score": 2.365,
+      "score": 2.329,
       "n_outlets": 2,
       "n_articles": 4,
       "regions": [
@@ -4353,18 +4079,79 @@
       ]
     },
     {
-      "id": 10,
+      "id": 535,
       "topic": "Technology",
-      "label": "Michigan · Senate · Primary",
-      "title": "Michigan Senate Primary Shows Democrats’ Fight for Party Control Is Far From Over",
-      "summary": "Plus, Google shakes up its AI leadership ranks, and we get rare access to the world’s largest naval drill.",
-      "score": 1.97,
+      "label": "White · House · Review",
+      "title": "Trump White House Readies AI Framework to Review Security Risks",
+      "summary": "The voluntary review process will cover closed-source artificial intelligence models, but exclude those that publish the underlying code.",
+      "score": 2.148,
+      "n_outlets": 2,
+      "n_articles": 3,
+      "regions": [
+        "us"
+      ],
+      "last_seen": "2026-08-05T00:17:54+00:00",
+      "leans": [
+        "left",
+        "right"
+      ],
+      "sources": [
+        {
+          "outlet": "The New York Times",
+          "region": "us",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Trump White House Readies AI Framework to Review Security Risks",
+          "url": "https://www.nytimes.com/2026/08/04/technology/white-house-ai-framework.html",
+          "published": "2026-08-05T00:17:54+00:00",
+          "orig_title": "Trump White House Readies AI Framework to Review Security Risks",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall",
+          "more": [
+            {
+              "outlet": "The New York Times",
+              "region": "us",
+              "lean": "left",
+              "ownership": "private",
+              "title": "White House Whipsaws Silicon Valley (and Itself) Over A.I. Rules",
+              "url": "https://www.nytimes.com/2026/08/04/technology/ai-washington-regulation-whiplash.html",
+              "published": "2026-08-04T19:54:29+00:00",
+              "orig_title": "White House Whipsaws Silicon Valley (and Itself) Over A.I. Rules",
+              "lang": "en",
+              "translated": false,
+              "access": "paywall"
+            }
+          ]
+        },
+        {
+          "outlet": "The Wall Street Journal",
+          "region": "us",
+          "lean": "right",
+          "ownership": "private",
+          "title": "White House AI Guidelines Exempt U.S. Open Models From Government Review",
+          "url": "https://www.wsj.com/tech/ai/white-houses-ai-guidelines-exempt-u-s-open-models-from-government-review-74924eb8?mod=rss_Technology",
+          "published": "2026-08-04T23:07:00+00:00",
+          "orig_title": "White House AI Guidelines Exempt U.S. Open Models From Government Review",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "topic": "Technology",
+      "label": "Didn · Realize · How",
+      "title": "I Didn’t Realize How Addicted I Was to My Phone—Until I Went to Prison",
+      "summary": "A former Cincinnati politician writes about the irony of his involuntary separation from his constantly chirping device.",
+      "score": 1.984,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
         "us"
       ],
-      "last_seen": "2026-08-05T21:33:00+00:00",
+      "last_seen": "2026-08-05T23:00:00+00:00",
       "leans": [
         "right"
       ],
@@ -4374,10 +4161,10 @@
           "region": "us",
           "lean": "right",
           "ownership": "private",
-          "title": "Michigan Senate Primary Shows Democrats’ Fight for Party Control Is Far From Over",
-          "url": "https://www.wsj.com/personal-finance/michigan-senate-primary-shows-democrats-fight-for-party-control-is-far-from-over-c36ae411?mod=rss_Technology",
-          "published": "2026-08-05T21:33:00+00:00",
-          "orig_title": "Michigan Senate Primary Shows Democrats’ Fight for Party Control Is Far From Over",
+          "title": "I Didn’t Realize How Addicted I Was to My Phone—Until I Went to Prison",
+          "url": "https://www.wsj.com/lifestyle/phone-screen-time-prison-pg-sittenfeld-8c3b186b?mod=rss_Technology",
+          "published": "2026-08-05T23:00:00+00:00",
+          "orig_title": "I Didn’t Realize How Addicted I Was to My Phone—Until I Went to Prison",
           "lang": "en",
           "translated": false,
           "access": "paywall"
@@ -4385,76 +4172,405 @@
       ]
     },
     {
-      "id": 121,
-      "topic": "Technology",
-      "label": "How · Malta · Became",
-      "title": "How Malta Became a Tax Haven for Crocs and Other U.S. Companies",
-      "summary": "The Mediterranean archipelago is a hot destination for U.S. companies seeking to shield profits from income taxes.",
-      "score": 1.761,
-      "n_outlets": 1,
-      "n_articles": 1,
+      "id": 7,
+      "topic": "Sports",
+      "label": "El-Sayed · Abdul · Michigan",
+      "title": "Progressive Abdul El-Sayed wins Michigan primary in jolt to Democrats",
+      "summary": "The Democratic Party’s progressive ⁠wing scored a high-profile victory on Wednesday when Abdul El-Sayed won the party’s US Senate nomination ⁠in Michigan, giving its anti-establishment message a boost",
+      "score": 9.976,
+      "n_outlets": 9,
+      "n_articles": 13,
       "regions": [
+        "australia",
+        "china",
+        "europe",
         "us"
       ],
-      "last_seen": "2026-08-05T18:38:57+00:00",
+      "last_seen": "2026-08-05T22:53:51+00:00",
       "leans": [
-        "left"
+        "center",
+        "left",
+        "right"
       ],
       "sources": [
         {
-          "outlet": "The New York Times",
-          "region": "us",
+          "outlet": "El Pais",
+          "region": "europe",
           "lean": "left",
           "ownership": "private",
-          "title": "How Malta Became a Tax Haven for Crocs and Other U.S. Companies",
-          "url": "https://www.nytimes.com/2026/08/05/business/economy/crocs-malta-tax-haven.html",
-          "published": "2026-08-05T18:38:57+00:00",
-          "orig_title": "How Malta Became a Tax Haven for Crocs and Other U.S. Companies",
+          "title": "Progressive Abdul El-Sayed wins Michigan Democratic primary, key battle for party's future",
+          "url": "https://elpais.com/us/2026-08-05/el-candidato-progresista-en-las-primarias-democratas-de-michigan-abdul-el-sayed-se-perfila-como-ganador.html",
+          "published": "2026-08-05T14:23:10+00:00",
+          "orig_title": "El progresista Abdul El-Sayed gana las primarias demócratas en Míchigan, una batalla clave para el futuro del partido",
+          "lang": "es",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
+          "outlet": "NPR",
+          "region": "us",
+          "lean": "left",
+          "ownership": "public",
+          "title": "Progressive Abdul El-Sayed wins Michigan's Democratic primary for Senate",
+          "url": "https://www.npr.org/2026/08/05/nx-s1-5920403/michigan-senate-el-sayed-stevens-democrats",
+          "published": "2026-08-05T13:54:31+00:00",
+          "orig_title": "Progressive Abdul El-Sayed wins Michigan's Democratic primary for Senate",
           "lang": "en",
           "translated": false,
-          "access": "paywall"
+          "access": "open"
+        },
+        {
+          "outlet": "The Guardian",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Abdul El-Sayed’s Michigan primary victory is the latest win for progressives challenging establishment-backed Democrats – live",
+          "url": "https://www.theguardian.com/us-news/live/2026/aug/05/michigan-primary-race-democrats-midterms-senate-el-sayed-haley-stevens-donald-trump-republicans-us-politics-latest-news-updates",
+          "published": "2026-08-05T22:53:51+00:00",
+          "orig_title": "Abdul El-Sayed’s Michigan primary victory is the latest win for progressives challenging establishment-backed Democrats – live",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "ABC News (Australia)",
+          "region": "australia",
+          "lean": "center",
+          "ownership": "public",
+          "title": "'We took on a machine': El-Sayed hails victory in Michigan primary",
+          "url": "https://www.abc.net.au/news/2026-08-06/el-sayed-hails-victory-in-michigan-primary/107002290",
+          "published": "2026-08-05T19:45:37+00:00",
+          "orig_title": "'We took on a machine': El-Sayed hails victory in Michigan primary",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "BBC News",
+          "region": "europe",
+          "lean": "center",
+          "ownership": "public",
+          "title": "El-Sayed's victory sends tremors through Democratic Party",
+          "url": "https://www.bbc.co.uk/news/articles/cp309ng0xq1o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-05T16:04:16+00:00",
+          "orig_title": "El-Sayed's victory sends tremors through Democratic Party",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "South China Morning Post",
+          "region": "china",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Progressive Abdul El-Sayed wins Michigan primary in jolt to Democrats",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3363097/progressive-abdul-el-sayed-wins-michigan-primary-jolt-democrats?utm_source=rss_feed",
+          "published": "2026-08-05T19:50:52+00:00",
+          "orig_title": "Progressive Abdul El-Sayed wins Michigan primary in jolt to Democrats",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "The Hill",
+          "region": "us",
+          "lean": "center",
+          "ownership": "private",
+          "title": "The Memo: Left looks to seize on momentum from El-Sayed's win",
+          "url": "https://thehill.com/homenews/campaign/6012536-abdul-el-sayed-michigan-democratic-primary-progressive-movement/",
+          "published": "2026-08-05T22:35:09+00:00",
+          "orig_title": "The Memo: Left looks to seize on momentum from El-Sayed's win",
+          "lang": "en",
+          "translated": false,
+          "access": "unknown",
+          "more": [
+            {
+              "outlet": "The Hill",
+              "region": "us",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Trump says El-Sayed is 'full of s‑‑‑,' calls him a 'man of hate'",
+              "url": "https://thehill.com/homenews/campaign/6012517-trump-abdul-el-sayed-michigan-senate-primary/",
+              "published": "2026-08-05T22:17:58+00:00",
+              "orig_title": "Trump says El-Sayed is 'full of s‑‑‑,' calls him a 'man of hate'",
+              "lang": "en",
+              "translated": false,
+              "access": "unknown"
+            }
+          ]
+        },
+        {
+          "outlet": "Le Figaro",
+          "region": "europe",
+          "lean": "right",
+          "ownership": "private",
+          "title": "Democratic primary in Michigan: Who is Abdul El-Sayed, the far-left candidate who upended his party's establishment",
+          "url": "https://www.lefigaro.fr/international/primaire-democrate-dans-le-michigan-qui-est-abdul-el-sayed-le-candidat-d-extreme-gauche-qui-a-renverse-l-establishment-de-son-parti-20260805",
+          "published": "2026-08-05T15:28:21+00:00",
+          "orig_title": "Primaire démocrate dans le Michigan : qui est Abdul El-Sayed, le candidat d’extrême gauche qui a renversé l’establishment de son parti",
+          "lang": "fr",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
+          "outlet": "The Wall Street Journal",
+          "region": "us",
+          "lean": "right",
+          "ownership": "private",
+          "title": "Abdul El-Sayed’s victory in Michigan’s Democratic Senate primary is a landmark win for the party’s insurgent left wing—and a sign that the fight with centrists over the party’s course is unsettled",
+          "url": "https://www.wsj.com/politics/elections/progressive-victory-in-michigan-senate-primary-deepens-democratic-divide-b3b7fe16?mod=rss_socialpoliticsfeed",
+          "published": "2026-08-05T20:56:00+00:00",
+          "orig_title": "Abdul El-Sayed’s victory in Michigan’s Democratic Senate primary is a landmark win for the party’s insurgent left wing—and a sign that the fight with centrists over the party’s course is unsettled",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall",
+          "more": [
+            {
+              "outlet": "The Wall Street Journal",
+              "region": "us",
+              "lean": "right",
+              "ownership": "private",
+              "title": "Progressive Abdul El-Sayed won the Michigan Democratic Senate primary, dealing a setback to establishment Democrats",
+              "url": "https://www.wsj.com/politics/elections/michigan-primary-election-results-2026-d257c567?mod=rss_socialpoliticsfeed",
+              "published": "2026-08-05T16:12:00+00:00",
+              "orig_title": "Progressive Abdul El-Sayed won the Michigan Democratic Senate primary, dealing a setback to establishment Democrats",
+              "lang": "en",
+              "translated": false,
+              "access": "paywall"
+            },
+            {
+              "outlet": "The Wall Street Journal",
+              "region": "us",
+              "lean": "right",
+              "ownership": "private",
+              "title": "Some things to know about progressive firebrand Abdul El-Sayed, who beat four-term Rep. Haley Stevens to win the Democratic U.S. Senate nomination in Michigan",
+              "url": "https://www.wsj.com/politics/five-things-to-know-about-michigans-abdul-el-sayed-fa05caac?mod=rss_socialpoliticsfeed",
+              "published": "2026-08-05T14:15:00+00:00",
+              "orig_title": "Some things to know about progressive firebrand Abdul El-Sayed, who beat four-term Rep. Haley Stevens to win the Democratic U.S. Senate nomination in Michigan",
+              "lang": "en",
+              "translated": false,
+              "access": "paywall"
+            },
+            {
+              "outlet": "The Wall Street Journal",
+              "region": "us",
+              "lean": "right",
+              "ownership": "private",
+              "title": "Opinion | El-Sayed’s Deflected Bigotry",
+              "url": "https://www.wsj.com/opinion/el-sayeds-deflected-bigotry-25a4d05f?mod=rss_worldnews",
+              "published": "2026-08-05T21:12:00+00:00",
+              "orig_title": "Opinion | El-Sayed’s Deflected Bigotry",
+              "lang": "en",
+              "translated": false,
+              "access": "paywall"
+            }
+          ]
         }
       ]
     },
     {
-      "id": 180,
-      "topic": "Technology",
-      "label": "Larry · Ellison · Bet",
-      "title": "Larry Ellison Bet It All on the A.I. Boom. Will He Be the Face of the A.I. Bubble?",
-      "summary": "Inside the 81-year-old billionaire’s risky, debt-fueled scramble to transform his data empire into an A.I. juggernaut.",
-      "score": 1.626,
-      "n_outlets": 1,
-      "n_articles": 1,
+      "id": 50,
+      "topic": "Sports",
+      "label": "Infantino · FIFA · World",
+      "title": "Infantino offers Morocco 2030 World Cup final for support",
+      "summary": "Президент Международной федерации футбола (FIFA) Джанни Инфантино готов предоставить Марокко право проведения финала чемпионата мира 2030 года в обмен на поддержку. Об этом сообщает газета The Times.",
+      "score": 5.877,
+      "n_outlets": 5,
+      "n_articles": 13,
       "regions": [
-        "us"
+        "europe",
+        "india",
+        "russia"
       ],
-      "last_seen": "2026-08-05T16:18:09+00:00",
+      "last_seen": "2026-08-05T21:37:08+00:00",
       "leans": [
-        "left"
+        "center",
+        "left",
+        "right"
       ],
       "sources": [
         {
-          "outlet": "The New York Times",
-          "region": "us",
+          "outlet": "El Pais",
+          "region": "europe",
           "lean": "left",
           "ownership": "private",
-          "title": "Larry Ellison Bet It All on the A.I. Boom. Will He Be the Face of the A.I. Bubble?",
-          "url": "https://www.nytimes.com/2026/07/31/magazine/larry-ellison-ai-oracle.html",
-          "published": "2026-08-05T16:18:09+00:00",
-          "orig_title": "Larry Ellison Bet It All on the A.I. Boom. Will He Be the Face of the A.I. Bubble?",
+          "title": "Infantino maneuvers for support at weakest moment as FIFA president",
+          "url": "https://elpais.com/deportes/futbol/2026-08-05/infantino-maniobra-para-ganar-apoyos-en-su-momento-de-maxima-debilidad-como-presidente-de-la-fifa.html",
+          "published": "2026-08-05T18:01:49+00:00",
+          "orig_title": "Infantino maniobra para ganar apoyos en su momento de máxima debilidad como presidente de la FIFA",
+          "lang": "es",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
+          "outlet": "BBC News",
+          "region": "europe",
+          "lean": "center",
+          "ownership": "public",
+          "title": "Infantino sorry for errors but stays Fifa president",
+          "url": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-05T21:37:08+00:00",
+          "orig_title": "Infantino sorry for errors but stays Fifa president",
           "lang": "en",
           "translated": false,
-          "access": "paywall"
+          "access": "open"
+        },
+        {
+          "outlet": "Kommersant",
+          "region": "russia",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Infantino offers Morocco 2030 World Cup final for support",
+          "url": "https://www.kommersant.ru/doc/8863453",
+          "published": "2026-08-05T17:03:30+00:00",
+          "orig_title": "Инфантино предложил Марокко провести финал ЧМ-2030 в обмен на поддержку",
+          "lang": "ru",
+          "translated": true,
+          "access": "unknown",
+          "more": [
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "FIFA chief Infantino's opponents find his replacement",
+              "url": "https://www.kommersant.ru/doc/8862583",
+              "published": "2026-08-04T16:15:08+00:00",
+              "orig_title": "Противники главы FIFA Джанни Инфантино нашли ему замену",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Infantino accused of blackmail and failure to meet financial obligations",
+              "url": "https://www.kommersant.ru/doc/8862719",
+              "published": "2026-08-05T04:17:48+00:00",
+              "orig_title": "Инфантино обвинили в шантаже и невыполнении финансовых обязательств",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Infantino convenes emergency meeting with senior FIFA officials",
+              "url": "https://www.kommersant.ru/doc/8863038",
+              "published": "2026-08-05T10:15:23+00:00",
+              "orig_title": "Инфантино созвал экстренное совещание с высокопоставленными чиновниками FIFA",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Spain opposes joint World Cup with Morocco over migration crisis",
+              "url": "https://www.kommersant.ru/doc/8863311",
+              "published": "2026-08-05T14:02:48+00:00",
+              "orig_title": "В Испании выступили против совместного ЧМ с Марокко из-за миграционного кризиса",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            }
+          ]
+        },
+        {
+          "outlet": "Times of India",
+          "region": "india",
+          "lean": "center",
+          "ownership": "private",
+          "title": "2030 World Cup Final Venue: Report claims Infantino offered Morocco final for support",
+          "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/gianni-infantino-promised-morocco-2030-world-cup-final-in-exchange-for-support-says-report/articleshow/132966278.cms",
+          "published": "2026-08-05T19:58:53+00:00",
+          "orig_title": "2030 World Cup Final Venue: Report claims Infantino offered Morocco final for support",
+          "lang": "en",
+          "translated": false,
+          "access": "open",
+          "more": [
+            {
+              "outlet": "Times of India",
+              "region": "india",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Figo Urges Infantino Resignation: ex-star calls for FIFA chief to quit; cites litany of abuses",
+              "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/he-should-go-now-luis-figo-unleashes-bombshell-rant-tearing-apart-embattled-fifa-boss-infantino/articleshow/132970437.cms",
+              "published": "2026-08-05T20:57:34+00:00",
+              "orig_title": "Figo Urges Infantino Resignation: ex-star calls for FIFA chief to quit; cites litany of abuses",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            },
+            {
+              "outlet": "Times of India",
+              "region": "india",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Infantino running out of friends? Only 6 nations still want him re-elected as FIFA president",
+              "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/infantino-running-out-of-friends-only-six-nations-still-want-him-re-elected-as-fifa-president/articleshow/132923972.cms",
+              "published": "2026-08-05T11:59:14+00:00",
+              "orig_title": "Infantino running out of friends? Only 6 nations still want him re-elected as FIFA president",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            },
+            {
+              "outlet": "Times of India",
+              "region": "india",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Trump reportedly ready to do 'everything possible' to keep Infantino as FIFA president",
+              "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/donald-trump-reportedly-ready-to-do-everything-possible-to-keep-gianni-infantino-as-fifa-president/articleshow/132927680.cms",
+              "published": "2026-08-05T14:36:13+00:00",
+              "orig_title": "Trump reportedly ready to do 'everything possible' to keep Infantino as FIFA president",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            },
+            {
+              "outlet": "Times of India",
+              "region": "india",
+              "lean": "center",
+              "ownership": "private",
+              "title": "FIFA 'blackmailing' members to back Infantino, alleges former vice president",
+              "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/fifa-blackmailing-members-to-back-infantino-former-vice-president-levels-explosive-allegation/articleshow/132926643.cms",
+              "published": "2026-08-05T12:39:42+00:00",
+              "orig_title": "FIFA 'blackmailing' members to back Infantino, alleges former vice president",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            }
+          ]
+        },
+        {
+          "outlet": "Die Welt",
+          "region": "europe",
+          "lean": "right",
+          "ownership": "private",
+          "title": "The solution comes down to three words: Infantino must go",
+          "url": "https://www.welt.de/sport/fussball/wm/article6a736faacc46967c04cafebb/figos-forderung-die-loesung-laesst-sich-auf-drei-worte-reduzieren-infantino-muss-gehen.html",
+          "published": "2026-08-05T18:18:36+00:00",
+          "orig_title": "„Die Lösung lässt sich auf drei Worte reduzieren: Infantino muss gehen“",
+          "lang": "de",
+          "translated": true,
+          "access": "unknown"
         }
       ]
     },
     {
-      "id": 15,
+      "id": 59,
       "topic": "Sports",
       "label": "Mexican · Influencer · Gast",
       "title": "Mexican influencer shot dead while streaming live on social media",
       "summary": "César Gastélum was filming outside a fast-food outlet in Sinaloa state when he was killed by a motorbike driver A popular Mexican influencer has been shot dead while doing a live stream on social medi",
-      "score": 3.965,
+      "score": 3.868,
       "n_outlets": 3,
       "n_articles": 3,
       "regions": [
@@ -4509,72 +4625,12 @@
       ]
     },
     {
-      "id": 146,
-      "topic": "Sports",
-      "label": "Ukraine · We're · Exhumations",
-      "title": "'The enemy attacks indiscriminately' – New phase begins in Ukraine war",
-      "summary": "Schwere Luftangriffe auf ukrainische Städte und ein entsetzliches Gemetzel an der Front: Russland setzt die Ukraine brutal unter Druck. Experten erwarten, dass der Krieg in eine neue Phase eintritt. I",
-      "score": 3.699,
-      "n_outlets": 3,
-      "n_articles": 3,
-      "regions": [
-        "europe",
-        "russia"
-      ],
-      "last_seen": "2026-08-05T17:37:47+00:00",
-      "leans": [
-        "right",
-        "state"
-      ],
-      "sources": [
-        {
-          "outlet": "Die Welt",
-          "region": "europe",
-          "lean": "right",
-          "ownership": "private",
-          "title": "'The enemy attacks indiscriminately' – New phase begins in Ukraine war",
-          "url": "https://www.welt.de/politik/ausland/plus6a72e1aacc46967c04caf241/russische-terrorattacken-der-feind-greift-wahllos-alles-an-nun-bricht-eine-neue-phase-im-ukraine-krieg-an.html",
-          "published": "2026-08-05T15:13:34+00:00",
-          "orig_title": "„Der Feind greift wahllos alles an“ – Nun bricht eine neue Phase im Ukraine-Krieg an",
-          "lang": "de",
-          "translated": true,
-          "access": "unknown"
-        },
-        {
-          "outlet": "Le Figaro",
-          "region": "europe",
-          "lean": "right",
-          "ownership": "private",
-          "title": "'We're talking about 2,000 villages wiped off the map!' — Exhumations in Volynia confront Ukraine with 1943 Polish massacres",
-          "url": "https://www.lefigaro.fr/international/nous-parlons-de-2-000-villages-rayes-de-la-carte-en-volhynie-des-exhumations-mettent-l-ukraine-face-aux-massacres-de-polonais-en-1943-20260805",
-          "published": "2026-08-05T17:37:47+00:00",
-          "orig_title": "« Nous parlons de 2 000 villages rayés de la carte ! » : en Volhynie, des exhumations mettent l’Ukraine face aux massacres de Polonais en 1943",
-          "lang": "fr",
-          "translated": true,
-          "access": "unknown"
-        },
-        {
-          "outlet": "TASS",
-          "region": "russia",
-          "lean": "state",
-          "ownership": "state",
-          "title": "Russian troops liberate two communities in Ukraine operation over past day — top brass",
-          "url": "https://tass.com/politics/2169303",
-          "published": "2026-08-05T13:35:31+00:00",
-          "orig_title": "Russian troops liberate two communities in Ukraine operation over past day — top brass",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        }
-      ]
-    },
-    {
-      "id": 178,
+      "id": 202,
       "topic": "Sports",
       "label": "European · Russian · gold",
       "title": "Russian synchronized swimmers win gold in acrobatics at European Championships",
       "summary": "Продолжающийся в Париже чемпионат Европы по водным видам спорта попрощался с одной из дисциплин. Последний комплект наград был разыгран в синхронном плавании, программу которого закрывали женские сост",
-      "score": 3.63,
+      "score": 3.567,
       "n_outlets": 3,
       "n_articles": 8,
       "regions": [
@@ -4697,12 +4753,12 @@
       ]
     },
     {
-      "id": 179,
+      "id": 203,
       "topic": "Sports",
       "label": "Indian-American · Congressman · Shri",
-      "title": "India’s ruling BJP loses byelection in stronghold after Cockroach student protests",
-      "summary": "Opposition parties say nationwide protests that forced resignation of education secretary are beginning to dent BJP support India’s ruling Bharatiya Janata party has lost a byelection in a seat it had",
-      "score": 2.629,
+      "title": "Indian-American Congressman Shri Thanedar loses Democratic primary in Michigan",
+      "summary": "Shri Thanedar lost the Michigan Democratic primary to Donavan McKinney. McKinney secured victory with support from the party's progressive wing. Thanedar acknowledged the socialist movement's influenc",
+      "score": 2.566,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -4744,12 +4800,76 @@
       ]
     },
     {
-      "id": 41,
+      "id": 21,
+      "topic": "Sports",
+      "label": "C.I.A. · Sets · Secret",
+      "title": "C.I.A. Sets Up Secret Cuba Task Force as Trump Pressures Havana",
+      "summary": "The task force will allow the spy agency to quickly direct more financial, human and technical resources at the island, with the goal of creating fissures among the Cuban political elite.",
+      "score": 1.926,
+      "n_outlets": 1,
+      "n_articles": 1,
+      "regions": [
+        "us"
+      ],
+      "last_seen": "2026-08-05T22:16:28+00:00",
+      "leans": [
+        "left"
+      ],
+      "sources": [
+        {
+          "outlet": "The New York Times",
+          "region": "us",
+          "lean": "left",
+          "ownership": "private",
+          "title": "C.I.A. Sets Up Secret Cuba Task Force as Trump Pressures Havana",
+          "url": "https://www.nytimes.com/2026/08/05/us/politics/cia-cuba-task-force.html",
+          "published": "2026-08-05T22:16:28+00:00",
+          "orig_title": "C.I.A. Sets Up Secret Cuba Task Force as Trump Pressures Havana",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "topic": "Sports",
+      "label": "Italian · Kiev · opposition",
+      "title": "Italian opposition against arms supplies to Kiev",
+      "summary": "Leader of Italy’s opposition Five Star Movement and a former prime minister Giuseppe Conte asserted that his party will seek to achieve a breakthrough in negotiations between the parties to the confli",
+      "score": 1.884,
+      "n_outlets": 1,
+      "n_articles": 1,
+      "regions": [
+        "russia"
+      ],
+      "last_seen": "2026-08-05T21:43:00+00:00",
+      "leans": [
+        "state"
+      ],
+      "sources": [
+        {
+          "outlet": "TASS",
+          "region": "russia",
+          "lean": "state",
+          "ownership": "state",
+          "title": "Italian opposition against arms supplies to Kiev",
+          "url": "https://tass.com/world/2169475",
+          "published": "2026-08-05T21:43:00+00:00",
+          "orig_title": "Italian opposition against arms supplies to Kiev",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 80,
       "topic": "Sports",
       "label": "Diplomats · Russian · monitor",
       "title": "Diplomats monitor situation around detained Russian orientalist — ambassador",
       "summary": "Anatoly Viktorov pointed out that the embassy received no requests from relatives, friends or colleagues of Russian orientalist Artyom Kirpichenok",
-      "score": 1.93,
+      "score": 1.837,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -4776,44 +4896,12 @@
       ]
     },
     {
-      "id": 71,
-      "topic": "Sports",
-      "label": "UK's · Trump · foreign",
-      "title": "UK's new foreign minister ignores questions about calling Trump ‘racist’",
-      "summary": "U.K. Foreign Secretary Ed Miliband ignored questions from reporters about his past criticisms of President Trump ahead of a meeting with Secretary of State Marco Rubio in Washington. After Trump’s fir",
-      "score": 1.881,
-      "n_outlets": 1,
-      "n_articles": 1,
-      "regions": [
-        "us"
-      ],
-      "last_seen": "2026-08-05T20:24:16+00:00",
-      "leans": [
-        "center"
-      ],
-      "sources": [
-        {
-          "outlet": "The Hill",
-          "region": "us",
-          "lean": "center",
-          "ownership": "private",
-          "title": "UK's new foreign minister ignores questions about calling Trump ‘racist’",
-          "url": "https://thehill.com/homenews/administration/6012174-miliband-rubio-washington-meeting/",
-          "published": "2026-08-05T20:24:16+00:00",
-          "orig_title": "UK's new foreign minister ignores questions about calling Trump ‘racist’",
-          "lang": "en",
-          "translated": false,
-          "access": "unknown"
-        }
-      ]
-    },
-    {
-      "id": 85,
+      "id": 116,
       "topic": "Sports",
       "label": "MPs · Australia · assess",
       "title": "MPs to assess if Australia prepared for war as concerns over conflict grow",
       "summary": "For the first time since World War II, a formal plan will be proposed, reflecting increasing concerns about conflict breaking out in this region.",
-      "score": 1.851,
+      "score": 1.765,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -4840,44 +4928,12 @@
       ]
     },
     {
-      "id": 95,
-      "topic": "Sports",
-      "label": "Peters · Fauci · Fifth",
-      "title": "Peters argues Fauci can't be punished for pleading Fifth ahead of contempt vote",
-      "summary": "COVID czar Anthony Fauci cannot be prosecuted for asserting his Fifth Amendment rights in a recent hearing, Sen. Gary Peters (D-Mich.) wrote in a letter to colleagues, arguing the former government sc",
-      "score": 1.822,
-      "n_outlets": 1,
-      "n_articles": 1,
-      "regions": [
-        "us"
-      ],
-      "last_seen": "2026-08-05T19:33:59+00:00",
-      "leans": [
-        "center"
-      ],
-      "sources": [
-        {
-          "outlet": "The Hill",
-          "region": "us",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Peters argues Fauci can't be punished for pleading Fifth ahead of contempt vote",
-          "url": "https://thehill.com/homenews/senate/6012035-senator-gary-peters-fauci-contempt-vote/",
-          "published": "2026-08-05T19:33:59+00:00",
-          "orig_title": "Peters argues Fauci can't be punished for pleading Fifth ahead of contempt vote",
-          "lang": "en",
-          "translated": false,
-          "access": "unknown"
-        }
-      ]
-    },
-    {
-      "id": 111,
+      "id": 136,
       "topic": "Sports",
       "label": "Quote · Homer · Odyssey",
       "title": "Quote of the day inspired by Homer’s Odyssey: 'Men are so quick to blame the gods, they say...'",
       "summary": "Throughout history, individuals have sought to attribute their setbacks and misguided choices to outside influences. This theme resonates in ancient tales like The Odyssey, illustrating a long-standin",
-      "score": 1.783,
+      "score": 1.704,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -4900,38 +4956,6 @@
           "lang": "en",
           "translated": false,
           "access": "open"
-        }
-      ]
-    },
-    {
-      "id": 117,
-      "topic": "Sports",
-      "label": "Missouri · residents · overwhelmingly",
-      "title": "Missouri residents overwhelmingly defeated a ballot measure that would have allowed lawmakers to eliminate state income tax and replace it with higher sales taxes",
-      "summary": "The state’s residents broke with other Republican-led states that have their slashed income taxes.",
-      "score": 1.77,
-      "n_outlets": 1,
-      "n_articles": 1,
-      "regions": [
-        "us"
-      ],
-      "last_seen": "2026-08-05T18:47:00+00:00",
-      "leans": [
-        "right"
-      ],
-      "sources": [
-        {
-          "outlet": "The Wall Street Journal",
-          "region": "us",
-          "lean": "right",
-          "ownership": "private",
-          "title": "Missouri residents overwhelmingly defeated a ballot measure that would have allowed lawmakers to eliminate state income tax and replace it with higher sales taxes",
-          "url": "https://www.wsj.com/politics/policy/missouri-voters-defeat-measure-to-abolish-income-tax-a3ca4225?mod=rss_socialpoliticsfeed",
-          "published": "2026-08-05T18:47:00+00:00",
-          "orig_title": "Missouri residents overwhelmingly defeated a ballot measure that would have allowed lawmakers to eliminate state income tax and replace it with higher sales taxes",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
         }
       ]
     }
