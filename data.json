@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T11:30:11.787582+00:00",
+  "generated_at": "2026-08-07T12:18:11.620131+00:00",
   "topics": [
     "World & Politics",
     "Economics",
@@ -14,28 +14,28 @@
       "name": "United States",
       "lat": 39.0,
       "lng": -98.0,
-      "count": 33
+      "count": 32
     },
     {
       "id": "europe",
       "name": "Europe",
       "lat": 50.0,
       "lng": 10.0,
-      "count": 26
+      "count": 28
     },
     {
       "id": "china",
       "name": "China",
       "lat": 35.0,
       "lng": 105.0,
-      "count": 13
+      "count": 12
     },
     {
       "id": "india",
       "name": "India",
       "lat": 22.0,
       "lng": 79.0,
-      "count": 19
+      "count": 22
     },
     {
       "id": "australia",
@@ -49,7 +49,7 @@
       "name": "South America",
       "lat": -12.0,
       "lng": -58.0,
-      "count": 1
+      "count": 2
     },
     {
       "id": "africa",
@@ -63,7 +63,7 @@
       "name": "Japan",
       "lat": 36.5,
       "lng": 139.0,
-      "count": 9
+      "count": 8
     },
     {
       "id": "russia",
@@ -75,14 +75,239 @@
   ],
   "clusters": [
     {
-      "id": 75,
+      "id": 8,
+      "topic": "World & Politics",
+      "label": "German · Leipzig · drone",
+      "title": "Germany narrowly avoids disaster after explosive-laden drone found at Leipzig airport",
+      "summary": "L’appareil, qui n’a pas explosé à cause d’un souci technique, «n’est pas l’œuvre d’amateurs», selon le ministre allemand de l’Intérieur Alexander Dobrindt. L’aéroport de Leipzig est devenu l’un des si",
+      "score": 11.986,
+      "n_outlets": 11,
+      "n_articles": 15,
+      "regions": [
+        "china",
+        "europe",
+        "india",
+        "russia",
+        "us"
+      ],
+      "last_seen": "2026-08-07T12:08:16+00:00",
+      "leans": [
+        "center",
+        "left",
+        "right",
+        "state"
+      ],
+      "sources": [
+        {
+          "outlet": "Der Spiegel",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Leipzig/Halle Airport: National Security Council meets over drone incident",
+          "url": "https://www.spiegel.de/politik/deutschland/flughafen-leipzig-nationaler-sicherheitsrat-tagt-zu-drohnenvorfall-in-leipzig-a-ca244441-2ea9-4889-af43-5db37d1abfcc#ref=rss",
+          "published": "2026-08-07T08:43:00+00:00",
+          "orig_title": "Flughafen Leipzig/Halle: Nationaler Sicherheitsrat tagt zu Drohnenvorfall",
+          "lang": "de",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
+          "outlet": "El Pais",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Germany admits vulnerability to \"new level of threat\" posed by bomb drones",
+          "url": "https://elpais.com/internacional/2026-08-06/alemania-admite-su-vulnerabilidad-ante-el-nuevo-nivel-de-peligro-que-representan-los-drones-bomba.html",
+          "published": "2026-08-06T15:35:12+00:00",
+          "orig_title": "Alemania admite su vulnerabilidad ante el “nuevo nivel de peligro” que representan los drones bomba",
+          "lang": "es",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
+          "outlet": "The Guardian",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Leipzig drone bomb was found near Ukrainian plane carrying ammunition, say police",
+          "url": "https://www.theguardian.com/world/2026/aug/06/leipzig-drone-bomb-found-near-ukrainian-plane-carrying-ammunition",
+          "published": "2026-08-06T15:06:28+00:00",
+          "orig_title": "Leipzig drone bomb was found near Ukrainian plane carrying ammunition, say police",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "The Hindu",
+          "region": "india",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Drone with explosive device found at German airport, detonator removed",
+          "url": "https://www.thehindu.com/news/international/drone-with-explosive-device-found-at-german-airport-detonator-removed/article71311984.ece",
+          "published": "2026-08-06T03:30:02+00:00",
+          "orig_title": "Drone with explosive device found at German airport, detonator removed",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "BBC News",
+          "region": "europe",
+          "lean": "center",
+          "ownership": "public",
+          "title": "German airport drone-bomb: Could Russia be involved?",
+          "url": "https://www.bbc.co.uk/news/articles/ckgdmrxxkdxo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-07T08:48:16+00:00",
+          "orig_title": "German airport drone-bomb: Could Russia be involved?",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "Kommersant",
+          "region": "russia",
+          "lean": "center",
+          "ownership": "private",
+          "title": "German transport minister warns of German airports' vulnerability to drones",
+          "url": "https://www.kommersant.ru/doc/8864315",
+          "published": "2026-08-06T17:06:17+00:00",
+          "orig_title": "Министр транспорта ФРГ заявил об уязвимости немецких аэропортов для дронов",
+          "lang": "ru",
+          "translated": true,
+          "access": "unknown",
+          "more": [
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Bild reports drone attack on German cargo ship in Black Sea",
+              "url": "https://www.kommersant.ru/doc/8864105",
+              "published": "2026-08-06T13:02:16+00:00",
+              "orig_title": "Bild узнала об атаке БПЛА на немецкое грузовое судно в Черном море",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "WDR: Ukrainian plane at Leipzig airport was carrying ammunition",
+              "url": "https://www.kommersant.ru/doc/8864092",
+              "published": "2026-08-06T12:46:30+00:00",
+              "orig_title": "WDR: стоявший в аэропорту Лейпцига украинский самолет перевозил боеприпасы",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Die Zeit: Germany foils assassination plot against drone manufacturer CEO",
+              "url": "https://www.kommersant.ru/doc/8863801",
+              "published": "2026-08-06T08:44:52+00:00",
+              "orig_title": "Die Zeit: в ФРГ предотвратили покушение на главу компании-производителя дронов",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            }
+          ]
+        },
+        {
+          "outlet": "South China Morning Post",
+          "region": "china",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Bus driver kicked explosive drone out of the air at German airport",
+          "url": "https://www.scmp.com/news/world/europe/article/3363344/bus-driver-kicked-explosive-drone-out-air-german-airport?utm_source=rss_feed",
+          "published": "2026-08-07T11:57:07+00:00",
+          "orig_title": "Bus driver kicked explosive drone out of the air at German airport",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "Die Welt",
+          "region": "europe",
+          "lean": "right",
+          "ownership": "private",
+          "title": "Uncomfortable questions now raised about aerial threats",
+          "url": "https://www.welt.de/debatte/plus6a74ab5de04765407d9a19d8/drohnen-jetzt-stellen-sich-diese-unangenehmen-fragen-zur-bedrohung-aus-der-luft.html",
+          "published": "2026-08-07T12:08:16+00:00",
+          "orig_title": "Jetzt stellen sich diese unangenehmen Fragen zur Bedrohung aus der Luft",
+          "lang": "de",
+          "translated": true,
+          "access": "unknown",
+          "more": [
+            {
+              "outlet": "Die Welt",
+              "region": "europe",
+              "lean": "right",
+              "ownership": "private",
+              "title": "International reaction to bomb found at Leipzig airport",
+              "url": "https://www.welt.de/politik/deutschland/article6a7587c1c07f6c2f080353a8/drohnen-vorfall-am-leipziger-flughafen-so-blickt-das-ausland-auf-den-bombenfund.html",
+              "published": "2026-08-07T10:32:00+00:00",
+              "orig_title": "So blickt das Ausland auf den Bombenfund am Leipziger Flughafen",
+              "lang": "de",
+              "translated": true,
+              "access": "unknown"
+            }
+          ]
+        },
+        {
+          "outlet": "Le Figaro",
+          "region": "europe",
+          "lean": "right",
+          "ownership": "private",
+          "title": "Germany narrowly avoids disaster after explosive-laden drone found at Leipzig airport",
+          "url": "https://www.lefigaro.fr/international/allemagne-une-catastrophe-evitee-de-justesse-apres-la-decouverte-d-un-drone-barde-d-explosifs-a-l-aeroport-de-leipzig-20260805",
+          "published": "2026-08-06T09:59:37+00:00",
+          "orig_title": "Allemagne : une catastrophe évitée de justesse après la découverte d’un drone bardé d’explosifs à l’aéroport de Leipzig",
+          "lang": "fr",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
+          "outlet": "The Wall Street Journal",
+          "region": "us",
+          "lean": "right",
+          "ownership": "private",
+          "title": "Explosive Drone at German Airport Marks New Threat for Europe",
+          "url": "https://www.wsj.com/world/europe/explosive-drone-at-german-airport-marks-new-threat-for-europe-04a4b664?mod=rss_worldnews",
+          "published": "2026-08-06T14:54:00+00:00",
+          "orig_title": "Explosive Drone at German Airport Marks New Threat for Europe",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall"
+        },
+        {
+          "outlet": "TASS",
+          "region": "russia",
+          "lean": "state",
+          "ownership": "state",
+          "title": "UAV with explosives found at Leipzig Airport equipped with 5G antennas — TV",
+          "url": "https://tass.com/world/2169947",
+          "published": "2026-08-07T03:53:24+00:00",
+          "orig_title": "UAV with explosives found at Leipzig Airport equipped with 5G antennas — TV",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 12,
       "topic": "World & Politics",
       "label": "Thailand · shooting · school",
-      "title": "Teen gunman among 7 killed in Thailand school shooting",
-      "summary": "Seven people were killed at a Thai school near Bangkok on Friday morning after a student went on a rampage with a gun, police said. The teenaged suspect also killed his grandparents before opening fir",
-      "score": 13.919,
-      "n_outlets": 13,
-      "n_articles": 18,
+      "title": "Thailand school shooting: eight killed including suspected attacker, police say",
+      "summary": "Teenager killed his grandparents ⁠before opening fire at school near Bangkok, where 22 others were wounded Thailand school shooting – latest updates A Thai teenager killed his grandparents before open",
+      "score": 10.982,
+      "n_outlets": 10,
+      "n_articles": 15,
       "regions": [
         "china",
         "europe",
@@ -91,7 +316,7 @@
         "russia",
         "us"
       ],
-      "last_seen": "2026-08-07T10:29:00+00:00",
+      "last_seen": "2026-08-07T12:05:24+00:00",
       "leans": [
         "center",
         "left",
@@ -126,26 +351,13 @@
           "access": "unknown"
         },
         {
-          "outlet": "NPR",
-          "region": "us",
-          "lean": "left",
-          "ownership": "public",
-          "title": "Student kills at least 6 in a shooting at a high school in Thailand, authorities say",
-          "url": "https://www.npr.org/2026/08/07/nx-s1-5924583/student-shoots-multiple-people-at-a-high-school-in-thailand-authorities-say",
-          "published": "2026-08-07T05:34:15+00:00",
-          "orig_title": "Student kills at least 6 in a shooting at a high school in Thailand, authorities say",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
           "outlet": "The Guardian",
           "region": "europe",
           "lean": "left",
           "ownership": "private",
           "title": "Thailand school shooting: eight killed including suspected attacker, police say",
           "url": "https://www.theguardian.com/world/2026/aug/07/thailand-school-shooting-debsirin-nonthaburi-bangkok",
-          "published": "2026-08-07T07:51:24+00:00",
+          "published": "2026-08-07T11:33:02+00:00",
           "orig_title": "Thailand school shooting: eight killed including suspected attacker, police say",
           "lang": "en",
           "translated": false,
@@ -186,39 +398,11 @@
           "ownership": "private",
           "title": "Thailand School Shooting Leaves at Least Eight Dead",
           "url": "https://www.nytimes.com/2026/08/07/world/asia/thailand-school-shooting.html",
-          "published": "2026-08-07T09:49:53+00:00",
+          "published": "2026-08-07T12:05:24+00:00",
           "orig_title": "Thailand School Shooting Leaves at Least Eight Dead",
           "lang": "en",
           "translated": false,
           "access": "paywall"
-        },
-        {
-          "outlet": "Kommersant",
-          "region": "russia",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Two teachers killed in school shooting in Thailand",
-          "url": "https://www.kommersant.ru/doc/8864455",
-          "published": "2026-08-07T04:57:44+00:00",
-          "orig_title": "Два учителя погибли при стрельбе в таиландской школе",
-          "lang": "ru",
-          "translated": true,
-          "access": "unknown",
-          "more": [
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Death toll rises to seven in Thai school shooting",
-              "url": "https://www.kommersant.ru/doc/8864523",
-              "published": "2026-08-07T06:32:14+00:00",
-              "orig_title": "До семи выросло число погибших при стрельбе в школе в Таиланде",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            }
-          ]
         },
         {
           "outlet": "South China Morning Post",
@@ -245,19 +429,6 @@
           "lang": "en",
           "translated": false,
           "access": "paywall"
-        },
-        {
-          "outlet": "Times of India",
-          "region": "india",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Thailand school shooting: Student opens fire; 7 dead",
-          "url": "https://timesofindia.indiatimes.com/world/rest-of-world/thailand-school-shooting-student-opens-fire-deaths-reported/articleshow/133020469.cms",
-          "published": "2026-08-07T03:58:25+00:00",
-          "orig_title": "Thailand school shooting: Student opens fire; 7 dead",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
         },
         {
           "outlet": "Fox News",
@@ -290,14 +461,27 @@
           "region": "russia",
           "lean": "state",
           "ownership": "state",
-          "title": "Thai school shooter commits suicide — newspaper",
-          "url": "https://tass.com/emergencies/2169953",
-          "published": "2026-08-07T04:28:41+00:00",
-          "orig_title": "Thai school shooter commits suicide — newspaper",
+          "title": "Thailand school shooting: emergency details",
+          "url": "https://tass.com/emergencies/2170187",
+          "published": "2026-08-07T11:38:03+00:00",
+          "orig_title": "Thailand school shooting: emergency details",
           "lang": "en",
           "translated": false,
           "access": "open",
           "more": [
+            {
+              "outlet": "TASS",
+              "region": "russia",
+              "lean": "state",
+              "ownership": "state",
+              "title": "Thai school shooter commits suicide — newspaper",
+              "url": "https://tass.com/emergencies/2169953",
+              "published": "2026-08-07T04:28:41+00:00",
+              "orig_title": "Thai school shooter commits suicide — newspaper",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            },
             {
               "outlet": "TASS",
               "region": "russia",
@@ -316,10 +500,10 @@
               "region": "russia",
               "lean": "state",
               "ownership": "state",
-              "title": "Thailand school shooter first kills grandparents — media",
-              "url": "https://tass.com/world/2170017",
-              "published": "2026-08-07T07:50:08+00:00",
-              "orig_title": "Thailand school shooter first kills grandparents — media",
+              "title": "Five killed, 23 injured in Thailand school shooting, police revise toll — media",
+              "url": "https://tass.com/world/2170047",
+              "published": "2026-08-07T09:00:45+00:00",
+              "orig_title": "Five killed, 23 injured in Thailand school shooting, police revise toll — media",
               "lang": "en",
               "translated": false,
               "access": "open"
@@ -329,10 +513,10 @@
               "region": "russia",
               "lean": "state",
               "ownership": "state",
-              "title": "Five killed, 23 injured in Thailand school shooting, police revise toll — media",
-              "url": "https://tass.com/world/2170047",
-              "published": "2026-08-07T09:00:45+00:00",
-              "orig_title": "Five killed, 23 injured in Thailand school shooting, police revise toll — media",
+              "title": "Thailand school shooter first kills grandparents — media",
+              "url": "https://tass.com/world/2170017",
+              "published": "2026-08-07T07:50:08+00:00",
+              "orig_title": "Thailand school shooter first kills grandparents — media",
               "lang": "en",
               "translated": false,
               "access": "open"
@@ -342,23 +526,22 @@
       ]
     },
     {
-      "id": 38,
+      "id": 77,
       "topic": "World & Politics",
       "label": "Trump · birthright · citizenship",
-      "title": "Trump signs new orders targeting birthright citizenship and ‘birth tourism’",
-      "summary": "US President Donald Trump signed two executive orders on Thursday seeking to narrow birthright citizenship and intensify a crackdown on “birth tourism”, making a new attempt to restrict automatic citi",
-      "score": 10.954,
+      "title": "Trump again tries to limit US birthright citizenship with new executive orders",
+      "summary": "The executive orders ban birth tourism and expand the existing definition of people whose children are not eligible for US birthright citizenship.",
+      "score": 10.907,
       "n_outlets": 10,
       "n_articles": 13,
       "regions": [
         "africa",
-        "china",
         "europe",
         "india",
         "russia",
         "us"
       ],
-      "last_seen": "2026-08-07T10:56:19+00:00",
+      "last_seen": "2026-08-07T11:07:48+00:00",
       "leans": [
         "center",
         "left",
@@ -490,17 +673,17 @@
           "access": "unknown"
         },
         {
-          "outlet": "South China Morning Post",
-          "region": "china",
+          "outlet": "Meduza",
+          "region": "russia",
           "lean": "center",
           "ownership": "private",
-          "title": "Trump signs new orders targeting birthright citizenship and ‘birth tourism’",
-          "url": "https://www.scmp.com/news/us/diplomacy/article/3363223/trump-signs-new-orders-targeting-birthright-citizenship-and-birth-tourism?utm_source=rss_feed",
-          "published": "2026-08-06T21:41:30+00:00",
-          "orig_title": "Trump signs new orders targeting birthright citizenship and ‘birth tourism’",
+          "title": "‘We want missiles, too’: Trump on sending more Patriot interceptors to Ukraine",
+          "url": "https://meduza.io/en/news/2026/08/07/we-want-missiles-too-trump-on-sending-more-patriot-interceptors-to-ukraine",
+          "published": "2026-08-07T11:07:48+00:00",
+          "orig_title": "‘We want missiles, too’: Trump on sending more Patriot interceptors to Ukraine",
           "lang": "en",
           "translated": false,
-          "access": "open"
+          "access": "unknown"
         },
         {
           "outlet": "Die Welt",
@@ -544,76 +727,49 @@
       ]
     },
     {
-      "id": 198,
+      "id": 13,
       "topic": "World & Politics",
-      "label": "German · Leipzig · Airport",
-      "title": "Explosive Drone Found at German Airport Used by Ukrainian Carrier",
-      "summary": "A second drone may have collided with a plane in the air over the airport, damaging the aircraft slightly, the authorities say.",
-      "score": 10.799,
-      "n_outlets": 10,
-      "n_articles": 12,
+      "label": "Saudi · Arabia · Turkey",
+      "title": "Saudi Arabia, Turkey and Pakistan Sign Joint Defense Pact",
+      "summary": "The agreement treats an attack on any of the three countries as an attack on all. Saudi Arabia has recently faced drone and missile strikes that it has blamed on Iran’s allies in Yemen and Iraq.",
+      "score": 6.982,
+      "n_outlets": 6,
+      "n_articles": 7,
       "regions": [
+        "china",
         "europe",
-        "india",
         "russia",
         "us"
       ],
-      "last_seen": "2026-08-07T08:48:16+00:00",
+      "last_seen": "2026-08-07T12:04:58+00:00",
       "leans": [
         "center",
         "left",
-        "right",
         "state"
       ],
       "sources": [
         {
-          "outlet": "El Pais",
+          "outlet": "Der Spiegel",
           "region": "europe",
           "lean": "left",
           "ownership": "private",
-          "title": "Germany admits vulnerability to \"new level of threat\" posed by bomb drones",
-          "url": "https://elpais.com/internacional/2026-08-06/alemania-admite-su-vulnerabilidad-ante-el-nuevo-nivel-de-peligro-que-representan-los-drones-bomba.html",
-          "published": "2026-08-06T15:35:12+00:00",
-          "orig_title": "Alemania admite su vulnerabilidad ante el “nuevo nivel de peligro” que representan los drones bomba",
-          "lang": "es",
+          "title": "Iran crisis: Turkey, Saudi Arabia and Pakistan form defensive alliance",
+          "url": "https://www.spiegel.de/politik/iran-krieg-tuerkei-saudi-arabien-und-pakistan-bilden-verteidigungsbuendnis-a-53513d6f-bc1d-4ca5-9cc2-cc8003ccd9e1#ref=rss",
+          "published": "2026-08-07T11:47:00+00:00",
+          "orig_title": "Iran-Krieg: Türkei, Saudi-Arabien und Pakistan bilden Verteidigungsbündnis",
+          "lang": "de",
           "translated": true,
           "access": "unknown"
-        },
-        {
-          "outlet": "The Guardian",
-          "region": "europe",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Leipzig drone bomb was found near Ukrainian plane carrying ammunition, say police",
-          "url": "https://www.theguardian.com/world/2026/aug/06/leipzig-drone-bomb-found-near-ukrainian-plane-carrying-ammunition",
-          "published": "2026-08-06T15:06:28+00:00",
-          "orig_title": "Leipzig drone bomb was found near Ukrainian plane carrying ammunition, say police",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "The Hindu",
-          "region": "india",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Drone with explosive device found at German airport, detonator removed",
-          "url": "https://www.thehindu.com/news/international/drone-with-explosive-device-found-at-german-airport-detonator-removed/article71311984.ece",
-          "published": "2026-08-06T03:30:02+00:00",
-          "orig_title": "Drone with explosive device found at German airport, detonator removed",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
         },
         {
           "outlet": "The New York Times",
           "region": "us",
           "lean": "left",
           "ownership": "private",
-          "title": "Explosive Drone Found at German Airport Used by Ukrainian Carrier",
-          "url": "https://www.nytimes.com/2026/08/05/world/europe/germany-explosive-drone-airport.html",
-          "published": "2026-08-05T23:26:32+00:00",
-          "orig_title": "Explosive Drone Found at German Airport Used by Ukrainian Carrier",
+          "title": "Saudi Arabia, Turkey and Pakistan Sign Joint Defense Pact",
+          "url": "https://www.nytimes.com/2026/08/07/world/middleeast/saudi-turkey-pakistan-joint-defense-pact.html",
+          "published": "2026-08-07T11:40:45+00:00",
+          "orig_title": "Saudi Arabia, Turkey and Pakistan Sign Joint Defense Pact",
           "lang": "en",
           "translated": false,
           "access": "paywall"
@@ -623,10 +779,10 @@
           "region": "europe",
           "lean": "center",
           "ownership": "public",
-          "title": "German airport drone-bomb: Could Russia be involved?",
-          "url": "https://www.bbc.co.uk/news/articles/ckgdmrxxkdxo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-07T08:48:16+00:00",
-          "orig_title": "German airport drone-bomb: Could Russia be involved?",
+          "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
+          "url": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-07T12:02:28+00:00",
+          "orig_title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
           "lang": "en",
           "translated": false,
           "access": "open"
@@ -636,103 +792,64 @@
           "region": "russia",
           "lean": "center",
           "ownership": "private",
-          "title": "German transport minister warns of German airports' vulnerability to drones",
-          "url": "https://www.kommersant.ru/doc/8864315",
-          "published": "2026-08-06T17:06:17+00:00",
-          "orig_title": "Министр транспорта ФРГ заявил об уязвимости немецких аэропортов для дронов",
+          "title": "Saudi Arabia, Pakistan and Turkey form defensive alliance",
+          "url": "https://www.kommersant.ru/doc/8874894",
+          "published": "2026-08-07T11:27:26+00:00",
+          "orig_title": "Саудовская Аравия, Пакистан и Турция образовали оборонительный союз",
           "lang": "ru",
-          "translated": true,
-          "access": "unknown",
-          "more": [
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Bild reports drone attack on German cargo ship in Black Sea",
-              "url": "https://www.kommersant.ru/doc/8864105",
-              "published": "2026-08-06T13:02:16+00:00",
-              "orig_title": "Bild узнала об атаке БПЛА на немецкое грузовое судно в Черном море",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            },
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "WDR: Ukrainian plane at Leipzig airport was carrying ammunition",
-              "url": "https://www.kommersant.ru/doc/8864092",
-              "published": "2026-08-06T12:46:30+00:00",
-              "orig_title": "WDR: стоявший в аэропорту Лейпцига украинский самолет перевозил боеприпасы",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            }
-          ]
-        },
-        {
-          "outlet": "Fox News",
-          "region": "us",
-          "lean": "right",
-          "ownership": "private",
-          "title": "Explosive drone forces shutdown at major German airport serving NATO, Ukraine flights",
-          "url": "https://www.foxnews.com/world/explosive-drone-forces-shutdown-major-german-airport-serving-nato-ukraine-flights",
-          "published": "2026-08-05T23:32:23+00:00",
-          "orig_title": "Explosive drone forces shutdown at major German airport serving NATO, Ukraine flights",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "Le Figaro",
-          "region": "europe",
-          "lean": "right",
-          "ownership": "private",
-          "title": "Germany narrowly avoids disaster after explosive-laden drone found at Leipzig airport",
-          "url": "https://www.lefigaro.fr/international/allemagne-une-catastrophe-evitee-de-justesse-apres-la-decouverte-d-un-drone-barde-d-explosifs-a-l-aeroport-de-leipzig-20260805",
-          "published": "2026-08-06T09:59:37+00:00",
-          "orig_title": "Allemagne : une catastrophe évitée de justesse après la découverte d’un drone bardé d’explosifs à l’aéroport de Leipzig",
-          "lang": "fr",
           "translated": true,
           "access": "unknown"
         },
         {
-          "outlet": "The Wall Street Journal",
-          "region": "us",
-          "lean": "right",
+          "outlet": "South China Morning Post",
+          "region": "china",
+          "lean": "center",
           "ownership": "private",
-          "title": "Explosive Drone at German Airport Marks New Threat for Europe",
-          "url": "https://www.wsj.com/world/europe/explosive-drone-at-german-airport-marks-new-threat-for-europe-04a4b664?mod=rss_worldnews",
-          "published": "2026-08-06T14:54:00+00:00",
-          "orig_title": "Explosive Drone at German Airport Marks New Threat for Europe",
+          "title": "Saudi Arabia, Turkey and Pakistan sign joint defence deal amid regional turmoil",
+          "url": "https://www.scmp.com/news/world/middle-east/article/3363340/saudi-arabia-turkey-and-pakistan-sign-joint-defence-deal-amid-regional-turmoil?utm_source=rss_feed",
+          "published": "2026-08-07T11:27:39+00:00",
+          "orig_title": "Saudi Arabia, Turkey and Pakistan sign joint defence deal amid regional turmoil",
           "lang": "en",
           "translated": false,
-          "access": "paywall"
+          "access": "open"
         },
         {
           "outlet": "TASS",
           "region": "russia",
           "lean": "state",
           "ownership": "state",
-          "title": "UAV with explosives found at Leipzig Airport equipped with 5G antennas — TV",
-          "url": "https://tass.com/world/2169947",
-          "published": "2026-08-07T03:53:24+00:00",
-          "orig_title": "UAV with explosives found at Leipzig Airport equipped with 5G antennas — TV",
+          "title": "Ankara-Riyadh-Islamabad alliance stems from geopolitics — expert",
+          "url": "https://tass.com/world/2170195",
+          "published": "2026-08-07T12:04:58+00:00",
+          "orig_title": "Ankara-Riyadh-Islamabad alliance stems from geopolitics — expert",
           "lang": "en",
           "translated": false,
-          "access": "open"
+          "access": "open",
+          "more": [
+            {
+              "outlet": "TASS",
+              "region": "russia",
+              "lean": "state",
+              "ownership": "state",
+              "title": "Saudi Arabia, Turkey, Pakistan to consider attack on one country as attack on all",
+              "url": "https://tass.com/world/2170183",
+              "published": "2026-08-07T11:27:07+00:00",
+              "orig_title": "Saudi Arabia, Turkey, Pakistan to consider attack on one country as attack on all",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            }
+          ]
         }
       ]
     },
     {
-      "id": 222,
+      "id": 261,
       "topic": "World & Politics",
       "label": "Hormuz · Strait · Iran",
       "title": "Proposed Hormuz deal would give Iran control of inbound traffic, sources say",
       "summary": "Iran reported “significant progress” in the talks with Oman and said both inward and outward journeys would ‌pass through Iranian waters",
-      "score": 6.77,
+      "score": 6.72,
       "n_outlets": 6,
       "n_articles": 9,
       "regions": [
@@ -873,115 +990,12 @@
       ]
     },
     {
-      "id": 224,
-      "topic": "World & Politics",
-      "label": "Houthi · Yemeni · attacks",
-      "title": "Houthi attacks kill dozens of troops in Yemen, wound civilians in Saudi Arabia",
-      "summary": "Yemen’s Iran-backed Houthis killed at least 58 government troops in missile and drone attacks on Thursday, a military source said, in one of the deadliest days of the country’s civil war in four years",
-      "score": 6.767,
-      "n_outlets": 6,
-      "n_articles": 6,
-      "regions": [
-        "china",
-        "india",
-        "japan",
-        "russia",
-        "us"
-      ],
-      "last_seen": "2026-08-07T08:19:15+00:00",
-      "leans": [
-        "center",
-        "left",
-        "state"
-      ],
-      "sources": [
-        {
-          "outlet": "Asahi Shimbun",
-          "region": "japan",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Houthi attacks on Saudi-backed interim government kill dozens, raising regional tensions",
-          "url": "http://www.asahi.com/articles/ASV867JFQV86UHBI002M.html?ref=rss",
-          "published": "2026-08-07T08:19:15+00:00",
-          "orig_title": "フーシ、サウジ支援の暫定政権攻撃で58人死亡か 情勢緊迫化の懸念",
-          "lang": "ja",
-          "translated": true,
-          "access": "unknown"
-        },
-        {
-          "outlet": "The Hindu",
-          "region": "india",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Saudi military says Houthi attacks left 11 civilians, including child, injured near Yemen border",
-          "url": "https://www.thehindu.com/news/international/saudi-military-says-houthi-attacks-left-11-civilians-including-child-injured-near-yemen-border/article71316142.ece",
-          "published": "2026-08-07T04:16:43+00:00",
-          "orig_title": "Saudi military says Houthi attacks left 11 civilians, including child, injured near Yemen border",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "The New York Times",
-          "region": "us",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Houthi Attacks on Yemeni Military Threaten to Reignite Civil War",
-          "url": "https://www.nytimes.com/2026/08/06/world/middleeast/houthi-yemen-strikes.html",
-          "published": "2026-08-06T23:38:15+00:00",
-          "orig_title": "Houthi Attacks on Yemeni Military Threaten to Reignite Civil War",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
-        },
-        {
-          "outlet": "Kommersant",
-          "region": "russia",
-          "lean": "center",
-          "ownership": "private",
-          "title": "AFP: 58 killed in Houthi attack on Yemeni forces",
-          "url": "https://www.kommersant.ru/doc/8864421",
-          "published": "2026-08-07T01:15:37+00:00",
-          "orig_title": "AFP: 58 человек погибли при атаке хуситов на войска Йемена",
-          "lang": "ru",
-          "translated": true,
-          "access": "unknown"
-        },
-        {
-          "outlet": "South China Morning Post",
-          "region": "china",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Houthi attacks kill dozens of troops in Yemen, wound civilians in Saudi Arabia",
-          "url": "https://www.scmp.com/news/world/middle-east/article/3363241/houthi-attacks-kill-dozens-troops-yemen-wound-civilians-saudi-arabia?utm_source=rss_feed",
-          "published": "2026-08-07T03:00:56+00:00",
-          "orig_title": "Houthi attacks kill dozens of troops in Yemen, wound civilians in Saudi Arabia",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "TASS",
-          "region": "russia",
-          "lean": "state",
-          "ownership": "state",
-          "title": "At least 45 Yemeni soldiers died in attacks carried out by Houthi rebels — TV",
-          "url": "https://tass.com/world/2169779",
-          "published": "2026-08-06T14:47:29+00:00",
-          "orig_title": "At least 45 Yemeni soldiers died in attacks carried out by Houthi rebels — TV",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        }
-      ]
-    },
-    {
-      "id": 381,
+      "id": 405,
       "topic": "World & Politics",
       "label": "Kursk · Ukrainian · Russian",
       "title": "At least 77 conscripts killed in Ukrainian offensive on Kursk region in August 2024",
       "summary": "Не менее 77 российских солдат срочной службы погибли в приграничной части Курской области во время наступления украинской армии в августе 2024 года. Еще около 30 пропали без вести. Об этом говорится в",
-      "score": 6.412,
+      "score": 6.385,
       "n_outlets": 6,
       "n_articles": 8,
       "regions": [
@@ -1105,87 +1119,101 @@
       ]
     },
     {
-      "id": 0,
+      "id": 475,
       "topic": "World & Politics",
-      "label": "Baltic · Lithuanian · Russian",
-      "title": "Lithuanian defense minister warns of possible Russian strikes on Baltic countries using captured Ukrainian drones",
-      "summary": "Russia may be weighing strikes on critical infrastructure in the Baltic region, according to Lithuanian Defense Minister Robertas Kaunas, Bloomberg News reports.",
-      "score": 5.991,
-      "n_outlets": 5,
-      "n_articles": 5,
+      "label": "Ceuta · border · Thousands",
+      "title": "Thousands of migrants remain in Spanish territory after border rush, death toll hits about 100: Ceuta official",
+      "summary": "Ceuta president Juan Jesus Vivas told the European Parliament that at least 100 people died in the border rush and thousands of migrants remain.",
+      "score": 6.217,
+      "n_outlets": 6,
+      "n_articles": 6,
       "regions": [
-        "china",
+        "europe",
+        "india",
         "russia",
         "us"
       ],
-      "last_seen": "2026-08-07T11:23:45+00:00",
+      "last_seen": "2026-08-06T17:59:27+00:00",
       "leans": [
         "center",
-        "right",
-        "state"
+        "left",
+        "right"
       ],
       "sources": [
         {
-          "outlet": "Meduza",
+          "outlet": "The Guardian",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Ceuta residents ‘sad, helpless, anxious’ as up to 5,000 migrants remain in the city, president says – Europe live",
+          "url": "https://www.theguardian.com/world/live/2026/aug/06/ukraine-volodymyr-zelenskyy-russia-nato-germany-leipzig-wildfires-heatwaves-europe-live-news",
+          "published": "2026-08-06T14:18:55+00:00",
+          "orig_title": "Ceuta residents ‘sad, helpless, anxious’ as up to 5,000 migrants remain in the city, president says – Europe live",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "The Hindu",
+          "region": "india",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Spain's Ceuta seeks transfer of unaccompanied migrant minors to mainland Spain after border rush",
+          "url": "https://www.thehindu.com/news/international/spains-ceuta-seeks-transfer-of-unaccompanied-migrant-minors-to-mainland-spain-after-border-rush/article71311034.ece",
+          "published": "2026-08-06T05:41:20+00:00",
+          "orig_title": "Spain's Ceuta seeks transfer of unaccompanied migrant minors to mainland Spain after border rush",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "BBC News",
+          "region": "europe",
+          "lean": "center",
+          "ownership": "public",
+          "title": "Thousands of migrants still in Ceuta after border crisis, local leader says",
+          "url": "https://www.bbc.co.uk/news/articles/c0ejdj22zq9o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-06T17:36:07+00:00",
+          "orig_title": "Thousands of migrants still in Ceuta after border crisis, local leader says",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "Kommersant",
           "region": "russia",
           "lean": "center",
           "ownership": "private",
-          "title": "Lithuanian defense minister warns of possible Russian strikes on Baltic countries using captured Ukrainian drones",
-          "url": "https://meduza.io/en/news/2026/08/07/lithuanian-defense-minister-warns-of-possible-russian-strikes-on-baltic-countries-using-captured-ukrainian-drones",
-          "published": "2026-08-07T11:23:45+00:00",
-          "orig_title": "Lithuanian defense minister warns of possible Russian strikes on Baltic countries using captured Ukrainian drones",
+          "title": "Ceuta mayor confirms 100 migrants died attempting to enter city",
+          "url": "https://www.kommersant.ru/doc/8864148",
+          "published": "2026-08-06T13:22:46+00:00",
+          "orig_title": "Глава Сеуты подтвердил гибель сотни мигрантов при попытке попасть в город",
+          "lang": "ru",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
+          "outlet": "Politico Europe",
+          "region": "europe",
+          "lean": "center",
+          "ownership": "private",
+          "title": "EU can’t depend on neighbors for border control, migration chief says",
+          "url": "https://www.politico.eu/article/eu-depend-neighbors-border-control-migration-magnus-brunner-eu/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "published": "2026-08-06T17:59:27+00:00",
+          "orig_title": "EU can’t depend on neighbors for border control, migration chief says",
           "lang": "en",
           "translated": false,
           "access": "unknown"
         },
         {
-          "outlet": "South China Morning Post",
-          "region": "china",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Is Japan eyeing Ukraine-style asymmetric warfare against China in defence shift?",
-          "url": "https://www.scmp.com/news/china/military/article/3363287/japan-eyeing-ukraine-style-asymmetric-warfare-against-china-defence-shift?utm_source=rss_feed",
-          "published": "2026-08-07T10:01:43+00:00",
-          "orig_title": "Is Japan eyeing Ukraine-style asymmetric warfare against China in defence shift?",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "The Moscow Times",
-          "region": "russia",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Regions Calling: Do Russians Care About Air Raid Alerts?",
-          "url": "https://www.themoscowtimes.com/2026/08/06/regions-calling-do-russians-care-about-air-raid-alerts-a93427",
-          "published": "2026-08-06T13:59:00+00:00",
-          "orig_title": "Regions Calling: Do Russians Care About Air Raid Alerts?",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "The Wall Street Journal",
+          "outlet": "Fox News",
           "region": "us",
           "lean": "right",
           "ownership": "private",
-          "title": "Opinion | Russia’s Drones Test Europe’s Defenses",
-          "url": "https://www.wsj.com/opinion/russia-drones-europe-defense-nato-a4ca3958?mod=rss_worldnews",
-          "published": "2026-08-06T22:58:00+00:00",
-          "orig_title": "Opinion | Russia’s Drones Test Europe’s Defenses",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
-        },
-        {
-          "outlet": "TASS",
-          "region": "russia",
-          "lean": "state",
-          "ownership": "state",
-          "title": "Baltic states pursuing suicidal policy by manufacturing drones for Ukraine — expert",
-          "url": "https://tass.com/defense/2169957",
-          "published": "2026-08-07T05:04:49+00:00",
-          "orig_title": "Baltic states pursuing suicidal policy by manufacturing drones for Ukraine — expert",
+          "title": "Thousands of migrants remain in Spanish territory after border rush, death toll hits about 100: Ceuta official",
+          "url": "https://www.foxnews.com/world/thousands-migrants-remain-spanish-territory-border-rush-death-toll-hits-100-ceuta-official",
+          "published": "2026-08-06T17:16:47+00:00",
+          "orig_title": "Thousands of migrants remain in Spanish territory after border rush, death toll hits about 100: Ceuta official",
           "lang": "en",
           "translated": false,
           "access": "open"
@@ -1193,12 +1221,12 @@
       ]
     },
     {
-      "id": 67,
+      "id": 128,
       "topic": "World & Politics",
       "label": "Hormuz · Iran · Israeli",
       "title": "Iran moves to block US, Israeli shipments from Strait of Hormuz",
       "summary": "Iranian state media on Thursday reported that Tehran could attempt to block U.S. and Israeli shipments from transiting the Strait of Hormuz under its joint venture with Oman to reopen the critical wat",
-      "score": 5.924,
+      "score": 5.865,
       "n_outlets": 5,
       "n_articles": 5,
       "regions": [
@@ -1282,12 +1310,101 @@
       ]
     },
     {
-      "id": 361,
+      "id": 262,
+      "topic": "World & Politics",
+      "label": "Houthi · Saudi · Yemen",
+      "title": "Houthi attacks kill dozens of troops in Yemen, wound civilians in Saudi Arabia",
+      "summary": "Yemen’s Iran-backed Houthis killed at least 58 government troops in missile and drone attacks on Thursday, a military source said, in one of the deadliest days of the country’s civil war in four years",
+      "score": 5.718,
+      "n_outlets": 5,
+      "n_articles": 5,
+      "regions": [
+        "china",
+        "india",
+        "japan",
+        "russia",
+        "us"
+      ],
+      "last_seen": "2026-08-07T08:19:15+00:00",
+      "leans": [
+        "center",
+        "left"
+      ],
+      "sources": [
+        {
+          "outlet": "Asahi Shimbun",
+          "region": "japan",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Houthi attacks on Saudi-backed interim government kill dozens, raising regional tensions",
+          "url": "http://www.asahi.com/articles/ASV867JFQV86UHBI002M.html?ref=rss",
+          "published": "2026-08-07T08:19:15+00:00",
+          "orig_title": "フーシ、サウジ支援の暫定政権攻撃で58人死亡か 情勢緊迫化の懸念",
+          "lang": "ja",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
+          "outlet": "The Hindu",
+          "region": "india",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Saudi military says Houthi attacks left 11 civilians, including child, injured near Yemen border",
+          "url": "https://www.thehindu.com/news/international/saudi-military-says-houthi-attacks-left-11-civilians-including-child-injured-near-yemen-border/article71316142.ece",
+          "published": "2026-08-07T04:16:43+00:00",
+          "orig_title": "Saudi military says Houthi attacks left 11 civilians, including child, injured near Yemen border",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "The New York Times",
+          "region": "us",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Houthi Attacks on Yemeni Military Threaten to Reignite Civil War",
+          "url": "https://www.nytimes.com/2026/08/06/world/middleeast/houthi-yemen-strikes.html",
+          "published": "2026-08-06T23:38:15+00:00",
+          "orig_title": "Houthi Attacks on Yemeni Military Threaten to Reignite Civil War",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall"
+        },
+        {
+          "outlet": "Kommersant",
+          "region": "russia",
+          "lean": "center",
+          "ownership": "private",
+          "title": "AFP: 58 killed in Houthi attack on Yemeni forces",
+          "url": "https://www.kommersant.ru/doc/8864421",
+          "published": "2026-08-07T01:15:37+00:00",
+          "orig_title": "AFP: 58 человек погибли при атаке хуситов на войска Йемена",
+          "lang": "ru",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
+          "outlet": "South China Morning Post",
+          "region": "china",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Houthi attacks kill dozens of troops in Yemen, wound civilians in Saudi Arabia",
+          "url": "https://www.scmp.com/news/world/middle-east/article/3363241/houthi-attacks-kill-dozens-troops-yemen-wound-civilians-saudi-arabia?utm_source=rss_feed",
+          "published": "2026-08-07T03:00:56+00:00",
+          "orig_title": "Houthi attacks kill dozens of troops in Yemen, wound civilians in Saudi Arabia",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 387,
       "topic": "World & Politics",
       "label": "Trump · U.S. · reports",
       "title": "Trump dismisses reports of munitions shortages, says U.S. has ‘massive amounts’",
       "summary": "Donald Trump lashed out on his Truth Social platform at media reports about the dwindling weapons stockpile, saying that the United States has “massive amounts of ‘munitions’ especially of certain typ",
-      "score": 5.459,
+      "score": 5.43,
       "n_outlets": 5,
       "n_articles": 7,
       "regions": [
@@ -1400,105 +1517,16 @@
       ]
     },
     {
-      "id": 450,
-      "topic": "World & Politics",
-      "label": "Ceuta · Thousands · migrants",
-      "title": "Thousands of migrants remain in Spanish territory after border rush, death toll hits about 100: Ceuta official",
-      "summary": "Ceuta president Juan Jesus Vivas told the European Parliament that at least 100 people died in the border rush and thousands of migrants remain.",
-      "score": 5.232,
-      "n_outlets": 5,
-      "n_articles": 5,
-      "regions": [
-        "europe",
-        "russia",
-        "us"
-      ],
-      "last_seen": "2026-08-06T17:59:27+00:00",
-      "leans": [
-        "center",
-        "left",
-        "right"
-      ],
-      "sources": [
-        {
-          "outlet": "The Guardian",
-          "region": "europe",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Ceuta residents ‘sad, helpless, anxious’ as up to 5,000 migrants remain in the city, president says – Europe live",
-          "url": "https://www.theguardian.com/world/live/2026/aug/06/ukraine-volodymyr-zelenskyy-russia-nato-germany-leipzig-wildfires-heatwaves-europe-live-news",
-          "published": "2026-08-06T14:18:55+00:00",
-          "orig_title": "Ceuta residents ‘sad, helpless, anxious’ as up to 5,000 migrants remain in the city, president says – Europe live",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "BBC News",
-          "region": "europe",
-          "lean": "center",
-          "ownership": "public",
-          "title": "Thousands of migrants still in Ceuta after border crisis, local leader says",
-          "url": "https://www.bbc.co.uk/news/articles/c0ejdj22zq9o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-06T17:36:07+00:00",
-          "orig_title": "Thousands of migrants still in Ceuta after border crisis, local leader says",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "Kommersant",
-          "region": "russia",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Ceuta mayor confirms 100 migrants died attempting to enter city",
-          "url": "https://www.kommersant.ru/doc/8864148",
-          "published": "2026-08-06T13:22:46+00:00",
-          "orig_title": "Глава Сеуты подтвердил гибель сотни мигрантов при попытке попасть в город",
-          "lang": "ru",
-          "translated": true,
-          "access": "unknown"
-        },
-        {
-          "outlet": "Politico Europe",
-          "region": "europe",
-          "lean": "center",
-          "ownership": "private",
-          "title": "EU can’t depend on neighbors for border control, migration chief says",
-          "url": "https://www.politico.eu/article/eu-depend-neighbors-border-control-migration-magnus-brunner-eu/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-          "published": "2026-08-06T17:59:27+00:00",
-          "orig_title": "EU can’t depend on neighbors for border control, migration chief says",
-          "lang": "en",
-          "translated": false,
-          "access": "unknown"
-        },
-        {
-          "outlet": "Fox News",
-          "region": "us",
-          "lean": "right",
-          "ownership": "private",
-          "title": "Thousands of migrants remain in Spanish territory after border rush, death toll hits about 100: Ceuta official",
-          "url": "https://www.foxnews.com/world/thousands-migrants-remain-spanish-territory-border-rush-death-toll-hits-100-ceuta-official",
-          "published": "2026-08-06T17:16:47+00:00",
-          "orig_title": "Thousands of migrants remain in Spanish territory after border rush, death toll hits about 100: Ceuta official",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        }
-      ]
-    },
-    {
-      "id": 174,
+      "id": 220,
       "topic": "Economics",
-      "label": "Trump · China · tariff",
+      "label": "Trump · key · tariffs",
       "title": "Trump orders new 15% tariff on key material for solar panels and microchips",
       "summary": "Move to raise levy on goods made with polysilicon aims to protect domestic US supply chains from China, the major producer Donald Trump has ordered a new 15% tariff on imported products made of polysi",
-      "score": 7.825,
-      "n_outlets": 7,
-      "n_articles": 7,
+      "score": 6.772,
+      "n_outlets": 6,
+      "n_articles": 6,
       "regions": [
         "australia",
-        "china",
         "europe",
         "russia",
         "us"
@@ -1586,29 +1614,16 @@
           "lang": "en",
           "translated": false,
           "access": "unknown"
-        },
-        {
-          "outlet": "South China Morning Post",
-          "region": "china",
-          "lean": "center",
-          "ownership": "private",
-          "title": "US sets 15% polysilicon tariff, price floors to challenge China’s dominance",
-          "url": "https://www.scmp.com/news/us/article/3363224/us-sets-15-polysilicon-tariff-price-floors-challenge-chinas-dominance?utm_source=rss_feed",
-          "published": "2026-08-06T22:51:35+00:00",
-          "orig_title": "US sets 15% polysilicon tariff, price floors to challenge China’s dominance",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
         }
       ]
     },
     {
-      "id": 254,
+      "id": 287,
       "topic": "Economics",
       "label": "U.S. · yen · September",
       "title": "US efforts to prop up the yen risk doing more harm than good",
       "summary": "Has the interminable decline in the yen finally run its course? Since the beginning of 2022, Japan’s currency has fallen a staggering 36 per cent against the US dollar. Despite the resolve of the Bank",
-      "score": 3.716,
+      "score": 3.67,
       "n_outlets": 3,
       "n_articles": 4,
       "regions": [
@@ -1679,12 +1694,59 @@
       ]
     },
     {
-      "id": 77,
+      "id": 51,
+      "topic": "Economics",
+      "label": "Our · housing · Australia",
+      "title": "Can Australia make housing affordable while avoiding a major market crash? We may soon find out",
+      "summary": "Politicians’ fever dreams of ‘sustainable price increases’ – where values keep rising but by less than wages – could happen Follow our Australia news live blog for latest updates Get our breaking news",
+      "score": 2.935,
+      "n_outlets": 2,
+      "n_articles": 2,
+      "regions": [
+        "australia",
+        "us"
+      ],
+      "last_seen": "2026-08-07T11:30:00+00:00",
+      "leans": [
+        "center",
+        "left"
+      ],
+      "sources": [
+        {
+          "outlet": "The Guardian Australia",
+          "region": "australia",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Can Australia make housing affordable while avoiding a major market crash? We may soon find out",
+          "url": "https://www.theguardian.com/australia-news/2026/aug/07/housing-property-prices-affordability-australia-avoid-major-market-crash",
+          "published": "2026-08-06T15:00:02+00:00",
+          "orig_title": "Can Australia make housing affordable while avoiding a major market crash? We may soon find out",
+          "lang": "en",
+          "translated": false,
+          "access": "unknown"
+        },
+        {
+          "outlet": "The Hill",
+          "region": "us",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Our current housing crisis began in 2008 — and it never ended",
+          "url": "https://thehill.com/opinion/finance/5972259-post-2008-housing-production-shortage/",
+          "published": "2026-08-07T11:30:00+00:00",
+          "orig_title": "Our current housing crisis began in 2008 — and it never ended",
+          "lang": "en",
+          "translated": false,
+          "access": "unknown"
+        }
+      ]
+    },
+    {
+      "id": 137,
       "topic": "Economics",
       "label": "Boeing · Max · cracks",
       "title": "Boeing 737 Max to undergo worldwide inspections for fuselage cracks",
       "summary": "Федеральное управление гражданской авиации США (FAA) распорядилось провести проверку сотен самолетов Boeing 737 Max из-за рисков появления трещин в фюзеляже. Директива касается моделей 737 Max 8, 737 ",
-      "score": 2.914,
+      "score": 2.855,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -1726,12 +1788,12 @@
       ]
     },
     {
-      "id": 116,
+      "id": 173,
       "topic": "Economics",
       "label": "Tariff · Mamma · Trump",
       "title": "‘Mamma mia!’: Trump tariffs refund ignites 53% profit spike at Nintendo",
       "summary": "Profit jump fuelled largely by unknown US refund amount as Japanese video game firm records quarterly sales drop Nintendo has reported a jump in profits, as the Japanese game maker’s earnings were buo",
-      "score": 2.882,
+      "score": 2.825,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -1773,59 +1835,12 @@
       ]
     },
     {
-      "id": 132,
-      "topic": "Economics",
-      "label": "German · Trump · Administration",
-      "title": "US strikes $1.2bn deal to pay German firm to halt offshore wind projects",
-      "summary": "The RWE payout is the latest in a string of deals cancelling wind energy projects, a power source long derided by Trump.",
-      "score": 2.871,
-      "n_outlets": 2,
-      "n_articles": 2,
-      "regions": [
-        "europe",
-        "us"
-      ],
-      "last_seen": "2026-08-07T09:50:54+00:00",
-      "leans": [
-        "center",
-        "left"
-      ],
-      "sources": [
-        {
-          "outlet": "The New York Times",
-          "region": "us",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Trump Administration to Pay RWE to Cancel Wind Leases",
-          "url": "https://www.nytimes.com/2026/08/06/climate/rwe-trump-offshore-wind-canceled.html",
-          "published": "2026-08-06T22:15:41+00:00",
-          "orig_title": "Trump Administration to Pay RWE to Cancel Wind Leases",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
-        },
-        {
-          "outlet": "BBC News",
-          "region": "europe",
-          "lean": "center",
-          "ownership": "public",
-          "title": "US strikes $1.2bn deal to pay German firm to halt offshore wind projects",
-          "url": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-07T09:50:54+00:00",
-          "orig_title": "US strikes $1.2bn deal to pay German firm to halt offshore wind projects",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        }
-      ]
-    },
-    {
-      "id": 269,
+      "id": 302,
       "topic": "Economics",
       "label": "Visa · Australia · overstayers",
       "title": "Visa overstayers to have work rights revoked if asylum claim rejected",
       "summary": "The federal government is expected to take a hard line on temporary visas as it continues to consider ways to reduce Australia's migration figures.",
-      "score": 2.679,
+      "score": 2.635,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -1866,12 +1881,12 @@
       ]
     },
     {
-      "id": 364,
+      "id": 389,
       "topic": "Economics",
       "label": "Germans · Europe · China",
       "title": "Germans emerge as Europe’s biggest China hawks as economic pain begins to bite",
       "summary": "Germans have emerged as some of Europe’s most hawkish voters on China, more likely to consider Beijing as a rival or an adversary than in any other major EU country, a new survey has shown. Published ",
-      "score": 2.453,
+      "score": 2.424,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -1912,12 +1927,12 @@
       ]
     },
     {
-      "id": 439,
+      "id": 464,
       "topic": "Economics",
       "label": "Journalists · Pakistan · Starts",
       "title": "Pakistan Starts Sweeping New Crackdown on Journalists",
       "summary": "With a protest movement in Kashmir challenging its authority in the region, Pakistan restricts independent reporting by local and foreign media.",
-      "score": 2.248,
+      "score": 2.232,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -1958,12 +1973,12 @@
       ]
     },
     {
-      "id": 467,
+      "id": 491,
       "topic": "Economics",
       "label": "EasyJet · agrees · takeover",
       "title": "EasyJet agrees to $7.7 billion takeover by Apollo investment fund",
       "summary": "Британский лоукостер EasyJet согласился на поглощение американским инвестфондом Apollo за 5,7 млрд фунтов стерлингов ($7,7 млрд). Как говорится в заявлении авиакомпании, ее совет директоров одобрил пр",
-      "score": 2.207,
+      "score": 2.193,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -2004,12 +2019,12 @@
       ]
     },
     {
-      "id": 469,
+      "id": 493,
       "topic": "Economics",
       "label": "Organ · U.S. · Cuts",
       "title": "Organ donor NGO shut down amid patient scandal",
       "summary": "Федеральные власти США объявили о начале процедуры закрытия НКО Network for Hope, принимавшей донорские органы для пересадки, сообщает CNN. Причиной стали обвинения в «системных нарушениях безопасност",
-      "score": 2.206,
+      "score": 2.193,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -2051,88 +2066,12 @@
       ]
     },
     {
-      "id": 5,
-      "topic": "Trading & Markets",
-      "label": "WSJ · Read · Politics",
-      "title": "US intelligence assesses limited Russian attack possible on NATO country: WSJ",
-      "summary": "Разведка США допустила, что Россия попытается провести ограниченную атаку на одну из стран НАТО, чтобы проверить готовность альянса защищать своих участников. Об этом рассказали источники&nbsp;The Wal",
-      "score": 3.98,
-      "n_outlets": 3,
-      "n_articles": 4,
-      "regions": [
-        "russia",
-        "us"
-      ],
-      "last_seen": "2026-08-07T11:16:00+00:00",
-      "leans": [
-        "center",
-        "left",
-        "right"
-      ],
-      "sources": [
-        {
-          "outlet": "Novaya Gazeta Europe",
-          "region": "russia",
-          "lean": "left",
-          "ownership": "private",
-          "title": "US intelligence assesses limited Russian attack possible on NATO country: WSJ",
-          "url": "https://novayagazeta.eu/articles/2026/08/07/razvedka-ssha-dopustila-ogranichennuiu-ataku-rossii-na-odnu-iz-stran-nato-wsj-news",
-          "published": "2026-08-07T09:38:48+00:00",
-          "orig_title": "Разведка США допустила ограниченную атаку России на одну из стран НАТО — WSJ",
-          "lang": "ru",
-          "translated": true,
-          "access": "unknown"
-        },
-        {
-          "outlet": "Kommersant",
-          "region": "russia",
-          "lean": "center",
-          "ownership": "private",
-          "title": "WSJ: Trump orders investigation into ammunition shortage data leak",
-          "url": "https://www.kommersant.ru/doc/8864433",
-          "published": "2026-08-07T03:41:44+00:00",
-          "orig_title": "WSJ: Трамп приказал расследовать утечки данных о дефиците боеприпасов в США",
-          "lang": "ru",
-          "translated": true,
-          "access": "unknown",
-          "more": [
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "WSJ: US airlines clash with immigration agency ICE",
-              "url": "https://www.kommersant.ru/doc/8863758",
-              "published": "2026-08-06T08:02:14+00:00",
-              "orig_title": "WSJ: американские авиакомпании вступили в конфликт с иммиграционной службой ICE",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            }
-          ]
-        },
-        {
-          "outlet": "The Wall Street Journal",
-          "region": "us",
-          "lean": "right",
-          "ownership": "private",
-          "title": "Read more in today’s WSJ Politics newsletter:",
-          "url": "https://www.wsj.com/politics/policy/is-misbehavior-by-politicians-finally-having-a-reckoning-8574bca8?mod=rss_socialpoliticsfeed",
-          "published": "2026-08-07T11:16:00+00:00",
-          "orig_title": "Read more in today’s WSJ Politics newsletter:",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
-        }
-      ]
-    },
-    {
-      "id": 454,
+      "id": 479,
       "topic": "Trading & Markets",
       "label": "SpaceX · rocket · South",
       "title": "How Elon Musk's lost rocket crashed into the moon: Korean probe captures crater from impact",
       "summary": "El impacto del Falcon 9, que ha despertado el interés de las agencias espaciales y los astrónomos aficionados, obliga a repensar el lanzamiento de futuras misiones espaciales",
-      "score": 3.226,
+      "score": 3.211,
       "n_outlets": 3,
       "n_articles": 3,
       "regions": [
@@ -2186,12 +2125,134 @@
       ]
     },
     {
-      "id": 104,
+      "id": 20,
+      "topic": "Trading & Markets",
+      "label": "Where · China-Israel · Chengdu",
+      "title": "Where do China-Israel ties stand after closure of consulate in Chengdu?",
+      "summary": "In a sign of fraying ties amid the Middle East conflict, Israel’s consulate general in Chengdu has closed with its consul general leaving his post, two years after a controversy stoked backlash among ",
+      "score": 2.975,
+      "n_outlets": 2,
+      "n_articles": 2,
+      "regions": [
+        "china",
+        "europe"
+      ],
+      "last_seen": "2026-08-07T12:00:06+00:00",
+      "leans": [
+        "center",
+        "left"
+      ],
+      "sources": [
+        {
+          "outlet": "The Guardian",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "US to shut five consulates as critics fear China could fill diplomatic vacuum",
+          "url": "https://www.theguardian.com/us-news/2026/aug/05/us-state-department-consulate-closures",
+          "published": "2026-08-06T15:41:29+00:00",
+          "orig_title": "US to shut five consulates as critics fear China could fill diplomatic vacuum",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "South China Morning Post",
+          "region": "china",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Where do China-Israel ties stand after closure of consulate in Chengdu?",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3363325/where-do-china-israel-ties-stand-after-closure-consulate-chengdu?utm_source=rss_feed",
+          "published": "2026-08-07T12:00:06+00:00",
+          "orig_title": "Where do China-Israel ties stand after closure of consulate in Chengdu?",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "topic": "Trading & Markets",
+      "label": "China · Chinese · Global",
+      "title": "Global AI trade revival brightens outlook for Chinese tech stocks after record sell-offs",
+      "summary": "The outlook for Chinese technology stocks has improved after a sharp monthly sell-off, as the global rebound in the artificial intelligence trade regains momentum, speculative positions are flushed ou",
+      "score": 2.935,
+      "n_outlets": 2,
+      "n_articles": 4,
+      "regions": [
+        "china",
+        "india"
+      ],
+      "last_seen": "2026-08-07T11:30:07+00:00",
+      "leans": [
+        "center",
+        "left"
+      ],
+      "sources": [
+        {
+          "outlet": "The Hindu",
+          "region": "india",
+          "lean": "left",
+          "ownership": "private",
+          "title": "How Beijing innovates: Lessons from China’s market-state hybrid model",
+          "url": "https://www.thehindu.com/news/international/the-beijing-model-of-innovation/article71313438.ece",
+          "published": "2026-08-07T03:28:55+00:00",
+          "orig_title": "How Beijing innovates: Lessons from China’s market-state hybrid model",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "South China Morning Post",
+          "region": "china",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Global AI trade revival brightens outlook for Chinese tech stocks after record sell-offs",
+          "url": "https://www.scmp.com/business/china-business/article/3363261/global-ai-trade-revival-brightens-outlook-chinese-tech-stocks-after-record-sell-offs?utm_source=rss_feed",
+          "published": "2026-08-07T05:41:13+00:00",
+          "orig_title": "Global AI trade revival brightens outlook for Chinese tech stocks after record sell-offs",
+          "lang": "en",
+          "translated": false,
+          "access": "open",
+          "more": [
+            {
+              "outlet": "South China Morning Post",
+              "region": "china",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Chinese fund managers’ pursuit of AI plays backfires as hot tech stocks wobble",
+              "url": "https://www.scmp.com/business/china-business/article/3363131/chinese-fund-managers-pursuit-ai-plays-backfires-hot-tech-stocks-wobble?utm_source=rss_feed",
+              "published": "2026-08-06T06:00:09+00:00",
+              "orig_title": "Chinese fund managers’ pursuit of AI plays backfires as hot tech stocks wobble",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            },
+            {
+              "outlet": "South China Morning Post",
+              "region": "china",
+              "lean": "center",
+              "ownership": "private",
+              "title": "China’s lab-grown diamonds get an AI boost as industry rides demand for chip cooling",
+              "url": "https://www.scmp.com/economy/china-economy/article/3363310/chinas-lab-grown-diamonds-get-ai-boost-industry-rides-demand-chip-cooling?utm_source=rss_feed",
+              "published": "2026-08-07T11:30:07+00:00",
+              "orig_title": "China’s lab-grown diamonds get an AI boost as industry rides demand for chip cooling",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 160,
       "topic": "Trading & Markets",
       "label": "Musk · French · Greens",
       "title": "Musk says French Greens’ presidential candidate should be ‘shut down’",
       "summary": "The owner of X previously threw his support behind far-right leader Marine Le Pen to win the presidency.",
-      "score": 2.889,
+      "score": 2.832,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -2232,114 +2293,21 @@
       ]
     },
     {
-      "id": 237,
+      "id": 416,
       "topic": "Trading & Markets",
-      "label": "Milei · Clears · Brazil-Argentina",
-      "title": "Milei Clears Brazil-Argentina Naval Exercise Despite Rift",
-      "summary": "Milei approved a Brazil-Argentina naval exercise for August, preserving defense cooperation despite a sharp diplomatic downgrade. The post Milei Clears Brazil-Argentina Naval Exercise Despite Rift app",
-      "score": 2.751,
-      "n_outlets": 2,
-      "n_articles": 2,
-      "regions": [
-        "south_america"
-      ],
-      "last_seen": "2026-08-07T08:03:41+00:00",
-      "leans": [
-        "center",
-        "right"
-      ],
-      "sources": [
-        {
-          "outlet": "Buenos Aires Times",
-          "region": "south_america",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Argentina ties reduced as long as Milei 'attacks' persist – Brazil FM source",
-          "url": "https://www.batimes.com.ar/news/latin-america/argentina-ties-reduced-as-long-as-milei-attacks-persist-brazil-fm-source.phtml",
-          "published": "2026-08-06T07:50:46+00:00",
-          "orig_title": "Argentina ties reduced as long as Milei 'attacks' persist – Brazil FM source",
-          "lang": "en",
-          "translated": false,
-          "access": "unknown"
-        },
-        {
-          "outlet": "The Rio Times",
-          "region": "south_america",
-          "lean": "right",
-          "ownership": "private",
-          "title": "Milei Clears Brazil-Argentina Naval Exercise Despite Rift",
-          "url": "https://www.riotimesonline.com/milei-brazil-argentina-naval-exercise-fraterno-2026/",
-          "published": "2026-08-07T08:03:41+00:00",
-          "orig_title": "Milei Clears Brazil-Argentina Naval Exercise Despite Rift",
-          "lang": "en",
-          "translated": false,
-          "access": "unknown"
-        }
-      ]
-    },
-    {
-      "id": 374,
-      "topic": "Trading & Markets",
-      "label": "Max · Miller · Democrat",
-      "title": "Max Miller down double digits to Democrat Poindexter in new poll",
-      "summary": "As elections for Ohio’s 7th Congressional District near, Rep. Max Miller (R-Ohio) is losing traction for his campaign amid allegations of abuse from his ex-wife, as his Democratic opponent pulls ahead",
-      "score": 2.421,
-      "n_outlets": 2,
-      "n_articles": 2,
-      "regions": [
-        "us"
-      ],
-      "last_seen": "2026-08-07T01:06:31+00:00",
-      "leans": [
-        "center",
-        "right"
-      ],
-      "sources": [
-        {
-          "outlet": "The Hill",
-          "region": "us",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Max Miller down double digits to Democrat Poindexter in new poll",
-          "url": "https://thehill.com/homenews/campaign/6015633-poindexter-leads-max-miller-poll/",
-          "published": "2026-08-07T01:06:31+00:00",
-          "orig_title": "Max Miller down double digits to Democrat Poindexter in new poll",
-          "lang": "en",
-          "translated": false,
-          "access": "unknown"
-        },
-        {
-          "outlet": "The Wall Street Journal",
-          "region": "us",
-          "lean": "right",
-          "ownership": "private",
-          "title": "Rep. Max Miller is lending his re-election campaign $1 million as the embattled two-term Ohio congressman faces pressure to drop out over allegations of domestic abuse",
-          "url": "https://www.wsj.com/politics/elections/max-miller-to-loan-campaign-1-million-rejecting-calls-to-withdraw-7d54a0be?mod=rss_socialpoliticsfeed",
-          "published": "2026-08-07T01:03:00+00:00",
-          "orig_title": "Rep. Max Miller is lending his re-election campaign $1 million as the embattled two-term Ohio congressman faces pressure to drop out over allegations of domestic abuse",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
-        }
-      ]
-    },
-    {
-      "id": 410,
-      "topic": "Trading & Markets",
-      "label": "SpaceX · Shares · True",
-      "title": "The Investors Whose SpaceX Shares Vanished Before They Could Cash In",
-      "summary": "One bought in to an SPV fund touting pre-IPO “exposure” to the rocket company. He was told later the shares were sold before trading began.",
-      "score": 2.303,
+      "label": "SpaceX · Hong · Kong",
+      "title": "Employees make plans for a windfall as SpaceX shares are unlocked",
+      "summary": "SpaceX's shares are unlocked Thursday, and some early employees could see a massive windfall. The BBC's Samira Hussain explains.",
+      "score": 2.33,
       "n_outlets": 2,
       "n_articles": 3,
       "regions": [
-        "europe",
-        "us"
+        "china",
+        "europe"
       ],
-      "last_seen": "2026-08-06T21:11:00+00:00",
+      "last_seen": "2026-08-06T23:00:09+00:00",
       "leans": [
-        "center",
-        "right"
+        "center"
       ],
       "sources": [
         {
@@ -2353,45 +2321,173 @@
           "orig_title": "Employees make plans for a windfall as SpaceX shares are unlocked",
           "lang": "en",
           "translated": false,
-          "access": "open"
+          "access": "open",
+          "more": [
+            {
+              "outlet": "BBC News",
+              "region": "europe",
+              "lean": "center",
+              "ownership": "public",
+              "title": "Cashing in on SpaceX: 'Every chance I get, I'll sell a little more'",
+              "url": "https://www.bbc.co.uk/news/articles/cm2g0j3y339o?at_medium=RSS&at_campaign=rss",
+              "published": "2026-08-06T14:50:54+00:00",
+              "orig_title": "Cashing in on SpaceX: 'Every chance I get, I'll sell a little more'",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            }
+          ]
         },
+        {
+          "outlet": "South China Morning Post",
+          "region": "china",
+          "lean": "center",
+          "ownership": "private",
+          "title": "From Hong Kong’s bond futures to SpaceX: the numbers moving markets",
+          "url": "https://www.scmp.com/business/markets/article/3363189/hong-kongs-bond-futures-spacex-numbers-moving-markets?utm_source=rss_feed",
+          "published": "2026-08-06T23:00:09+00:00",
+          "orig_title": "From Hong Kong’s bond futures to SpaceX: the numbers moving markets",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "topic": "Trading & Markets",
+      "label": "Inter&Co · Hits · Record",
+      "title": "Inter&Co Hits Record US$81m Profit as Bad Loans Rise",
+      "summary": "Inter&#038;Co posted a record quarterly profit and its best return on equity yet, while bad loans climbed to a fresh high and the shares gave up an early slide to close little changed. The post Inter&",
+      "score": 1.993,
+      "n_outlets": 1,
+      "n_articles": 1,
+      "regions": [
+        "south_america"
+      ],
+      "last_seen": "2026-08-07T12:13:21.352834+00:00",
+      "leans": [
+        "right"
+      ],
+      "sources": [
+        {
+          "outlet": "The Rio Times",
+          "region": "south_america",
+          "lean": "right",
+          "ownership": "private",
+          "title": "Inter&Co Hits Record US$81m Profit as Bad Loans Rise",
+          "url": "https://www.riotimesonline.com/inter-co-q2-2026-record-profit-bad-loans/",
+          "published": "2026-08-07T12:13:21.352834+00:00",
+          "orig_title": "Inter&Co Hits Record US$81m Profit as Bad Loans Rise",
+          "lang": "en",
+          "translated": false,
+          "access": "unknown"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "topic": "Trading & Markets",
+      "label": "Whole · Hog · Politics",
+      "title": "Whole Hog Politics: What we learn on vacation",
+      "summary": "Greetings, gentle readers! There’s no Whole Hog Politics newsletter today. Not that there wouldn’t have been plenty to talk about, with the meltdown in both parties continuing apace and all. But the w",
+      "score": 1.975,
+      "n_outlets": 1,
+      "n_articles": 1,
+      "regions": [
+        "us"
+      ],
+      "last_seen": "2026-08-07T12:00:00+00:00",
+      "leans": [
+        "center"
+      ],
+      "sources": [
+        {
+          "outlet": "The Hill",
+          "region": "us",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Whole Hog Politics: What we learn on vacation",
+          "url": "https://thehill.com/newsletters/whole-hog-politics/6015360-politics-gettysburg-partisanship-sincerity/",
+          "published": "2026-08-07T12:00:00+00:00",
+          "orig_title": "Whole Hog Politics: What we learn on vacation",
+          "lang": "en",
+          "translated": false,
+          "access": "unknown"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "topic": "Trading & Markets",
+      "label": "Labour · Burnham · minister",
+      "title": "Labour minister denies Burnham ‘too blokey’ – UK politics live",
+      "summary": "Home Office minister Anna Turley says PM is ‘authentic’ and praises video of him discussing bar snacks with John Healey Home office minister Anna Turley has responded to a report that Andy Burnham is ",
+      "score": 1.946,
+      "n_outlets": 1,
+      "n_articles": 1,
+      "regions": [
+        "europe"
+      ],
+      "last_seen": "2026-08-07T11:38:03+00:00",
+      "leans": [
+        "left"
+      ],
+      "sources": [
+        {
+          "outlet": "The Guardian",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Labour minister denies Burnham ‘too blokey’ – UK politics live",
+          "url": "https://www.theguardian.com/politics/blog/live/2026/aug/07/labour-government-people-working-illegally-arrested-deported-uk-andy-burnham-politics-latest",
+          "published": "2026-08-07T11:38:03+00:00",
+          "orig_title": "Labour minister denies Burnham ‘too blokey’ – UK politics live",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "topic": "Trading & Markets",
+      "label": "Treasury · Yields · Fall",
+      "title": "Treasury Yields Fall, Dollar Steady Ahead of Jobs Data",
+      "summary": "Treasury yields turned slightly lower ahead of the U.S. nonfarm payrolls report at 1230 GMT.",
+      "score": 1.94,
+      "n_outlets": 1,
+      "n_articles": 1,
+      "regions": [
+        "us"
+      ],
+      "last_seen": "2026-08-07T11:34:00+00:00",
+      "leans": [
+        "right"
+      ],
+      "sources": [
         {
           "outlet": "The Wall Street Journal",
           "region": "us",
           "lean": "right",
           "ownership": "private",
-          "title": "The Investors Whose SpaceX Shares Vanished Before They Could Cash In",
-          "url": "https://www.wsj.com/finance/stocks/spacex-ipo-spv-investors-2698a174?mod=rss_markets_main",
-          "published": "2026-08-06T01:00:00+00:00",
-          "orig_title": "The Investors Whose SpaceX Shares Vanished Before They Could Cash In",
+          "title": "Treasury Yields Fall, Dollar Steady Ahead of Jobs Data",
+          "url": "https://www.wsj.com/finance/investing/jgb-futures-fall-tracking-declines-in-u-s-treasury-market-8e8ed0f7?mod=rss_markets_main",
+          "published": "2026-08-07T11:34:00+00:00",
+          "orig_title": "Treasury Yields Fall, Dollar Steady Ahead of Jobs Data",
           "lang": "en",
           "translated": false,
-          "access": "paywall",
-          "more": [
-            {
-              "outlet": "The Wall Street Journal",
-              "region": "us",
-              "lean": "right",
-              "ownership": "private",
-              "title": "SpaceX True Believers Propel Shares Past End of Epic Lockup",
-              "url": "https://www.wsj.com/business/spacex-true-believers-propel-shares-past-end-of-epic-lockup-271ffc59?mod=rss_markets_main",
-              "published": "2026-08-06T21:11:00+00:00",
-              "orig_title": "SpaceX True Believers Propel Shares Past End of Epic Lockup",
-              "lang": "en",
-              "translated": false,
-              "access": "paywall"
-            }
-          ]
+          "access": "paywall"
         }
       ]
     },
     {
-      "id": 6,
+      "id": 73,
       "topic": "Trading & Markets",
       "label": "Roundup · Market · Talk",
       "title": "Financial Services Roundup: Market Talk",
       "summary": "Find insight on Banca Generali, Apollo, AMP and more in the latest Market Talks covering financial services.",
-      "score": 1.976,
+      "score": 1.913,
       "n_outlets": 1,
       "n_articles": 6,
       "regions": [
@@ -2447,8 +2543,8 @@
               "lean": "right",
               "ownership": "private",
               "title": "Auto & Transport Roundup: Market Talk",
-              "url": "https://www.wsj.com/business/auto-transport-roundup-market-talk-b8cf37e0?mod=rss_markets_main",
-              "published": "2026-08-07T10:49:00+00:00",
+              "url": "https://www.wsj.com/business/auto-transport-roundup-market-talk-0c7a6d21?mod=rss_markets_main",
+              "published": "2026-08-06T21:09:00+00:00",
               "orig_title": "Auto & Transport Roundup: Market Talk",
               "lang": "en",
               "translated": false,
@@ -2485,203 +2581,12 @@
       ]
     },
     {
-      "id": 10,
-      "topic": "Trading & Markets",
-      "label": "Monte · Paschi · Weighs",
-      "title": "Monte dei Paschi Weighs Options to Fend Off Intesa Bid",
-      "summary": "The Italian bank said it is weighing options to preserve its integrity, as its chief executive questioned the impact of Intesa Sanpaolo’s $35 billion takeover bid.",
-      "score": 1.971,
-      "n_outlets": 1,
-      "n_articles": 1,
-      "regions": [
-        "us"
-      ],
-      "last_seen": "2026-08-07T11:09:00+00:00",
-      "leans": [
-        "right"
-      ],
-      "sources": [
-        {
-          "outlet": "The Wall Street Journal",
-          "region": "us",
-          "lean": "right",
-          "ownership": "private",
-          "title": "Monte dei Paschi Weighs Options to Fend Off Intesa Bid",
-          "url": "https://www.wsj.com/business/earnings/monte-dei-paschi-weighs-strategic-options-as-intesa-circles-f5ac73bb?mod=rss_markets_main",
-          "published": "2026-08-07T11:09:00+00:00",
-          "orig_title": "Monte dei Paschi Weighs Options to Fend Off Intesa Bid",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
-        }
-      ]
-    },
-    {
-      "id": 52,
-      "topic": "Trading & Markets",
-      "label": "percent · Reuters · Hormuz",
-      "title": "Moscow housing projects down over 30 percent",
-      "summary": "Проектное количество квартир в Москве сократилось до 8,112 тыс. в июле, что на 30,7% ниже июньского показателя. Это следует из данных аналитического центра bnMAP.pro, которые приводит ТАСС.",
-      "score": 1.942,
-      "n_outlets": 1,
-      "n_articles": 5,
-      "regions": [
-        "russia"
-      ],
-      "last_seen": "2026-08-07T10:47:00+00:00",
-      "leans": [
-        "center"
-      ],
-      "sources": [
-        {
-          "outlet": "Kommersant",
-          "region": "russia",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Moscow housing projects down over 30 percent",
-          "url": "https://www.kommersant.ru/doc/8864045",
-          "published": "2026-08-06T12:22:37+00:00",
-          "orig_title": "В Москве проектное число квартир сократилось более чем на 30%",
-          "lang": "ru",
-          "translated": true,
-          "access": "unknown",
-          "more": [
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Reuters: shipping through Hormuz down 34 percent in one week",
-              "url": "https://www.kommersant.ru/doc/8871356",
-              "published": "2026-08-07T10:47:00+00:00",
-              "orig_title": "Reuters: судоходство в Ормузе за неделю сократилось на 34%",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            },
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Diasoft shares fall over 6% on dividend news and buyback cancellation",
-              "url": "https://www.kommersant.ru/doc/8864211",
-              "published": "2026-08-06T14:32:16+00:00",
-              "orig_title": "Акции «Диасофта» упали более чем на 6% на новостях о дивидендах и отказе от buyback",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            },
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Passenger traffic on Moscow-St. Petersburg flights drops nearly 20 percent",
-              "url": "https://www.kommersant.ru/doc/8863581",
-              "published": "2026-08-06T04:00:57+00:00",
-              "orig_title": "Пассажиропоток на авиарейсах между Москвой и Петербургом сократился почти на 20%",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            },
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "European underground gas storage reserves fall to 58%",
-              "url": "https://www.kommersant.ru/doc/8864688",
-              "published": "2026-08-07T09:52:09+00:00",
-              "orig_title": "Запасы газа в подземных хранилищах Европы упали до 58%",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 55,
-      "topic": "Trading & Markets",
-      "label": "Jobs · U.S. · Futures",
-      "title": "U.S. Futures Rise Steady Ahead of Jobs Report",
-      "summary": "U.S. stock futures were ticking higher ahead of latest employment report.",
-      "score": 1.938,
-      "n_outlets": 1,
-      "n_articles": 4,
-      "regions": [
-        "us"
-      ],
-      "last_seen": "2026-08-07T10:44:00+00:00",
-      "leans": [
-        "right"
-      ],
-      "sources": [
-        {
-          "outlet": "The Wall Street Journal",
-          "region": "us",
-          "lean": "right",
-          "ownership": "private",
-          "title": "U.S. Futures Rise Steady Ahead of Jobs Report",
-          "url": "https://www.wsj.com/finance/stocks/oil-ticks-higher-u-s-futures-steady-ahead-of-jobs-report-67178ce5?mod=rss_markets_main",
-          "published": "2026-08-07T10:44:00+00:00",
-          "orig_title": "U.S. Futures Rise Steady Ahead of Jobs Report",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall",
-          "more": [
-            {
-              "outlet": "The Wall Street Journal",
-              "region": "us",
-              "lean": "right",
-              "ownership": "private",
-              "title": "Jobs Report Today: Stock Futures Tick Higher, Oil Slips",
-              "url": "https://www.wsj.com/livecoverage/july-jobs-report-stock-market-08-07-2026?mod=rss_markets_main",
-              "published": "2026-08-07T08:22:12+00:00",
-              "orig_title": "Jobs Report Today: Stock Futures Tick Higher, Oil Slips",
-              "lang": "en",
-              "translated": false,
-              "access": "paywall"
-            },
-            {
-              "outlet": "The Wall Street Journal",
-              "region": "us",
-              "lean": "right",
-              "ownership": "private",
-              "title": "Dollar Could Rise if U.S. Jobs Data Exceed Forecasts",
-              "url": "https://www.wsj.com/finance/currencies/nikkei-falls-0-7-dragged-by-chip-related-stocks-f3f924b2?mod=rss_markets_main",
-              "published": "2026-08-07T08:43:00+00:00",
-              "orig_title": "Dollar Could Rise if U.S. Jobs Data Exceed Forecasts",
-              "lang": "en",
-              "translated": false,
-              "access": "paywall"
-            },
-            {
-              "outlet": "The Wall Street Journal",
-              "region": "us",
-              "lean": "right",
-              "ownership": "private",
-              "title": "European Indexes Gain in Muted Early Trade",
-              "url": "https://www.wsj.com/finance/stocks/nikkei-falls-0-7-dragged-by-chip-related-stocks-ed8fd1ea?mod=rss_markets_main",
-              "published": "2026-08-07T07:54:00+00:00",
-              "orig_title": "European Indexes Gain in Muted Early Trade",
-              "lang": "en",
-              "translated": false,
-              "access": "paywall"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 317,
+      "id": 344,
       "topic": "Science",
       "label": "artificial · virus · first",
       "title": "AI designs artificial virus strains from scratch for first time",
       "summary": "Американские ученые впервые успешно применили ИИ-модель для проектирования полных геномов жизнеспособных бактериофагов — вирусов, поражающих только бактериальные клетки. Эти вирусы смогли уничтожить ш",
-      "score": 5.526,
+      "score": 5.492,
       "n_outlets": 5,
       "n_articles": 6,
       "regions": [
@@ -2780,12 +2685,12 @@
       ]
     },
     {
-      "id": 372,
+      "id": 398,
       "topic": "Science",
       "label": "Nasa · astronauts · spacewalk",
       "title": "Watch: Nasa astronauts conduct 6.5-hour spacewalk outside ISS",
       "summary": "Astronauts Anil Menon and Jessica Meir ventured out to install a mounting hardware for the future addition of solar arrays to the space station.",
-      "score": 3.433,
+      "score": 3.405,
       "n_outlets": 3,
       "n_articles": 3,
       "regions": [
@@ -2840,12 +2745,73 @@
       ]
     },
     {
-      "id": 113,
+      "id": 14,
+      "topic": "Science",
+      "label": "Trump · First · Thing",
+      "title": "Iran hopes to deal Trump a blow at midterms by keeping him entangled in war",
+      "summary": "By dragging out talks, Tehran aims to damage the US president politically, but some fear a bruised and weakened Trump could only prolong the conflict Tehran has set out a protracted negotiating timeta",
+      "score": 2.981,
+      "n_outlets": 2,
+      "n_articles": 3,
+      "regions": [
+        "europe",
+        "india"
+      ],
+      "last_seen": "2026-08-07T12:04:22+00:00",
+      "leans": [
+        "left"
+      ],
+      "sources": [
+        {
+          "outlet": "The Guardian",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Iran hopes to deal Trump a blow at midterms by keeping him entangled in war",
+          "url": "https://www.theguardian.com/world/2026/aug/07/iran-war-trump-midterm-ballot",
+          "published": "2026-08-07T11:47:24+00:00",
+          "orig_title": "Iran hopes to deal Trump a blow at midterms by keeping him entangled in war",
+          "lang": "en",
+          "translated": false,
+          "access": "open",
+          "more": [
+            {
+              "outlet": "The Guardian",
+              "region": "europe",
+              "lean": "left",
+              "ownership": "private",
+              "title": "First Thing: Soaring oil profits from US-Iran conflict drive calls for windfall tax",
+              "url": "https://www.theguardian.com/us-news/2026/aug/07/first-thing-soaring-oil-profits-us-iran-conflict-windfall-tax",
+              "published": "2026-08-07T12:04:22+00:00",
+              "orig_title": "First Thing: Soaring oil profits from US-Iran conflict drive calls for windfall tax",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            }
+          ]
+        },
+        {
+          "outlet": "The Hindu",
+          "region": "india",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Donald Trump in the Persian labyrinth",
+          "url": "https://www.thehindu.com/opinion/lead/donald-trump-in-the-persian-labyrinth/article71314667.ece",
+          "published": "2026-08-06T20:02:51+00:00",
+          "orig_title": "Donald Trump in the Persian labyrinth",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 170,
       "topic": "Science",
       "label": "Kalshi · Polymarket · Deal",
       "title": "Kalshi and Polymarket bets on clinical trials criticized as 'ghastly'",
       "summary": "Researchers warn betting on clinical trials could incentivize insider trading and interfere with drug development. But Kalshi and Polymarket say they provide valuable information to patients.",
-      "score": 2.882,
+      "score": 2.825,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -2886,12 +2852,12 @@
       ]
     },
     {
-      "id": 478,
+      "id": 501,
       "topic": "Science",
       "label": "Butterflies · Take · Flight",
       "title": "Butterflies Take Flight in Face of Climate Change and Extreme Weather",
       "summary": "In 32 of the countries included in a recent study, at least a quarter of the native butterfly species had moved to new areas.",
-      "score": 2.195,
+      "score": 2.183,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -2932,12 +2898,12 @@
       ]
     },
     {
-      "id": 585,
+      "id": 601,
       "topic": "Science",
       "label": "Moderna · U.S. · FDA",
       "title": "U.S. FDA approves first mRNA flu shot from Moderna",
       "summary": "The shot, mFlusiva, was given a traditional approval for adults ​aged 50 to 64, and an accelerated approval ⁠for those 65 years and older",
-      "score": 2.091,
+      "score": 2.085,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -2980,80 +2946,16 @@
     {
       "id": 25,
       "topic": "Science",
-      "label": "Walking · sausage · giant",
-      "title": "‘Walking sausage’: the giant stick insect that proves it’s not over till we give up",
-      "summary": "Also known as the tree lobster, this ultra-rare creature was inadvertently driven to the brink by European settlers Revealed: the top 10 invertebrates of the year When small species are left alone to ",
-      "score": 1.959,
-      "n_outlets": 1,
-      "n_articles": 1,
-      "regions": [
-        "australia"
-      ],
-      "last_seen": "2026-08-07T11:00:15+00:00",
-      "leans": [
-        "left"
-      ],
-      "sources": [
-        {
-          "outlet": "The Guardian Australia",
-          "region": "australia",
-          "lean": "left",
-          "ownership": "private",
-          "title": "‘Walking sausage’: the giant stick insect that proves it’s not over till we give up",
-          "url": "https://www.theguardian.com/environment/2026/aug/07/lord-howe-island-giant-stick-insect-tree-lobster-invertebrate-of-year-2026",
-          "published": "2026-08-07T11:00:15+00:00",
-          "orig_title": "‘Walking sausage’: the giant stick insect that proves it’s not over till we give up",
-          "lang": "en",
-          "translated": false,
-          "access": "unknown"
-        }
-      ]
-    },
-    {
-      "id": 111,
-      "topic": "Science",
-      "label": "Trumpists · America · Jan-Werner",
-      "title": "With their assault on science, Trumpists aren’t just harming America – they’re harming themselves | Jan-Werner Müller",
-      "summary": "The administration is subjugating science to political imperatives, a major blow to US soft power and technological progress The Trump administration is waging an unprecedented war on institutions dev",
-      "score": 1.883,
-      "n_outlets": 1,
-      "n_articles": 1,
-      "regions": [
-        "europe"
-      ],
-      "last_seen": "2026-08-07T10:00:14+00:00",
-      "leans": [
-        "left"
-      ],
-      "sources": [
-        {
-          "outlet": "The Guardian",
-          "region": "europe",
-          "lean": "left",
-          "ownership": "private",
-          "title": "With their assault on science, Trumpists aren’t just harming America – they’re harming themselves | Jan-Werner Müller",
-          "url": "https://www.theguardian.com/commentisfree/2026/aug/07/trump-scientific-research-universities",
-          "published": "2026-08-07T10:00:14+00:00",
-          "orig_title": "With their assault on science, Trumpists aren’t just harming America – they’re harming themselves | Jan-Werner Müller",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        }
-      ]
-    },
-    {
-      "id": 128,
-      "topic": "Science",
-      "label": "Lake · Rwenzori · cores",
-      "title": "Lake cores show 2012 Rwenzori wildfire was first in 12,000 years, with 100-fold charcoal rise",
-      "summary": "In 2012, a wildfire swept across Africa's Rwenzori Mountains, marking the first such event in over 12,000 years. Analysis of lake sediments uncovered a significant charcoal marker linked to this fire,",
-      "score": 1.872,
+      "label": "Divers · Guinness · find",
+      "title": "Divers find 162-year-old Guinness bottle off UK coast, scientists hope to recreate historic beer",
+      "summary": "Divers find 162-year-old Guinness bottle off UK coast, scientists hope to recreate historic beer",
+      "score": 1.97,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
         "india"
       ],
-      "last_seen": "2026-08-07T09:51:47+00:00",
+      "last_seen": "2026-08-07T11:56:37+00:00",
       "leans": [
         "center"
       ],
@@ -3063,10 +2965,10 @@
           "region": "india",
           "lean": "center",
           "ownership": "private",
-          "title": "Lake cores show 2012 Rwenzori wildfire was first in 12,000 years, with 100-fold charcoal rise",
-          "url": "https://timesofindia.indiatimes.com/science/in-2012-a-wildfire-scorched-42-sq-km-of-the-rwenzori-alpine-zone-lake-cores-showed-it-was-the-first-large-scale-fire-there-in-12000-years-with-charcoal-jumping-over-100-fold/articleshow/133029952.cms",
-          "published": "2026-08-07T09:51:47+00:00",
-          "orig_title": "Lake cores show 2012 Rwenzori wildfire was first in 12,000 years, with 100-fold charcoal rise",
+          "title": "Divers find 162-year-old Guinness bottle off UK coast, scientists hope to recreate historic beer",
+          "url": "https://timesofindia.indiatimes.com/world/uk/divers-find-162-year-old-guinness-bottle-off-uk-coast-scientists-hope-to-recreate-historic-beer/articleshow/133032819.cms",
+          "published": "2026-08-07T11:56:37+00:00",
+          "orig_title": "Divers find 162-year-old Guinness bottle off UK coast, scientists hope to recreate historic beer",
           "lang": "en",
           "translated": false,
           "access": "open"
@@ -3074,18 +2976,50 @@
       ]
     },
     {
-      "id": 200,
+      "id": 43,
       "topic": "Science",
-      "label": "Rutgers · scientists · identified",
-      "title": "In 2016, Rutgers scientists identified the globe skimmer as the world's longest-flying insect",
-      "summary": "Globe skimmer dragonflies have been identified as the longest-distance flying insects, showcasing a remarkable ability to traverse thousands of kilometers. Genetic studies indicate that they form a si",
-      "score": 1.795,
+      "label": "vaccine · vanquish · major",
+      "title": "A new vaccine could vanquish a major cause of deadly diarrheal disease",
+      "summary": "Over 1 million people a year die from diarrheal disease. Nearly half are kids under age 5. A new vaccine in trials offers great hope.",
+      "score": 1.944,
+      "n_outlets": 1,
+      "n_articles": 1,
+      "regions": [
+        "us"
+      ],
+      "last_seen": "2026-08-07T11:36:33+00:00",
+      "leans": [
+        "left"
+      ],
+      "sources": [
+        {
+          "outlet": "NPR",
+          "region": "us",
+          "lean": "left",
+          "ownership": "public",
+          "title": "A new vaccine could vanquish a major cause of deadly diarrheal disease",
+          "url": "https://www.npr.org/2026/08/07/g-s1-137456/diarrhea-disease-vaccine-childhood-deaths-shigella",
+          "published": "2026-08-07T11:36:33+00:00",
+          "orig_title": "A new vaccine could vanquish a major cause of deadly diarrheal disease",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "topic": "Science",
+      "label": "Scientists · Titan's · discover",
+      "title": "Scientists discover Titan's methane rainstorms are more intense than expected",
+      "summary": "On the distant moon Titan, intense methane rainstorms transform the icy terrain, creating striking alluvial fans that showcase the areas most affected by these rare deluges. Scientists leverage data f",
+      "score": 1.935,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
         "india"
       ],
-      "last_seen": "2026-08-07T08:45:13+00:00",
+      "last_seen": "2026-08-07T11:30:00+00:00",
       "leans": [
         "center"
       ],
@@ -3095,10 +3029,10 @@
           "region": "india",
           "lean": "center",
           "ownership": "private",
-          "title": "In 2016, Rutgers scientists identified the globe skimmer as the world's longest-flying insect",
-          "url": "https://timesofindia.indiatimes.com/science/in-2016-biologists-at-rutgers-university-discovered-that-the-globe-skimmer-dragonfly-is-the-worlds-longest-distance-flying-insect/articleshow/133028386.cms",
-          "published": "2026-08-07T08:45:13+00:00",
-          "orig_title": "In 2016, Rutgers scientists identified the globe skimmer as the world's longest-flying insect",
+          "title": "Scientists discover Titan's methane rainstorms are more intense than expected",
+          "url": "https://timesofindia.indiatimes.com/science/scientists-discover-titans-methane-rainstorms-are-far-more-intense-than-expected-reshaping-saturns-largest-moon/articleshow/133031872.cms",
+          "published": "2026-08-07T11:30:00+00:00",
+          "orig_title": "Scientists discover Titan's methane rainstorms are more intense than expected",
           "lang": "en",
           "translated": false,
           "access": "open"
@@ -3106,31 +3040,31 @@
       ]
     },
     {
-      "id": 241,
+      "id": 71,
       "topic": "Science",
-      "label": "China · Kimi · model",
-      "title": "China’s Kimi K3 AI model escapes isolated sandbox during security test: researchers",
-      "summary": "China’s top open-weight AI model Kimi K3 broke out of its isolated test environment during a cybersecurity evaluation, according to US security researchers, following similar high-profile incidents in",
-      "score": 1.747,
+      "label": "Phil · Pister · Owens",
+      "title": "Phil Pister saved the last Owens pupfish from extinction in 1969",
+      "summary": "Phil Pister devoted his career to the conservation of vulnerable desert fish, making a significant impact in 1969 when he rescued the final Owens pupfish from a drying pond. This pivotal moment sparke",
+      "score": 1.916,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
-        "china"
+        "india"
       ],
-      "last_seen": "2026-08-07T08:00:06+00:00",
+      "last_seen": "2026-08-07T11:15:00+00:00",
       "leans": [
         "center"
       ],
       "sources": [
         {
-          "outlet": "South China Morning Post",
-          "region": "china",
+          "outlet": "Times of India",
+          "region": "india",
           "lean": "center",
           "ownership": "private",
-          "title": "China’s Kimi K3 AI model escapes isolated sandbox during security test: researchers",
-          "url": "https://www.scmp.com/tech/tech-trends/article/3363271/chinas-kimi-k3-ai-model-escapes-isolated-sandbox-during-security-test-researchers?utm_source=rss_feed",
-          "published": "2026-08-07T08:00:06+00:00",
-          "orig_title": "China’s Kimi K3 AI model escapes isolated sandbox during security test: researchers",
+          "title": "Phil Pister saved the last Owens pupfish from extinction in 1969",
+          "url": "https://timesofindia.indiatimes.com/world/us/california-biologist-phil-pister-saved-the-last-owens-pupfish-from-extinction-in-1969-by-carrying-every-surviving-fish-in-two-buckets/articleshow/133031467.cms",
+          "published": "2026-08-07T11:15:00+00:00",
+          "orig_title": "Phil Pister saved the last Owens pupfish from extinction in 1969",
           "lang": "en",
           "translated": false,
           "access": "open"
@@ -3138,12 +3072,12 @@
       ]
     },
     {
-      "id": 134,
+      "id": 188,
       "topic": "Technology",
       "label": "Meta · Ordered · Pay",
       "title": "Meta Ordered to Pay $942 Million to Address Harm to Kids From Social Media",
       "summary": "A New Mexico judge ordered the social-media giant to create a new $567 million fund in addition to paying $375 million in previously determined civil penalties.",
-      "score": 7.871,
+      "score": 7.814,
       "n_outlets": 7,
       "n_articles": 7,
       "regions": [
@@ -3253,12 +3187,12 @@
       ]
     },
     {
-      "id": 448,
+      "id": 473,
       "topic": "Technology",
       "label": "Meta · OpenAI · Opinion",
       "title": "First OpenAI, now Meta - why do AI hacks keep happening?",
       "summary": "A flood of companies are revealing AI models gained access to the internet - with real consequences.",
-      "score": 5.238,
+      "score": 5.223,
       "n_outlets": 5,
       "n_articles": 7,
       "regions": [
@@ -3371,12 +3305,126 @@
       ]
     },
     {
-      "id": 231,
+      "id": 126,
+      "topic": "Technology",
+      "label": "cyberattacks · U.S. · water",
+      "title": "U.S. reports unprecedented cyberattacks on water supply systems",
+      "summary": "Системы водоснабжения США, возможно, подверглись самым масштабным в истории скоординированным кибератакам: по данным федеральных ведомств, диверсии затронули как минимум 12 штатов и привели к нарушени",
+      "score": 3.866,
+      "n_outlets": 3,
+      "n_articles": 7,
+      "regions": [
+        "europe",
+        "russia"
+      ],
+      "last_seen": "2026-08-07T10:34:47+00:00",
+      "leans": [
+        "center",
+        "right"
+      ],
+      "sources": [
+        {
+          "outlet": "Kommersant",
+          "region": "russia",
+          "lean": "center",
+          "ownership": "private",
+          "title": "U.S. reports unprecedented cyberattacks on water supply systems",
+          "url": "https://www.kommersant.ru/doc/8864262",
+          "published": "2026-08-06T15:20:31+00:00",
+          "orig_title": "США сообщили о беспрецедентных кибератаках на системы водоснабжения",
+          "lang": "ru",
+          "translated": true,
+          "access": "unknown",
+          "more": [
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "CBS: cyberattacks on water systems recorded in 12 US states",
+              "url": "https://www.kommersant.ru/doc/8863770",
+              "published": "2026-08-06T08:49:43+00:00",
+              "orig_title": "CBS: в 12 штатах США зафиксированы кибератаки на системы водоснабжения",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Reuters: Hackers attacked dozens of major U.S. financial companies",
+              "url": "https://www.kommersant.ru/doc/8864343",
+              "published": "2026-08-06T18:06:18+00:00",
+              "orig_title": "Reuters: хакеры атаковали десятки крупнейших финансовых компаний США",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Massive outage hits Russian internet",
+              "url": "https://www.kommersant.ru/doc/8863986",
+              "published": "2026-08-06T11:26:42+00:00",
+              "orig_title": "В рунете произошел массовый сбой",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Putin discusses infrastructure protection against terrorism with Security Council members",
+              "url": "https://www.kommersant.ru/doc/8865955",
+              "published": "2026-08-07T10:22:55+00:00",
+              "orig_title": "Путин обсудил с членами Совбеза защиту объектов инфраструктуры от терактов",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            }
+          ]
+        },
+        {
+          "outlet": "Die Welt",
+          "region": "europe",
+          "lean": "right",
+          "ownership": "private",
+          "title": "\"We face thousands of cyberattacks on critical infrastructure daily\"",
+          "url": "https://www.welt.de/politik/deutschland/video6a75affbc07f6c2f080357e0/verfassungsschutz-zieht-bilanz-wir-haben-jeden-tag-tausende-cyberangriffe-auf-kritische-infrastruktur.html",
+          "published": "2026-08-07T10:34:47+00:00",
+          "orig_title": "„Wir haben jeden Tag Tausende Cyberangriffe auf kritische Infrastruktur“",
+          "lang": "de",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
+          "outlet": "Le Figaro",
+          "region": "europe",
+          "lean": "right",
+          "ownership": "private",
+          "title": "US suspects Iran behind cyberattacks on drinking water networks",
+          "url": "https://www.lefigaro.fr/international/aux-etats-unis-l-iran-soupconne-d-etre-a-l-origine-de-cyberattaques-contre-les-reseaux-d-eau-potables-20260806",
+          "published": "2026-08-07T09:21:49+00:00",
+          "orig_title": "Aux États-Unis, l’Iran soupçonné d’être à l’origine de cyberattaques contre les réseaux d’eau potable",
+          "lang": "fr",
+          "translated": true,
+          "access": "unknown"
+        }
+      ]
+    },
+    {
+      "id": 267,
       "topic": "Technology",
       "label": "China · Unitree · IPO",
       "title": "China’s Unitree Prices IPO in Bet Investors Are Ready for Humanoid Robots",
       "summary": "Unitree Robotics wants to raise about $900 million in an I.P.O. that tests market interest in humanoid robots, a technology that wows but has yet to prove its viability.",
-      "score": 2.757,
+      "score": 2.708,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -3418,12 +3466,12 @@
       ]
     },
     {
-      "id": 300,
+      "id": 329,
       "topic": "Technology",
       "label": "Six · Thai · U.S.",
       "title": "Six years sought for former massage parlor operator over Thai girl case",
       "summary": "The operator allegedly forced the girl, then 12, to do sexual acts to male customers and himself last year without confirming her age, according to the indictment.",
-      "score": 2.569,
+      "score": 2.532,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -3465,59 +3513,12 @@
       ]
     },
     {
-      "id": 341,
-      "topic": "Technology",
-      "label": "How · Beijing · Lessons",
-      "title": "How Beijing innovates: Lessons from China’s market-state hybrid model",
-      "summary": "Beijing’s innovation model brings together universities, start-ups, industry and the state to turn research into commercially viable technologies by bridging the ‘valley of death’; the ecosystem is dr",
-      "score": 2.513,
-      "n_outlets": 2,
-      "n_articles": 2,
-      "regions": [
-        "china",
-        "india"
-      ],
-      "last_seen": "2026-08-07T03:28:55+00:00",
-      "leans": [
-        "center",
-        "left"
-      ],
-      "sources": [
-        {
-          "outlet": "The Hindu",
-          "region": "india",
-          "lean": "left",
-          "ownership": "private",
-          "title": "How Beijing innovates: Lessons from China’s market-state hybrid model",
-          "url": "https://www.thehindu.com/news/international/the-beijing-model-of-innovation/article71313438.ece",
-          "published": "2026-08-07T03:28:55+00:00",
-          "orig_title": "How Beijing innovates: Lessons from China’s market-state hybrid model",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "South China Morning Post",
-          "region": "china",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Hong Kong aims to be a global tech hub, but can it hold on to its young talent?",
-          "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3363208/hong-kong-aims-be-global-tech-hub-can-it-hold-its-young-talent?utm_source=rss_feed",
-          "published": "2026-08-07T00:30:08+00:00",
-          "orig_title": "Hong Kong aims to be a global tech hub, but can it hold on to its young talent?",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        }
-      ]
-    },
-    {
-      "id": 342,
+      "id": 368,
       "topic": "Technology",
       "label": "Bloomberg · OpenAI · develops",
       "title": "Models love to cheat",
       "summary": "Экспериментальные ИИ-агенты OpenAI начали обмениваться сообщениями и совместно искать способ получить доступ к интернету еще в мае, за несколько месяцев до атаки на платформу Hugging Face. Об этом сот",
-      "score": 2.511,
+      "score": 2.478,
       "n_outlets": 2,
       "n_articles": 5,
       "regions": [
@@ -3599,12 +3600,12 @@
       ]
     },
     {
-      "id": 350,
+      "id": 376,
       "topic": "Technology",
       "label": "OpenAI · SoftBank · Uses",
       "title": "OpenAI’s new device will be hockey puck-size and cost over $300",
       "summary": "The device will be positioned as an artificial intelligence-first computer that can help users get things done, people familiar with the matter said.",
-      "score": 2.494,
+      "score": 2.462,
       "n_outlets": 2,
       "n_articles": 3,
       "regions": [
@@ -3661,65 +3662,50 @@
       ]
     },
     {
-      "id": 21,
+      "id": 40,
       "topic": "Technology",
-      "label": "Tai · Wai-ho · Missing",
-      "title": "Tai Po inquiry sheds more light on final moments of firefighter Ho Wai-ho",
-      "summary": "An independent inquiry into Hong Kong’s deadliest fire in decades has released further details about the final moments of fallen firefighter Ho Wai-ho, who died in the line of duty while responding to",
-      "score": 1.96,
+      "label": "Get · Harshit · Rana",
+      "title": "'Get Harshit Rana and Rinku Singh': Ashwin names MI's ideal Hardik Pandya trade",
+      "summary": "Speculation surrounds Hardik Pandya's future with the Mumbai Indians franchise. Ravichandran Ashwin discussed potential IPL trade scenarios involving other teams. He suggested Kolkata Knight Riders co",
+      "score": 1.946,
       "n_outlets": 1,
-      "n_articles": 2,
+      "n_articles": 1,
       "regions": [
-        "china"
+        "india"
       ],
-      "last_seen": "2026-08-07T11:00:32+00:00",
+      "last_seen": "2026-08-07T11:38:21+00:00",
       "leans": [
         "center"
       ],
       "sources": [
         {
-          "outlet": "South China Morning Post",
-          "region": "china",
+          "outlet": "Times of India",
+          "region": "india",
           "lean": "center",
           "ownership": "private",
-          "title": "Tai Po inquiry sheds more light on final moments of firefighter Ho Wai-ho",
-          "url": "https://www.scmp.com/news/hong-kong/society/article/3363336/tai-po-inquiry-sheds-more-light-final-moments-firefighter-ho-wai-ho?utm_source=rss_feed",
-          "published": "2026-08-07T11:00:32+00:00",
-          "orig_title": "Tai Po inquiry sheds more light on final moments of firefighter Ho Wai-ho",
+          "title": "'Get Harshit Rana and Rinku Singh': Ashwin names MI's ideal Hardik Pandya trade",
+          "url": "https://timesofindia.indiatimes.com/sports/cricket/news/get-harshit-rana-and-rinku-singh-ashwin-names-mumbai-indians-ideal-hardik-pandya-trade/articleshow/133032623.cms",
+          "published": "2026-08-07T11:38:21+00:00",
+          "orig_title": "'Get Harshit Rana and Rinku Singh': Ashwin names MI's ideal Hardik Pandya trade",
           "lang": "en",
           "translated": false,
-          "access": "open",
-          "more": [
-            {
-              "outlet": "South China Morning Post",
-              "region": "china",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Missing man, 58, found dead in Ma On Shan after days-long search effort",
-              "url": "https://www.scmp.com/news/hong-kong/society/article/3363315/missing-man-58-found-dead-ma-shan-after-days-long-search-effort?utm_source=rss_feed",
-              "published": "2026-08-07T09:38:23+00:00",
-              "orig_title": "Missing man, 58, found dead in Ma On Shan after days-long search effort",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
-            }
-          ]
+          "access": "open"
         }
       ]
     },
     {
-      "id": 27,
+      "id": 44,
       "topic": "Technology",
       "label": "White · House · Secret",
       "title": "The White House’s Secret A.I. Rules + The State of Model Alignment With METR’s Chris Painter + The Final Hot Mess Express",
       "summary": "A few details from the White House’s A.I. plan have leaked to the news media, but the administration has officially communicated almost nothing.",
-      "score": 1.959,
+      "score": 1.942,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
         "us"
       ],
-      "last_seen": "2026-08-07T11:00:02+00:00",
+      "last_seen": "2026-08-07T11:35:10+00:00",
       "leans": [
         "left"
       ],
@@ -3731,7 +3717,7 @@
           "ownership": "private",
           "title": "The White House’s Secret A.I. Rules + The State of Model Alignment With METR’s Chris Painter + The Final Hot Mess Express",
           "url": "https://www.nytimes.com/2026/08/07/podcasts/hardfork-white-house-secret-rules.html",
-          "published": "2026-08-07T11:00:02+00:00",
+          "published": "2026-08-07T11:35:10+00:00",
           "orig_title": "The White House’s Secret A.I. Rules + The State of Model Alignment With METR’s Chris Painter + The Final Hot Mess Express",
           "lang": "en",
           "translated": false,
@@ -3740,18 +3726,18 @@
       ]
     },
     {
-      "id": 39,
+      "id": 47,
       "topic": "Technology",
-      "label": "Morning · Risk · Report",
-      "title": "The Morning Risk Report: Prosecutors Probed Whistleblower Claims That JPMorgan Mishandled Fraud Cases",
-      "summary": "Plus: Explosive drone at German airport marks new threat for Europe, and Meta AI hacks add to concerns over rogue bots.",
-      "score": 1.954,
+      "label": "Inside · Amazon · Security",
+      "title": "Inside Amazon’s AI Security Playbook",
+      "summary": "Inside Amazon’s AI Security Playbook",
+      "score": 1.937,
       "n_outlets": 1,
-      "n_articles": 2,
+      "n_articles": 1,
       "regions": [
         "us"
       ],
-      "last_seen": "2026-08-07T10:56:00+00:00",
+      "last_seen": "2026-08-07T11:31:00+00:00",
       "leans": [
         "right"
       ],
@@ -3761,40 +3747,25 @@
           "region": "us",
           "lean": "right",
           "ownership": "private",
-          "title": "The Morning Risk Report: Prosecutors Probed Whistleblower Claims That JPMorgan Mishandled Fraud Cases",
-          "url": "https://www.wsj.com/tech/the-morning-risk-report-prosecutors-probed-whistleblower-claims-that-jpmorgan-mishandled-fraud-cases-a004347e?mod=rss_Technology",
-          "published": "2026-08-07T10:56:00+00:00",
-          "orig_title": "The Morning Risk Report: Prosecutors Probed Whistleblower Claims That JPMorgan Mishandled Fraud Cases",
+          "title": "Inside Amazon’s AI Security Playbook",
+          "url": "https://www.wsj.com/pro/cybersecurity/inside-amazons-ai-security-playbook-1305e41d?mod=rss_Technology",
+          "published": "2026-08-07T11:31:00+00:00",
+          "orig_title": "Inside Amazon’s AI Security Playbook",
           "lang": "en",
           "translated": false,
-          "access": "paywall",
-          "more": [
-            {
-              "outlet": "The Wall Street Journal",
-              "region": "us",
-              "lean": "right",
-              "ownership": "private",
-              "title": "New Intelligence Warns Russia May Provoke NATO Amid Dwindling U.S. Munitions",
-              "url": "https://www.wsj.com/finance/investing/new-intelligence-warns-russia-may-provoke-nato-amid-dwindling-u-s-munitions-68f497c7?mod=rss_markets_main",
-              "published": "2026-08-07T10:03:00+00:00",
-              "orig_title": "New Intelligence Warns Russia May Provoke NATO Amid Dwindling U.S. Munitions",
-              "lang": "en",
-              "translated": false,
-              "access": "paywall"
-            }
-          ]
+          "access": "paywall"
         }
       ]
     },
     {
-      "id": 89,
+      "id": 145,
       "topic": "Sports",
       "label": "Infantino · UEFA · FIFA",
       "title": "UEFA maintains stance against Infantino while Conmebol backs him",
       "summary": "La organización regidora del fútbol sudamericano mantiene la misma estrategia que en su comunicado de la semana pasada",
-      "score": 6.902,
+      "score": 6.843,
       "n_outlets": 6,
-      "n_articles": 9,
+      "n_articles": 8,
       "regions": [
         "europe",
         "india",
@@ -3844,22 +3815,7 @@
           "orig_title": "Does Africa still back Infantino as Fifa president?",
           "lang": "en",
           "translated": false,
-          "access": "open",
-          "more": [
-            {
-              "outlet": "BBC News",
-              "region": "europe",
-              "lean": "center",
-              "ownership": "public",
-              "title": "Uefa says boycott may still go ahead as FA withdraws Infantino support",
-              "url": "https://www.bbc.co.uk/sport/football/articles/c2k74yevgzwo?at_medium=RSS&at_campaign=rss",
-              "published": "2026-08-07T01:57:02+00:00",
-              "orig_title": "Uefa says boycott may still go ahead as FA withdraws Infantino support",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
-            }
-          ]
+          "access": "open"
         },
         {
           "outlet": "Kommersant",
@@ -3931,12 +3887,12 @@
       ]
     },
     {
-      "id": 259,
+      "id": 292,
       "topic": "Sports",
       "label": "Real · Madrid · Vinicius",
       "title": "Real Madrid and Vinicius agree contract extension",
       "summary": "Мадридский футбольный клуб «Реал» близок к продлению соглашения с бразильским нападающим Винисиусом. Об этом сообщает портал The Athletic.",
-      "score": 3.706,
+      "score": 3.66,
       "n_outlets": 3,
       "n_articles": 4,
       "regions": [
@@ -4007,12 +3963,12 @@
       ]
     },
     {
-      "id": 17,
+      "id": 84,
       "topic": "Sports",
       "label": "Toney · England · Ivan",
       "title": "England striker Ivan Toney charged with assault after Soho nightclub incident",
       "summary": "Met police say charge relates to alleged assault that reportedly took place in December at venue in London The England footballer Ivan Toney has been charged with assault after an incident at a nightc",
-      "score": 2.963,
+      "score": 2.901,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -4054,12 +4010,12 @@
       ]
     },
     {
-      "id": 457,
+      "id": 482,
       "topic": "Sports",
       "label": "Russian · gymnasts · Rhythmic",
-      "title": "Russian gymnasts to fly national colors at 2026 Rhythmic Gymnastics World Championships",
-      "summary": "The Russian Gymnastics Federation noted that the use of World Gymnastics symbols in the arena is related to the transitional period provided for individual competitions, and this does not mean a retur",
-      "score": 2.222,
+      "title": "Russian rhythmic gymnasts compete at world championships without flag or anthem",
+      "summary": "Российские и белорусские спортсменки примут участие в чемпионате мира по художественной гимнастике без национальной символики. Об этом ТАСС сообщил пресс-секретарь Федерации гимнастики Германии Торсте",
+      "score": 2.208,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -4100,12 +4056,12 @@
       ]
     },
     {
-      "id": 511,
+      "id": 531,
       "topic": "Sports",
       "label": "Livestreamer's · Mexico's · Gunman",
       "title": "Livestreamer's murder raises questions over relations between Mexico's creators and cartels",
       "summary": "The murder of content creator César Gastélum on Tuesday raises questions about why influencers are coming under attack.",
-      "score": 2.164,
+      "score": 2.153,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -4147,12 +4103,162 @@
       ]
     },
     {
-      "id": 31,
+      "id": 1,
+      "topic": "Sports",
+      "label": "Tenaris · Profit · Falls",
+      "title": "Tenaris Q2 Profit Falls to US$477m on Hormuz Closure",
+      "summary": "Tenaris (NYSE: TS) beat revenue forecasts with US$2.97 billion in the second quarter of 2026, yet profit fell sharply year on year as Middle East shipping turmoil inflated logistics bills, while the c",
+      "score": 1.993,
+      "n_outlets": 1,
+      "n_articles": 1,
+      "regions": [
+        "south_america"
+      ],
+      "last_seen": "2026-08-07T12:13:21.352865+00:00",
+      "leans": [
+        "right"
+      ],
+      "sources": [
+        {
+          "outlet": "The Rio Times",
+          "region": "south_america",
+          "lean": "right",
+          "ownership": "private",
+          "title": "Tenaris Q2 Profit Falls to US$477m on Hormuz Closure",
+          "url": "https://www.riotimesonline.com/tenaris-q2-profit-falls-hormuz-closure/",
+          "published": "2026-08-07T12:13:21.352865+00:00",
+          "orig_title": "Tenaris Q2 Profit Falls to US$477m on Hormuz Closure",
+          "lang": "en",
+          "translated": false,
+          "access": "unknown"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "topic": "Sports",
+      "label": "Russian · Olympic · Ivan",
+      "title": "Moscow bids farewell to Olympic champion Ivan Yedesho",
+      "summary": "В комплексе ЦСК в Москве прошла церемония прощания с олимпийским чемпионом Иваном Едешко, передает ТАСС. Спортсмен умер 30 июля на 82-м году жизни.",
+      "score": 1.979,
+      "n_outlets": 1,
+      "n_articles": 5,
+      "regions": [
+        "russia"
+      ],
+      "last_seen": "2026-08-07T12:02:53+00:00",
+      "leans": [
+        "center"
+      ],
+      "sources": [
+        {
+          "outlet": "Kommersant",
+          "region": "russia",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Moscow bids farewell to Olympic champion Ivan Yedesho",
+          "url": "https://www.kommersant.ru/doc/8864740",
+          "published": "2026-08-07T10:17:38+00:00",
+          "orig_title": "В Москве простились с олимпийским чемпионом Иваном Едешко",
+          "lang": "ru",
+          "translated": true,
+          "access": "unknown",
+          "more": [
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Medvedev and Khachanov eliminated from Montreal Masters",
+              "url": "https://www.kommersant.ru/doc/8863788",
+              "published": "2026-08-06T08:17:55+00:00",
+              "orig_title": "Медведев и Хачанов не смогли выйти в третий круг «мастерса» в Монреале",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Russian teams will not compete at World Chess Olympiad",
+              "url": "https://www.kommersant.ru/doc/8874929",
+              "published": "2026-08-07T12:02:53+00:00",
+              "orig_title": "Сборные России не выступят на Всемирной шахматной олимпиаде",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Ternovoy wins fifth Russian gold at aquatics European Championships",
+              "url": "https://www.kommersant.ru/doc/8864381",
+              "published": "2026-08-06T18:43:55+00:00",
+              "orig_title": "Терновой завоевал пятое золото России на ЧЕ по водным видам спорта",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Olympic champion Ivan Yedeshko to be buried with military honors in Mytishchi",
+              "url": "https://www.kommersant.ru/doc/8864436",
+              "published": "2026-08-07T02:33:17+00:00",
+              "orig_title": "Олимпийского чемпиона Ивана Едешко похоронят с воинскими почестями в Мытищах // Прощание с олимпийским чемпионом Иваном Едешко пройдет 7 августа в Москве",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "topic": "Sports",
+      "label": "Republicans · can't · just",
+      "title": "Republicans can't just commie-punch their way to victory",
+      "summary": "It's not enough just to point out all the kookery.",
+      "score": 1.975,
+      "n_outlets": 1,
+      "n_articles": 1,
+      "regions": [
+        "us"
+      ],
+      "last_seen": "2026-08-07T12:00:00+00:00",
+      "leans": [
+        "center"
+      ],
+      "sources": [
+        {
+          "outlet": "The Hill",
+          "region": "us",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Republicans can't just commie-punch their way to victory",
+          "url": "https://thehill.com/opinion/campaign/6014612-gop-needs-election-socialism-messaging/",
+          "published": "2026-08-07T12:00:00+00:00",
+          "orig_title": "Republicans can't just commie-punch their way to victory",
+          "lang": "en",
+          "translated": false,
+          "access": "unknown"
+        }
+      ]
+    },
+    {
+      "id": 95,
       "topic": "Sports",
       "label": "Key · Iran · missile",
       "title": "Key US missile stockpiles run 'extremely low' amid Iran conflict — TV",
       "summary": "According to the source, particular concern was focused on dwindling inventories of long-range offensive missiles, including ATACMS and PrSM",
-      "score": 1.958,
+      "score": 1.896,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -4179,12 +4285,12 @@
       ]
     },
     {
-      "id": 53,
+      "id": 113,
       "topic": "Sports",
       "label": "State · Iran · Three",
       "title": "The State of Iran’s Three Key Nuclear Sites",
       "summary": "The conflict may have slowed, but not stopped, Iran’s nuclear program, officials and experts said.",
-      "score": 1.941,
+      "score": 1.88,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -4207,132 +4313,6 @@
           "lang": "en",
           "translated": false,
           "access": "paywall"
-        }
-      ]
-    },
-    {
-      "id": 66,
-      "topic": "Sports",
-      "label": "Kidnapping's · impact · children",
-      "title": "Kidnapping's impact on children discussed in trial",
-      "summary": "Zum dritten Mal tagt das Gericht unter Ausschluss der Öffentlichkeit. Eine Kinder- und Jugendpsychiaterin schildert die Folgen der mutmaßlichen Entführung für die Kinder. Das Gutachten könnte das Stra",
-      "score": 1.925,
-      "n_outlets": 1,
-      "n_articles": 1,
-      "regions": [
-        "europe"
-      ],
-      "last_seen": "2026-08-07T10:34:21+00:00",
-      "leans": [
-        "right"
-      ],
-      "sources": [
-        {
-          "outlet": "Die Welt",
-          "region": "europe",
-          "lean": "right",
-          "ownership": "private",
-          "title": "Kidnapping's impact on children discussed in trial",
-          "url": "https://www.welt.de/regionales/hamburg/article6a75b0154aef843a32276174/sorgerechtsstreit-folgen-der-entfuehrung-fuer-die-kinder-werden-im-block-prozess-besprochen.html",
-          "published": "2026-08-07T10:34:21+00:00",
-          "orig_title": "Folgen der Entführung für die Kinder werden im Block-Prozess besprochen",
-          "lang": "de",
-          "translated": true,
-          "access": "unknown"
-        }
-      ]
-    },
-    {
-      "id": 78,
-      "topic": "Sports",
-      "label": "Ariake · Debut · Kumamoto",
-      "title": "Ariake capitalizes on opportunity for late comeback; Ritsumeikan Uji unable to hold lead despite relief pitching",
-      "summary": "Ariake capitalizes on opportunity for late comeback; Ritsumeikan Uji unable to hold lead despite relief pitching",
-      "score": 1.914,
-      "n_outlets": 1,
-      "n_articles": 2,
-      "regions": [
-        "japan"
-      ],
-      "last_seen": "2026-08-07T10:25:10+00:00",
-      "leans": [
-        "left"
-      ],
-      "sources": [
-        {
-          "outlet": "Asahi Shimbun",
-          "region": "japan",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Ariake capitalizes on opportunity for late comeback; Ritsumeikan Uji unable to hold lead despite relief pitching",
-          "url": "http://www.asahi.com/articles/ASV8731YCV87PQIP01ZM.html?ref=rss",
-          "published": "2026-08-07T10:10:00+00:00",
-          "orig_title": "有明、好機いかし土壇場で逆転 立命館宇治は継投で逃げ切れず",
-          "lang": "ja",
-          "translated": true,
-          "access": "unknown",
-          "more": [
-            {
-              "outlet": "Asahi Shimbun",
-              "region": "japan",
-              "lean": "left",
-              "ownership": "private",
-              "title": "Debut team Ariake rallies in ninth inning to win; large support group from Kumamoto vows to energize next match",
-              "url": "http://www.asahi.com/articles/ASV872DVNV87TIPE00XM.html?ref=rss",
-              "published": "2026-08-07T10:25:10+00:00",
-              "orig_title": "初出場の有明、九回に逆転し勝利 熊本から大応援団「次も盛り上げ」",
-              "lang": "ja",
-              "translated": true,
-              "access": "unknown"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 83,
-      "topic": "Sports",
-      "label": "Unnecessary · Ex-cricketer · Sooryavanshi's",
-      "title": "Bumrah told to take a break; selectors urged to recall Shami, Bhuvneshwar",
-      "summary": "Mohammed Shami impressed for Bengal in the Ranji Trophy last season, taking 37 wickets, while Bhuvneshwar Kumar claimed 28 wickets during Royal Challengers Bengaluru's IPL 2026 title-winning campaign.",
-      "score": 1.91,
-      "n_outlets": 1,
-      "n_articles": 2,
-      "regions": [
-        "india"
-      ],
-      "last_seen": "2026-08-07T10:22:16+00:00",
-      "leans": [
-        "center"
-      ],
-      "sources": [
-        {
-          "outlet": "Times of India",
-          "region": "india",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Bumrah told to take a break; selectors urged to recall Shami, Bhuvneshwar",
-          "url": "https://timesofindia.indiatimes.com/sports/cricket/news/jasprit-bumrah-should-take-a-break-ex-india-pacer-urges-selectors-to-consider-mohammed-shami-and-bhuvneshwar-kumar/articleshow/133020417.cms",
-          "published": "2026-08-07T03:47:08+00:00",
-          "orig_title": "Bumrah told to take a break; selectors urged to recall Shami, Bhuvneshwar",
-          "lang": "en",
-          "translated": false,
-          "access": "open",
-          "more": [
-            {
-              "outlet": "Times of India",
-              "region": "india",
-              "lean": "center",
-              "ownership": "private",
-              "title": "'Unnecessary pressure': Ex-cricketer questions Sooryavanshi's vice-captaincy",
-              "url": "https://timesofindia.indiatimes.com/sports/cricket/news/unnecessary-pressure-ex-cricketer-questions-vaibhav-sooryavanshis-elevation-to-vice-captaincy/articleshow/133030784.cms",
-              "published": "2026-08-07T10:22:16+00:00",
-              "orig_title": "'Unnecessary pressure': Ex-cricketer questions Sooryavanshi's vice-captaincy",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
-            }
-          ]
         }
       ]
     }
