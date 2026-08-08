@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T23:43:24.366959+00:00",
+  "generated_at": "2026-08-08T02:05:51.889691+00:00",
   "topics": [
     "World & Politics",
     "Economics",
@@ -14,14 +14,14 @@
       "name": "United States",
       "lat": 39.0,
       "lng": -98.0,
-      "count": 30
+      "count": 24
     },
     {
       "id": "europe",
       "name": "Europe",
       "lat": 50.0,
       "lng": 10.0,
-      "count": 33
+      "count": 31
     },
     {
       "id": "china",
@@ -35,14 +35,14 @@
       "name": "India",
       "lat": 22.0,
       "lng": 79.0,
-      "count": 15
+      "count": 22
     },
     {
       "id": "australia",
       "name": "Australia",
       "lat": -25.0,
       "lng": 134.0,
-      "count": 3
+      "count": 4
     },
     {
       "id": "south_america",
@@ -63,24 +63,209 @@
       "name": "Japan",
       "lat": 36.5,
       "lng": 139.0,
-      "count": 5
+      "count": 6
     },
     {
       "id": "russia",
       "name": "Russia",
       "lat": 61.0,
       "lng": 90.0,
-      "count": 24
+      "count": 27
     }
   ],
   "clusters": [
     {
-      "id": 50,
+      "id": 13,
+      "topic": "World & Politics",
+      "label": "Colombia · Espriella · Trump",
+      "title": "Colombia: Trump ally De la Espriella takes office",
+      "summary": "Conservative Abelardo de la Espriella was sworn in as Colombia's president, promising to crack down on armed drug gangs.",
+      "score": 11.963,
+      "n_outlets": 11,
+      "n_articles": 12,
+      "regions": [
+        "china",
+        "europe",
+        "india",
+        "russia",
+        "south_america",
+        "us"
+      ],
+      "last_seen": "2026-08-08T01:38:47+00:00",
+      "leans": [
+        "center",
+        "left",
+        "right",
+        "state"
+      ],
+      "sources": [
+        {
+          "outlet": "El Pais",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Abelardo de la Espriella swears in before Congress but delivers first speech to military",
+          "url": "https://elpais.com/america-colombia/2026-08-08/abelardo-de-la-espriella-jura-ante-los-congresistas-pero-da-su-primer-discurso-a-los-militares.html",
+          "published": "2026-08-08T01:26:06+00:00",
+          "orig_title": "Abelardo de la Espriella jura ante los congresistas pero da su primer discurso a los militares",
+          "lang": "es",
+          "translated": true,
+          "access": "unknown",
+          "more": [
+            {
+              "outlet": "El Pais",
+              "region": "europe",
+              "lean": "left",
+              "ownership": "private",
+              "title": "Colombian left launches resistance against new president: 'Abelardo de la Espriella will be a US agent'",
+              "url": "https://elpais.com/america-colombia/2026-08-07/la-izquierda-colombiana-inicia-su-resistencia-contra-el-nuevo-presidente-abelardo-de-la-espriella-sera-un-agente-de-estados-unidos.html",
+              "published": "2026-08-07T20:06:24+00:00",
+              "orig_title": "La izquierda colombiana inicia su resistencia contra el nuevo presidente: “Abelardo de la Espriella será un agente de Estados Unidos”",
+              "lang": "es",
+              "translated": true,
+              "access": "unknown"
+            }
+          ]
+        },
+        {
+          "outlet": "NPR",
+          "region": "us",
+          "lean": "left",
+          "ownership": "public",
+          "title": "Colombia's new president vows to remake the country — and challenge rebel groups",
+          "url": "https://www.npr.org/2026/08/07/nx-s1-5924775/colombias-new-president-vows-to-remake-the-country-and-challenge-its-fragile-peace",
+          "published": "2026-08-07T15:41:45+00:00",
+          "orig_title": "Colombia's new president vows to remake the country — and challenge rebel groups",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "The Guardian",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Colombia on the brink: ELN guerrilla group prepares for return to war",
+          "url": "https://www.theguardian.com/world/ng-interactive/2026/aug/07/colombia-on-the-brink-eln-guerrilla-group-prepares-for-return-to-war",
+          "published": "2026-08-07T14:00:32+00:00",
+          "orig_title": "Colombia on the brink: ELN guerrilla group prepares for return to war",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "The Hindu",
+          "region": "india",
+          "lean": "left",
+          "ownership": "private",
+          "title": "New Colombia President pledges robust fight against crime, fiscal austerity in maiden speech",
+          "url": "https://www.thehindu.com/news/international/new-colombia-president-pledges-robust-fight-against-crime-fiscal-austerity-in-maiden-speech/article71320435.ece",
+          "published": "2026-08-08T01:38:47+00:00",
+          "orig_title": "New Colombia President pledges robust fight against crime, fiscal austerity in maiden speech",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "The New York Times",
+          "region": "us",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Trump Administration Fast-Tracks Military Partnership With Colombia to Target Drug Traffickers",
+          "url": "https://www.nytimes.com/2026/08/07/world/americas/trump-administration-military-partnership-colombia.html",
+          "published": "2026-08-07T16:13:49+00:00",
+          "orig_title": "Trump Administration Fast-Tracks Military Partnership With Colombia to Target Drug Traffickers",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall"
+        },
+        {
+          "outlet": "Deutsche Welle",
+          "region": "europe",
+          "lean": "center",
+          "ownership": "public",
+          "title": "Colombia: Trump ally De la Espriella takes office",
+          "url": "https://www.dw.com/en/colombia-trump-ally-de-la-espriella-takes-office/a-78286636?maca=en-rss-en-world-4025-rdf",
+          "published": "2026-08-08T00:31:00+00:00",
+          "orig_title": "Colombia: Trump ally De la Espriella takes office",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "MercoPress",
+          "region": "south_america",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Colombia: De la Espriella takes office in Cali without Petro present",
+          "url": "https://en.mercopress.com/2026/08/07/colombia-de-la-espriella-takes-office-in-cali-without-petro-present?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+          "published": "2026-08-07T10:40:00+00:00",
+          "orig_title": "Colombia: De la Espriella takes office in Cali without Petro present",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "South China Morning Post",
+          "region": "china",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Trump ally Abelardo de la Espriella sworn in as Colombia president",
+          "url": "https://www.scmp.com/news/world/americas/article/3363371/trump-ally-abelardo-de-la-espriella-sworn-colombia-president?utm_source=rss_feed",
+          "published": "2026-08-07T22:46:04+00:00",
+          "orig_title": "Trump ally Abelardo de la Espriella sworn in as Colombia president",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "Fox News",
+          "region": "us",
+          "lean": "right",
+          "ownership": "private",
+          "title": "Trump ally 'El Tigre' sworn in as Colombia's new president amid continent's rightward shift",
+          "url": "https://www.foxnews.com/world/trump-ally-el-tigre-sworn-colombias-new-president-amid-continents-rightward-shift",
+          "published": "2026-08-08T00:03:09+00:00",
+          "orig_title": "Trump ally 'El Tigre' sworn in as Colombia's new president amid continent's rightward shift",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "The Wall Street Journal",
+          "region": "us",
+          "lean": "right",
+          "ownership": "private",
+          "title": "Trump Ally Takes Office in Colombia With Vow to Fight Cocaine Armies",
+          "url": "https://www.wsj.com/world/americas/trump-ally-takes-office-in-colombia-with-vow-to-fight-cocaine-armies-96c60781?mod=rss_worldnews",
+          "published": "2026-08-07T23:17:00+00:00",
+          "orig_title": "Trump Ally Takes Office in Colombia With Vow to Fight Cocaine Armies",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall"
+        },
+        {
+          "outlet": "TASS",
+          "region": "russia",
+          "lean": "state",
+          "ownership": "state",
+          "title": "Abelardo de la Espriella sworn in as president of Colombia",
+          "url": "https://tass.com/world/2170399",
+          "published": "2026-08-07T23:18:32+00:00",
+          "orig_title": "Abelardo de la Espriella sworn in as president of Colombia",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 103,
       "topic": "World & Politics",
       "label": "Thailand · shooting · school",
       "title": "Thailand school shooting: eight killed including suspected attacker, police say",
       "summary": "Teenager killed his grandparents ⁠before opening fire at school near Bangkok, where more than 30 were wounded A Thai teenager killed his grandparents before opening fire at his school, where he shot f",
-      "score": 11.819,
+      "score": 11.672,
       "n_outlets": 11,
       "n_articles": 15,
       "regions": [
@@ -302,20 +487,20 @@
       ]
     },
     {
-      "id": 21,
+      "id": 19,
       "topic": "World & Politics",
-      "label": "Spain · Italy · border",
+      "label": "Italy · Spain · border",
       "title": "Ceuta crisis: Spain introduces border controls for Italy",
       "summary": "Nach der Migrationskrise in Ceuta nahm Italien gegen Spanien gerichtete Grenzkontrollen auf. Madrid hat das erst scharf kritisiert und kündigt nun ebenfalls Kontrollen für Flüge und Schiffe aus Italie",
-      "score": 10.909,
+      "score": 10.944,
       "n_outlets": 10,
-      "n_articles": 12,
+      "n_articles": 13,
       "regions": [
         "europe",
         "russia",
         "us"
       ],
-      "last_seen": "2026-08-07T22:35:06+00:00",
+      "last_seen": "2026-08-08T01:24:00+00:00",
       "leans": [
         "center",
         "left",
@@ -382,7 +567,7 @@
           "ownership": "public",
           "title": "Ceuta: Spain sets up border controls on travelers from Italy",
           "url": "https://www.dw.com/en/ceuta-spain-sets-up-border-controls-on-travelers-from-italy/a-78282840?maca=en-rss-en-world-4025-rdf",
-          "published": "2026-08-07T16:12:00+00:00",
+          "published": "2026-08-08T01:24:00+00:00",
           "orig_title": "Ceuta: Spain sets up border controls on travelers from Italy",
           "lang": "en",
           "translated": false,
@@ -399,7 +584,35 @@
           "orig_title": "Испания ввела контроль для прибывающих из Италии в ответ на санкции Рима",
           "lang": "ru",
           "translated": true,
-          "access": "unknown"
+          "access": "unknown",
+          "more": [
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Spain gives Italy two days to restore Schengen agreement",
+              "url": "https://www.kommersant.ru/doc/8874982",
+              "published": "2026-08-07T13:08:44+00:00",
+              "orig_title": "Испания дала Италии два дня на возобновление действия Шенгенского соглашения",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Italy rejects Spain's ultimatum to end border checks",
+              "url": "https://www.kommersant.ru/doc/8875119",
+              "published": "2026-08-07T16:51:15+00:00",
+              "orig_title": "Италия отвергла ультиматум Испании о прекращении пограничных проверок",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            }
+          ]
         },
         {
           "outlet": "Politico Europe",
@@ -440,22 +653,7 @@
           "orig_title": "Spanien führt Grenzkontrollen für Italien ein",
           "lang": "de",
           "translated": true,
-          "access": "unknown",
-          "more": [
-            {
-              "outlet": "Die Welt",
-              "region": "europe",
-              "lean": "right",
-              "ownership": "private",
-              "title": "Moroccan taxi drivers sentenced for transporting migrants to Ceuta border",
-              "url": "https://www.welt.de/politik/ausland/article6a76328f0e3689919ec74655/ceuta-migranten-zur-grenze-gefahren-taxifahrer-in-marokko-zu-haftstrafen-verurteilt.html",
-              "published": "2026-08-07T20:14:22+00:00",
-              "orig_title": "Migranten zur Grenze nach Ceuta gefahren – Taxifahrer in Marokko zu Haftstrafen verurteilt",
-              "lang": "de",
-              "translated": true,
-              "access": "unknown"
-            }
-          ]
+          "access": "unknown"
         },
         {
           "outlet": "The Wall Street Journal",
@@ -486,324 +684,23 @@
       ]
     },
     {
-      "id": 0,
+      "id": 58,
       "topic": "World & Politics",
-      "label": "Colombia · Espriella · Abelardo",
-      "title": "Trump ally Abelardo de la Espriella sworn in as Colombia president",
-      "summary": "Colombian President Abelardo de la Espriella took office Friday, vowing to wage war on drug-running guerrillas and usher in a new era of close ties with the United States. The flamboyant former lawyer",
-      "score": 8.99,
-      "n_outlets": 8,
-      "n_articles": 9,
-      "regions": [
-        "china",
-        "europe",
-        "russia",
-        "south_america",
-        "us"
-      ],
-      "last_seen": "2026-08-07T23:35:58+00:00",
-      "leans": [
-        "center",
-        "left",
-        "right",
-        "state"
-      ],
-      "sources": [
-        {
-          "outlet": "El Pais",
-          "region": "europe",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Abelardo de la Espriella sworn in as president of Colombia, live | 'The time of restoring order, authority and freedom has begun': Colombia's new leader's inaugural address",
-          "url": "https://elpais.com/america-colombia/2026-08-07/la-posesion-de-abelardo-de-la-espriella-como-presidente-de-colombia-en-vivo.html",
-          "published": "2026-08-07T23:35:58+00:00",
-          "orig_title": "La posesión de Abelardo de la Espriella como presidente de Colombia, en vivo | “Ha comenzado el tiempo de la recuperación del orden, la autoridad y la libertad”: el primer discurso del jefe de Estado",
-          "lang": "es",
-          "translated": true,
-          "access": "unknown",
-          "more": [
-            {
-              "outlet": "El Pais",
-              "region": "europe",
-              "lean": "left",
-              "ownership": "private",
-              "title": "Colombian left launches resistance against new president: 'Abelardo de la Espriella will be a US agent'",
-              "url": "https://elpais.com/america-colombia/2026-08-07/la-izquierda-colombiana-inicia-su-resistencia-contra-el-nuevo-presidente-abelardo-de-la-espriella-sera-un-agente-de-estados-unidos.html",
-              "published": "2026-08-07T20:06:24+00:00",
-              "orig_title": "La izquierda colombiana inicia su resistencia contra el nuevo presidente: “Abelardo de la Espriella será un agente de Estados Unidos”",
-              "lang": "es",
-              "translated": true,
-              "access": "unknown"
-            }
-          ]
-        },
-        {
-          "outlet": "NPR",
-          "region": "us",
-          "lean": "left",
-          "ownership": "public",
-          "title": "Colombia's new president vows to remake the country — and challenge rebel groups",
-          "url": "https://www.npr.org/2026/08/07/nx-s1-5924775/colombias-new-president-vows-to-remake-the-country-and-challenge-its-fragile-peace",
-          "published": "2026-08-07T15:41:45+00:00",
-          "orig_title": "Colombia's new president vows to remake the country — and challenge rebel groups",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "The Guardian",
-          "region": "europe",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Colombia on the brink: ELN guerrilla group prepares for return to war",
-          "url": "https://www.theguardian.com/world/ng-interactive/2026/aug/07/colombia-on-the-brink-eln-guerrilla-group-prepares-for-return-to-war",
-          "published": "2026-08-07T14:00:32+00:00",
-          "orig_title": "Colombia on the brink: ELN guerrilla group prepares for return to war",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "The New York Times",
-          "region": "us",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Trump Administration Fast-Tracks Military Partnership With Colombia to Target Drug Traffickers",
-          "url": "https://www.nytimes.com/2026/08/07/world/americas/trump-administration-military-partnership-colombia.html",
-          "published": "2026-08-07T16:13:49+00:00",
-          "orig_title": "Trump Administration Fast-Tracks Military Partnership With Colombia to Target Drug Traffickers",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
-        },
-        {
-          "outlet": "MercoPress",
-          "region": "south_america",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Colombia: De la Espriella takes office in Cali without Petro present",
-          "url": "https://en.mercopress.com/2026/08/07/colombia-de-la-espriella-takes-office-in-cali-without-petro-present?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
-          "published": "2026-08-07T10:40:00+00:00",
-          "orig_title": "Colombia: De la Espriella takes office in Cali without Petro present",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "South China Morning Post",
-          "region": "china",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Trump ally Abelardo de la Espriella sworn in as Colombia president",
-          "url": "https://www.scmp.com/news/world/americas/article/3363371/trump-ally-abelardo-de-la-espriella-sworn-colombia-president?utm_source=rss_feed",
-          "published": "2026-08-07T22:46:04+00:00",
-          "orig_title": "Trump ally Abelardo de la Espriella sworn in as Colombia president",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "The Wall Street Journal",
-          "region": "us",
-          "lean": "right",
-          "ownership": "private",
-          "title": "Trump Ally Takes Office in Colombia With Vow to Fight Cocaine Armies",
-          "url": "https://www.wsj.com/world/americas/trump-ally-takes-office-in-colombia-with-vow-to-fight-cocaine-armies-96c60781?mod=rss_worldnews",
-          "published": "2026-08-07T23:17:00+00:00",
-          "orig_title": "Trump Ally Takes Office in Colombia With Vow to Fight Cocaine Armies",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
-        },
-        {
-          "outlet": "TASS",
-          "region": "russia",
-          "lean": "state",
-          "ownership": "state",
-          "title": "Abelardo de la Espriella sworn in as president of Colombia",
-          "url": "https://tass.com/world/2170399",
-          "published": "2026-08-07T23:18:32+00:00",
-          "orig_title": "Abelardo de la Espriella sworn in as president of Colombia",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        }
-      ]
-    },
-    {
-      "id": 82,
-      "topic": "World & Politics",
-      "label": "German · Germany · drone",
-      "title": "Russian embassy calls Leipzig airport drone incident a provocation",
-      "summary": "В посольстве России в Германии назвали инцидент с беспилотником в аэропорту Лейпциг/Галле «наспех состряпанной провокацией». Дрон был обнаружен рядом с украинским самолетом 5 августа.",
-      "score": 8.751,
+      "label": "Saudi · Arabia · Pakistan",
+      "title": "Saudi Arabia, Turkey and Pakistan Sign Joint Defense Pact",
+      "summary": "The agreement treats an attack on any of the countries as an attack on all, but in a region of volatile rivalries, it was unclear how it would work in practice.",
+      "score": 8.814,
       "n_outlets": 8,
       "n_articles": 10,
       "regions": [
         "china",
         "europe",
-        "russia",
-        "us"
-      ],
-      "last_seen": "2026-08-07T20:17:42+00:00",
-      "leans": [
-        "center",
-        "left",
-        "right",
-        "state"
-      ],
-      "sources": [
-        {
-          "outlet": "Der Spiegel",
-          "region": "europe",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Leipzig/Halle Airport: what the drone find means for NATO",
-          "url": "https://www.spiegel.de/politik/deutschland/flughafen-leipzig-halle-was-der-drohnen-fund-fuer-den-buendnisfall-bedeutet-a-921cfe92-81c7-431a-b20f-dc918d0957db#ref=rss",
-          "published": "2026-08-07T15:21:00+00:00",
-          "orig_title": "Flughafen Leipzig/Halle: Was der Drohnen-Fund für den Bündnisfall bedeutet",
-          "lang": "de",
-          "translated": true,
-          "access": "unknown"
-        },
-        {
-          "outlet": "El Pais",
-          "region": "europe",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Germany admits vulnerability to \"new level of threat\" posed by bomb drones",
-          "url": "https://elpais.com/internacional/2026-08-06/alemania-admite-su-vulnerabilidad-ante-el-nuevo-nivel-de-peligro-que-representan-los-drones-bomba.html",
-          "published": "2026-08-06T15:35:12+00:00",
-          "orig_title": "Alemania admite su vulnerabilidad ante el “nuevo nivel de peligro” que representan los drones bomba",
-          "lang": "es",
-          "translated": true,
-          "access": "unknown"
-        },
-        {
-          "outlet": "BBC News",
-          "region": "europe",
-          "lean": "center",
-          "ownership": "public",
-          "title": "German airport drone-bomb: Could Russia be involved?",
-          "url": "https://www.bbc.co.uk/news/articles/ckgdmrxxkdxo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-07T08:48:16+00:00",
-          "orig_title": "German airport drone-bomb: Could Russia be involved?",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "Kommersant",
-          "region": "russia",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Russian embassy calls Leipzig airport drone incident a provocation",
-          "url": "https://www.kommersant.ru/doc/8875107",
-          "published": "2026-08-07T16:30:12+00:00",
-          "orig_title": "Российское посольство назвало провокацией инцидент с дроном в аэропорту Лейпцига",
-          "lang": "ru",
-          "translated": true,
-          "access": "unknown",
-          "more": [
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "German transport minister warns of German airports' vulnerability to drones",
-              "url": "https://www.kommersant.ru/doc/8864315",
-              "published": "2026-08-06T17:06:17+00:00",
-              "orig_title": "Министр транспорта ФРГ заявил об уязвимости немецких аэропортов для дронов",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            },
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Bild reports drone attack on German cargo ship in Black Sea",
-              "url": "https://www.kommersant.ru/doc/8864105",
-              "published": "2026-08-06T13:02:16+00:00",
-              "orig_title": "Bild узнала об атаке БПЛА на немецкое грузовое судно в Черном море",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            }
-          ]
-        },
-        {
-          "outlet": "South China Morning Post",
-          "region": "china",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Bus driver kicked explosive drone out of the air at German airport",
-          "url": "https://www.scmp.com/news/world/europe/article/3363344/bus-driver-kicked-explosive-drone-out-air-german-airport?utm_source=rss_feed",
-          "published": "2026-08-07T11:57:07+00:00",
-          "orig_title": "Bus driver kicked explosive drone out of the air at German airport",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "Le Figaro",
-          "region": "europe",
-          "lean": "right",
-          "ownership": "private",
-          "title": "Booby-trapped drone found at Leipzig airport: Investigation underway, Germany on alert",
-          "url": "https://www.lefigaro.fr/international/drone-piege-decouvert-sur-l-aeroport-de-leipzig-l-enquete-demarre-l-allemagne-sur-ses-gardes-20260807",
-          "published": "2026-08-07T16:15:00+00:00",
-          "orig_title": "Drone piégé découvert sur l’aéroport de Leipzig : l’enquête démarre, l’Allemagne sur ses gardes",
-          "lang": "fr",
-          "translated": true,
-          "access": "unknown"
-        },
-        {
-          "outlet": "The Wall Street Journal",
-          "region": "us",
-          "lean": "right",
-          "ownership": "private",
-          "title": "Explosive Drone at German Airport Marks New Threat for Europe",
-          "url": "https://www.wsj.com/world/europe/explosive-drone-at-german-airport-marks-new-threat-for-europe-04a4b664?mod=rss_worldnews",
-          "published": "2026-08-06T14:54:00+00:00",
-          "orig_title": "Explosive Drone at German Airport Marks New Threat for Europe",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
-        },
-        {
-          "outlet": "TASS",
-          "region": "russia",
-          "lean": "state",
-          "ownership": "state",
-          "title": "Russian embassy says anti-Russian hysteria restarts in Germany as drone found in airport",
-          "url": "https://tass.com/world/2170373",
-          "published": "2026-08-07T20:17:42+00:00",
-          "orig_title": "Russian embassy says anti-Russian hysteria restarts in Germany as drone found in airport",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        }
-      ]
-    },
-    {
-      "id": 45,
-      "topic": "World & Politics",
-      "label": "Saudi · Arabia · Pakistan",
-      "title": "Saudi Arabia, Turkey and Pakistan Sign Joint Defense Pact",
-      "summary": "The agreement treats an attack on any of the countries as an attack on all, but in a region of volatile rivalries, it was unclear how it would work in practice.",
-      "score": 7.832,
-      "n_outlets": 7,
-      "n_articles": 9,
-      "regions": [
-        "china",
-        "europe",
         "india",
+        "japan",
         "russia",
         "us"
       ],
-      "last_seen": "2026-08-07T21:31:00+00:00",
+      "last_seen": "2026-08-07T23:38:00+00:00",
       "leans": [
         "center",
         "left",
@@ -877,6 +774,19 @@
           "access": "open"
         },
         {
+          "outlet": "The Japan Times",
+          "region": "japan",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Saudi Arabia, Turkey, Pakistan sign defense pact amid regional war",
+          "url": "https://www.japantimes.co.jp/news/2026/08/08/world/saudi-arabia-turkey-pakistan-defense-pact/",
+          "published": "2026-08-07T23:38:00+00:00",
+          "orig_title": "Saudi Arabia, Turkey, Pakistan sign defense pact amid regional war",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall"
+        },
+        {
           "outlet": "The Wall Street Journal",
           "region": "us",
           "lean": "right",
@@ -935,12 +845,143 @@
       ]
     },
     {
-      "id": 236,
+      "id": 137,
+      "topic": "World & Politics",
+      "label": "German · Leipzig · drone",
+      "title": "Russian embassy calls Leipzig airport drone incident a provocation",
+      "summary": "В посольстве России в Германии назвали инцидент с беспилотником в аэропорту Лейпциг/Галле «наспех состряпанной провокацией». Дрон был обнаружен рядом с украинским самолетом 5 августа.",
+      "score": 7.617,
+      "n_outlets": 7,
+      "n_articles": 8,
+      "regions": [
+        "china",
+        "europe",
+        "russia",
+        "us"
+      ],
+      "last_seen": "2026-08-07T20:17:42+00:00",
+      "leans": [
+        "center",
+        "left",
+        "right",
+        "state"
+      ],
+      "sources": [
+        {
+          "outlet": "Der Spiegel",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Leipzig/Halle Airport: what the drone find means for NATO",
+          "url": "https://www.spiegel.de/politik/deutschland/flughafen-leipzig-halle-was-der-drohnen-fund-fuer-den-buendnisfall-bedeutet-a-921cfe92-81c7-431a-b20f-dc918d0957db#ref=rss",
+          "published": "2026-08-07T15:21:00+00:00",
+          "orig_title": "Flughafen Leipzig/Halle: Was der Drohnen-Fund für den Bündnisfall bedeutet",
+          "lang": "de",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
+          "outlet": "BBC News",
+          "region": "europe",
+          "lean": "center",
+          "ownership": "public",
+          "title": "German airport drone-bomb: Could Russia be involved?",
+          "url": "https://www.bbc.co.uk/news/articles/ckgdmrxxkdxo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-07T08:48:16+00:00",
+          "orig_title": "German airport drone-bomb: Could Russia be involved?",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "Kommersant",
+          "region": "russia",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Russian embassy calls Leipzig airport drone incident a provocation",
+          "url": "https://www.kommersant.ru/doc/8875107",
+          "published": "2026-08-07T16:30:12+00:00",
+          "orig_title": "Российское посольство назвало провокацией инцидент с дроном в аэропорту Лейпцига",
+          "lang": "ru",
+          "translated": true,
+          "access": "unknown",
+          "more": [
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "German transport minister warns of German airports' vulnerability to drones",
+              "url": "https://www.kommersant.ru/doc/8864315",
+              "published": "2026-08-06T17:06:17+00:00",
+              "orig_title": "Министр транспорта ФРГ заявил об уязвимости немецких аэропортов для дронов",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            }
+          ]
+        },
+        {
+          "outlet": "South China Morning Post",
+          "region": "china",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Bus driver kicked explosive drone out of the air at German airport",
+          "url": "https://www.scmp.com/news/world/europe/article/3363344/bus-driver-kicked-explosive-drone-out-air-german-airport?utm_source=rss_feed",
+          "published": "2026-08-07T11:57:07+00:00",
+          "orig_title": "Bus driver kicked explosive drone out of the air at German airport",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "Le Figaro",
+          "region": "europe",
+          "lean": "right",
+          "ownership": "private",
+          "title": "Booby-trapped drone found at Leipzig airport: Investigation underway, Germany on alert",
+          "url": "https://www.lefigaro.fr/international/drone-piege-decouvert-sur-l-aeroport-de-leipzig-l-enquete-demarre-l-allemagne-sur-ses-gardes-20260807",
+          "published": "2026-08-07T16:15:00+00:00",
+          "orig_title": "Drone piégé découvert sur l’aéroport de Leipzig : l’enquête démarre, l’Allemagne sur ses gardes",
+          "lang": "fr",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
+          "outlet": "The Wall Street Journal",
+          "region": "us",
+          "lean": "right",
+          "ownership": "private",
+          "title": "Explosive Drone at German Airport Marks New Threat for Europe",
+          "url": "https://www.wsj.com/world/europe/explosive-drone-at-german-airport-marks-new-threat-for-europe-04a4b664?mod=rss_worldnews",
+          "published": "2026-08-06T14:54:00+00:00",
+          "orig_title": "Explosive Drone at German Airport Marks New Threat for Europe",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall"
+        },
+        {
+          "outlet": "TASS",
+          "region": "russia",
+          "lean": "state",
+          "ownership": "state",
+          "title": "Russian embassy says anti-Russian hysteria restarts in Germany as drone found in airport",
+          "url": "https://tass.com/world/2170373",
+          "published": "2026-08-07T20:17:42+00:00",
+          "orig_title": "Russian embassy says anti-Russian hysteria restarts in Germany as drone found in airport",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 281,
       "topic": "World & Politics",
       "label": "Meta · Ordered · Pay",
       "title": "Meta Ordered to Pay $942 Million to Address Harm to Kids From Social Media",
       "summary": "A New Mexico judge ordered the social-media giant to create a new $567 million fund in addition to paying $375 million in previously determined civil penalties.",
-      "score": 7.471,
+      "score": 7.387,
       "n_outlets": 7,
       "n_articles": 7,
       "regions": [
@@ -989,7 +1030,7 @@
           "ownership": "private",
           "title": "Meta Ordered to Pay $567 Million Fine by New Mexico Judge",
           "url": "https://www.nytimes.com/2026/08/06/technology/meta-new-mexico-child-safety.html",
-          "published": "2026-08-07T09:50:23+00:00",
+          "published": "2026-08-07T09:50:24+00:00",
           "orig_title": "Meta Ordered to Pay $567 Million Fine by New Mexico Judge",
           "lang": "en",
           "translated": false,
@@ -1050,12 +1091,130 @@
       ]
     },
     {
-      "id": 55,
+      "id": 33,
+      "topic": "World & Politics",
+      "label": "Trump · White · House",
+      "title": "US court blocks Trump’s US$400 million White House ballroom project",
+      "summary": "A US federal appeal court ordered Donald Trump’s administration on Friday to stop construction on a US$400 million ballroom on the site of the White House’s demolished East Wing, dealing the Republica",
+      "score": 6.897,
+      "n_outlets": 6,
+      "n_articles": 7,
+      "regions": [
+        "china",
+        "europe",
+        "india",
+        "russia",
+        "us"
+      ],
+      "last_seen": "2026-08-08T00:47:23+00:00",
+      "leans": [
+        "center",
+        "left",
+        "right"
+      ],
+      "sources": [
+        {
+          "outlet": "El Pais",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Court rules Trump needs Congress approval to continue White House ballroom construction",
+          "url": "https://elpais.com/us/2026-08-07/un-tribunal-dictamina-que-trump-necesita-el-aval-del-congreso-para-continuar-con-las-obras-del-salon-de-baile-en-la-casa-blanca.html",
+          "published": "2026-08-07T19:15:37+00:00",
+          "orig_title": "Un tribunal dictamina que Trump necesita el aval del Congreso para continuar con las obras del salón de baile en la Casa Blanca",
+          "lang": "es",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
+          "outlet": "The Hindu",
+          "region": "india",
+          "lean": "left",
+          "ownership": "private",
+          "title": "U.S. appeals court blocks Trump’s $400 million White House ballroom project",
+          "url": "https://www.thehindu.com/news/international/us-appeals-court-blocks-trumps-400-million-white-house-ballroom-project/article71318624.ece",
+          "published": "2026-08-07T15:14:03+00:00",
+          "orig_title": "U.S. appeals court blocks Trump’s $400 million White House ballroom project",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "Kommersant",
+          "region": "russia",
+          "lean": "center",
+          "ownership": "private",
+          "title": "US appeals court blocks construction of Donald Trump's ballroom",
+          "url": "https://www.kommersant.ru/doc/8875085",
+          "published": "2026-08-07T16:01:45+00:00",
+          "orig_title": "Апелляционный суд США заблокировал строительство бального зала Дональда Трампа",
+          "lang": "ru",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
+          "outlet": "South China Morning Post",
+          "region": "china",
+          "lean": "center",
+          "ownership": "private",
+          "title": "US court blocks Trump’s US$400 million White House ballroom project",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3363361/us-court-blocks-trumps-us400-million-white-house-ballroom-project?utm_source=rss_feed",
+          "published": "2026-08-07T15:46:28+00:00",
+          "orig_title": "US court blocks Trump’s US$400 million White House ballroom project",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "Die Welt",
+          "region": "europe",
+          "lean": "right",
+          "ownership": "private",
+          "title": "Court confirms construction halt on lavish project; Trump calls ruling 'national disgrace'",
+          "url": "https://www.welt.de/politik/ausland/article6a76779335268e50270222d8/usa-gericht-bestaetigt-baustopp-bei-prunk-projekt-donald-trump-regt-sich-ueber-nationale-schande-auf.html",
+          "published": "2026-08-08T00:47:23+00:00",
+          "orig_title": "Gericht bestätigt Baustopp bei Prunk-Projekt – Trump nennt Urteil „nationale Schande“",
+          "lang": "de",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
+          "outlet": "The Wall Street Journal",
+          "region": "us",
+          "lean": "right",
+          "ownership": "private",
+          "title": "A federal appeals court on Friday halted construction on President Trump’s planned White House ballroom, setting up a potential showdown at the Supreme Court",
+          "url": "https://www.wsj.com/politics/policy/white-house-ballroom-construction-must-stop-appeals-court-rules-7494d8b8?mod=rss_socialpoliticsfeed",
+          "published": "2026-08-07T17:15:00+00:00",
+          "orig_title": "A federal appeals court on Friday halted construction on President Trump’s planned White House ballroom, setting up a potential showdown at the Supreme Court",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall",
+          "more": [
+            {
+              "outlet": "The Wall Street Journal",
+              "region": "us",
+              "lean": "right",
+              "ownership": "private",
+              "title": "Fed governor Lisa Cook is back in Trump’s crosshairs, an appeals court halts construction on the White House ballroom and NYC homeowners sue over the pied-à-terre tax rollout. Read more in today’s What’s News newsletter:",
+              "url": "https://www.wsj.com/politics/policy/fed-governor-lisa-cook-is-back-in-trumps-crosshairs-012412e7?mod=rss_socialpoliticsfeed",
+              "published": "2026-08-07T21:04:00+00:00",
+              "orig_title": "Fed governor Lisa Cook is back in Trump’s crosshairs, an appeals court halts construction on the White House ballroom and NYC homeowners sue over the pied-à-terre tax rollout. Read more in today’s What’s News newsletter:",
+              "lang": "en",
+              "translated": false,
+              "access": "paywall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 107,
       "topic": "World & Politics",
       "label": "Trump · birthright · citizenship",
       "title": "U.S. President Trump signs new orders to limit birthright citizenship",
       "summary": "One order signed by Mr. Trump targets people who engage in commercial “birth tourism” by seeking to deny them access to the country.",
-      "score": 6.808,
+      "score": 6.663,
       "n_outlets": 6,
       "n_articles": 9,
       "regions": [
@@ -1198,20 +1357,149 @@
       ]
     },
     {
-      "id": 24,
+      "id": 174,
       "topic": "World & Politics",
-      "label": "Trump · Lisa · Cook",
-      "title": "Trump renews effort to fire Fed’s Lisa Cook despite Supreme Court ruling",
-      "summary": "US President ⁠Donald Trump is renewing his effort to fire Federal Reserve Governor Lisa Cook, keeping alive his assault on the central bank’s independence even after the US Supreme Court in June dealt",
-      "score": 5.888,
+      "label": "Russia · Leipzig · Imagine",
+      "title": "Russia calls incident with drone at Leipzig airport hastily concocted provocation",
+      "summary": "According to the statement, the main threat to Germany today is not the notorious \"hybrid attacks\" by Moscow, which do not exist, but politicians who enthusiastically develop scenarios for an imminent",
+      "score": 6.539,
+      "n_outlets": 6,
+      "n_articles": 8,
+      "regions": [
+        "europe",
+        "russia",
+        "us"
+      ],
+      "last_seen": "2026-08-07T18:41:23+00:00",
+      "leans": [
+        "left",
+        "right",
+        "state"
+      ],
+      "sources": [
+        {
+          "outlet": "Der Spiegel",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Europe's security: Sauli Niinistö on Putin's hatred and hybrid warfare",
+          "url": "https://www.spiegel.de/ausland/europa-sicherheit-sauli-niinistoe-ueber-putins-hass-und-das-neue-gleichgewicht-a-00db2a8b-aa38-47f1-84c6-7bcee729c5c5#ref=rss",
+          "published": "2026-08-07T16:22:00+00:00",
+          "orig_title": "Europas Sicherheit: Sauli Niinistö über Wladimir Putins Hass und den hybriden Krieg",
+          "lang": "de",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
+          "outlet": "El Pais",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Germany admits vulnerability to \"new level of threat\" posed by bomb drones",
+          "url": "https://elpais.com/internacional/2026-08-06/alemania-admite-su-vulnerabilidad-ante-el-nuevo-nivel-de-peligro-que-representan-los-drones-bomba.html",
+          "published": "2026-08-06T15:35:12+00:00",
+          "orig_title": "Alemania admite su vulnerabilidad ante el “nuevo nivel de peligro” que representan los drones bomba",
+          "lang": "es",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
+          "outlet": "Die Welt",
+          "region": "europe",
+          "lean": "right",
+          "ownership": "private",
+          "title": "\"It's obvious…\" Russia releases statement after drone incident in Leipzig",
+          "url": "https://www.welt.de/politik/ausland/article6a7611e70e3689919ec7450e/leipzig-es-liegt-auf-der-hand-russland-veroeffentlicht-erklaerung-nach-drohnenvorfall.html",
+          "published": "2026-08-07T17:42:11+00:00",
+          "orig_title": "„Es liegt auf der Hand …“ – Russland veröffentlicht Erklärung nach Drohnenvorfall in Leipzig",
+          "lang": "de",
+          "translated": true,
+          "access": "unknown",
+          "more": [
+            {
+              "outlet": "Die Welt",
+              "region": "europe",
+              "lean": "right",
+              "ownership": "private",
+              "title": "\"The danger is very great that Putin tests us all,\" Strack-Zimmermann warns",
+              "url": "https://www.welt.de/politik/ausland/video6a760e8b0e3689919ec744e3/angriffe-auf-nato-staaten-die-gefahr-ist-sehr-gross-dass-putin-uns-alle-testet-warnt-strack-zimmermann.html",
+              "published": "2026-08-07T18:04:54+00:00",
+              "orig_title": "„Die Gefahr ist sehr groß, dass Putin uns alle testet“, warnt Strack-Zimmermann",
+              "lang": "de",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Die Welt",
+              "region": "europe",
+              "lean": "right",
+              "ownership": "private",
+              "title": "'Imagine it lands in the airport terminal area and then explodes'",
+              "url": "https://www.welt.de/politik/deutschland/video6a7619a8c07f6c2f08035fdb/drohnenabwehr-stellen-sie-sich-vor-die-kommt-im-vorbereich-des-flughafens-nieder-und-dann-zur-explosion.html",
+              "published": "2026-08-07T18:41:23+00:00",
+              "orig_title": "„Stellen Sie sich vor, die kommt im Vorbereich des Flughafens nieder und dann zur Explosion“",
+              "lang": "de",
+              "translated": true,
+              "access": "unknown"
+            }
+          ]
+        },
+        {
+          "outlet": "Le Figaro",
+          "region": "europe",
+          "lean": "right",
+          "ownership": "private",
+          "title": "Bombing in Damascus suburbs resurrects specter of Syrian sectarian tensions",
+          "url": "https://www.lefigaro.fr/international/en-syrie-un-attentat-dans-la-banlieue-de-damas-fait-ressurgir-le-spectre-des-tensions-entre-communautes-20260807",
+          "published": "2026-08-07T16:48:39+00:00",
+          "orig_title": "En Syrie, un attentat dans la banlieue de Damas fait ressurgir le spectre des tensions entre communautés",
+          "lang": "fr",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
+          "outlet": "The Wall Street Journal",
+          "region": "us",
+          "lean": "right",
+          "ownership": "private",
+          "title": "Opinion | Russia’s Drones Test Europe’s Defenses",
+          "url": "https://www.wsj.com/opinion/russia-drones-europe-defense-nato-a4ca3958?mod=rss_worldnews",
+          "published": "2026-08-06T22:58:00+00:00",
+          "orig_title": "Opinion | Russia’s Drones Test Europe’s Defenses",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall"
+        },
+        {
+          "outlet": "TASS",
+          "region": "russia",
+          "lean": "state",
+          "ownership": "state",
+          "title": "Russia calls incident with drone at Leipzig airport hastily concocted provocation",
+          "url": "https://tass.com/politics/2170325",
+          "published": "2026-08-07T16:53:20+00:00",
+          "orig_title": "Russia calls incident with drone at Leipzig airport hastily concocted provocation",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "topic": "World & Politics",
+      "label": "Trump · Todd · Blanche",
+      "title": "A key senator said he would vote to confirm Todd Blanche as attorney general, clearing the path for President Trump’s pick to lead the Justice Department",
+      "summary": "Sen. Bill Cassidy said he would support Blanche, after another Republican’s opposition left his confirmation in doubt.",
+      "score": 5.976,
       "n_outlets": 5,
-      "n_articles": 6,
+      "n_articles": 5,
       "regions": [
         "china",
         "europe",
         "us"
       ],
-      "last_seen": "2026-08-07T22:17:46+00:00",
+      "last_seen": "2026-08-08T01:48:27+00:00",
       "leans": [
         "center",
         "left",
@@ -1219,27 +1507,27 @@
       ],
       "sources": [
         {
-          "outlet": "El Pais",
-          "region": "europe",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Trump renews push to oust Lisa Cook from Fed despite Supreme Court opposition",
-          "url": "https://elpais.com/economia/2026-08-07/trump-vuelve-a-la-carga-para-despedir-a-lisa-cook-de-la-fed-pese-a-la-oposicion-del-supremo.html",
-          "published": "2026-08-07T19:49:18+00:00",
-          "orig_title": "Trump vuelve a la carga para despedir a Lisa Cook de la Fed, pese a la oposición del Supremo",
-          "lang": "es",
-          "translated": true,
-          "access": "unknown"
-        },
-        {
           "outlet": "NPR",
           "region": "us",
           "lean": "left",
           "ownership": "public",
-          "title": "Trump renews push to fire Fed Governor Lisa Cook",
-          "url": "https://www.npr.org/2026/08/07/nx-s1-5925167/trump-lisa-cook-federal-reserve",
-          "published": "2026-08-07T19:35:35+00:00",
-          "orig_title": "Trump renews push to fire Fed Governor Lisa Cook",
+          "title": "Blanche's path to confirmation appears clear after winning key Republican's support",
+          "url": "https://www.npr.org/2026/08/07/g-s1-137773/lisa-murkowski-todd-blanche-attorney-general",
+          "published": "2026-08-07T14:12:59+00:00",
+          "orig_title": "Blanche's path to confirmation appears clear after winning key Republican's support",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "The Guardian",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Trump blasts appeals court for halting White House ballroom construction, claiming decision is a ‘national security threat’ – live",
+          "url": "https://www.theguardian.com/us-news/live/2026/aug/07/donald-trump-ohio-republican-max-miller-domestic-abuse-allegations-birthright-citizenship-us-politics-latest",
+          "published": "2026-08-08T01:48:27+00:00",
+          "orig_title": "Trump blasts appeals court for halting White House ballroom construction, claiming decision is a ‘national security threat’ – live",
           "lang": "en",
           "translated": false,
           "access": "open"
@@ -1249,10 +1537,10 @@
           "region": "china",
           "lean": "center",
           "ownership": "private",
-          "title": "Trump renews effort to fire Fed’s Lisa Cook despite Supreme Court ruling",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3363370/trump-renews-effort-fire-feds-lisa-cook-despite-supreme-court-ruling?utm_source=rss_feed",
-          "published": "2026-08-07T21:11:21+00:00",
-          "orig_title": "Trump renews effort to fire Fed’s Lisa Cook despite Supreme Court ruling",
+          "title": "Trump pick Todd Blanche clears major hurdle in bid to become US attorney general",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3363368/trump-pick-todd-blanche-clears-major-hurdle-bid-become-us-attorney-general?utm_source=rss_feed",
+          "published": "2026-08-07T20:30:46+00:00",
+          "orig_title": "Trump pick Todd Blanche clears major hurdle in bid to become US attorney general",
           "lang": "en",
           "translated": false,
           "access": "open"
@@ -1262,10 +1550,10 @@
           "region": "us",
           "lean": "center",
           "ownership": "private",
-          "title": "Trump restarts effort to fire Fed's Lisa Cook",
-          "url": "https://thehill.com/homenews/administration/6017965-trump-attempts-remove-fed-cook/",
-          "published": "2026-08-07T22:17:46+00:00",
-          "orig_title": "Trump restarts effort to fire Fed's Lisa Cook",
+          "title": "Senate confirms 74 Trump nominees: Here are 5 notable ones",
+          "url": "https://thehill.com/homenews/senate/6017982-senate-confirms-trump-nominees/",
+          "published": "2026-08-07T22:58:55+00:00",
+          "orig_title": "Senate confirms 74 Trump nominees: Here are 5 notable ones",
           "lang": "en",
           "translated": false,
           "access": "unknown"
@@ -1275,46 +1563,32 @@
           "region": "us",
           "lean": "right",
           "ownership": "private",
-          "title": "Trump revives effort to oust Fed governor Lisa Cook, demanding response to mortgage-fraud allegations she denies amid renewed fight over Fed independence",
-          "url": "https://www.wsj.com/politics/white-house-revives-attempt-to-fire-fed-governor-lisa-cook-9341c88e?mod=rss_socialpoliticsfeed",
-          "published": "2026-08-07T20:46:00+00:00",
-          "orig_title": "Trump revives effort to oust Fed governor Lisa Cook, demanding response to mortgage-fraud allegations she denies amid renewed fight over Fed independence",
+          "title": "A key senator said he would vote to confirm Todd Blanche as attorney general, clearing the path for President Trump’s pick to lead the Justice Department",
+          "url": "https://www.wsj.com/politics/policy/second-republican-will-oppose-blanche-leaving-confirmation-down-to-the-wire-aa02c480?mod=rss_socialpoliticsfeed",
+          "published": "2026-08-07T16:03:00+00:00",
+          "orig_title": "A key senator said he would vote to confirm Todd Blanche as attorney general, clearing the path for President Trump’s pick to lead the Justice Department",
           "lang": "en",
           "translated": false,
-          "access": "paywall",
-          "more": [
-            {
-              "outlet": "The Wall Street Journal",
-              "region": "us",
-              "lean": "right",
-              "ownership": "private",
-              "title": "Fed governor Lisa Cook is back in Trump’s crosshairs, an appeals court halts construction on the White House ballroom and NYC homeowners sue over the pied-à-terre tax rollout. Read more in today’s What’s News newsletter:",
-              "url": "https://www.wsj.com/politics/policy/fed-governor-lisa-cook-is-back-in-trumps-crosshairs-012412e7?mod=rss_socialpoliticsfeed",
-              "published": "2026-08-07T21:04:00+00:00",
-              "orig_title": "Fed governor Lisa Cook is back in Trump’s crosshairs, an appeals court halts construction on the White House ballroom and NYC homeowners sue over the pied-à-terre tax rollout. Read more in today’s What’s News newsletter:",
-              "lang": "en",
-              "translated": false,
-              "access": "paywall"
-            }
-          ]
+          "access": "paywall"
         }
       ]
     },
     {
-      "id": 46,
-      "topic": "World & Politics",
-      "label": "Russia · Senate · Lindsey",
-      "title": "Senate passes Russia sanctions bill that was long championed by Lindsey Graham",
-      "summary": "The bill is meant to stifle Russia's economy by allowing for tough new tariffs against major importers of Russian energy. The legislation was led by Lindsey Graham before his unexpected death in July.",
-      "score": 5.831,
-      "n_outlets": 5,
-      "n_articles": 5,
+      "id": 30,
+      "topic": "Economics",
+      "label": "Senate · Russia · U.S.",
+      "title": "U.S. Senate passes Russia sanctions bill that seeks 100% tariffs on India, four others",
+      "summary": "The bill, renamed the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026, was approved by the Senate by an 86-11 vote",
+      "score": 6.908,
+      "n_outlets": 6,
+      "n_articles": 7,
       "regions": [
-        "europe",
+        "india",
+        "japan",
         "russia",
         "us"
       ],
-      "last_seen": "2026-08-07T21:30:00+00:00",
+      "last_seen": "2026-08-08T00:56:29+00:00",
       "leans": [
         "center",
         "left",
@@ -1336,17 +1610,32 @@
           "access": "open"
         },
         {
-          "outlet": "The Guardian",
-          "region": "europe",
+          "outlet": "The Hindu",
+          "region": "india",
           "lean": "left",
           "ownership": "private",
-          "title": "US Senate passes Russia sanctions bill championed by Lindsey Graham",
-          "url": "https://www.theguardian.com/us-news/2026/aug/07/russia-sanctions-senate-passed-petroleum",
-          "published": "2026-08-07T20:22:18+00:00",
-          "orig_title": "US Senate passes Russia sanctions bill championed by Lindsey Graham",
+          "title": "U.S. Senate passes Russia sanctions bill that seeks 100% tariffs on India, four others",
+          "url": "https://www.thehindu.com/news/international/us-senate-passes-russia-sanctions-bill-that-seeks-100-tariffs-on-india-four-others/article71320431.ece",
+          "published": "2026-08-08T00:56:29+00:00",
+          "orig_title": "U.S. Senate passes Russia sanctions bill that seeks 100% tariffs on India, four others",
           "lang": "en",
           "translated": false,
-          "access": "open"
+          "access": "open",
+          "more": [
+            {
+              "outlet": "The Hindu",
+              "region": "india",
+              "lean": "left",
+              "ownership": "private",
+              "title": "U.S. Senate fast-tracks Act that could see 100% tariffs on India for its Russian oil imports",
+              "url": "https://www.thehindu.com/news/international/us-senate-advances-sanctions-bill-targeting-russian-iranian-oil-buyers-including-india-and-china/article71280304.ece",
+              "published": "2026-08-08T00:31:49+00:00",
+              "orig_title": "U.S. Senate fast-tracks Act that could see 100% tariffs on India for its Russian oil imports",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            }
+          ]
         },
         {
           "outlet": "Kommersant",
@@ -1360,6 +1649,19 @@
           "lang": "ru",
           "translated": true,
           "access": "unknown"
+        },
+        {
+          "outlet": "The Japan Times",
+          "region": "japan",
+          "lean": "center",
+          "ownership": "private",
+          "title": "U.S. Senate passes Russia sanctions championed by late Lindsey Graham",
+          "url": "https://www.japantimes.co.jp/news/2026/08/08/world/politics/us-senate-russia-sanctions/",
+          "published": "2026-08-07T23:37:00+00:00",
+          "orig_title": "U.S. Senate passes Russia sanctions championed by late Lindsey Graham",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall"
         },
         {
           "outlet": "The Wall Street Journal",
@@ -1390,100 +1692,12 @@
       ]
     },
     {
-      "id": 118,
-      "topic": "World & Politics",
-      "label": "Russia · Gilman · U.S.",
-      "title": "Reuters: U.S. asks Russia to release imprisoned former Marine Robert Gilman; his family fears he is near death",
-      "summary": "U.S. Secretary of State Marco Rubio pressed for the release of former U.S. Marine Robert Gilman, who has been convicted in Russia, during a July 23 meeting with Russian Foreign Minister Sergey Lavrov ",
-      "score": 5.667,
-      "n_outlets": 5,
-      "n_articles": 5,
-      "regions": [
-        "russia",
-        "us"
-      ],
-      "last_seen": "2026-08-07T18:52:20+00:00",
-      "leans": [
-        "center",
-        "left",
-        "right",
-        "state"
-      ],
-      "sources": [
-        {
-          "outlet": "The New York Times",
-          "region": "us",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Family of Former U.S. Marine Detained in Russia Says He Is in Serious Condition",
-          "url": "https://www.nytimes.com/2026/08/07/us/robert-gilman-russia-torture.html",
-          "published": "2026-08-07T18:52:20+00:00",
-          "orig_title": "Family of Former U.S. Marine Detained in Russia Says He Is in Serious Condition",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
-        },
-        {
-          "outlet": "Kommersant",
-          "region": "russia",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Reuters: US asks Russia to free convicted American Gilman",
-          "url": "https://www.kommersant.ru/doc/8864419",
-          "published": "2026-08-06T22:23:18+00:00",
-          "orig_title": "Reuters: США попросили Россию освободить осужденного американца Гилмана",
-          "lang": "ru",
-          "translated": true,
-          "access": "unknown"
-        },
-        {
-          "outlet": "Meduza",
-          "region": "russia",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Reuters: U.S. asks Russia to release imprisoned former Marine Robert Gilman; his family fears he is near death",
-          "url": "https://meduza.io/en/news/2026/08/07/reuters-u-s-asks-russia-to-release-imprisoned-former-marine-robert-gilman-his-family-fears-he-is-near-death",
-          "published": "2026-08-07T10:25:47+00:00",
-          "orig_title": "Reuters: U.S. asks Russia to release imprisoned former Marine Robert Gilman; his family fears he is near death",
-          "lang": "en",
-          "translated": false,
-          "access": "unknown"
-        },
-        {
-          "outlet": "Fox News",
-          "region": "us",
-          "lean": "right",
-          "ownership": "private",
-          "title": "American ex-Marine feared near death after weeks in catatonic state in Russian prison",
-          "url": "https://www.foxnews.com/world/american-ex-marine-feared-near-death-after-weeks-catatonic-state-russian-prison",
-          "published": "2026-08-06T20:22:21+00:00",
-          "orig_title": "American ex-Marine feared near death after weeks in catatonic state in Russian prison",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "TASS",
-          "region": "russia",
-          "lean": "state",
-          "ownership": "state",
-          "title": "Russia may demand release of its citizens from US in exchange for Gilman — exchanged pilot",
-          "url": "https://tass.com/politics/2170167",
-          "published": "2026-08-07T10:57:51+00:00",
-          "orig_title": "Russia may demand release of its citizens from US in exchange for Gilman — exchanged pilot",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        }
-      ]
-    },
-    {
-      "id": 125,
+      "id": 177,
       "topic": "Economics",
       "label": "July · jobs · Employers",
       "title": "US unexpectedly lost 23,000 jobs in July as slump in growth continues",
       "summary": "Estimates for previous two months were revised down sharply but unemployment rate held steady at 4.1% Business live – latest updates US employers unexpectedly lost 23,000 jobs in July and gains for th",
-      "score": 6.652,
+      "score": 6.535,
       "n_outlets": 6,
       "n_articles": 6,
       "regions": [
@@ -1579,12 +1793,12 @@
       ]
     },
     {
-      "id": 406,
+      "id": 442,
       "topic": "Economics",
       "label": "Trump · tariff · key",
       "title": "Trump orders new 15% tariff on key material for solar panels and microchips",
       "summary": "Move to raise levy on goods made with polysilicon aims to protect domestic US supply chains from China, the major producer Donald Trump has ordered a new 15% tariff on imported products made of polysi",
-      "score": 3.298,
+      "score": 3.244,
       "n_outlets": 3,
       "n_articles": 3,
       "regions": [
@@ -1639,12 +1853,12 @@
       ]
     },
     {
-      "id": 101,
+      "id": 157,
       "topic": "Economics",
       "label": "Prudent · RBI · Weak",
       "title": "Prudent approach: On the RBI’s interest rate-setting committee meeting",
       "summary": "The RBI did well to hold interest rates, but inflationary pressures remain",
-      "score": 2.709,
+      "score": 2.582,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -1685,12 +1899,12 @@
       ]
     },
     {
-      "id": 167,
+      "id": 219,
       "topic": "Economics",
       "label": "Industrial · June · German",
-      "title": "Industrial growth hits 23-month high of 7.3% in June 2026",
-      "summary": "Growth in the Index of Industrial Production quickened on the back of strong performances in the manufacturing, electricity, capital goods, and consumer-facing sectors.",
-      "score": 2.567,
+      "title": "German Industry’s Resilient Streak Continues Despite Lingering Uncertainty",
+      "summary": "German industrial production unexpectedly rose in June, extending a run of resilient manufacturing data that suggests Europe’s largest economy has so far shrugged off the economic fallout from the war",
+      "score": 2.465,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -1732,59 +1946,12 @@
       ]
     },
     {
-      "id": 275,
-      "topic": "Economics",
-      "label": "Best · High-Yield · Savings",
-      "title": "Hong Kong raises Silver Bonds coupon rate to 4.25% for latest batch",
-      "summary": "Hong Kong is raising the guaranteed coupon rate for its 11th batch of Silver Bonds for senior citizens, amid market expectations that the US Federal Reserve will raise interest rates later this year. ",
-      "score": 2.414,
-      "n_outlets": 2,
-      "n_articles": 2,
-      "regions": [
-        "china",
-        "us"
-      ],
-      "last_seen": "2026-08-07T13:08:00+00:00",
-      "leans": [
-        "center",
-        "right"
-      ],
-      "sources": [
-        {
-          "outlet": "South China Morning Post",
-          "region": "china",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Hong Kong raises Silver Bonds coupon rate to 4.25% for latest batch",
-          "url": "https://www.scmp.com/business/banking-finance/article/3363202/hong-kong-raises-silver-bonds-coupon-rate-425-latest-batch?utm_source=rss_feed",
-          "published": "2026-08-06T12:14:00+00:00",
-          "orig_title": "Hong Kong raises Silver Bonds coupon rate to 4.25% for latest batch",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "The Wall Street Journal",
-          "region": "us",
-          "lean": "right",
-          "ownership": "private",
-          "title": "Best High-Yield Savings Accounts for August 2026: Up to 4.50%",
-          "url": "https://www.wsj.com/buyside/personal-finance/banking/best-high-yield-savings-account?mod=rss_worldnews",
-          "published": "2026-08-07T13:08:00+00:00",
-          "orig_title": "Best High-Yield Savings Accounts for August 2026: Up to 4.50%",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
-        }
-      ]
-    },
-    {
-      "id": 572,
+      "id": 591,
       "topic": "Economics",
       "label": "EasyJet · agrees · takeover",
-      "title": "EasyJet agrees to £5.7bn takeover by US firm",
-      "summary": "The no-frills carrier agrees to be bought by US firm Apollo after a rival suitor drops out.",
-      "score": 2.075,
+      "title": "EasyJet agrees to $7.7 billion takeover by Apollo investment fund",
+      "summary": "Британский лоукостер EasyJet согласился на поглощение американским инвестфондом Apollo за 5,7 млрд фунтов стерлингов ($7,7 млрд). Как говорится в заявлении авиакомпании, ее совет директоров одобрил пр",
+      "score": 2.061,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -1825,59 +1992,104 @@
       ]
     },
     {
-      "id": 574,
+      "id": 2,
       "topic": "Economics",
-      "label": "Organ · U.S. · Cuts",
-      "title": "U.S. Cuts Ties With Organ Donor Group After Reports of Abuses",
-      "summary": "The federal government is ending its contract with a Kentucky nonprofit that it says pressured medical workers to remove organs from patients who were getting better.",
-      "score": 2.075,
-      "n_outlets": 2,
-      "n_articles": 2,
+      "label": "Hong · Kong · dollar",
+      "title": "Hong Kong’s US dollar peg faces fresh calls for review – but is change feasible?",
+      "summary": "The Hong Kong dollar’s four-decade-old peg to the US dollar is facing fresh calls for review, after a local financial industry body urged greater use of the yuan and floated the idea of shifting to a ",
+      "score": 1.992,
+      "n_outlets": 1,
+      "n_articles": 3,
       "regions": [
-        "russia",
-        "us"
+        "china"
       ],
-      "last_seen": "2026-08-06T16:34:16+00:00",
+      "last_seen": "2026-08-08T02:00:12+00:00",
       "leans": [
-        "center",
-        "left"
+        "center"
       ],
       "sources": [
         {
-          "outlet": "The New York Times",
-          "region": "us",
-          "lean": "left",
-          "ownership": "private",
-          "title": "U.S. Cuts Ties With Organ Donor Group After Reports of Abuses",
-          "url": "https://www.nytimes.com/2026/08/05/us/organ-donations-kentucky.html",
-          "published": "2026-08-06T16:34:16+00:00",
-          "orig_title": "U.S. Cuts Ties With Organ Donor Group After Reports of Abuses",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
-        },
-        {
-          "outlet": "Kommersant",
-          "region": "russia",
+          "outlet": "South China Morning Post",
+          "region": "china",
           "lean": "center",
           "ownership": "private",
-          "title": "Organ donor NGO shut down amid patient scandal",
-          "url": "https://www.kommersant.ru/doc/8864003",
-          "published": "2026-08-06T11:51:06+00:00",
-          "orig_title": "Занимавшуюся донорскими органами НКО закрывают из-за скандала с пациентами",
-          "lang": "ru",
-          "translated": true,
-          "access": "unknown"
+          "title": "Hong Kong’s US dollar peg faces fresh calls for review – but is change feasible?",
+          "url": "https://www.scmp.com/business/banking-finance/article/3363286/hong-kongs-us-dollar-peg-faces-fresh-calls-review-change-feasible?utm_source=rss_feed",
+          "published": "2026-08-07T08:14:51+00:00",
+          "orig_title": "Hong Kong’s US dollar peg faces fresh calls for review – but is change feasible?",
+          "lang": "en",
+          "translated": false,
+          "access": "open",
+          "more": [
+            {
+              "outlet": "South China Morning Post",
+              "region": "china",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Hong Kong’s US dollar peg explained: history, benefits and risks",
+              "url": "https://www.scmp.com/business/banking-finance/article/3363306/hong-kongs-us-dollar-peg-explained-history-benefits-and-risks?utm_source=rss_feed",
+              "published": "2026-08-08T02:00:12+00:00",
+              "orig_title": "Hong Kong’s US dollar peg explained: history, benefits and risks",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            },
+            {
+              "outlet": "South China Morning Post",
+              "region": "china",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Gold’s price potential still ‘explosive’ amid Beijing hoarding, Hong Kong trading push",
+              "url": "https://www.scmp.com/business/commodities/article/3363180/golds-price-potential-still-explosive-amid-beijing-hoarding-hong-kong-trading-push?utm_source=rss_feed",
+              "published": "2026-08-07T00:00:14+00:00",
+              "orig_title": "Gold’s price potential still ‘explosive’ amid Beijing hoarding, Hong Kong trading push",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            }
+          ]
         }
       ]
     },
     {
-      "id": 23,
+      "id": 59,
+      "topic": "Economics",
+      "label": "U.S. · Senator · renews",
+      "title": "U.S. Senator renews push for green card bill",
+      "summary": "Congress cannot continue to ignore millions of long-term residents who contribute to our economy and communities every day, said California Senator Alex Padilla",
+      "score": 1.811,
+      "n_outlets": 1,
+      "n_articles": 1,
+      "regions": [
+        "india"
+      ],
+      "last_seen": "2026-08-07T23:34:44+00:00",
+      "leans": [
+        "left"
+      ],
+      "sources": [
+        {
+          "outlet": "The Hindu",
+          "region": "india",
+          "lean": "left",
+          "ownership": "private",
+          "title": "U.S. Senator renews push for green card bill",
+          "url": "https://www.thehindu.com/news/international/us-senator-renews-push-for-green-card-bill/article71281308.ece",
+          "published": "2026-08-07T23:34:44+00:00",
+          "orig_title": "U.S. Senator renews push for green card bill",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 79,
       "topic": "Economics",
       "label": "Jigawa · trains · youths",
       "title": "Jigawa trains 928 youths on emerging technologies, opens digital portal for transparent governance",
       "summary": "Governor Namadi said his administration is fully committed to building a digitally skilled workforce and advancing technology-driven governance as a strategic way to sustainable economic growth, innov",
-      "score": 1.892,
+      "score": 1.732,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -1904,12 +2116,12 @@
       ]
     },
     {
-      "id": 35,
+      "id": 90,
       "topic": "Economics",
       "label": "Navy · Delta · recovers",
       "title": "Navy recovers 105,000 litres of suspected stolen crude in Delta",
       "summary": "\"The operations form part of sustained efforts to disrupt crude oil theft networks, protect critical oil and gas assets, and prevent economic losses to the nation.\" The post Navy recovers 105,000 litr",
-      "score": 1.861,
+      "score": 1.706,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -1936,44 +2148,12 @@
       ]
     },
     {
-      "id": 90,
-      "topic": "Economics",
-      "label": "UnionPay · Chinese · Brazil",
-      "title": "UnionPay to plug Chinese payment apps into Brazil’s Pix after US tariffs over the system",
-      "summary": "China’s UnionPay International plans to connect Chinese payment apps to Pix, the Brazilian payment system at the centre of Washington’s trade case against Brasilia, allowing Chinese tourists to pay by",
-      "score": 1.732,
-      "n_outlets": 1,
-      "n_articles": 1,
-      "regions": [
-        "china"
-      ],
-      "last_seen": "2026-08-07T19:59:05+00:00",
-      "leans": [
-        "center"
-      ],
-      "sources": [
-        {
-          "outlet": "South China Morning Post",
-          "region": "china",
-          "lean": "center",
-          "ownership": "private",
-          "title": "UnionPay to plug Chinese payment apps into Brazil’s Pix after US tariffs over the system",
-          "url": "https://www.scmp.com/news/china/article/3363365/unionpay-plug-chinese-payment-apps-brazils-pix-after-us-tariffs-over-system?utm_source=rss_feed",
-          "published": "2026-08-07T19:59:05+00:00",
-          "orig_title": "UnionPay to plug Chinese payment apps into Brazil’s Pix after US tariffs over the system",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        }
-      ]
-    },
-    {
-      "id": 206,
+      "id": 254,
       "topic": "Trading & Markets",
       "label": "Mexico · Peru · restore",
       "title": "Mexico and Peru restore diplomatic relations after four years of clashes",
       "summary": "El gobierno de Sheinbaum mantiene su apoyo a Pedro Castillo y consigue reconciliarse con la recién elegida Keiko Fujimori",
-      "score": 3.51,
+      "score": 3.418,
       "n_outlets": 3,
       "n_articles": 3,
       "regions": [
@@ -2028,59 +2208,59 @@
       ]
     },
     {
-      "id": 31,
+      "id": 84,
       "topic": "Trading & Markets",
-      "label": "Trump · Court · Congress",
-      "title": "5 battles Trump keeps fighting despite setbacks",
-      "summary": "Roughly 18 months into his second term, some of President Trump’s promises and projects domestically and abroad have faced a slew of setbacks and hurdles, yet the administration has not backed down. H",
-      "score": 2.868,
+      "label": "Trump · GOP · Senate",
+      "title": "Trump urges GOP to keep Senate in session until college sports bill passes",
+      "summary": "President Trump on Friday ramped up the pressure on Senate Republicans to cancel part of their August recess, this time urging embattled GOP senators to stay in Washington until they pass a bill to re",
+      "score": 2.715,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
-        "europe",
+        "russia",
         "us"
       ],
-      "last_seen": "2026-08-07T22:01:41+00:00",
+      "last_seen": "2026-08-07T22:04:33+00:00",
       "leans": [
         "center",
-        "left"
+        "state"
       ],
       "sources": [
-        {
-          "outlet": "El Pais",
-          "region": "europe",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Court rules Trump needs Congress approval to continue White House ballroom construction",
-          "url": "https://elpais.com/us/2026-08-07/un-tribunal-dictamina-que-trump-necesita-el-aval-del-congreso-para-continuar-con-las-obras-del-salon-de-baile-en-la-casa-blanca.html",
-          "published": "2026-08-07T19:15:37+00:00",
-          "orig_title": "Un tribunal dictamina que Trump necesita el aval del Congreso para continuar con las obras del salón de baile en la Casa Blanca",
-          "lang": "es",
-          "translated": true,
-          "access": "unknown"
-        },
         {
           "outlet": "The Hill",
           "region": "us",
           "lean": "center",
           "ownership": "private",
-          "title": "5 battles Trump keeps fighting despite setbacks",
-          "url": "https://thehill.com/homenews/administration/6017922-trump-battles-birthright-citizenship-tariffs-wind-farms/",
-          "published": "2026-08-07T22:01:41+00:00",
-          "orig_title": "5 battles Trump keeps fighting despite setbacks",
+          "title": "Trump urges GOP to keep Senate in session until college sports bill passes",
+          "url": "https://thehill.com/homenews/senate/6017932-trump-gop-college-sports-bill/",
+          "published": "2026-08-07T22:04:33+00:00",
+          "orig_title": "Trump urges GOP to keep Senate in session until college sports bill passes",
           "lang": "en",
           "translated": false,
           "access": "unknown"
+        },
+        {
+          "outlet": "TASS",
+          "region": "russia",
+          "lean": "state",
+          "ownership": "state",
+          "title": "Trump says he could be last Republican president in US",
+          "url": "https://tass.com/world/2170219",
+          "published": "2026-08-07T12:48:46+00:00",
+          "orig_title": "Trump says he could be last Republican president in US",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
         }
       ]
     },
     {
-      "id": 112,
+      "id": 165,
       "topic": "Trading & Markets",
       "label": "Albanese · gambling · Pocock",
       "title": "Albanese returns to a gambling debate ready to catch fire",
       "summary": "The explosive evidence heard at a two-day inquiry into Labor's proposed crackdown on wagering advertising has proved a watershed moment for the increasingly friendless bill.",
-      "score": 2.675,
+      "score": 2.554,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -2121,12 +2301,12 @@
       ]
     },
     {
-      "id": 146,
+      "id": 199,
       "topic": "Trading & Markets",
       "label": "Russian · Dollar · Hits",
-      "title": "Russian stock market ends week lower as major indices decline",
-      "summary": "The yuan edged up by 0.16 rubles to 12.24 rubles",
-      "score": 2.602,
+      "title": "Dollar Hits 7-Week Low After Weak U.S. Jobs Data",
+      "summary": "The dollar fell to a seven-week low against a basket of currencies after data showed an unexpected decline in U.S. nonfarm payrolls in July.",
+      "score": 2.494,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -2168,12 +2348,12 @@
       ]
     },
     {
-      "id": 178,
+      "id": 229,
       "topic": "Trading & Markets",
       "label": "South · China · Sea",
       "title": "Vietnam boat disaster: Death toll rises to 48 after tourist vessel sinks in South China Sea",
       "summary": "“The vessel went down while operating in bad weather in the East Sea, adding that all 48 rescued people had been transferred to Vietnamese authorities,” Vietnamese Foreign Ministry said",
-      "score": 2.554,
+      "score": 2.455,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -2215,59 +2395,12 @@
       ]
     },
     {
-      "id": 310,
-      "topic": "Trading & Markets",
-      "label": "Europe · Heat · Wars",
-      "title": "Wars, Wildfires and Migrants Leave Europe Straining for Control",
-      "summary": "A brutal summer has exposed how much pressure European countries are under from forces largely out of their grip: war in Iran and Ukraine, record heat and more.",
-      "score": 2.381,
-      "n_outlets": 2,
-      "n_articles": 2,
-      "regions": [
-        "japan",
-        "us"
-      ],
-      "last_seen": "2026-08-07T12:08:00+00:00",
-      "leans": [
-        "center",
-        "left"
-      ],
-      "sources": [
-        {
-          "outlet": "The New York Times",
-          "region": "us",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Wars, Wildfires and Migrants Leave Europe Straining for Control",
-          "url": "https://www.nytimes.com/2026/08/06/world/europe/europe-war-wildfires-migration.html",
-          "published": "2026-08-06T13:18:36+00:00",
-          "orig_title": "Wars, Wildfires and Migrants Leave Europe Straining for Control",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
-        },
-        {
-          "outlet": "The Japan Times",
-          "region": "japan",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Heat waves expose overcrowding crisis in Europe’s aging prisons",
-          "url": "https://www.japantimes.co.jp/news/2026/08/07/world/politics/heat-europe-overcrowded-prisons/",
-          "published": "2026-08-07T12:08:00+00:00",
-          "orig_title": "Heat waves expose overcrowding crisis in Europe’s aging prisons",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
-        }
-      ]
-    },
-    {
-      "id": 312,
+      "id": 355,
       "topic": "Trading & Markets",
       "label": "Where · China-Israel · Chengdu",
       "title": "Where do China-Israel ties stand after closure of consulate in Chengdu?",
       "summary": "In a sign of fraying ties amid the Middle East conflict, Israel’s consulate general in Chengdu has closed, with its consul general leaving his post, two years after a controversy stoked backlash among",
-      "score": 2.377,
+      "score": 2.309,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -2309,12 +2442,12 @@
       ]
     },
     {
-      "id": 524,
+      "id": 546,
       "topic": "Trading & Markets",
       "label": "SpaceX · Hong · Kong",
       "title": "Employees make plans for a windfall as SpaceX shares are unlocked",
       "summary": "SpaceX's shares are unlocked Thursday, and some early employees could see a massive windfall. The BBC's Samira Hussain explains.",
-      "score": 2.127,
+      "score": 2.105,
       "n_outlets": 2,
       "n_articles": 3,
       "regions": [
@@ -2370,91 +2503,137 @@
       ]
     },
     {
-      "id": 556,
+      "id": 584,
       "topic": "Trading & Markets",
-      "label": "Trump · U.S. · denies",
-      "title": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
-      "summary": "While precise data is classified, publicly available information suggests the US has used up many difficult-to-manufacture weapons.",
-      "score": 2.091,
+      "label": "Moon · South · Korea",
+      "title": "Chinese satellite captures Falcon 9 rocket stage falling on Moon",
+      "summary": "Спутник китайской компании ATmoto Technology Gande-101 запечатлел момент столкновения ступени ракеты SpaceX Falcon 9 с поверхностью Луны. Он, как и телескоп в Чили, не обнаружил видимого шлейфа лунной",
+      "score": 2.067,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
         "europe",
-        "india"
+        "russia"
       ],
-      "last_seen": "2026-08-06T18:53:51+00:00",
-      "leans": [
-        "center",
-        "left"
-      ],
-      "sources": [
-        {
-          "outlet": "The Hindu",
-          "region": "india",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Trump dismisses reports of munitions shortages, says U.S. has ‘massive amounts’",
-          "url": "https://www.thehindu.com/news/international/trump-dismisses-reports-of-munitions-shortages-says-us-has-massive-amounts/article71314870.ece",
-          "published": "2026-08-06T16:52:22+00:00",
-          "orig_title": "Trump dismisses reports of munitions shortages, says U.S. has ‘massive amounts’",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "BBC News",
-          "region": "europe",
-          "lean": "center",
-          "ownership": "public",
-          "title": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
-          "url": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-06T18:53:51+00:00",
-          "orig_title": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        }
-      ]
-    },
-    {
-      "id": 27,
-      "topic": "Trading & Markets",
-      "label": "Alito · WSJ · Obviously",
-      "title": "Alito to WSJ: ‘Obviously I’m here for another term’",
-      "summary": "Justice Samuel Alito shut down any notion he’s planning to imminently retire from the Supreme Court in an interview with The Wall Street Journal published Friday. It marks the justice’s first known co",
-      "score": 1.876,
-      "n_outlets": 1,
-      "n_articles": 1,
-      "regions": [
-        "us"
-      ],
-      "last_seen": "2026-08-07T22:08:29+00:00",
+      "last_seen": "2026-08-06T17:38:51+00:00",
       "leans": [
         "center"
       ],
       "sources": [
         {
-          "outlet": "The Hill",
-          "region": "us",
+          "outlet": "BBC News",
+          "region": "europe",
           "lean": "center",
-          "ownership": "private",
-          "title": "Alito to WSJ: ‘Obviously I’m here for another term’",
-          "url": "https://thehill.com/regulation/court-battles/6017904-supreme-court-samuel-alito-retirement-response/",
-          "published": "2026-08-07T22:08:29+00:00",
-          "orig_title": "Alito to WSJ: ‘Obviously I’m here for another term’",
+          "ownership": "public",
+          "title": "South Korea space agency shares Moon images after SpaceX rocket debris crash",
+          "url": "https://www.bbc.co.uk/news/articles/cqjxgx5y51lo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-06T17:38:51+00:00",
+          "orig_title": "South Korea space agency shares Moon images after SpaceX rocket debris crash",
           "lang": "en",
           "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "Kommersant",
+          "region": "russia",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Chinese satellite captures Falcon 9 rocket stage falling on Moon",
+          "url": "https://www.kommersant.ru/doc/8864300",
+          "published": "2026-08-06T16:34:59+00:00",
+          "orig_title": "Китайский спутник заснял падение ступени ракеты Falcon 9 на Луну",
+          "lang": "ru",
+          "translated": true,
           "access": "unknown"
         }
       ]
     },
     {
-      "id": 486,
+      "id": 36,
+      "topic": "Trading & Markets",
+      "label": "Remains · Chicago · people",
+      "title": "Remains of 56 people found decomposing at Chicago funeral home",
+      "summary": "Officials describe ‘deplorable conditions’ at home run by pair linked to crematory closed due to mishandled remains The remains of 56 people were found improperly stored and decomposing on Thursday at",
+      "score": 1.877,
+      "n_outlets": 1,
+      "n_articles": 1,
+      "regions": [
+        "europe"
+      ],
+      "last_seen": "2026-08-08T00:31:06+00:00",
+      "leans": [
+        "left"
+      ],
+      "sources": [
+        {
+          "outlet": "The Guardian",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Remains of 56 people found decomposing at Chicago funeral home",
+          "url": "https://www.theguardian.com/us-news/2026/aug/07/chicago-funeral-home-bodies",
+          "published": "2026-08-08T00:31:06+00:00",
+          "orig_title": "Remains of 56 people found decomposing at Chicago funeral home",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "topic": "Trading & Markets",
+      "label": "Icac · Shame · Reformers",
+      "title": "Minns said he wouldn’t ‘gloat’ about Icac hearings into the Liberals. Instead, he’s quietly taking out the trash",
+      "summary": "Amid revelations that could damage the opposition’s state election hopes, the NSW government dropped key documents on three contentious issues Follow our Australia news live blog for latest updates Ge",
+      "score": 1.84,
+      "n_outlets": 1,
+      "n_articles": 2,
+      "regions": [
+        "australia"
+      ],
+      "last_seen": "2026-08-08T00:00:31+00:00",
+      "leans": [
+        "left"
+      ],
+      "sources": [
+        {
+          "outlet": "The Guardian Australia",
+          "region": "australia",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Minns said he wouldn’t ‘gloat’ about Icac hearings into the Liberals. Instead, he’s quietly taking out the trash",
+          "url": "https://www.theguardian.com/australia-news/2026/aug/07/minns-said-he-wouldnt-gloat-about-icac-hearings-into-the-liberals-instead-hes-quietly-taken-out-the-trash",
+          "published": "2026-08-06T15:00:05+00:00",
+          "orig_title": "Minns said he wouldn’t ‘gloat’ about Icac hearings into the Liberals. Instead, he’s quietly taking out the trash",
+          "lang": "en",
+          "translated": false,
+          "access": "unknown",
+          "more": [
+            {
+              "outlet": "The Guardian Australia",
+              "region": "australia",
+              "lean": "left",
+              "ownership": "private",
+              "title": "‘Shame is the punishment’: as Icac delves into the shadowy Reformers, ‘whales’ are coming to the surface",
+              "url": "https://www.theguardian.com/australia-news/2026/aug/08/icac-nsw-liberal-reformers-week-two-perrottet-tudehope-ntwnfb",
+              "published": "2026-08-08T00:00:31+00:00",
+              "orig_title": "‘Shame is the punishment’: as Icac delves into the shadowy Reformers, ‘whales’ are coming to the surface",
+              "lang": "en",
+              "translated": false,
+              "access": "unknown"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 510,
       "topic": "Science",
       "label": "artificial · virus · first",
       "title": "AI designs artificial virus strains from scratch for first time",
       "summary": "Американские ученые впервые успешно применили ИИ-модель для проектирования полных геномов жизнеспособных бактериофагов — вирусов, поражающих только бактериальные клетки. Эти вирусы смогли уничтожить ш",
-      "score": 5.19,
+      "score": 5.156,
       "n_outlets": 5,
       "n_articles": 6,
       "regions": [
@@ -2553,12 +2732,12 @@
       ]
     },
     {
-      "id": 455,
+      "id": 489,
       "topic": "Science",
       "label": "Nasa · astronauts · spacewalk",
       "title": "Watch: Nasa astronauts conduct 6.5-hour spacewalk outside ISS",
       "summary": "Astronauts Anil Menon and Jessica Meir ventured out to install a mounting hardware for the future addition of solar arrays to the space station.",
-      "score": 3.235,
+      "score": 3.193,
       "n_outlets": 3,
       "n_articles": 3,
       "regions": [
@@ -2613,12 +2792,12 @@
       ]
     },
     {
-      "id": 127,
+      "id": 179,
       "topic": "Science",
       "label": "California · Joshua · Dome",
-      "title": "Wildfire damage could take hundreds of years to recover from, experts say",
-      "summary": "Habitats belonging to snakes and rare moths have been destroyed after the wildfires this summer.",
-      "score": 2.647,
+      "title": "California lost as many as 1.3 million Joshua trees in the 2020 Dome Fire",
+      "summary": "California scientists developed digital tools to map fire damage in the Mojave National Preserve. These new software programs help park managers focus restoration work on vulnerable desert plants. The",
+      "score": 2.531,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -2659,12 +2838,58 @@
       ]
     },
     {
-      "id": 278,
+      "id": 303,
+      "topic": "Science",
+      "label": "Why · Kerala · Butterflies",
+      "title": "Butterflies Take Flight in Face of Climate Change and Extreme Weather",
+      "summary": "In 32 of the countries included in a recent study, at least a quarter of the native butterfly species had moved to new areas.",
+      "score": 2.352,
+      "n_outlets": 2,
+      "n_articles": 2,
+      "regions": [
+        "india",
+        "us"
+      ],
+      "last_seen": "2026-08-07T13:34:42+00:00",
+      "leans": [
+        "left"
+      ],
+      "sources": [
+        {
+          "outlet": "The Hindu",
+          "region": "india",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Why Kerala is witnessing a decline in winter migratory birds",
+          "url": "https://www.thehindu.com/news/national/kerala/why-kerala-is-witnessing-a-decline-in-winter-migratory-birds/article71287998.ece",
+          "published": "2026-08-07T13:34:42+00:00",
+          "orig_title": "Why Kerala is witnessing a decline in winter migratory birds",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "The New York Times",
+          "region": "us",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Butterflies Take Flight in Face of Climate Change and Extreme Weather",
+          "url": "https://www.nytimes.com/2026/08/05/science/butterflies-climate-change-extreme-weather.html",
+          "published": "2026-08-06T15:54:23+00:00",
+          "orig_title": "Butterflies Take Flight in Face of Climate Change and Extreme Weather",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall"
+        }
+      ]
+    },
+    {
+      "id": 323,
       "topic": "Science",
       "label": "China-Free · Batteries · Made",
       "title": "Why airlines are warning over lithium-ion batteries",
       "summary": "The airline industry wants passengers to be careful when travelling with lithium ion batteries.",
-      "score": 2.413,
+      "score": 2.339,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -2706,12 +2931,123 @@
       ]
     },
     {
-      "id": 89,
+      "id": 26,
+      "topic": "Science",
+      "label": "Chinese · Backlash · China",
+      "title": "111-year-old Chinese grandma reveals secret daily ‘workout’ leading to her longevity",
+      "summary": "A 111-year-old grandmother in eastern China has captured the attention of social media by attributing her remarkable longevity to simple habits, such as viewing housework as a form of daily exercise. ",
+      "score": 1.913,
+      "n_outlets": 1,
+      "n_articles": 2,
+      "regions": [
+        "china"
+      ],
+      "last_seen": "2026-08-08T01:00:14+00:00",
+      "leans": [
+        "center"
+      ],
+      "sources": [
+        {
+          "outlet": "South China Morning Post",
+          "region": "china",
+          "lean": "center",
+          "ownership": "private",
+          "title": "111-year-old Chinese grandma reveals secret daily ‘workout’ leading to her longevity",
+          "url": "https://www.scmp.com/news/people-culture/trending-china/article/3363358/111-year-old-chinese-grandma-reveals-secret-daily-workout-leading-her-longevity?utm_source=rss_feed",
+          "published": "2026-08-08T01:00:14+00:00",
+          "orig_title": "111-year-old Chinese grandma reveals secret daily ‘workout’ leading to her longevity",
+          "lang": "en",
+          "translated": false,
+          "access": "open",
+          "more": [
+            {
+              "outlet": "South China Morning Post",
+              "region": "china",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Backlash as China’s Tsinghua graduate, 38, wins medical school spot at Peking University",
+              "url": "https://www.scmp.com/news/people-culture/trending-china/article/3363330/backlash-chinas-tsinghua-graduate-38-wins-medical-school-spot-peking-university?utm_source=rss_feed",
+              "published": "2026-08-07T10:29:46+00:00",
+              "orig_title": "Backlash as China’s Tsinghua graduate, 38, wins medical school spot at Peking University",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "topic": "Science",
+      "label": "Andromeda · Galaxy · entering",
+      "title": "Andromeda Galaxy entering ‘middle age’",
+      "summary": "The Andromeda’s star formation rate has been steadily dropping, especially over the last 40 million years",
+      "score": 1.681,
+      "n_outlets": 1,
+      "n_articles": 1,
+      "regions": [
+        "india"
+      ],
+      "last_seen": "2026-08-07T21:29:30+00:00",
+      "leans": [
+        "left"
+      ],
+      "sources": [
+        {
+          "outlet": "The Hindu",
+          "region": "india",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Andromeda Galaxy entering ‘middle age’",
+          "url": "https://www.thehindu.com/sci-tech/science/andromeda-galaxy-entering-middle-age/article71276485.ece",
+          "published": "2026-08-07T21:29:30+00:00",
+          "orig_title": "Andromeda Galaxy entering ‘middle age’",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 116,
+      "topic": "Science",
+      "label": "Indian · Association · Cultivation",
+      "title": "150 years of the Indian Association for the Cultivation of Science",
+      "summary": "The IACS has cultivated a legacy of intellectual curiosity, scientific excellence, and national service that continues to inspire generations of researchers, Shekhar Mande writes",
+      "score": 1.654,
+      "n_outlets": 1,
+      "n_articles": 1,
+      "regions": [
+        "india"
+      ],
+      "last_seen": "2026-08-07T20:59:35+00:00",
+      "leans": [
+        "left"
+      ],
+      "sources": [
+        {
+          "outlet": "The Hindu",
+          "region": "india",
+          "lean": "left",
+          "ownership": "private",
+          "title": "150 years of the Indian Association for the Cultivation of Science",
+          "url": "https://www.thehindu.com/sci-tech/science/150-years-of-the-indian-association-for-the-cultivation-of-science/article71279655.ece",
+          "published": "2026-08-07T20:59:35+00:00",
+          "orig_title": "150 years of the Indian Association for the Cultivation of Science",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 145,
       "topic": "Science",
       "label": "Sky · Country · Indigenous",
       "title": "Sky Country: Indigenous fashion weaves culture and climate together",
       "summary": "First Nations designers, models, artists and artisans from across Australia gathered on Larrakia Country in Darwin this week for the Country to Couture runway show and the National Indigenous Fashion ",
-      "score": 1.734,
+      "score": 1.602,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -2738,12 +3074,12 @@
       ]
     },
     {
-      "id": 139,
+      "id": 192,
       "topic": "Science",
       "label": "Hosepipe · bans · force",
       "title": "Hosepipe bans in force as drought declared - is your area affected?",
       "summary": "More than 20 million households have been placed under hosepipe bans due to higher demand and low rainfall.",
-      "score": 1.612,
+      "score": 1.502,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -2770,149 +3106,22 @@
       ]
     },
     {
-      "id": 211,
-      "topic": "Science",
-      "label": "best · day · year",
-      "title": "Is this the best day of the year for stargazing?",
-      "summary": "Put 12 August in the diary for some of the best astronomical events of the year.",
-      "score": 1.504,
-      "n_outlets": 1,
-      "n_articles": 1,
-      "regions": [
-        "europe"
-      ],
-      "last_seen": "2026-08-07T15:30:46+00:00",
-      "leans": [
-        "center"
-      ],
-      "sources": [
-        {
-          "outlet": "BBC News",
-          "region": "europe",
-          "lean": "center",
-          "ownership": "public",
-          "title": "Is this the best day of the year for stargazing?",
-          "url": "https://www.bbc.co.uk/news/videos/cd7l49xn14go?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-07T15:30:46+00:00",
-          "orig_title": "Is this the best day of the year for stargazing?",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        }
-      ]
-    },
-    {
-      "id": 282,
-      "topic": "Science",
-      "label": "Chinese · breakthrough · paves",
-      "title": "Chinese breakthrough paves way for production of graphene-based quantum chips",
-      "summary": "Graphite has long been a workhorse of industry – used in pencils since the 1500s, in steelmaking during the 1800s, and today in battery electrodes. Research from Peking University now suggests it coul",
-      "score": 1.41,
-      "n_outlets": 1,
-      "n_articles": 1,
-      "regions": [
-        "china"
-      ],
-      "last_seen": "2026-08-07T13:01:04+00:00",
-      "leans": [
-        "center"
-      ],
-      "sources": [
-        {
-          "outlet": "South China Morning Post",
-          "region": "china",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Chinese breakthrough paves way for production of graphene-based quantum chips",
-          "url": "https://www.scmp.com/news/china/science/article/3363350/chinese-breakthrough-paves-way-production-graphene-based-quantum-chips?utm_source=rss_feed",
-          "published": "2026-08-07T13:01:04+00:00",
-          "orig_title": "Chinese breakthrough paves way for production of graphene-based quantum chips",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        }
-      ]
-    },
-    {
-      "id": 304,
-      "topic": "Science",
-      "label": "Daily · Quiz · Strange",
-      "title": "Daily Quiz | On Strange stars",
-      "summary": "The Hindu daily quiz on the universe’s more unusual twinklers",
-      "score": 1.393,
-      "n_outlets": 1,
-      "n_articles": 1,
-      "regions": [
-        "india"
-      ],
-      "last_seen": "2026-08-07T12:31:43+00:00",
-      "leans": [
-        "left"
-      ],
-      "sources": [
-        {
-          "outlet": "The Hindu",
-          "region": "india",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Daily Quiz | On Strange stars",
-          "url": "https://www.thehindu.com/sci-tech/science/the-hindus-daily-quiz-on-august-7-2026/article71317601.ece",
-          "published": "2026-08-07T12:31:43+00:00",
-          "orig_title": "Daily Quiz | On Strange stars",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        }
-      ]
-    },
-    {
-      "id": 320,
-      "topic": "Science",
-      "label": "vaccine · vanquish · major",
-      "title": "A new vaccine could vanquish a major cause of deadly diarrheal disease",
-      "summary": "Over 1 million people a year die from diarrheal disease. Nearly half are kids under age 5. A new vaccine in trials offers great hope.",
-      "score": 1.364,
-      "n_outlets": 1,
-      "n_articles": 1,
-      "regions": [
-        "us"
-      ],
-      "last_seen": "2026-08-07T11:36:33+00:00",
-      "leans": [
-        "left"
-      ],
-      "sources": [
-        {
-          "outlet": "NPR",
-          "region": "us",
-          "lean": "left",
-          "ownership": "public",
-          "title": "A new vaccine could vanquish a major cause of deadly diarrheal disease",
-          "url": "https://www.npr.org/2026/08/07/g-s1-137456/diarrhea-disease-vaccine-childhood-deaths-shigella",
-          "published": "2026-08-07T11:36:33+00:00",
-          "orig_title": "A new vaccine could vanquish a major cause of deadly diarrheal disease",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        }
-      ]
-    },
-    {
-      "id": 51,
+      "id": 0,
       "topic": "Technology",
-      "label": "OpenAI · Model · Concerns",
+      "label": "China · OpenAI · Astra",
       "title": "OpenAI Pauses Some Work on New AI Model Over Cybersecurity Concerns",
       "summary": "The decision reflects internal findings that the upcoming “Astra” model may possess “critical cyber capabilities” and follows a string of AI-testing incidents.",
-      "score": 6.816,
-      "n_outlets": 6,
-      "n_articles": 9,
+      "score": 7.992,
+      "n_outlets": 7,
+      "n_articles": 10,
       "regions": [
         "china",
         "europe",
+        "india",
         "russia",
         "us"
       ],
-      "last_seen": "2026-08-07T21:17:00+00:00",
+      "last_seen": "2026-08-08T02:00:23+00:00",
       "leans": [
         "center",
         "left",
@@ -2931,20 +3140,33 @@
           "orig_title": "OpenAI: Konzern stoppt KI-Modell Astra wegen Cyber-Sicherheitsbedenken",
           "lang": "de",
           "translated": true,
-          "access": "unknown",
+          "access": "unknown"
+        },
+        {
+          "outlet": "The Hindu",
+          "region": "india",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Behind China’s AI gift, a constraint",
+          "url": "https://www.thehindu.com/news/international/behind-chinas-ai-gift-a-constraint/article71281433.ece",
+          "published": "2026-08-08T01:50:15+00:00",
+          "orig_title": "Behind China’s AI gift, a constraint",
+          "lang": "en",
+          "translated": false,
+          "access": "open",
           "more": [
             {
-              "outlet": "Der Spiegel",
-              "region": "europe",
+              "outlet": "The Hindu",
+              "region": "india",
               "lean": "left",
               "ownership": "private",
-              "title": "Denmark tightens inspections over AI fraud suspicions",
-              "url": "https://www.spiegel.de/ausland/daenemark-verschaerft-pruefungen-wegen-ki-betrugsverdacht-a-0a41c17b-fce2-4443-82af-c7ec61ad2196#ref=rss",
-              "published": "2026-08-07T20:12:00+00:00",
-              "orig_title": "Dänemark verschärft Prüfungen wegen KI-Betrugsverdacht",
-              "lang": "de",
-              "translated": true,
-              "access": "unknown"
+              "title": "How Beijing innovates: Lessons from China’s market-state hybrid model",
+              "url": "https://www.thehindu.com/news/international/the-beijing-model-of-innovation/article71313438.ece",
+              "published": "2026-08-07T03:28:55+00:00",
+              "orig_title": "How Beijing innovates: Lessons from China’s market-state hybrid model",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
             }
           ]
         },
@@ -2972,22 +3194,7 @@
           "orig_title": "Axios: OpenAI опасается возможностей модели Astra и отложит ее выпуск",
           "lang": "ru",
           "translated": true,
-          "access": "unknown",
-          "more": [
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Government develops parameters for defining national AI models",
-              "url": "https://www.kommersant.ru/doc/8864373",
-              "published": "2026-08-06T23:30:46+00:00",
-              "orig_title": "Правительство разработало параметры определения национальных ИИ-моделей",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            }
-          ]
+          "access": "unknown"
         },
         {
           "outlet": "South China Morning Post",
@@ -3000,7 +3207,22 @@
           "orig_title": "China’s Kimi K3 AI model escapes isolated sandbox during security test: researchers",
           "lang": "en",
           "translated": false,
-          "access": "open"
+          "access": "open",
+          "more": [
+            {
+              "outlet": "South China Morning Post",
+              "region": "china",
+              "lean": "center",
+              "ownership": "private",
+              "title": "China faces new AI bottleneck as it runs out of Chinese-language training data",
+              "url": "https://www.scmp.com/tech/tech-trends/article/3363318/china-faces-new-ai-bottleneck-it-runs-out-chinese-language-training-data?utm_source=rss_feed",
+              "published": "2026-08-08T02:00:23+00:00",
+              "orig_title": "China faces new AI bottleneck as it runs out of Chinese-language training data",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            }
+          ]
         },
         {
           "outlet": "The Wall Street Journal",
@@ -3020,10 +3242,10 @@
               "region": "us",
               "lean": "right",
               "ownership": "private",
-              "title": "Meta AI Model Hacked Outside Company, Adding to Concerns Over Rogue Bots",
-              "url": "https://www.wsj.com/tech/ai/meta-ai-model-hacked-outside-company-adding-to-concerns-over-rogue-bots-dd5f6e45?mod=rss_Technology",
-              "published": "2026-08-06T11:41:00+00:00",
-              "orig_title": "Meta AI Model Hacked Outside Company, Adding to Concerns Over Rogue Bots",
+              "title": "Opinion | America Needs to Go on Offense With AI",
+              "url": "https://www.wsj.com/opinion/america-needs-to-go-on-offense-with-ai-54744c02?mod=rss_Technology",
+              "published": "2026-08-06T18:18:00+00:00",
+              "orig_title": "Opinion | America Needs to Go on Offense With AI",
               "lang": "en",
               "translated": false,
               "access": "paywall"
@@ -3046,60 +3268,45 @@
       ]
     },
     {
-      "id": 431,
+      "id": 31,
       "topic": "Technology",
-      "label": "China · Unitree · IPO",
-      "title": "Backed by DeepSeek, Unitree IPO tests investor appetite for China’s AI robotics boom",
-      "summary": "The long-awaited initial public offering of Unitree Robotics, which values the Hangzhou-based firm at 60.99 billion yuan (US$9 billion), is set to serve as a valuation benchmark for China’s booming em",
-      "score": 3.274,
-      "n_outlets": 3,
-      "n_articles": 3,
+      "label": "America · Bloomberg · U.S.",
+      "title": "Bloomberg: U.S. Cyber Command investigates series of staff suicides",
+      "summary": "Киберкомандование Вооруженных сил США расследует серию самоубийств среди личного состава, сообщает Bloomberg со ссылкой на источники и документы. С начала июня по начало июля 2026 года покончили с жиз",
+      "score": 2.904,
+      "n_outlets": 2,
+      "n_articles": 2,
       "regions": [
-        "china",
-        "us"
+        "japan",
+        "russia"
       ],
-      "last_seen": "2026-08-07T08:10:00+00:00",
+      "last_seen": "2026-08-08T00:53:00+00:00",
       "leans": [
-        "center",
-        "left",
-        "right"
+        "center"
       ],
       "sources": [
         {
-          "outlet": "The New York Times",
-          "region": "us",
-          "lean": "left",
-          "ownership": "private",
-          "title": "China’s Unitree Prices IPO in Bet Investors Are Ready for Humanoid Robots",
-          "url": "https://www.nytimes.com/2026/08/06/business/china-unitree-ipo-robot.html",
-          "published": "2026-08-07T08:10:00+00:00",
-          "orig_title": "China’s Unitree Prices IPO in Bet Investors Are Ready for Humanoid Robots",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
-        },
-        {
-          "outlet": "South China Morning Post",
-          "region": "china",
+          "outlet": "Kommersant",
+          "region": "russia",
           "lean": "center",
           "ownership": "private",
-          "title": "Backed by DeepSeek, Unitree IPO tests investor appetite for China’s AI robotics boom",
-          "url": "https://www.scmp.com/tech/tech-trends/article/3363251/backed-deepseek-unitree-ipo-tests-investor-appetite-chinas-ai-robotics-boom?utm_source=rss_feed",
-          "published": "2026-08-07T04:23:35+00:00",
-          "orig_title": "Backed by DeepSeek, Unitree IPO tests investor appetite for China’s AI robotics boom",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
+          "title": "Bloomberg: U.S. Cyber Command investigates series of staff suicides",
+          "url": "https://www.kommersant.ru/doc/8864432",
+          "published": "2026-08-07T01:42:28+00:00",
+          "orig_title": "Bloomberg: киберкомандование США расследует серию самоубийств своих сотрудников",
+          "lang": "ru",
+          "translated": true,
+          "access": "unknown"
         },
         {
-          "outlet": "The Wall Street Journal",
-          "region": "us",
-          "lean": "right",
+          "outlet": "The Japan Times",
+          "region": "japan",
+          "lean": "center",
           "ownership": "private",
-          "title": "SoftBank Uses OpenAI Stake to Borrow $10 Billion",
-          "url": "https://www.wsj.com/business/earnings/softbank-group-reports-lower-quarterly-profit-2bca0889?mod=rss_Technology",
-          "published": "2026-08-06T12:55:00+00:00",
-          "orig_title": "SoftBank Uses OpenAI Stake to Borrow $10 Billion",
+          "title": "America’s cyberforces grapple with cluster of deaths by suicide",
+          "url": "https://www.japantimes.co.jp/news/2026/08/08/world/us-cyberforces-suicides-focus/",
+          "published": "2026-08-08T00:53:00+00:00",
+          "orig_title": "America’s cyberforces grapple with cluster of deaths by suicide",
           "lang": "en",
           "translated": false,
           "access": "paywall"
@@ -3107,12 +3314,87 @@
       ]
     },
     {
-      "id": 126,
+      "id": 108,
+      "topic": "Technology",
+      "label": "China · How · CXMT",
+      "title": "Global AI trade revival brightens outlook for Chinese tech stocks after record sell-offs",
+      "summary": "The outlook for Chinese technology stocks has improved after a sharp monthly sell-off, as the global rebound in the artificial intelligence trade regains momentum, speculative positions are flushed ou",
+      "score": 2.66,
+      "n_outlets": 2,
+      "n_articles": 4,
+      "regions": [
+        "china",
+        "india"
+      ],
+      "last_seen": "2026-08-07T21:06:19+00:00",
+      "leans": [
+        "center",
+        "left"
+      ],
+      "sources": [
+        {
+          "outlet": "The Hindu",
+          "region": "india",
+          "lean": "left",
+          "ownership": "private",
+          "title": "How did memory chipmaker CXMT become China’s most valuable stock? | Explained",
+          "url": "https://www.thehindu.com/business/how-did-memory-chipmaker-cxmt-become-chinas-most-valuable-stock-explained/article71279991.ece",
+          "published": "2026-08-07T21:06:19+00:00",
+          "orig_title": "How did memory chipmaker CXMT become China’s most valuable stock? | Explained",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "South China Morning Post",
+          "region": "china",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Global AI trade revival brightens outlook for Chinese tech stocks after record sell-offs",
+          "url": "https://www.scmp.com/business/china-business/article/3363261/global-ai-trade-revival-brightens-outlook-chinese-tech-stocks-after-record-sell-offs?utm_source=rss_feed",
+          "published": "2026-08-07T05:41:13+00:00",
+          "orig_title": "Global AI trade revival brightens outlook for Chinese tech stocks after record sell-offs",
+          "lang": "en",
+          "translated": false,
+          "access": "open",
+          "more": [
+            {
+              "outlet": "South China Morning Post",
+              "region": "china",
+              "lean": "center",
+              "ownership": "private",
+              "title": "China’s lab-grown diamonds get an AI boost as industry rides demand for chip cooling",
+              "url": "https://www.scmp.com/economy/china-economy/article/3363310/chinas-lab-grown-diamonds-get-ai-boost-industry-rides-demand-chip-cooling?utm_source=rss_feed",
+              "published": "2026-08-07T11:30:07+00:00",
+              "orig_title": "China’s lab-grown diamonds get an AI boost as industry rides demand for chip cooling",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            },
+            {
+              "outlet": "South China Morning Post",
+              "region": "china",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Cambricon posts 108% surge in first-half revenue amid China’s massive AI chip drive",
+              "url": "https://www.scmp.com/tech/big-tech/article/3363351/cambricon-posts-108-surge-first-half-revenue-amid-chinas-massive-ai-chip-drive?utm_source=rss_feed",
+              "published": "2026-08-07T12:54:54+00:00",
+              "orig_title": "Cambricon posts 108% surge in first-half revenue amid China’s massive AI chip drive",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 178,
       "topic": "Technology",
       "label": "Russian · International · Olympiad",
       "title": "Russian schoolers win international AI olympiad for third consecutive year",
       "summary": "Сборная России третий год подряд стала абсолютным чемпионом на Международной олимпиаде по искусственному интеллекту среди старшеклассников (IOAI). Учащиеся завоевали семь золотых медалей и одну бронзо",
-      "score": 2.65,
+      "score": 2.534,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -3153,12 +3435,12 @@
       ]
     },
     {
-      "id": 205,
+      "id": 253,
       "topic": "Technology",
       "label": "American · Russia · deportation",
       "title": "Jolly milkman Justas Walker receives deportation notice from Russian immigration service",
       "summary": "Проживающий в Алтайском крае фермер из США Джастас Уолкер получил уведомление миграционной службы об аннулировании вида на жительство. Его вместе с семьей могут депортировать из России, рассказал он в",
-      "score": 2.51,
+      "score": 2.419,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -3198,58 +3480,12 @@
       ]
     },
     {
-      "id": 230,
-      "topic": "Technology",
-      "label": "Attorney · man · secretly",
-      "title": "This man was secretly snapped by someone with smartglasses. He’s not alone in calling that a violation of privacy",
-      "summary": "The backlash to what some dub ‘pervert glasses’ is growing – but people living with disabilities point out the new tech can also be life-changing Get our breaking news email , free app or daily news p",
-      "score": 2.484,
-      "n_outlets": 2,
-      "n_articles": 2,
-      "regions": [
-        "australia",
-        "europe"
-      ],
-      "last_seen": "2026-08-07T15:00:20+00:00",
-      "leans": [
-        "left"
-      ],
-      "sources": [
-        {
-          "outlet": "The Guardian",
-          "region": "europe",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Attorney general warns women and children at risk of ‘harmful conduct’ from smartglasses users – as it happened",
-          "url": "https://www.theguardian.com/australia-news/live/2026/aug/07/royal-commission-antisemitism-national-cabinet-datacentres-icac-liberal-party-labor-anthony-albanese-one-nation-pauline-hanson-angus-taylor-ntwnfb",
-          "published": "2026-08-07T07:12:11+00:00",
-          "orig_title": "Attorney general warns women and children at risk of ‘harmful conduct’ from smartglasses users – as it happened",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "The Guardian Australia",
-          "region": "australia",
-          "lean": "left",
-          "ownership": "private",
-          "title": "This man was secretly snapped by someone with smartglasses. He’s not alone in calling that a violation of privacy",
-          "url": "https://www.theguardian.com/technology/2026/aug/08/ai-smartglasses-camera-film-privacy-consent",
-          "published": "2026-08-07T15:00:20+00:00",
-          "orig_title": "This man was secretly snapped by someone with smartglasses. He’s not alone in calling that a violation of privacy",
-          "lang": "en",
-          "translated": false,
-          "access": "unknown"
-        }
-      ]
-    },
-    {
-      "id": 399,
+      "id": 435,
       "topic": "Technology",
       "label": "U.S. · Iran · cyberattacks",
       "title": "U.S. reports unprecedented cyberattacks on water supply systems",
       "summary": "Системы водоснабжения США, возможно, подверглись самым масштабным в истории скоординированным кибератакам: по данным федеральных ведомств, диверсии затронули как минимум 12 штатов и привели к нарушени",
-      "score": 2.302,
+      "score": 2.248,
       "n_outlets": 2,
       "n_articles": 3,
       "regions": [
@@ -3306,129 +3542,50 @@
       ]
     },
     {
-      "id": 22,
+      "id": 1,
       "topic": "Technology",
-      "label": "Situational · Awareness · Bets",
-      "title": "Situational Awareness Bets $400 Million on Stealth Chip Startup After Crash",
-      "summary": "AI-battered hedge fund Situational Awareness made a big bet this week in Source Foundry, a private company aiming to reinvent the way chips are manufactured.",
-      "score": 1.904,
+      "label": "Chip · Thailand · Siam",
+      "title": "Chip off the old bloc: Thailand looks to Siam Silica to propel it to top Asean player",
+      "summary": "Thailand launched its Siam Silica framework last week, a national road map that stamps the Southeast Asian country’s stake in the semiconductor race by building a domestic ecosystem and positioning it",
+      "score": 1.992,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
-        "us"
+        "china"
       ],
-      "last_seen": "2026-08-07T22:31:00+00:00",
+      "last_seen": "2026-08-08T02:00:18+00:00",
       "leans": [
-        "right"
+        "center"
       ],
       "sources": [
         {
-          "outlet": "The Wall Street Journal",
-          "region": "us",
-          "lean": "right",
+          "outlet": "South China Morning Post",
+          "region": "china",
+          "lean": "center",
           "ownership": "private",
-          "title": "Situational Awareness Bets $400 Million on Stealth Chip Startup After Crash",
-          "url": "https://www.wsj.com/tech/ai/situational-awareness-bets-400-million-on-stealth-chip-startup-after-crash-02c7374e?mod=rss_markets_main",
-          "published": "2026-08-07T22:31:00+00:00",
-          "orig_title": "Situational Awareness Bets $400 Million on Stealth Chip Startup After Crash",
+          "title": "Chip off the old bloc: Thailand looks to Siam Silica to propel it to top Asean player",
+          "url": "https://www.scmp.com/week-asia/politics/article/3363312/chip-old-bloc-thailand-looks-siam-silica-propel-it-top-asean-player?utm_source=rss_feed",
+          "published": "2026-08-08T02:00:18+00:00",
+          "orig_title": "Chip off the old bloc: Thailand looks to Siam Silica to propel it to top Asean player",
           "lang": "en",
           "translated": false,
-          "access": "paywall"
+          "access": "open"
         }
       ]
     },
     {
-      "id": 68,
+      "id": 28,
       "topic": "Technology",
-      "label": "Shopping · App · Whatnot",
-      "title": "Shopping App Whatnot Valued at $20 Billion in New Funding",
-      "summary": "Whatnot, a fast-growing live-shopping platform, has nearly doubled its valuation in less than a year.",
-      "score": 1.786,
-      "n_outlets": 1,
-      "n_articles": 1,
-      "regions": [
-        "us"
-      ],
-      "last_seen": "2026-08-07T20:50:00+00:00",
-      "leans": [
-        "right"
-      ],
-      "sources": [
-        {
-          "outlet": "The Wall Street Journal",
-          "region": "us",
-          "lean": "right",
-          "ownership": "private",
-          "title": "Shopping App Whatnot Valued at $20 Billion in New Funding",
-          "url": "https://www.wsj.com/business/retail/the-hottest-app-in-retail-is-now-worth-20-billion-c98f0897?mod=rss_Technology",
-          "published": "2026-08-07T20:50:00+00:00",
-          "orig_title": "Shopping App Whatnot Valued at $20 Billion in New Funding",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
-        }
-      ]
-    },
-    {
-      "id": 184,
-      "topic": "Technology",
-      "label": "Hyde · Park · Dubai",
-      "title": "'Rembrandt's Syndrome': apocalypse in the museum",
-      "summary": "Una mal resuelta epifanía estética le vale al director Pierre Schoeller para retratar a una nueva heroína del cambio climático",
-      "score": 1.546,
-      "n_outlets": 1,
-      "n_articles": 2,
-      "regions": [
-        "europe"
-      ],
-      "last_seen": "2026-08-07T16:27:44+00:00",
-      "leans": [
-        "left"
-      ],
-      "sources": [
-        {
-          "outlet": "El Pais",
-          "region": "europe",
-          "lean": "left",
-          "ownership": "private",
-          "title": "'Rembrandt's Syndrome': apocalypse in the museum",
-          "url": "https://elpais.com/cultura/cine/2026-08-07/el-sindrome-de-rembrandt-apocalipsis-en-el-museo.html",
-          "published": "2026-08-07T03:30:01+00:00",
-          "orig_title": "‘El síndrome de Rembrandt’: apocalipsis en el museo",
-          "lang": "es",
-          "translated": true,
-          "access": "unknown",
-          "more": [
-            {
-              "outlet": "El Pais",
-              "region": "europe",
-              "lean": "left",
-              "ownership": "private",
-              "title": "Hyde Park looks like Dubai desert: Drought turns London's green parks to wasteland",
-              "url": "https://elpais.com/clima-y-medio-ambiente/2026-08-07/hyde-park-parece-el-desierto-de-dubai-la-sequia-transforma-los-verdes-parques-de-londres-en-secarrales.html",
-              "published": "2026-08-07T16:27:44+00:00",
-              "orig_title": "“Hyde Park parece el desierto de Dubái”: la sequía transforma los verdes parques de Londres en secarrales",
-              "lang": "es",
-              "translated": true,
-              "access": "unknown"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 199,
-      "topic": "Technology",
-      "label": "Opinion · Don't · Anthropomorphize",
-      "title": "Opinion | America Needs to Go on Offense With AI",
-      "summary": "Grad students love open Chinese models. The U.S. should be competing, not seeking to ban them.",
-      "score": 1.513,
+      "label": "Move · Moment · Changes",
+      "title": "Move 37 Is the Moment AI Changes Everything. It’s Suddenly Happening Everywhere.",
+      "summary": "A decade ago, a computer did something that no human would have done. It was considered a breakthrough for AI. Now the world is full of them.",
+      "score": 1.913,
       "n_outlets": 1,
       "n_articles": 2,
       "regions": [
         "us"
       ],
-      "last_seen": "2026-08-07T15:43:00+00:00",
+      "last_seen": "2026-08-08T01:00:00+00:00",
       "leans": [
         "right"
       ],
@@ -3438,10 +3595,10 @@
           "region": "us",
           "lean": "right",
           "ownership": "private",
-          "title": "Opinion | America Needs to Go on Offense With AI",
-          "url": "https://www.wsj.com/opinion/america-needs-to-go-on-offense-with-ai-54744c02?mod=rss_Technology",
-          "published": "2026-08-06T18:18:00+00:00",
-          "orig_title": "Opinion | America Needs to Go on Offense With AI",
+          "title": "Move 37 Is the Moment AI Changes Everything. It’s Suddenly Happening Everywhere.",
+          "url": "https://www.wsj.com/tech/ai/move-37-ai-demis-hassabis-google-deepmind-alphago-ec832a41?mod=rss_Technology",
+          "published": "2026-08-08T01:00:00+00:00",
+          "orig_title": "Move 37 Is the Moment AI Changes Everything. It’s Suddenly Happening Everywhere.",
           "lang": "en",
           "translated": false,
           "access": "paywall",
@@ -3464,24 +3621,88 @@
       ]
     },
     {
-      "id": 49,
+      "id": 47,
+      "topic": "Technology",
+      "label": "Senior · Basil · Covid",
+      "title": "Senior managers at St Basil’s aged care, where 50 died from Covid, can’t remember it all. Grieving loved ones can’t forget",
+      "summary": "Konstantin Kontis and Vicky Kos were compelled to testify at a coronial inquest resuming on the sixth anniversary of the tragedy Get our breaking news email , free app or daily news podcast Quiet sobs",
+      "score": 1.84,
+      "n_outlets": 1,
+      "n_articles": 1,
+      "regions": [
+        "europe"
+      ],
+      "last_seen": "2026-08-08T00:00:30+00:00",
+      "leans": [
+        "left"
+      ],
+      "sources": [
+        {
+          "outlet": "The Guardian",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Senior managers at St Basil’s aged care, where 50 died from Covid, can’t remember it all. Grieving loved ones can’t forget",
+          "url": "https://www.theguardian.com/world/2026/aug/08/senior-managers-at-st-basils-aged-care-where-50-died-from-covid-cant-remember-it-all-grieving-loved-ones-cant-forget",
+          "published": "2026-08-08T00:00:30+00:00",
+          "orig_title": "Senior managers at St Basil’s aged care, where 50 died from Covid, can’t remember it all. Grieving loved ones can’t forget",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "topic": "Technology",
+      "label": "David · Brat · Australia",
+      "title": "David Brat bound for Australia as diplomat confirmed as next US ambassador",
+      "summary": "Former Republican state congressman, who once argued Christianity and capitalism should merge, confirmed by US Senate to fill long-vacant role Get our breaking news email , free app or daily news podc",
+      "score": 1.829,
+      "n_outlets": 1,
+      "n_articles": 1,
+      "regions": [
+        "europe"
+      ],
+      "last_seen": "2026-08-07T23:50:39+00:00",
+      "leans": [
+        "left"
+      ],
+      "sources": [
+        {
+          "outlet": "The Guardian",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "David Brat bound for Australia as diplomat confirmed as next US ambassador",
+          "url": "https://www.theguardian.com/australia-news/2026/aug/08/david-brat-bound-for-australia-as-diplomat-confirmed-as-next-us-ambassador",
+          "published": "2026-08-07T23:50:39+00:00",
+          "orig_title": "David Brat bound for Australia as diplomat confirmed as next US ambassador",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 74,
       "topic": "Sports",
-      "label": "Infantino · UEFA · Fifa",
-      "title": "Uefa Keeps Boycott Threat: UEFA rejects Infantino apology; loss of confidence in FIFA holds",
-      "summary": "UEFA has rejected FIFA’s apology over the failed FIFA Forward Enterprise proposal, insisting its concerns over Gianni Infantino’s leadership remain unresolved. European football’s governing body said ",
-      "score": 5.824,
+      "label": "Infantino · UEFA · Infantino's",
+      "title": "We cannot trust Infantino. He is a threat to football",
+      "summary": "Fifa-Präsident Gianni Infantino stand oft im Kreuzfeuer der Kritik – und machte dennoch unbeirrt weiter. Doch dann präsentierte er einen waghalsigen Milliardenplan rund um die Fußball-WM. Der Widersta",
+      "score": 5.76,
       "n_outlets": 5,
-      "n_articles": 8,
+      "n_articles": 9,
       "regions": [
         "europe",
         "india",
-        "japan",
         "russia"
       ],
-      "last_seen": "2026-08-07T21:24:17+00:00",
+      "last_seen": "2026-08-07T22:48:40+00:00",
       "leans": [
         "center",
-        "left"
+        "left",
+        "right"
       ],
       "sources": [
         {
@@ -3550,21 +3771,21 @@
               "lang": "ru",
               "translated": true,
               "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "UEFA paid mistress of Gianni Infantino six-figure sum",
+              "url": "https://www.kommersant.ru/doc/8875412",
+              "published": "2026-08-07T21:40:43+00:00",
+              "orig_title": "Любовница Джанни Инфантино получила от UEFA шестизначную сумму",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
             }
           ]
-        },
-        {
-          "outlet": "The Japan Times",
-          "region": "japan",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Gianni Infantino gets support from Africa as UEFA stands firm on boycott threat",
-          "url": "https://www.japantimes.co.jp/sports/2026/08/07/soccer/caf-supports-fifa-infantino/",
-          "published": "2026-08-07T03:16:00+00:00",
-          "orig_title": "Gianni Infantino gets support from Africa as UEFA stands firm on boycott threat",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
         },
         {
           "outlet": "Times of India",
@@ -3577,98 +3798,7 @@
           "orig_title": "Uefa Keeps Boycott Threat: UEFA rejects Infantino apology; loss of confidence in FIFA holds",
           "lang": "en",
           "translated": false,
-          "access": "open",
-          "more": [
-            {
-              "outlet": "Times of India",
-              "region": "india",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Argentina publicly back Infantino as FIFA president amid World Cup rights row",
-              "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/football-world-splits-as-argentina-mexico-back-fifa-president-infantino-amid-world-cup-rights-row/articleshow/133029775.cms",
-              "published": "2026-08-07T10:15:37+00:00",
-              "orig_title": "Argentina publicly back Infantino as FIFA president amid World Cup rights row",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 41,
-      "topic": "Sports",
-      "label": "UEFA · Gianni · Infantino",
-      "title": "We cannot trust Infantino. He is a threat to football",
-      "summary": "Fifa-Präsident Gianni Infantino stand oft im Kreuzfeuer der Kritik – und machte dennoch unbeirrt weiter. Doch dann präsentierte er einen waghalsigen Milliardenplan rund um die Fußball-WM. Der Widersta",
-      "score": 3.843,
-      "n_outlets": 3,
-      "n_articles": 5,
-      "regions": [
-        "europe",
-        "russia"
-      ],
-      "last_seen": "2026-08-07T21:40:43+00:00",
-      "leans": [
-        "center",
-        "left",
-        "right"
-      ],
-      "sources": [
-        {
-          "outlet": "El Pais",
-          "region": "europe",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Franco Mastantuono loaned by Real Madrid to Fiorentina",
-          "url": "https://elpais.com/deportes/futbol/2026-08-07/franco-mastantuono-cedido-por-el-madrid-a-la-fiorentina.html",
-          "published": "2026-08-07T14:51:41+00:00",
-          "orig_title": "Franco Mastantuono, cedido por el Real Madrid a la Fiorentina",
-          "lang": "es",
-          "translated": true,
-          "access": "unknown"
-        },
-        {
-          "outlet": "Kommersant",
-          "region": "russia",
-          "lean": "center",
-          "ownership": "private",
-          "title": "UEFA paid mistress of Gianni Infantino six-figure sum",
-          "url": "https://www.kommersant.ru/doc/8875412",
-          "published": "2026-08-07T21:40:43+00:00",
-          "orig_title": "Любовница Джанни Инфантино получила от UEFA шестизначную сумму",
-          "lang": "ru",
-          "translated": true,
-          "access": "unknown",
-          "more": [
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Goalkeeper Matvey Safonov could leave PSG next summer",
-              "url": "https://www.kommersant.ru/doc/8875061",
-              "published": "2026-08-07T15:14:26+00:00",
-              "orig_title": "Вратарь Матвей Сафонов может покинуть ПСЖ следующим летом",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            },
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "English footballer Toney charged in assault case",
-              "url": "https://www.kommersant.ru/doc/8864735",
-              "published": "2026-08-07T09:59:20+00:00",
-              "orig_title": "Футболисту сборной Англии Тоуни предъявили обвинение по делу о нападении",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            }
-          ]
+          "access": "open"
         },
         {
           "outlet": "Die Welt",
@@ -3681,66 +3811,34 @@
           "orig_title": "„Wir können Infantino unmöglich vertrauen. Er ist eine Gefahr für den Fußball“",
           "lang": "de",
           "translated": true,
-          "access": "unknown"
+          "access": "unknown",
+          "more": [
+            {
+              "outlet": "Die Welt",
+              "region": "europe",
+              "lean": "right",
+              "ownership": "private",
+              "title": "UEFA now faces scrutiny over suspicious payments to Infantino's ex-employee",
+              "url": "https://www.welt.de/sport/fussball/plus6a7654df0e3689919ec74762/uefa-bestaetigt-auffaelige-zahlungen-an-eine-ex-mitarbeiterin-von-gianni-infantino.html",
+              "published": "2026-08-07T22:48:40+00:00",
+              "orig_title": "Jetzt wird die Uefa von verdächtigen Zahlungen an eine Ex-Mitarbeiterin Infantinos eingeholt",
+              "lang": "de",
+              "translated": true,
+              "access": "unknown"
+            }
+          ]
         }
       ]
     },
     {
-      "id": 32,
-      "topic": "Sports",
-      "label": "How · Meet · Next",
-      "title": "How Beijing innovates: Lessons from China’s market-state hybrid model",
-      "summary": "Beijing’s innovation model brings together universities, start-ups, industry and the state to turn research into commercially viable technologies by bridging the ‘valley of death’; the ecosystem is dr",
-      "score": 2.866,
-      "n_outlets": 2,
-      "n_articles": 2,
-      "regions": [
-        "china",
-        "india"
-      ],
-      "last_seen": "2026-08-07T22:00:11+00:00",
-      "leans": [
-        "center",
-        "left"
-      ],
-      "sources": [
-        {
-          "outlet": "The Hindu",
-          "region": "india",
-          "lean": "left",
-          "ownership": "private",
-          "title": "How Beijing innovates: Lessons from China’s market-state hybrid model",
-          "url": "https://www.thehindu.com/news/international/the-beijing-model-of-innovation/article71313438.ece",
-          "published": "2026-08-07T03:28:55+00:00",
-          "orig_title": "How Beijing innovates: Lessons from China’s market-state hybrid model",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "South China Morning Post",
-          "region": "china",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Meet the Next Generation of Chinese Stars Influencing How Global Finance Operates",
-          "url": "https://www.scmp.com/business/banking-finance/article/3363347/meet-next-generation-chinese-stars-influencing-how-global-finance-operates?utm_source=rss_feed",
-          "published": "2026-08-07T22:00:11+00:00",
-          "orig_title": "Meet the Next Generation of Chinese Stars Influencing How Global Finance Operates",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        }
-      ]
-    },
-    {
-      "id": 56,
+      "id": 109,
       "topic": "Sports",
       "label": "Hertha · Bochum · BSC",
       "title": "Hertha BSC wins season opener at VfL Bochum in Second Bundesliga as fan banner halts match",
       "summary": "Der erste Schritt zum Neuanfang bei der Hertha ist geglückt: Die Berliner setzten sich in einer fußballerisch ereignisarmen Partie gegen den VfL Bochum durch. Aufsehen erregte vor allem ein Sicherheit",
-      "score": 2.804,
+      "score": 2.659,
       "n_outlets": 2,
-      "n_articles": 3,
+      "n_articles": 4,
       "regions": [
         "europe"
       ],
@@ -3788,20 +3886,79 @@
               "lang": "de",
               "translated": true,
               "access": "unknown"
+            },
+            {
+              "outlet": "Die Welt",
+              "region": "europe",
+              "lean": "right",
+              "ownership": "private",
+              "title": "Leipzig transfer falls through – Asllani stays at Hoffenheim",
+              "url": "https://www.welt.de/sport/fussball/article6a689980ce0aac7f44e40e7a/transfer-ticker-leipzig-wechsel-geplatzt-asllani-bleibt-doch-bei-hoffenheim.html",
+              "published": "2026-08-07T20:46:00+00:00",
+              "orig_title": "Leipzig-Wechsel geplatzt – Asllani bleibt doch bei Hoffenheim",
+              "lang": "de",
+              "translated": true,
+              "access": "unknown"
             }
           ]
         }
       ]
     },
     {
-      "id": 142,
+      "id": 154,
+      "topic": "Sports",
+      "label": "Honduran · summer · TikTok",
+      "title": "Goalkeeper Matvey Safonov could leave PSG next summer",
+      "summary": "Футбольный клуб ПСЖ следующим летом может расстаться с одним из вратарей — россиянином Матвеем Сафоновым или французом Люкой Шевалье. Об этом сообщает газета L'Equipe.",
+      "score": 2.583,
+      "n_outlets": 2,
+      "n_articles": 2,
+      "regions": [
+        "india",
+        "russia"
+      ],
+      "last_seen": "2026-08-07T19:37:37+00:00",
+      "leans": [
+        "center"
+      ],
+      "sources": [
+        {
+          "outlet": "Kommersant",
+          "region": "russia",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Goalkeeper Matvey Safonov could leave PSG next summer",
+          "url": "https://www.kommersant.ru/doc/8875061",
+          "published": "2026-08-07T15:14:26+00:00",
+          "orig_title": "Вратарь Матвей Сафонов может покинуть ПСЖ следующим летом",
+          "lang": "ru",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
+          "outlet": "Times of India",
+          "region": "india",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Honduran club make bizarre summer signing by recruiting TikTok star as goalkeeper",
+          "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/footballs-most-unusual-signing-honduran-club-make-bizarre-summer-signing-by-recruiting-tiktok-star-as-goalkeeper/articleshow/133041701.cms",
+          "published": "2026-08-07T19:37:37+00:00",
+          "orig_title": "Honduran club make bizarre summer signing by recruiting TikTok star as goalkeeper",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 195,
       "topic": "Sports",
       "label": "Russian · European · Championships",
       "title": "Russian rhythmic gymnastics team leaders denied visas for European Championships",
       "summary": "Олимпийские чемпионки по спортивной гимнастике Ангелина Мельникова и Виктория Листунова пока не получили визы для участия в чемпионате Европы в Загребе. Об этом сообщила пресс-служба Федерации гимнаст",
-      "score": 2.61,
+      "score": 2.501,
       "n_outlets": 2,
-      "n_articles": 5,
+      "n_articles": 4,
       "regions": [
         "russia"
       ],
@@ -3824,19 +3981,6 @@
           "translated": true,
           "access": "unknown",
           "more": [
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Russian rhythmic gymnasts compete at world championships without flag or anthem",
-              "url": "https://www.kommersant.ru/doc/8864119",
-              "published": "2026-08-06T12:57:52+00:00",
-              "orig_title": "Россиянки выступят на ЧМ по художественной гимнастике без флага и гимна",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            },
             {
               "outlet": "Kommersant",
               "region": "russia",
@@ -3881,61 +4025,14 @@
       ]
     },
     {
-      "id": 165,
-      "topic": "Sports",
-      "label": "Cambridge · Jason · Arday",
-      "title": "Jason Arday: Did Cambridge University fall for an impostor?",
-      "summary": "Sein Aufstieg war märchenhaft, Fragen stellte niemand. Nun stolpert der Wissenschaftler Jason Arday über Plagiatsvorwürfe und offenbar haarsträubende Lügen in seiner Biografie – und bringt eine Eliteu",
-      "score": 2.573,
-      "n_outlets": 2,
-      "n_articles": 2,
-      "regions": [
-        "europe",
-        "us"
-      ],
-      "last_seen": "2026-08-07T17:02:00+00:00",
-      "leans": [
-        "left",
-        "right"
-      ],
-      "sources": [
-        {
-          "outlet": "Der Spiegel",
-          "region": "europe",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Jason Arday: Did Cambridge University fall for an impostor?",
-          "url": "https://www.spiegel.de/kultur/jason-arday-ist-die-universitaet-cambridge-auf-einen-hochstapler-hereingefallen-a-c2445f48-940c-4bf5-9920-d8b9f244988d#ref=rss",
-          "published": "2026-08-07T17:02:00+00:00",
-          "orig_title": "Jason Arday: Ist die Universität Cambridge auf einen Hochstapler hereingefallen?",
-          "lang": "de",
-          "translated": true,
-          "access": "unknown"
-        },
-        {
-          "outlet": "The Wall Street Journal",
-          "region": "us",
-          "lean": "right",
-          "ownership": "private",
-          "title": "Black Professor’s Resignation Over Plagiarism Probe Puts Cambridge in Spotlight",
-          "url": "https://www.wsj.com/world/uk/resignation-of-black-professor-over-plagiarism-allegations-puts-cambridge-in-spotlight-e9284b30?mod=rss_worldnews",
-          "published": "2026-08-06T19:26:00+00:00",
-          "orig_title": "Black Professor’s Resignation Over Plagiarism Probe Puts Cambridge in Spotlight",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
-        }
-      ]
-    },
-    {
-      "id": 180,
+      "id": 231,
       "topic": "Sports",
       "label": "Russia-linked · Ceuta · Russian",
       "title": "Russian hackers obtained data on Ukrainian strikes against oil terminals",
       "summary": "Российским хакерам удалось получить доступ к документам об ударах вооруженных сил Украины по нефтяным терминалам в Ленинградской и Калининградской областях в июле 2026 года. Как сообщили хакеры ТАСС, ",
-      "score": 2.552,
+      "score": 2.453,
       "n_outlets": 2,
-      "n_articles": 4,
+      "n_articles": 3,
       "regions": [
         "europe",
         "russia"
@@ -3977,23 +4074,10 @@
               "region": "russia",
               "lean": "center",
               "ownership": "private",
-              "title": "WSJ: Trump orders investigation into ammunition shortage data leak",
-              "url": "https://www.kommersant.ru/doc/8864433",
-              "published": "2026-08-07T03:41:44+00:00",
-              "orig_title": "WSJ: Трамп приказал расследовать утечки данных о дефиците боеприпасов в США",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            },
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Bloomberg: U.S. Cyber Command investigates series of staff suicides",
-              "url": "https://www.kommersant.ru/doc/8864432",
-              "published": "2026-08-07T01:42:28+00:00",
-              "orig_title": "Bloomberg: киберкомандование США расследует серию самоубийств своих сотрудников",
+              "title": "Guardian: Colombia on brink of new armed conflict",
+              "url": "https://www.kommersant.ru/doc/8874907",
+              "published": "2026-08-07T11:54:17+00:00",
+              "orig_title": "The Guardian: Колумбия стоит на грани нового вооруженного конфликта",
               "lang": "ru",
               "translated": true,
               "access": "unknown"
@@ -4003,12 +4087,12 @@
       ]
     },
     {
-      "id": 185,
+      "id": 236,
       "topic": "Sports",
       "label": "Manchester · City · Barcelona's",
       "title": "Manchester City reject Barcelona's opening offer for Rodri",
       "summary": "Manchester City have rejected Barcelona's opening £38.5 million bid for Rodri, valuing the Ballon d'Or-winning midfielder at over £60 million. With Rodri entering the final year of his contract, uncer",
-      "score": 2.541,
+      "score": 2.444,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -4050,12 +4134,12 @@
       ]
     },
     {
-      "id": 194,
+      "id": 244,
       "topic": "Sports",
       "label": "Shakib · Hasan · return",
       "title": "Exiled Bangladeshi cricket star Shakib Al Hasan willing to return, face murder trial if safety assured",
       "summary": "Exiled Bangladeshi cricket star Shakib Al Hasan willing to return, face murder trial if safety assured",
-      "score": 2.518,
+      "score": 2.425,
       "n_outlets": 2,
       "n_articles": 3,
       "regions": [
@@ -4111,12 +4195,58 @@
       ]
     },
     {
-      "id": 338,
+      "id": 272,
+      "topic": "Sports",
+      "label": "Back · Barries · Labor",
+      "title": "Marles denies cabinet divided on Burke's migration proposal — as it happened",
+      "summary": "Richard Marles has denied cabinet was divided on the home affairs minister's proposal of sweeping cuts to migration.",
+      "score": 2.397,
+      "n_outlets": 2,
+      "n_articles": 2,
+      "regions": [
+        "australia"
+      ],
+      "last_seen": "2026-08-07T15:00:25+00:00",
+      "leans": [
+        "center",
+        "left"
+      ],
+      "sources": [
+        {
+          "outlet": "The Guardian Australia",
+          "region": "australia",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Back to Back Barries: why Labor is split on migration",
+          "url": "https://www.theguardian.com/australia-news/audio/2026/aug/08/back-to-back-barries-why-labor-is-split-on-migration",
+          "published": "2026-08-07T15:00:25+00:00",
+          "orig_title": "Back to Back Barries: why Labor is split on migration",
+          "lang": "en",
+          "translated": false,
+          "access": "unknown"
+        },
+        {
+          "outlet": "ABC News (Australia)",
+          "region": "australia",
+          "lean": "center",
+          "ownership": "public",
+          "title": "Marles denies cabinet divided on Burke's migration proposal — as it happened",
+          "url": "https://www.abc.net.au/news/2026-08-07/federal-politics-live-blog-david-pocock-accuses-gambling-lobby/107007504",
+          "published": "2026-08-06T21:14:20+00:00",
+          "orig_title": "Marles denies cabinet divided on Burke's migration proposal — as it happened",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 381,
       "topic": "Sports",
       "label": "Iran · Key · President",
       "title": "President Trump has ordered new probes into disclosures of the U.S. munitions stockpile, administration officials said, an escalation of his effort to battle damaging revelations about the Iran war",
       "summary": "The president made the demand after weeks of headlines describing depleted munitions levels associated with the Iran war.",
-      "score": 2.346,
+      "score": 2.284,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -4154,6 +4284,51 @@
           "lang": "en",
           "translated": false,
           "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 418,
+      "topic": "Sports",
+      "label": "North · Korea · Pyongyang",
+      "title": "US says North Korea missile launch poses no immediate threat, 'consulting closely' with allies",
+      "summary": "U.S. Indo-Pacific Command said it is &quot;consulting closely with our allies and partners&quot; Thursday after North Korea test-fired a ballistic missile.",
+      "score": 2.26,
+      "n_outlets": 2,
+      "n_articles": 2,
+      "regions": [
+        "us"
+      ],
+      "last_seen": "2026-08-07T09:56:00+00:00",
+      "leans": [
+        "right"
+      ],
+      "sources": [
+        {
+          "outlet": "Fox News",
+          "region": "us",
+          "lean": "right",
+          "ownership": "private",
+          "title": "US says North Korea missile launch poses no immediate threat, 'consulting closely' with allies",
+          "url": "https://www.foxnews.com/world/us-north-korea-missile-launch-poses-no-immediate-threat-consulting-closely-allies",
+          "published": "2026-08-06T16:25:57+00:00",
+          "orig_title": "US says North Korea missile launch poses no immediate threat, 'consulting closely' with allies",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "The Wall Street Journal",
+          "region": "us",
+          "lean": "right",
+          "ownership": "private",
+          "title": "Pyongyang Missile Test Signals Growing Conflict Between North Korea and U.S. Allies",
+          "url": "https://www.wsj.com/world/asia/pyongyang-missile-test-signals-growing-conflict-between-north-korea-and-u-s-allies-a8447ad9?mod=rss_worldnews",
+          "published": "2026-08-07T09:56:00+00:00",
+          "orig_title": "Pyongyang Missile Test Signals Growing Conflict Between North Korea and U.S. Allies",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall"
         }
       ]
     }
