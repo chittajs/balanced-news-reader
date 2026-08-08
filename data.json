@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T18:51:49.407188+00:00",
+  "generated_at": "2026-08-08T19:40:13.968531+00:00",
   "topics": [
     "World & Politics",
     "Economics",
@@ -21,35 +21,35 @@
       "name": "Europe",
       "lat": 50.0,
       "lng": 10.0,
-      "count": 23
+      "count": 22
     },
     {
       "id": "china",
       "name": "China",
       "lat": 35.0,
       "lng": 105.0,
-      "count": 17
+      "count": 16
     },
     {
       "id": "india",
       "name": "India",
       "lat": 22.0,
       "lng": 79.0,
-      "count": 26
+      "count": 22
     },
     {
       "id": "australia",
       "name": "Australia",
       "lat": -25.0,
       "lng": 134.0,
-      "count": 2
+      "count": 3
     },
     {
       "id": "south_america",
       "name": "South America",
       "lat": -12.0,
       "lng": -58.0,
-      "count": 3
+      "count": 4
     },
     {
       "id": "africa",
@@ -63,24 +63,293 @@
       "name": "Japan",
       "lat": 36.5,
       "lng": 139.0,
-      "count": 8
+      "count": 9
     },
     {
       "id": "russia",
       "name": "Russia",
       "lat": 61.0,
       "lng": 90.0,
-      "count": 18
+      "count": 19
     }
   ],
   "clusters": [
     {
-      "id": 19,
+      "id": 6,
+      "topic": "World & Politics",
+      "label": "Hormuz · Iran · Strait",
+      "title": "Iran signals Strait of Hormuz deal close, but ceasefire dispute lingers",
+      "summary": "Iran announced Saturday that it is nearing an agreement with Oman over control of the Strait of Hormuz but warned that its reopening would depend on other conditions, including compensation from the U",
+      "score": 12.971,
+      "n_outlets": 12,
+      "n_articles": 18,
+      "regions": [
+        "china",
+        "europe",
+        "india",
+        "japan",
+        "russia",
+        "us"
+      ],
+      "last_seen": "2026-08-08T19:18:57+00:00",
+      "leans": [
+        "center",
+        "left",
+        "right",
+        "state"
+      ],
+      "sources": [
+        {
+          "outlet": "Asahi Shimbun",
+          "region": "japan",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Iran and Oman discuss Strait of Hormuz passage; US official says agreement imminent",
+          "url": "http://www.asahi.com/articles/ASV882RCYV88UHBI00ZM.html?ref=rss",
+          "published": "2026-08-08T10:03:16+00:00",
+          "orig_title": "ホルムズ海峡通航へイランとオマーン協議、米当局者「まもなく合意」",
+          "lang": "ja",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
+          "outlet": "Der Spiegel",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Strait of Hormuz: Iran publishes list of demands to the USA",
+          "url": "https://www.spiegel.de/ausland/strasse-von-hormus-iran-veroeffentlicht-forderungskatalog-an-die-usa-a-dfc6f1b5-7c20-485d-a7de-2d9258219f56#ref=rss",
+          "published": "2026-08-08T16:53:00+00:00",
+          "orig_title": "Straße von Hormus: Iran veröffentlicht Forderungskatalog an die USA",
+          "lang": "de",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
+          "outlet": "El Pais",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Iran and Oman finalize Strait of Hormuz agreement amid Trump threats",
+          "url": "https://elpais.com/internacional/2026-08-07/iran-y-oman-ultiman-un-acuerdo-sobre-ormuz-pese-a-las-amenazas-de-trump.html",
+          "published": "2026-08-07T16:37:41+00:00",
+          "orig_title": "Irán y Omán ultiman un acuerdo sobre Ormuz entre amenazas de Trump",
+          "lang": "es",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
+          "outlet": "The Hindu",
+          "region": "india",
+          "lean": "left",
+          "ownership": "private",
+          "title": "West Asia war LIVE: Iran attacks vessel in Strait of Hormuz, UAE says",
+          "url": "https://www.thehindu.com/news/international/west-asia-war-us-iran-deal-strait-of-hormuz-yemen-houthis-saudi-arabia-live-updates-august-8-2026/article71320445.ece",
+          "published": "2026-08-08T16:04:51+00:00",
+          "orig_title": "West Asia war LIVE: Iran attacks vessel in Strait of Hormuz, UAE says",
+          "lang": "en",
+          "translated": false,
+          "access": "open",
+          "more": [
+            {
+              "outlet": "The Hindu",
+              "region": "india",
+              "lean": "left",
+              "ownership": "private",
+              "title": "UAE says Iran targeted tanker as Oman cites progress in Hormuz talks",
+              "url": "https://www.thehindu.com/news/international/uae-says-iran-targeted-tanker-as-oman-cites-progress-in-hormuz-talks/article71322549.ece",
+              "published": "2026-08-08T16:13:39+00:00",
+              "orig_title": "UAE says Iran targeted tanker as Oman cites progress in Hormuz talks",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            }
+          ]
+        },
+        {
+          "outlet": "The New York Times",
+          "region": "us",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Iran Issues List of Demands, Dampening Hopes of Reopening Strait of Hormuz",
+          "url": "https://www.nytimes.com/2026/08/08/world/middleeast/iran-us-oman-strait-of-hormuz.html",
+          "published": "2026-08-08T19:04:40+00:00",
+          "orig_title": "Iran Issues List of Demands, Dampening Hopes of Reopening Strait of Hormuz",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall",
+          "more": [
+            {
+              "outlet": "The New York Times",
+              "region": "us",
+              "lean": "left",
+              "ownership": "private",
+              "title": "Yemen Teeters on Civil War as Regional Stability Hangs in the Balance",
+              "url": "https://www.nytimes.com/2026/08/08/world/middleeast/yemen-houthis-regional-stability.html",
+              "published": "2026-08-08T14:57:24+00:00",
+              "orig_title": "Yemen Teeters on Civil War as Regional Stability Hangs in the Balance",
+              "lang": "en",
+              "translated": false,
+              "access": "paywall"
+            }
+          ]
+        },
+        {
+          "outlet": "BBC News",
+          "region": "europe",
+          "lean": "center",
+          "ownership": "public",
+          "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
+          "url": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-08T19:18:57+00:00",
+          "orig_title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "Deutsche Welle",
+          "region": "europe",
+          "lean": "center",
+          "ownership": "public",
+          "title": "How viable is the potential Iran-Oman Hormuz shipping deal?",
+          "url": "https://www.dw.com/en/how-viable-is-the-potential-iran-oman-hormuz-shipping-deal/a-78283434?maca=en-rss-en-world-4025-rdf",
+          "published": "2026-08-07T15:02:00+00:00",
+          "orig_title": "How viable is the potential Iran-Oman Hormuz shipping deal?",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "Kommersant",
+          "region": "russia",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Reuters: US expects imminent Iran-Oman deal on Strait of Hormuz",
+          "url": "https://www.kommersant.ru/doc/8875177",
+          "published": "2026-08-07T19:32:32+00:00",
+          "orig_title": "Reuters: США ожидают скорой сделки Ирана и Омана по Ормузскому проливу",
+          "lang": "ru",
+          "translated": true,
+          "access": "unknown",
+          "more": [
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Iran demands US compensation to reopen Strait of Hormuz",
+              "url": "https://www.kommersant.ru/doc/8875568",
+              "published": "2026-08-08T13:01:01+00:00",
+              "orig_title": "Иран потребовал от США компенсаций для открытия Ормузского пролива",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Iran seeks sanctions lifted in exchange for opening Strait of Hormuz",
+              "url": "https://www.kommersant.ru/doc/8874948",
+              "published": "2026-08-07T12:24:48+00:00",
+              "orig_title": "Иран добивается отмены санкций в обмен на открытие Ормузского пролива",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Oman condemns attacks on ships in Strait of Hormuz",
+              "url": "https://www.kommersant.ru/doc/8875595",
+              "published": "2026-08-08T14:58:13+00:00",
+              "orig_title": "Оман осудил атаки на суда в Ормузском проливе",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            }
+          ]
+        },
+        {
+          "outlet": "South China Morning Post",
+          "region": "china",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Iran targeted tanker, says UAE, as Tehran says Hormuz deal with Oman close",
+          "url": "https://www.scmp.com/news/world/middle-east/article/3363411/iran-targeted-tanker-says-uae-tehran-says-hormuz-deal-oman-close?utm_source=rss_feed",
+          "published": "2026-08-08T14:56:28+00:00",
+          "orig_title": "Iran targeted tanker, says UAE, as Tehran says Hormuz deal with Oman close",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "The Hill",
+          "region": "us",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Iran signals Strait of Hormuz deal close, but ceasefire dispute lingers",
+          "url": "https://thehill.com/policy/international/6018567-iran-oman-strait-hormuz-deal-close/",
+          "published": "2026-08-08T15:31:17+00:00",
+          "orig_title": "Iran signals Strait of Hormuz deal close, but ceasefire dispute lingers",
+          "lang": "en",
+          "translated": false,
+          "access": "unknown",
+          "more": [
+            {
+              "outlet": "The Hill",
+              "region": "us",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Live updates: Senate hits recess button; Iran signals Hormuz deal close but demands remain",
+              "url": "https://thehill.com/homenews/administration/6018352-live-updates-senate-august-recess-blanche-spending-bill-iran-war/",
+              "published": "2026-08-08T19:07:56+00:00",
+              "orig_title": "Live updates: Senate hits recess button; Iran signals Hormuz deal close but demands remain",
+              "lang": "en",
+              "translated": false,
+              "access": "unknown"
+            }
+          ]
+        },
+        {
+          "outlet": "Die Welt",
+          "region": "europe",
+          "lean": "right",
+          "ownership": "private",
+          "title": "New tensions in Hormuz – UAE accuses Iran of attacking tanker",
+          "url": "https://www.welt.de/politik/ausland/article6a772038cd7ba1c08997cb7e/schifffahrtsroute-neue-spannungen-in-hormus-emirate-werfen-iran-tanker-angriff-vor.html",
+          "published": "2026-08-08T12:50:00+00:00",
+          "orig_title": "Neue Spannungen in Hormus – Emirate werfen Iran Tanker-Angriff vor",
+          "lang": "de",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
+          "outlet": "TASS",
+          "region": "russia",
+          "lean": "state",
+          "ownership": "state",
+          "title": "Oman, Iran continue talks on Strait of Hormuz in positive atmosphere — Foreign Ministry",
+          "url": "https://tass.com/world/2170529",
+          "published": "2026-08-08T17:30:41+00:00",
+          "orig_title": "Oman, Iran continue talks on Strait of Hormuz in positive atmosphere — Foreign Ministry",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 37,
       "topic": "World & Politics",
       "label": "Colombia · Espriella · Trump",
       "title": "Colombia: Trump ally De la Espriella takes office",
       "summary": "Conservative Abelardo de la Espriella was sworn in as Colombia's president, promising to crack down on armed drug gangs.",
-      "score": 11.929,
+      "score": 11.868,
       "n_outlets": 11,
       "n_articles": 12,
       "regions": [
@@ -260,213 +529,12 @@
       ]
     },
     {
-      "id": 30,
-      "topic": "World & Politics",
-      "label": "Hormuz · Iran · Strait",
-      "title": "Iran targeted tanker, says UAE, as Tehran says Hormuz deal with Oman close",
-      "summary": "The United Arab Emirates on Saturday said Iran had targeted a tanker belonging to the state-owned Abu Dhabi National Oil Company (ADNOC) while it was transiting the Strait of Hormuz. Iran has imposed ",
-      "score": 10.893,
-      "n_outlets": 10,
-      "n_articles": 13,
-      "regions": [
-        "china",
-        "europe",
-        "india",
-        "russia",
-        "us"
-      ],
-      "last_seen": "2026-08-08T17:30:41+00:00",
-      "leans": [
-        "center",
-        "left",
-        "right",
-        "state"
-      ],
-      "sources": [
-        {
-          "outlet": "Der Spiegel",
-          "region": "europe",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Strait of Hormuz: Iran publishes list of demands to the USA",
-          "url": "https://www.spiegel.de/ausland/strasse-von-hormus-iran-veroeffentlicht-forderungskatalog-an-die-usa-a-dfc6f1b5-7c20-485d-a7de-2d9258219f56#ref=rss",
-          "published": "2026-08-08T16:53:00+00:00",
-          "orig_title": "Straße von Hormus: Iran veröffentlicht Forderungskatalog an die USA",
-          "lang": "de",
-          "translated": true,
-          "access": "unknown"
-        },
-        {
-          "outlet": "The Hindu",
-          "region": "india",
-          "lean": "left",
-          "ownership": "private",
-          "title": "West Asia war LIVE: Iran attacks vessel in Strait of Hormuz, UAE says",
-          "url": "https://www.thehindu.com/news/international/west-asia-war-us-iran-deal-strait-of-hormuz-yemen-houthis-saudi-arabia-live-updates-august-8-2026/article71320445.ece",
-          "published": "2026-08-08T16:04:51+00:00",
-          "orig_title": "West Asia war LIVE: Iran attacks vessel in Strait of Hormuz, UAE says",
-          "lang": "en",
-          "translated": false,
-          "access": "open",
-          "more": [
-            {
-              "outlet": "The Hindu",
-              "region": "india",
-              "lean": "left",
-              "ownership": "private",
-              "title": "UAE says Iran targeted tanker as Oman cites progress in Hormuz talks",
-              "url": "https://www.thehindu.com/news/international/uae-says-iran-targeted-tanker-as-oman-cites-progress-in-hormuz-talks/article71322549.ece",
-              "published": "2026-08-08T16:13:39+00:00",
-              "orig_title": "UAE says Iran targeted tanker as Oman cites progress in Hormuz talks",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
-            }
-          ]
-        },
-        {
-          "outlet": "The New York Times",
-          "region": "us",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Iran Issues List of Demands, Dampening Hopes of Reopening Strait of Hormuz",
-          "url": "https://www.nytimes.com/2026/08/08/world/middleeast/iran-us-oman-strait-of-hormuz.html",
-          "published": "2026-08-08T16:12:26+00:00",
-          "orig_title": "Iran Issues List of Demands, Dampening Hopes of Reopening Strait of Hormuz",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall",
-          "more": [
-            {
-              "outlet": "The New York Times",
-              "region": "us",
-              "lean": "left",
-              "ownership": "private",
-              "title": "Yemen Teeters on Civil War as Regional Stability Hangs in the Balance",
-              "url": "https://www.nytimes.com/2026/08/08/world/middleeast/yemen-houthis-regional-stability.html",
-              "published": "2026-08-08T14:57:24+00:00",
-              "orig_title": "Yemen Teeters on Civil War as Regional Stability Hangs in the Balance",
-              "lang": "en",
-              "translated": false,
-              "access": "paywall"
-            }
-          ]
-        },
-        {
-          "outlet": "Deutsche Welle",
-          "region": "europe",
-          "lean": "center",
-          "ownership": "public",
-          "title": "How viable is the potential Iran-Oman Hormuz shipping deal?",
-          "url": "https://www.dw.com/en/how-viable-is-the-potential-iran-oman-hormuz-shipping-deal/a-78283434?maca=en-rss-en-world-4025-rdf",
-          "published": "2026-08-07T15:02:00+00:00",
-          "orig_title": "How viable is the potential Iran-Oman Hormuz shipping deal?",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "Kommersant",
-          "region": "russia",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Iran demands US compensation to reopen Strait of Hormuz",
-          "url": "https://www.kommersant.ru/doc/8875568",
-          "published": "2026-08-08T13:01:01+00:00",
-          "orig_title": "Иран потребовал от США компенсаций для открытия Ормузского пролива",
-          "lang": "ru",
-          "translated": true,
-          "access": "unknown",
-          "more": [
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Iran seeks sanctions lifted in exchange for opening Strait of Hormuz",
-              "url": "https://www.kommersant.ru/doc/8874948",
-              "published": "2026-08-07T12:24:48+00:00",
-              "orig_title": "Иран добивается отмены санкций в обмен на открытие Ормузского пролива",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            }
-          ]
-        },
-        {
-          "outlet": "South China Morning Post",
-          "region": "china",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Iran targeted tanker, says UAE, as Tehran says Hormuz deal with Oman close",
-          "url": "https://www.scmp.com/news/world/middle-east/article/3363411/iran-targeted-tanker-says-uae-tehran-says-hormuz-deal-oman-close?utm_source=rss_feed",
-          "published": "2026-08-08T14:56:28+00:00",
-          "orig_title": "Iran targeted tanker, says UAE, as Tehran says Hormuz deal with Oman close",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "The Hill",
-          "region": "us",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Iran signals Strait of Hormuz deal close, but ceasefire dispute lingers",
-          "url": "https://thehill.com/policy/international/6018567-iran-oman-strait-hormuz-deal-close/",
-          "published": "2026-08-08T15:31:17+00:00",
-          "orig_title": "Iran signals Strait of Hormuz deal close, but ceasefire dispute lingers",
-          "lang": "en",
-          "translated": false,
-          "access": "unknown"
-        },
-        {
-          "outlet": "Die Welt",
-          "region": "europe",
-          "lean": "right",
-          "ownership": "private",
-          "title": "New tensions in Hormuz – UAE accuses Iran of attacking tanker",
-          "url": "https://www.welt.de/politik/ausland/article6a772038cd7ba1c08997cb7e/schifffahrtsroute-neue-spannungen-in-hormus-emirate-werfen-iran-tanker-angriff-vor.html",
-          "published": "2026-08-08T12:50:00+00:00",
-          "orig_title": "Neue Spannungen in Hormus – Emirate werfen Iran Tanker-Angriff vor",
-          "lang": "de",
-          "translated": true,
-          "access": "unknown"
-        },
-        {
-          "outlet": "The Wall Street Journal",
-          "region": "us",
-          "lean": "right",
-          "ownership": "private",
-          "title": "U.A.E. Says Iran Attacked One of Its Ships in Hormuz",
-          "url": "https://www.wsj.com/world/middle-east/u-a-e-says-iran-attacked-one-of-its-ships-in-hormuz-bfbec3b2?mod=rss_worldnews",
-          "published": "2026-08-08T13:12:00+00:00",
-          "orig_title": "U.A.E. Says Iran Attacked One of Its Ships in Hormuz",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
-        },
-        {
-          "outlet": "TASS",
-          "region": "russia",
-          "lean": "state",
-          "ownership": "state",
-          "title": "Oman, Iran continue talks on Strait of Hormuz in positive atmosphere — Foreign Ministry",
-          "url": "https://tass.com/world/2170529",
-          "published": "2026-08-08T17:30:41+00:00",
-          "orig_title": "Oman, Iran continue talks on Strait of Hormuz in positive atmosphere — Foreign Ministry",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        }
-      ]
-    },
-    {
-      "id": 55,
+      "id": 70,
       "topic": "World & Politics",
       "label": "Spain · Italy · Ceuta",
       "title": "Spain to start Italy border controls on air and sea travel amid Ceuta migrant row",
       "summary": "Following Italy’s rejection of its ultimatum to lift the border checks imposed in response to the Ceuta migration crisis, Spain has in turn announced that it will carry out checks on travellers from I",
-      "score": 9.819,
+      "score": 9.766,
       "n_outlets": 9,
       "n_articles": 12,
       "regions": [
@@ -648,14 +716,14 @@
       ]
     },
     {
-      "id": 72,
+      "id": 87,
       "topic": "World & Politics",
-      "label": "Todd · Blanche · Senate",
+      "label": "Todd · Blanche · attorney",
       "title": "Senate votes to confirm Todd Blanche as attorney general",
       "summary": "The Senate confirmed Blanche by a 50-49 vote early Saturday morning, elevating President Trump's former personal lawyer to head the Justice Department.",
-      "score": 9.784,
-      "n_outlets": 9,
-      "n_articles": 10,
+      "score": 8.733,
+      "n_outlets": 8,
+      "n_articles": 9,
       "regions": [
         "china",
         "europe",
@@ -750,19 +818,6 @@
           "access": "open"
         },
         {
-          "outlet": "The Hill",
-          "region": "us",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Live updates: Senate passes stopgap funding bill; Todd Blanche confirmed to lead DOJ",
-          "url": "https://thehill.com/homenews/administration/6018352-live-updates-senate-august-recess-blanche-spending-bill-iran-war/",
-          "published": "2026-08-08T14:54:30+00:00",
-          "orig_title": "Live updates: Senate passes stopgap funding bill; Todd Blanche confirmed to lead DOJ",
-          "lang": "en",
-          "translated": false,
-          "access": "unknown"
-        },
-        {
           "outlet": "The Japan Times",
           "region": "japan",
           "lean": "center",
@@ -806,14 +861,14 @@
       ]
     },
     {
-      "id": 110,
+      "id": 118,
       "topic": "World & Politics",
       "label": "Thailand · shooting · school",
       "title": "Thailand school shooting: eight killed including suspected attacker, police say",
       "summary": "Teenager killed his grandparents ⁠before opening fire at school near Bangkok, where more than 30 were wounded A Thai teenager killed his grandparents before opening fire at his school, where he shot f",
-      "score": 9.712,
-      "n_outlets": 9,
-      "n_articles": 12,
+      "score": 8.666,
+      "n_outlets": 8,
+      "n_articles": 11,
       "regions": [
         "china",
         "europe",
@@ -939,19 +994,6 @@
           "access": "open"
         },
         {
-          "outlet": "Die Welt",
-          "region": "europe",
-          "lean": "right",
-          "ownership": "private",
-          "title": "14-year-old kills at least five people in shooting rampage",
-          "url": "https://www.welt.de/vermischtes/video6a7705ff0e3689919ec74db9/thailand-14-jaehriger-erschiesst-bei-amoklauf-mindestens-fuenf-menschen.html",
-          "published": "2026-08-08T12:33:59+00:00",
-          "orig_title": "14-Jähriger erschießt bei Amoklauf mindestens fünf Menschen",
-          "lang": "de",
-          "translated": true,
-          "access": "unknown"
-        },
-        {
           "outlet": "Fox News",
           "region": "us",
           "lean": "right",
@@ -993,12 +1035,12 @@
       ]
     },
     {
-      "id": 143,
+      "id": 152,
       "topic": "World & Politics",
       "label": "FIFA · UEFA · Infantino",
       "title": "FIFA denies reports of Infantino's relationship with former UEFA employee",
       "summary": "Президент Международной федерации футбола (FIFA) Джанни Инфантино отверг информацию о том, что его любовница получила шестизначную сумму от Союза европейских футбольных ассоциаций (UEFA), сотрудницей ",
-      "score": 7.654,
+      "score": 7.612,
       "n_outlets": 7,
       "n_articles": 9,
       "regions": [
@@ -1139,12 +1181,127 @@
       ]
     },
     {
-      "id": 278,
+      "id": 43,
+      "topic": "World & Politics",
+      "label": "Jorge · Lionel · Messi",
+      "title": "Lionel Messi's father Jorge Messi dies at 68",
+      "summary": "Der Vater von Lionel Messi ist tot. Jorge Messi starb im Alter von 68 Jahren. Er verhandelte die Millionenverträge seines Sohnes.",
+      "score": 6.849,
+      "n_outlets": 6,
+      "n_articles": 7,
+      "regions": [
+        "europe",
+        "india",
+        "russia"
+      ],
+      "last_seen": "2026-08-08T17:42:28+00:00",
+      "leans": [
+        "center",
+        "left"
+      ],
+      "sources": [
+        {
+          "outlet": "Der Spiegel",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Lionel Messi's father Jorge Messi dies at 68",
+          "url": "https://www.spiegel.de/sport/fussball/lionel-messi-vater-jorge-messi-ist-im-alter-von-68-jahren-gestorben-a-dc9eb485-5cfe-447d-9a89-2e7138809455#ref=rss",
+          "published": "2026-08-08T16:03:00+00:00",
+          "orig_title": "Lionel Messi: Vater Jorge Messi ist im Alter von 68 Jahren gestorben",
+          "lang": "de",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
+          "outlet": "El Pais",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Jorge Messi dies, the man who guided Leo Messi to the top of the world",
+          "url": "https://elpais.com/deportes/futbol/2026-08-08/muere-jorge-messi-padre-de-leo-messi-a-los-68-anos.html",
+          "published": "2026-08-08T13:23:10+00:00",
+          "orig_title": "Muere Jorge Messi, el ​hombre que guió a Leo Messi a la cima del mundo",
+          "lang": "es",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
+          "outlet": "The Hindu",
+          "region": "india",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Lionel Messi's father Jorge dies aged 68",
+          "url": "https://www.thehindu.com/sport/lionel-messis-father-jorge-dies-aged-68/article71322062.ece",
+          "published": "2026-08-08T14:25:56+00:00",
+          "orig_title": "Lionel Messi's father Jorge dies aged 68",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "BBC News",
+          "region": "europe",
+          "lean": "center",
+          "ownership": "public",
+          "title": "Messi's father Jorge dies aged 68 after illness",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c70gn3w5ek5o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-08T15:51:11+00:00",
+          "orig_title": "Messi's father Jorge dies aged 68 after illness",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "Kommersant",
+          "region": "russia",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Lionel Messi's father dies",
+          "url": "https://www.kommersant.ru/doc/8875539",
+          "published": "2026-08-08T11:05:59+00:00",
+          "orig_title": "Умер отец Лионеля Месси",
+          "lang": "ru",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
+          "outlet": "Times of India",
+          "region": "india",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Lionel Messi’s father Jorge Messi dies after long illness",
+          "url": "https://timesofindia.indiatimes.com/sports/off-the-field/lionel-messis-father-jorge-messi-dies-after-long-illness/articleshow/133052574.cms",
+          "published": "2026-08-08T13:54:16+00:00",
+          "orig_title": "Lionel Messi’s father Jorge Messi dies after long illness",
+          "lang": "en",
+          "translated": false,
+          "access": "open",
+          "more": [
+            {
+              "outlet": "Times of India",
+              "region": "india",
+              "lean": "center",
+              "ownership": "private",
+              "title": "AFA, Barcelona mourn death of Lionel Messi’s father Jorge Messi",
+              "url": "https://timesofindia.indiatimes.com/sports/off-the-field/afa-barcelona-mourn-death-of-lionel-messis-father-jorge-messi/articleshow/133056683.cms",
+              "published": "2026-08-08T17:42:28+00:00",
+              "orig_title": "AFA, Barcelona mourn death of Lionel Messi’s father Jorge Messi",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 289,
       "topic": "World & Politics",
       "label": "Turkey · Saudi · Arabia",
       "title": "Saudi Arabia, Turkey and Pakistan Sign Joint Defense Pact",
       "summary": "The agreement treats an attack on any of the countries as an attack on all, but in a region of volatile rivalries, it was unclear how it would work in practice.",
-      "score": 6.365,
+      "score": 6.341,
       "n_outlets": 6,
       "n_articles": 7,
       "regions": [
@@ -1256,12 +1413,12 @@
       ]
     },
     {
-      "id": 5,
+      "id": 26,
       "topic": "World & Politics",
       "label": "Russian · Explosions · Kyiv",
       "title": "Explosions reported in Ukraine’s Kharkov Region",
       "summary": "Air raid warnings are currently in effect for the Kharkov, Dnepropetrovsk, Zhitomir, Kiev, Poltava, Sumy and Chernigov regions",
-      "score": 5.965,
+      "score": 5.902,
       "n_outlets": 5,
       "n_articles": 8,
       "regions": [
@@ -1387,21 +1544,20 @@
       ]
     },
     {
-      "id": 25,
+      "id": 33,
       "topic": "World & Politics",
-      "label": "drone · Bulgarian · Bulgaria",
-      "title": "Romanian drone explodes near gas pipeline in Bulgaria",
-      "summary": "Беспилотник, попавший в Болгарию из соседней Румынии, взорвался возле Трансбалканского газопровода. Об инциденте сообщил премьер-министр Болгарии Румен Радев.",
-      "score": 5.909,
+      "label": "Leipzig · Patriot · Security",
+      "title": "Bundeswehr reports drones over Patriot facility in North Rhine-Westphalia housing material 130 meters underground",
+      "summary": "Nach dem Drohnenfund am Flughafen Leipzig ist nun ein Bundeswehrstandort ins Visier geraten. In Mechernich in NRW wurden mehrfach Drohnen gesichtet. Der Stützpunkt ist wohl der einzige seiner Art in g",
+      "score": 5.876,
       "n_outlets": 5,
-      "n_articles": 13,
+      "n_articles": 5,
       "regions": [
-        "china",
         "europe",
-        "india",
-        "russia"
+        "russia",
+        "us"
       ],
-      "last_seen": "2026-08-08T17:43:03+00:00",
+      "last_seen": "2026-08-08T18:05:00+00:00",
       "leans": [
         "center",
         "left",
@@ -1409,288 +1565,79 @@
       ],
       "sources": [
         {
-          "outlet": "El Pais",
+          "outlet": "Der Spiegel",
           "region": "europe",
           "lean": "left",
           "ownership": "private",
-          "title": "Explosive drone from Romania crashes near Bulgarian gas pipeline",
-          "url": "https://elpais.com/internacional/2026-08-08/un-dron-con-explosivos-procedente-de-rumania-se-estrella-cerca-de-un-gasoducto-en-bulgaria.html",
-          "published": "2026-08-08T16:37:42+00:00",
-          "orig_title": "Un dron con explosivos procedente de Rumania se estrella cerca de un gasoducto en Bulgaria",
-          "lang": "es",
+          "title": "Security expert criticizes inaction at Leipzig/Halle airport, demands countermeasures",
+          "url": "https://www.spiegel.de/politik/deutschland/flughafen-leipzig-halle-sicherheitsexperte-kritisiert-zurueckhaltung-und-fordert-gegenmassnahmen-a-c3b95ea5-698e-47c4-8d0c-f5c4ab2c3e82#ref=rss",
+          "published": "2026-08-08T18:05:00+00:00",
+          "orig_title": "Flughafen Leipzig/Halle: Sicherheitsexperte kritisiert Zurückhaltung und fordert Gegenmaßnahmen",
+          "lang": "de",
           "translated": true,
           "access": "unknown"
-        },
-        {
-          "outlet": "The Hindu",
-          "region": "india",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Drone enters Bulgaria, explodes near pipeline at Romanian border",
-          "url": "https://www.thehindu.com/news/international/drone-enters-bulgaria-explodes-near-pipeline-at-romanian-border/article71322596.ece",
-          "published": "2026-08-08T16:24:34+00:00",
-          "orig_title": "Drone enters Bulgaria, explodes near pipeline at Romanian border",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
         },
         {
           "outlet": "Kommersant",
           "region": "russia",
           "lean": "center",
           "ownership": "private",
-          "title": "Romanian drone explodes near gas pipeline in Bulgaria",
-          "url": "https://www.kommersant.ru/doc/8875534",
-          "published": "2026-08-08T10:37:16+00:00",
-          "orig_title": "Беспилотник из Румынии взорвался возле газопровода в Болгарии",
+          "title": "SZ: Two drones spotted over German military base with Patriot systems",
+          "url": "https://www.kommersant.ru/doc/8875179",
+          "published": "2026-08-07T19:57:16+00:00",
+          "orig_title": "SZ: два БПЛА заметили над военной базой Бундесвера с Patriot",
           "lang": "ru",
           "translated": true,
-          "access": "unknown",
-          "more": [
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Bulgarian Defense Ministry: downed drone was Ukrainian",
-              "url": "https://www.kommersant.ru/doc/8875601",
-              "published": "2026-08-08T15:33:50+00:00",
-              "orig_title": "Минобороны Болгарии: упавший в стране дрон был украинским",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            },
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Drone attacks Turkish-flagged vessel near Novorossiysk",
-              "url": "https://www.kommersant.ru/doc/8875086",
-              "published": "2026-08-07T15:50:14+00:00",
-              "orig_title": "Беспилотник атаковал судно под турецким флагом у Новороссийска",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            },
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Fire extinguished at Ilsky refinery following drone attack",
-              "url": "https://www.kommersant.ru/doc/8875511",
-              "published": "2026-08-08T09:07:11+00:00",
-              "orig_title": "На Ильском НПЗ потушили пожар после атаки БПЛА",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            },
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Seven more drones shot down approaching Moscow",
-              "url": "https://www.kommersant.ru/doc/8875566",
-              "published": "2026-08-08T12:51:09+00:00",
-              "orig_title": "На подлете к Москве сбили еще семь беспилотников",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            },
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Bulgarian Foreign Ministry summons Ukrainian ambassador over drone incident",
-              "url": "https://www.kommersant.ru/doc/8875621",
-              "published": "2026-08-08T17:43:03+00:00",
-              "orig_title": "МИД Болгарии вызвал посла Украины из-за инцидента с дроном",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            },
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Unknown drone found washed ashore in Turkey",
-              "url": "https://www.kommersant.ru/doc/8875554",
-              "published": "2026-08-08T11:58:10+00:00",
-              "orig_title": "У моря в Турции найден неизвестный БПЛА",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            },
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Gelendzhik beaches closed due to drone attack threat",
-              "url": "https://www.kommersant.ru/doc/8875525",
-              "published": "2026-08-08T09:58:51+00:00",
-              "orig_title": "Пляжи в Геленджике закрыли из-за угрозы атаки БПЛА",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            },
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Air defense downs 828 drones, Vampire shells, HIMARS systems and eight Flamingo missiles in 24 hours",
-              "url": "https://www.kommersant.ru/doc/8875515",
-              "published": "2026-08-08T09:19:59+00:00",
-              "orig_title": "Силы ПВО за сутки сбили 828 БПЛА, снаряды Vampire, HIMARS и восемь «Фламинго»",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            }
-          ]
-        },
-        {
-          "outlet": "South China Morning Post",
-          "region": "china",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Ukraine denies targeting Bulgaria, as drone explodes near pipeline",
-          "url": "https://www.scmp.com/news/world/europe/article/3363414/ukraine-denies-targeting-bulgaria-drone-explodes-near-pipeline?utm_source=rss_feed",
-          "published": "2026-08-08T17:41:36+00:00",
-          "orig_title": "Ukraine denies targeting Bulgaria, as drone explodes near pipeline",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
+          "access": "unknown"
         },
         {
           "outlet": "Die Welt",
           "region": "europe",
           "lean": "right",
           "ownership": "private",
-          "title": "Drone carrying significant explosives detonates at Romania-Bulgaria border",
-          "url": "https://www.welt.de/politik/ausland/article6a77183dcd7ba1c08997caf4/bulgarien-drohne-mit-erheblicher-menge-sprengstoff-explodiert-an-grenze.html",
-          "published": "2026-08-08T12:22:13+00:00",
-          "orig_title": "Drohne mit „erheblicher“ Menge Sprengstoff explodiert an der Grenze zwischen Rumänien und Bulgarien",
+          "title": "Bundeswehr reports drones over Patriot facility in North Rhine-Westphalia housing material 130 meters underground",
+          "url": "https://www.welt.de/politik/deutschland/article6a774abe35268e5027022c42/bundeswehr-meldet-drohnen-ueber-patriot-werft-in-nrw-hier-liegt-material-130-meter-unter-der-erde.html",
+          "published": "2026-08-08T16:08:49+00:00",
+          "orig_title": "Bundeswehr meldet Drohnen über „Patriot-Werft“ in NRW – hier liegt Material 130 Meter unter der Erde",
           "lang": "de",
           "translated": true,
           "access": "unknown"
-        }
-      ]
-    },
-    {
-      "id": 78,
-      "topic": "World & Politics",
-      "label": "Typhoon · Dolphin · China",
-      "title": "Typhoon Dolphin hits Okinawa as China shuts ports ahead of landfall",
-      "summary": "Japan &#183; TRADE Key Facts &#8212;Okinawa impact: Typhoon Dolphin injured six people in Japan and cut power to more than 50,000 buildings, around 39,000 of them in Kagoshima and just over 12,000 in ",
-      "score": 5.778,
-      "n_outlets": 5,
-      "n_articles": 6,
-      "regions": [
-        "china",
-        "europe",
-        "japan",
-        "south_america"
-      ],
-      "last_seen": "2026-08-08T15:50:49+00:00",
-      "leans": [
-        "center",
-        "right"
-      ],
-      "sources": [
+        },
         {
-          "outlet": "BBC News",
+          "outlet": "Le Figaro",
           "region": "europe",
-          "lean": "center",
-          "ownership": "public",
-          "title": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China",
-          "url": "https://www.bbc.co.uk/news/articles/cvglp2zlvrlo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-08T15:15:17+00:00",
-          "orig_title": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "Deutsche Welle",
-          "region": "europe",
-          "lean": "center",
-          "ownership": "public",
-          "title": "Typhoon Dolphin hits Japan as China braces for coming storm",
-          "url": "https://www.dw.com/en/typhoon-dolphin-hits-japan-as-china-braces-for-coming-storm/a-78286728?maca=en-rss-en-world-4025-rdf",
-          "published": "2026-08-08T06:24:00+00:00",
-          "orig_title": "Typhoon Dolphin hits Japan as China braces for coming storm",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "South China Morning Post",
-          "region": "china",
-          "lean": "center",
+          "lean": "right",
           "ownership": "private",
-          "title": "Typhoon Dolphin grounds Hong Kong flights, disrupts trips and business in Japan",
-          "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3363405/typhoon-dolphin-grounds-hong-kong-flights-disrupts-trips-and-business-japan?utm_source=rss_feed",
-          "published": "2026-08-08T11:25:57+00:00",
-          "orig_title": "Typhoon Dolphin grounds Hong Kong flights, disrupts trips and business in Japan",
-          "lang": "en",
-          "translated": false,
-          "access": "open",
-          "more": [
-            {
-              "outlet": "South China Morning Post",
-              "region": "china",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Typhoon Dolphin causes flight chaos in China, with Shanghai set to enter danger zone",
-              "url": "https://www.scmp.com/news/china/article/3363380/typhoon-dolphin-causes-flight-chaos-china-shanghai-set-enter-danger-zone?utm_source=rss_feed",
-              "published": "2026-08-08T05:04:04+00:00",
-              "orig_title": "Typhoon Dolphin causes flight chaos in China, with Shanghai set to enter danger zone",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
-            }
-          ]
+          "title": "Booby-trapped drone found at Leipzig airport: Investigation underway, Germany on alert",
+          "url": "https://www.lefigaro.fr/international/drone-piege-decouvert-sur-l-aeroport-de-leipzig-l-enquete-demarre-l-allemagne-sur-ses-gardes-20260807",
+          "published": "2026-08-07T16:15:00+00:00",
+          "orig_title": "Drone piégé découvert sur l’aéroport de Leipzig : l’enquête démarre, l’Allemagne sur ses gardes",
+          "lang": "fr",
+          "translated": true,
+          "access": "unknown"
         },
         {
-          "outlet": "The Japan Times",
-          "region": "japan",
-          "lean": "center",
+          "outlet": "The Wall Street Journal",
+          "region": "us",
+          "lean": "right",
           "ownership": "private",
-          "title": "Typhoon Dolphin hits Okinawa, with China shutting ports ahead of landfall",
-          "url": "https://www.japantimes.co.jp/news/2026/08/08/japan/typhoon-dolphin-okinawa/",
-          "published": "2026-08-08T04:43:00+00:00",
-          "orig_title": "Typhoon Dolphin hits Okinawa, with China shutting ports ahead of landfall",
+          "title": "The Morning Risk Report: Prosecutors Probed Whistleblower Claims That JPMorgan Mishandled Fraud Cases",
+          "url": "https://www.wsj.com/tech/the-morning-risk-report-prosecutors-probed-whistleblower-claims-that-jpmorgan-mishandled-fraud-cases-a004347e?mod=rss_Technology",
+          "published": "2026-08-07T10:56:00+00:00",
+          "orig_title": "The Morning Risk Report: Prosecutors Probed Whistleblower Claims That JPMorgan Mishandled Fraud Cases",
           "lang": "en",
           "translated": false,
           "access": "paywall"
-        },
-        {
-          "outlet": "The Rio Times",
-          "region": "south_america",
-          "lean": "right",
-          "ownership": "private",
-          "title": "Typhoon Dolphin hits Okinawa as China shuts ports ahead of landfall",
-          "url": "https://www.riotimesonline.com/typhoon-dolphin-okinawa-china-ports-2026/",
-          "published": "2026-08-08T15:50:49+00:00",
-          "orig_title": "Typhoon Dolphin hits Okinawa as China shuts ports ahead of landfall",
-          "lang": "en",
-          "translated": false,
-          "access": "unknown"
         }
       ]
     },
     {
-      "id": 441,
+      "id": 448,
       "topic": "Economics",
       "label": "July · jobs · Labor",
       "title": "Surprise fall in US jobs last month as slow summer continues",
       "summary": "Analysts had expected an uptick in the number of jobs created, but the number of roles fell by 23,000 in July.",
-      "score": 4.132,
+      "score": 4.124,
       "n_outlets": 4,
       "n_articles": 4,
       "regions": [
@@ -1759,12 +1706,12 @@
       ]
     },
     {
-      "id": 389,
+      "id": 397,
       "topic": "Economics",
       "label": "Trump · Fed · Lisa",
       "title": "Trump renews effort to fire Fed’s Lisa Cook despite Supreme Court ruling",
       "summary": "US President ⁠Donald Trump is renewing his effort to fire Federal Reserve Governor Lisa Cook, keeping alive his assault on the central bank’s independence even after the US Supreme Court in June dealt",
-      "score": 3.201,
+      "score": 3.188,
       "n_outlets": 3,
       "n_articles": 3,
       "regions": [
@@ -1820,12 +1767,12 @@
       ]
     },
     {
-      "id": 49,
+      "id": 64,
       "topic": "Economics",
       "label": "India · pharma · Transport",
       "title": "Global pharma giants turn to Chinese biotech to tap innovation, valuation growth",
       "summary": "Global pharmaceutical giants are doubling down on investing in China’s fast-growing biotech companies given the sector’s huge room for valuation growth, according to speakers at the Global Health Summ",
-      "score": 2.84,
+      "score": 2.786,
       "n_outlets": 2,
       "n_articles": 4,
       "regions": [
@@ -1897,12 +1844,12 @@
       ]
     },
     {
-      "id": 84,
+      "id": 95,
       "topic": "Economics",
       "label": "India · Japanese · AMFI",
-      "title": "India will be the biggest destination for Japanese capital in a decade: AMFI chairman Sundeep Sikka",
-      "summary": "`The country’s booming systematic investment plan (SIP) culture has fundamentally reshaped the equity market by creating a strong domestic buffer against foreign capital outflows’",
-      "score": 2.76,
+      "title": "Behind the AI stock market bubble lies a weak yen",
+      "summary": "The world might be dividing into rival camps and competing trade blocs, but international capital flows remain footloose and fancy free. In so doing, they pose a threat to what remains of stability in",
+      "score": 2.71,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -1944,12 +1891,12 @@
       ]
     },
     {
-      "id": 197,
+      "id": 207,
       "topic": "Economics",
       "label": "Silica · Gor · Bangladesh",
       "title": "Chip off the old bloc: Thailand looks to Siam Silica to propel it to top Asean player",
       "summary": "Thailand launched its Siam Silica framework last week, a national road map that stamps the Southeast Asian country’s stake in the semiconductor race by building a domestic ecosystem and positioning it",
-      "score": 2.551,
+      "score": 2.516,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -1991,12 +1938,12 @@
       ]
     },
     {
-      "id": 345,
+      "id": 354,
       "topic": "Economics",
       "label": "Ukraine · GDP · Bloomberg",
       "title": "Bloomberg: Kim Jong Un accumulated $22 billion since 2022",
       "summary": "В период с 2022 по 2026 год доходы Северной Кореи за рубежом достигли $22 млрд, увеличившись вчетверо в сравнении с предыдущими четырьмя годами. Это подсчеты аналитического сервиса Bloomberg Economics",
-      "score": 2.272,
+      "score": 2.254,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -2037,59 +1984,12 @@
       ]
     },
     {
-      "id": 456,
-      "topic": "Economics",
-      "label": "Industrial · June · German",
-      "title": "German Industry’s Resilient Streak Continues Despite Lingering Uncertainty",
-      "summary": "German industrial production unexpectedly rose in June, extending a run of resilient manufacturing data that suggests Europe’s largest economy has so far shrugged off the economic fallout from the war",
-      "score": 2.115,
-      "n_outlets": 2,
-      "n_articles": 2,
-      "regions": [
-        "india",
-        "us"
-      ],
-      "last_seen": "2026-08-07T16:55:18+00:00",
-      "leans": [
-        "left",
-        "right"
-      ],
-      "sources": [
-        {
-          "outlet": "The Hindu",
-          "region": "india",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Industrial growth hits 23-month high of 7.3% in June 2026",
-          "url": "https://www.thehindu.com/business/Economy/indias-industrial-growth-hit-a-near-two-year-peak/article71276860.ece",
-          "published": "2026-08-07T16:55:18+00:00",
-          "orig_title": "Industrial growth hits 23-month high of 7.3% in June 2026",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "The Wall Street Journal",
-          "region": "us",
-          "lean": "right",
-          "ownership": "private",
-          "title": "German Industry’s Resilient Streak Continues Despite Lingering Uncertainty",
-          "url": "https://www.wsj.com/world/europe/german-industrial-production-unexpectedly-rose-in-june-acad6aae?mod=rss_worldnews",
-          "published": "2026-08-07T07:17:00+00:00",
-          "orig_title": "German Industry’s Resilient Streak Continues Despite Lingering Uncertainty",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
-        }
-      ]
-    },
-    {
-      "id": 490,
+      "id": 496,
       "topic": "Economics",
       "label": "German · Trump · pay",
-      "title": "US to pay German RWE $1.2 billion for wind farm cancellation",
-      "summary": "Немецкая энергетическая компания RWE заявила, что откажется от своих проектов по строительству прибрежных ветряных электростанций в США, получив за это от Министерства внутренних дел $1,2 млрд в виде ",
-      "score": 2.087,
+      "title": "Trump administration to pay German firm $1.2bn to halt US wind projects",
+      "summary": "The RWE payout is the latest in a string of deals cancelling wind energy projects, a power source long derided by Trump.",
+      "score": 2.081,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -2130,12 +2030,44 @@
       ]
     },
     {
-      "id": 22,
+      "id": 14,
+      "topic": "Economics",
+      "label": "Missing · Bridge · Why",
+      "title": "The Missing Bridge: Why Mercosur Needs an ASEAN Strategy",
+      "summary": "Key Facts —Diplomacy. In March 2024, Brazil accredited its first dedicated ambassador to ASEAN, Henrique Archanjo Ferraro, in Jakarta — a step the author says deserved far more attention than it got. ",
+      "score": 1.961,
+      "n_outlets": 1,
+      "n_articles": 1,
+      "regions": [
+        "south_america"
+      ],
+      "last_seen": "2026-08-08T19:11:51+00:00",
+      "leans": [
+        "right"
+      ],
+      "sources": [
+        {
+          "outlet": "The Rio Times",
+          "region": "south_america",
+          "lean": "right",
+          "ownership": "private",
+          "title": "The Missing Bridge: Why Mercosur Needs an ASEAN Strategy",
+          "url": "https://www.riotimesonline.com/the-missing-bridge-why-mercosur-needs-an-asean-strategy/",
+          "published": "2026-08-08T19:11:51+00:00",
+          "orig_title": "The Missing Bridge: Why Mercosur Needs an ASEAN Strategy",
+          "lang": "en",
+          "translated": false,
+          "access": "unknown"
+        }
+      ]
+    },
+    {
+      "id": 40,
       "topic": "Economics",
       "label": "Bessent · K-shaped · economy",
       "title": "Bessent says K-shaped economy is 'over'",
       "summary": "The letter \"K\" has become a popular way to describe uneven economic outcomes between high- and low-income Americans.",
-      "score": 1.923,
+      "score": 1.863,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -2162,12 +2094,12 @@
       ]
     },
     {
-      "id": 46,
+      "id": 61,
       "topic": "Economics",
       "label": "India · Govt · Bill",
       "title": "Govt introduces Bill aimed at easing doing business, attracting FDI & enhancing Make in India",
       "summary": "The Taxation and Other Laws (Amendment) Bill, 2026 will amend the Payment and Settlement Systems Act, 2007, Income-tax Act, 2025, and the Finance Act, 2026.",
-      "score": 1.848,
+      "score": 1.792,
       "n_outlets": 1,
       "n_articles": 3,
       "regions": [
@@ -2222,14 +2154,14 @@
       ]
     },
     {
-      "id": 237,
+      "id": 248,
       "topic": "Trading & Markets",
       "label": "Moscow · drones · Russia",
       "title": "Nine drones downed near Moscow",
       "summary": "Силы ПВО сбили девять беспилотников, которые летели на Москву. Об этом сообщил мэр столицы Сергей Собянин в Telegram.",
-      "score": 3.452,
+      "score": 3.423,
       "n_outlets": 3,
-      "n_articles": 10,
+      "n_articles": 9,
       "regions": [
         "europe",
         "russia"
@@ -2271,6 +2203,19 @@
               "region": "russia",
               "lean": "center",
               "ownership": "private",
+              "title": "Sobyanin: 1,984 drones shot down approaching Moscow in one week",
+              "url": "https://www.kommersant.ru/doc/8875514",
+              "published": "2026-08-08T09:17:32+00:00",
+              "orig_title": "Собянин: за неделю на подлете к Москве сбили 1984 БПЛА",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
               "title": "Russia shot down 397 drones overnight",
               "url": "https://www.kommersant.ru/doc/8875436",
               "published": "2026-08-08T04:25:47+00:00",
@@ -2297,19 +2242,6 @@
               "region": "russia",
               "lean": "center",
               "ownership": "private",
-              "title": "Sobyanin: 1,984 drones shot down approaching Moscow in one week",
-              "url": "https://www.kommersant.ru/doc/8875514",
-              "published": "2026-08-08T09:17:32+00:00",
-              "orig_title": "Собянин: за неделю на подлете к Москве сбили 1984 БПЛА",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            },
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
               "title": "Number of drones shot down approaching Moscow rises to 12",
               "url": "https://www.kommersant.ru/doc/8875494",
               "published": "2026-08-08T08:10:28+00:00",
@@ -2327,19 +2259,6 @@
               "url": "https://www.kommersant.ru/doc/8875462",
               "published": "2026-08-08T06:11:56+00:00",
               "orig_title": "Силы ПВО за утро сбили над Россией 83 БПЛА",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            },
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "SZ: Two drones spotted over German military base with Patriot systems",
-              "url": "https://www.kommersant.ru/doc/8875179",
-              "published": "2026-08-07T19:57:16+00:00",
-              "orig_title": "SZ: два БПЛА заметили над военной базой Бундесвера с Patriot",
               "lang": "ru",
               "translated": true,
               "access": "unknown"
@@ -2377,12 +2296,12 @@
       ]
     },
     {
-      "id": 47,
+      "id": 62,
       "topic": "Trading & Markets",
       "label": "Tour · France · Femmes",
       "title": "Tour de France Femmes: Pauline Ferrand-Prévôt's dramatic collapse",
       "summary": "In Paris feierten die Franzosen das Olympiagold von Radsportlerin Pauline Ferrand-Prévôt, dann siegte sie auch noch bei der Tour de France. In diesem Sommer folgt der Absturz. Nun musste sie das Renne",
-      "score": 2.845,
+      "score": 2.79,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -2423,12 +2342,12 @@
       ]
     },
     {
-      "id": 81,
+      "id": 93,
       "topic": "Trading & Markets",
       "label": "Taiwan · Taipei · China's",
       "title": "Taipei says China's traffic control order for Taiwan Strait during typhoon is 'ridiculous'",
       "summary": "The unreasonable and crude statement by the relevant Chinese Communist departments reflects ‌an ignorance, disregard, and trampling of international order ​and norms. It is utterly ridiculous, says Ta",
-      "score": 2.767,
+      "score": 2.717,
       "n_outlets": 2,
       "n_articles": 3,
       "regions": [
@@ -2485,12 +2404,12 @@
       ]
     },
     {
-      "id": 96,
+      "id": 105,
       "topic": "Trading & Markets",
       "label": "RFK · CDC · Atlanta",
-      "title": "RFK Jr. visits CDC Atlanta office one year after fatal shooting",
-      "summary": "Health and Human Services (HHS) Secretary Robert F. Kennedy Jr. visited the Centers for Disease Control and Prevention (CDC) in Atlanta on Friday, one year after a shooting forced the facility to lock",
-      "score": 2.745,
+      "title": "Staff at the CDC in Atlanta remember victim of shooting a year ago as RFK jr. attends",
+      "summary": "It's been a year since a gunman opened fire on the CDC and killed a police officer. RFK Jr. visited the CDC today to remember the victim.",
+      "score": 2.697,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -2531,12 +2450,12 @@
       ]
     },
     {
-      "id": 437,
+      "id": 445,
       "topic": "Trading & Markets",
       "label": "Albanese · gambling · Pocock",
       "title": "Albanese returns to a gambling debate ready to catch fire",
       "summary": "The explosive evidence heard at a two-day inquiry into Labor's proposed crackdown on wagering advertising has proved a watershed moment for the increasingly friendless bill.",
-      "score": 2.137,
+      "score": 2.128,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -2577,12 +2496,76 @@
       ]
     },
     {
-      "id": 0,
+      "id": 2,
+      "topic": "Trading & Markets",
+      "label": "Kenya · Mandates · Travel",
+      "title": "Kenya Mandates US$50,000 Travel Health Insurance for Foreign Visitors via eTA",
+      "summary": "Kenya &#183; POLICY Key Facts &#8212;Minimum cover: Foreign visitors staying under 12 months must hold travel health insurance with a cumulative minimum cover of US$50,000, as set out in Gazette Notic",
+      "score": 1.978,
+      "n_outlets": 1,
+      "n_articles": 1,
+      "regions": [
+        "south_america"
+      ],
+      "last_seen": "2026-08-08T19:24:31+00:00",
+      "leans": [
+        "right"
+      ],
+      "sources": [
+        {
+          "outlet": "The Rio Times",
+          "region": "south_america",
+          "lean": "right",
+          "ownership": "private",
+          "title": "Kenya Mandates US$50,000 Travel Health Insurance for Foreign Visitors via eTA",
+          "url": "https://www.riotimesonline.com/kenya-mandatory-travel-health-insurance-eta-2026/",
+          "published": "2026-08-08T19:24:31+00:00",
+          "orig_title": "Kenya Mandates US$50,000 Travel Health Insurance for Foreign Visitors via eTA",
+          "lang": "en",
+          "translated": false,
+          "access": "unknown"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "topic": "Trading & Markets",
+      "label": "USPS · reports · loss",
+      "title": "USPS reports $2.5B loss in third quarter as financial woes persist",
+      "summary": "The United States Postal Service's (USPS) net losses for the third quarter of 2026 reached $2.5 billion, the agency reported Friday, as its leadership continues to look for solutions to prevent an imp",
+      "score": 1.97,
+      "n_outlets": 1,
+      "n_articles": 1,
+      "regions": [
+        "us"
+      ],
+      "last_seen": "2026-08-08T19:18:05+00:00",
+      "leans": [
+        "center"
+      ],
+      "sources": [
+        {
+          "outlet": "The Hill",
+          "region": "us",
+          "lean": "center",
+          "ownership": "private",
+          "title": "USPS reports $2.5B loss in third quarter as financial woes persist",
+          "url": "https://thehill.com/business/6018716-usps-financial-woes-2-billion-loss/",
+          "published": "2026-08-08T19:18:05+00:00",
+          "orig_title": "USPS reports $2.5B loss in third quarter as financial woes persist",
+          "lang": "en",
+          "translated": false,
+          "access": "unknown"
+        }
+      ]
+    },
+    {
+      "id": 22,
       "topic": "Trading & Markets",
       "label": "Australia's · questions · asked",
       "title": "The 19 questions asked in Australia's first complete census",
       "summary": "When you sit down to fill in the census, you will be taking part in an ancient human tradition.",
-      "score": 1.987,
+      "score": 1.923,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -2609,12 +2592,12 @@
       ]
     },
     {
-      "id": 62,
+      "id": 77,
       "topic": "Trading & Markets",
       "label": "Six · Sri · Lanka",
       "title": "Six killed in Sri Lanka as heavy rain triggers landslides, floods",
       "summary": "The adverse weather has affected five districts, with incessant downpours triggering landslides, flooding and strong winds, disrupting normal life and forcing nearly 1,900 people into relief centres",
-      "score": 1.806,
+      "score": 1.754,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -2641,12 +2624,12 @@
       ]
     },
     {
-      "id": 70,
+      "id": 85,
       "topic": "Trading & Markets",
       "label": "Miller · Ohio · GOP",
       "title": "Miller saga muddles midterm landscape for Ohio GOP",
       "summary": "The controversy around Rep. Max Miller (R-Ohio) is complicating the midterm landscape for Ohio Republicans as Democrats build momentum in the Buckeye State, a former battleground that’s become a red s",
-      "score": 1.788,
+      "score": 1.736,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -2673,76 +2656,12 @@
       ]
     },
     {
-      "id": 91,
-      "topic": "Trading & Markets",
-      "label": "India's · July · PMI",
-      "title": "India's manufacturing sector activity growth falls to 5-year low in July amid challenging market condition: PMI",
-      "summary": "The HSBC India Manufacturing Purchasing Managers’ Index (PMI) is a gauge of overall conditions derived from measures of new orders, output, employment, supplier delivery times and stocks of purchases.",
-      "score": 1.749,
-      "n_outlets": 1,
-      "n_articles": 1,
-      "regions": [
-        "india"
-      ],
-      "last_seen": "2026-08-08T15:23:20+00:00",
-      "leans": [
-        "left"
-      ],
-      "sources": [
-        {
-          "outlet": "The Hindu",
-          "region": "india",
-          "lean": "left",
-          "ownership": "private",
-          "title": "India's manufacturing sector activity growth falls to 5-year low in July amid challenging market condition: PMI",
-          "url": "https://www.thehindu.com/business/Economy/indias-manufacturing-sector-activity-growth-falls-to-5-year-low-in-july-amid-challenging-market-condition-pmi/article71302500.ece",
-          "published": "2026-08-08T15:23:20+00:00",
-          "orig_title": "India's manufacturing sector activity growth falls to 5-year low in July amid challenging market condition: PMI",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        }
-      ]
-    },
-    {
-      "id": 129,
-      "topic": "Trading & Markets",
-      "label": "Berkshire · Hathaway · Under",
-      "title": "Berkshire Hathaway, Under a New CEO, Starts to Spend Its Cash Pile",
-      "summary": "The conglomerate struck a $6.8 billion deal, repurchased Berkshire shares and was a net buyer of other stocks, while more than doubling quarterly profit.",
-      "score": 1.676,
-      "n_outlets": 1,
-      "n_articles": 1,
-      "regions": [
-        "us"
-      ],
-      "last_seen": "2026-08-08T14:10:00+00:00",
-      "leans": [
-        "right"
-      ],
-      "sources": [
-        {
-          "outlet": "The Wall Street Journal",
-          "region": "us",
-          "lean": "right",
-          "ownership": "private",
-          "title": "Berkshire Hathaway, Under a New CEO, Starts to Spend Its Cash Pile",
-          "url": "https://www.wsj.com/finance/stocks/berkshire-hathaway-earnings-q2-2026-brk-a-stock-e394a0e7?mod=rss_markets_main",
-          "published": "2026-08-08T14:10:00+00:00",
-          "orig_title": "Berkshire Hathaway, Under a New CEO, Starts to Spend Its Cash Pile",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
-        }
-      ]
-    },
-    {
-      "id": 9,
+      "id": 29,
       "topic": "Science",
       "label": "Amazon · Data · Center",
       "title": "Amazon to finance huge US gas plant for data centres",
       "summary": "Amazon has confirmed it is financing a massive, private gas power plant in Texas that could become the single largest source of greenhouse gas emissions in the United States. It is the latest example ",
-      "score": 3.953,
+      "score": 3.891,
       "n_outlets": 3,
       "n_articles": 3,
       "regions": [
@@ -2798,12 +2717,58 @@
       ]
     },
     {
-      "id": 260,
+      "id": 4,
+      "topic": "Science",
+      "label": "Super · bring · flooding",
+      "title": "‘Super El Niño’ could bring wet winter and flooding to western US, climate scientists warn",
+      "summary": "Weather system tied to warming sea surface expected to intensify in fall and winter, persisting until early spring 2027 El Niño , a recurring climate phenomenon marked by above-average sea surface tem",
+      "score": 2.974,
+      "n_outlets": 2,
+      "n_articles": 2,
+      "regions": [
+        "australia",
+        "europe"
+      ],
+      "last_seen": "2026-08-08T19:21:14+00:00",
+      "leans": [
+        "left"
+      ],
+      "sources": [
+        {
+          "outlet": "The Guardian",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "‘Super El Niño’ could bring wet winter and flooding to western US, climate scientists warn",
+          "url": "https://www.theguardian.com/us-news/2026/aug/08/super-el-nino-winter-flooding",
+          "published": "2026-08-08T19:21:14+00:00",
+          "orig_title": "‘Super El Niño’ could bring wet winter and flooding to western US, climate scientists warn",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "The Guardian Australia",
+          "region": "australia",
+          "lean": "left",
+          "ownership": "private",
+          "title": "‘Wet, windy and wintry’: cold front to bring rain and potential flooding to parts of Australia",
+          "url": "https://www.theguardian.com/australia-news/2026/aug/08/wet-windy-and-wintry-cold-front-to-bring-rain-and-potential-flooding-to-parts-of-australia",
+          "published": "2026-08-08T01:40:23+00:00",
+          "orig_title": "‘Wet, windy and wintry’: cold front to bring rain and potential flooding to parts of Australia",
+          "lang": "en",
+          "translated": false,
+          "access": "unknown"
+        }
+      ]
+    },
+    {
+      "id": 271,
       "topic": "Science",
       "label": "Teaching · India · Opinion",
-      "title": "Teaching AI to speak India",
-      "summary": "Artificial intelligence can chat, translate and answer questions but only if it understands your language. At IIT Madras, researchers at AI4Bharat are travelling across India, collecting voices, prese",
-      "score": 2.391,
+      "title": "Opinion | Don't Anthropomorphize Artificial Intelligence",
+      "summary": "Describing AI with human words such as “believed” or “thought” is misleading.",
+      "score": 2.365,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -2845,12 +2810,44 @@
       ]
     },
     {
-      "id": 48,
+      "id": 16,
+      "topic": "Science",
+      "label": "Australia · planet's · extinction",
+      "title": "Australia is the planet's extinction hotspot, but one animal offers a glimmer of hope",
+      "summary": "The country is home to some of the world's most unique species - but it is losing them at an alarming rate.",
+      "score": 1.946,
+      "n_outlets": 1,
+      "n_articles": 1,
+      "regions": [
+        "europe"
+      ],
+      "last_seen": "2026-08-08T19:00:22+00:00",
+      "leans": [
+        "center"
+      ],
+      "sources": [
+        {
+          "outlet": "BBC News",
+          "region": "europe",
+          "lean": "center",
+          "ownership": "public",
+          "title": "Australia is the planet's extinction hotspot, but one animal offers a glimmer of hope",
+          "url": "https://www.bbc.co.uk/news/articles/c9q94lxqrzzo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-08T19:00:22+00:00",
+          "orig_title": "Australia is the planet's extinction hotspot, but one animal offers a glimmer of hope",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 63,
       "topic": "Science",
       "label": "Meet · Costa · Rica's",
       "title": "Meet Costa Rica's tiny 'coffee frog,' a nocturnal species found living among coffee shrubs",
       "summary": "A remarkable discovery in Costa Rica reveals a diminutive nocturnal frog inhabiting the coffee plantations. Measuring less than four centimeters, this unique species relies on small insects for food a",
-      "score": 1.842,
+      "score": 1.787,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -2877,12 +2874,12 @@
       ]
     },
     {
-      "id": 68,
+      "id": 83,
       "topic": "Science",
       "label": "One · fossil · Britain",
       "title": "One of UK’s best fossil collections sold overseas in ‘loss to the nation’",
       "summary": "Exclusive: Lack of funds left British museums unable pay eight-figure sum for collection, which went to Abu Dhabi institution One of the most important collections of UK Jurassic fossils ever compiled",
-      "score": 1.788,
+      "score": 1.737,
       "n_outlets": 1,
       "n_articles": 2,
       "regions": [
@@ -2924,12 +2921,12 @@
       ]
     },
     {
-      "id": 118,
+      "id": 126,
       "topic": "Science",
       "label": "Dinosaur · bone · found",
       "title": "Dinosaur bone found in 1999 finally identified as 3-metre species after 27 years",
       "summary": "Dinosaur bone found in 1999 finally identified as 3-metre species after 27 years",
-      "score": 1.702,
+      "score": 1.656,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -2956,12 +2953,12 @@
       ]
     },
     {
-      "id": 125,
+      "id": 133,
       "topic": "Science",
       "label": "China · Nevada · NASA",
       "title": "China dominates 80% of tungsten market; Nevada discovery faces NASA mining block",
       "summary": "China dominates 80% of tungsten market; Nevada discovery faces NASA mining block",
-      "score": 1.696,
+      "score": 1.65,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -2988,12 +2985,12 @@
       ]
     },
     {
-      "id": 171,
+      "id": 180,
       "topic": "Science",
       "label": "What · Chinese-led · glueball",
       "title": "What is a glueball? Chinese-led team finds rare particle made entirely of force",
       "summary": "In a historic breakthrough, a Chinese-led international team of scientists has confirmed the existence of the glueball – a rare form of matter made entirely of force. The finding was announced by a Ch",
-      "score": 1.614,
+      "score": 1.574,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -3020,12 +3017,12 @@
       ]
     },
     {
-      "id": 186,
+      "id": 196,
       "topic": "Science",
       "label": "China · lunar · research",
       "title": "China’s lunar research station could be guarded by robot watchdogs, space scientists say",
       "summary": "Robot dogs could one day lead the way across the moon, patrolling research stations, scouting hazards and helping astronauts search for scientifically valuable rocks, according to a blueprint by resea",
-      "score": 1.565,
+      "score": 1.528,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -3052,90 +3049,39 @@
       ]
     },
     {
-      "id": 193,
-      "topic": "Science",
-      "label": "Couple · turning · inherited",
-      "title": "Couple turning inherited farm into nature site",
-      "summary": "The farm in Cockermouth is undergoing a 30-year project to boost wildlife there.",
-      "score": 1.555,
-      "n_outlets": 1,
-      "n_articles": 1,
-      "regions": [
-        "europe"
-      ],
-      "last_seen": "2026-08-08T11:47:53+00:00",
-      "leans": [
-        "center"
-      ],
-      "sources": [
-        {
-          "outlet": "BBC News",
-          "region": "europe",
-          "lean": "center",
-          "ownership": "public",
-          "title": "Couple turning inherited farm into nature site",
-          "url": "https://www.bbc.co.uk/news/articles/czrj11rk46do?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-08T11:47:53+00:00",
-          "orig_title": "Couple turning inherited farm into nature site",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        }
-      ]
-    },
-    {
-      "id": 219,
-      "topic": "Science",
-      "label": "Monkey · sanctuary · shuts",
-      "title": "Monkey sanctuary shuts after more than 60 years",
-      "summary": "The charity says plans for a new buyer fell through, meaning all the monkeys will be rehomed.",
-      "score": 1.507,
-      "n_outlets": 1,
-      "n_articles": 1,
-      "regions": [
-        "europe"
-      ],
-      "last_seen": "2026-08-08T10:42:13+00:00",
-      "leans": [
-        "center"
-      ],
-      "sources": [
-        {
-          "outlet": "BBC News",
-          "region": "europe",
-          "lean": "center",
-          "ownership": "public",
-          "title": "Monkey sanctuary shuts after more than 60 years",
-          "url": "https://www.bbc.co.uk/news/articles/c1d1kl9vzvko?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-08T10:42:13+00:00",
-          "orig_title": "Monkey sanctuary shuts after more than 60 years",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        }
-      ]
-    },
-    {
-      "id": 42,
+      "id": 17,
       "topic": "Technology",
-      "label": "OpenAI · Astra · model",
-      "title": "OpenAI Pauses Some Work on New AI Model Over Cybersecurity Concerns",
-      "summary": "The decision reflects internal findings that the upcoming “Astra” model may possess “critical cyber capabilities” and follows a string of AI-testing incidents.",
-      "score": 4.857,
-      "n_outlets": 4,
-      "n_articles": 4,
+      "label": "Errors · AI-powered · Flock",
+      "title": "The overlooked new AI risk",
+      "summary": "Künstliche Intelligenz bringt Firmen deutliche Produktionsgewinne. Das hat einen bislang wenig beachteten negativen Effekt, der vor allem erfahrene Angestellte betrifft.",
+      "score": 5.946,
+      "n_outlets": 5,
+      "n_articles": 5,
       "regions": [
+        "china",
         "europe",
-        "russia",
-        "us"
+        "russia"
       ],
-      "last_seen": "2026-08-08T17:00:41+00:00",
+      "last_seen": "2026-08-08T19:00:00+00:00",
       "leans": [
         "center",
         "left",
         "right"
       ],
       "sources": [
+        {
+          "outlet": "Der Spiegel",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Artificial Intelligence: Is AI killing capitalism?",
+          "url": "https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-killt-ki-den-kapitalismus-a-56ab0493-30a5-45e2-a2fc-226357d1de60#ref=rss",
+          "published": "2026-08-08T06:10:00+00:00",
+          "orig_title": "Künstliche Intelligenz: Killt KI den Kapitalismus?",
+          "lang": "de",
+          "translated": true,
+          "access": "unknown"
+        },
         {
           "outlet": "Novaya Gazeta Europe",
           "region": "russia",
@@ -3149,6 +3095,68 @@
           "translated": true,
           "access": "unknown"
         },
+        {
+          "outlet": "South China Morning Post",
+          "region": "china",
+          "lean": "center",
+          "ownership": "private",
+          "title": "How a Hong Kong charity is using AI to help migrant workers tackle exploitation",
+          "url": "https://www.scmp.com/news/hong-kong/society/article/3363394/how-hong-kong-charity-using-ai-help-migrant-workers-tackle-exploitation?utm_source=rss_feed",
+          "published": "2026-08-08T10:30:08+00:00",
+          "orig_title": "How a Hong Kong charity is using AI to help migrant workers tackle exploitation",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "Die Welt",
+          "region": "europe",
+          "lean": "right",
+          "ownership": "private",
+          "title": "The overlooked new AI risk",
+          "url": "https://www.welt.de/wirtschaft/plus6a6b0dfadd06dd5ef2e3f2cd/jobwelt-das-unerkannte-neue-ki-risiko.html",
+          "published": "2026-08-08T13:06:11+00:00",
+          "orig_title": "Das unerkannte neue KI-Risiko",
+          "lang": "de",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
+          "outlet": "Le Figaro",
+          "region": "europe",
+          "lean": "right",
+          "ownership": "private",
+          "title": "Errors, abuse and 'mass surveillance' – US anger grows over AI-powered Flock Safety cameras",
+          "url": "https://www.lefigaro.fr/secteur/high-tech/erreurs-abus-et-surveillance-de-masse-la-colere-gronde-aux-etats-unis-face-aux-cameras-dopees-a-l-ia-de-flock-safety-20260808",
+          "published": "2026-08-08T19:00:00+00:00",
+          "orig_title": "Erreurs, abus et «surveillance de masse»... La colère gronde aux États-Unis face aux caméras dopées à l’IA de Flock Safety",
+          "lang": "fr",
+          "translated": true,
+          "access": "unknown"
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "topic": "Technology",
+      "label": "OpenAI · Astra · Pauses",
+      "title": "OpenAI Pauses Some Work on New AI Model Over Cybersecurity Concerns",
+      "summary": "The decision reflects internal findings that the upcoming “Astra” model may possess “critical cyber capabilities” and follows a string of AI-testing incidents.",
+      "score": 3.801,
+      "n_outlets": 3,
+      "n_articles": 3,
+      "regions": [
+        "europe",
+        "russia",
+        "us"
+      ],
+      "last_seen": "2026-08-08T17:00:41+00:00",
+      "leans": [
+        "center",
+        "left",
+        "right"
+      ],
+      "sources": [
         {
           "outlet": "The Guardian",
           "region": "europe",
@@ -3191,14 +3199,14 @@
       ]
     },
     {
-      "id": 145,
+      "id": 154,
       "topic": "Technology",
       "label": "AI-proof · Why · World",
-      "title": "The overlooked new AI risk",
-      "summary": "Künstliche Intelligenz bringt Firmen deutliche Produktionsgewinne. Das hat einen bislang wenig beachteten negativen Effekt, der vor allem erfahrene Angestellte betrifft.",
-      "score": 4.65,
-      "n_outlets": 4,
-      "n_articles": 5,
+      "title": "AI transforms home buying with instant setup and virtual tours",
+      "summary": "Künstliche Intelligenz mischt immer öfter auch den Wohnungsmarkt auf. Was sich mit der Software alles ändert – und was Käufer und Verkäufer dringend beachten müssen.",
+      "score": 3.608,
+      "n_outlets": 3,
+      "n_articles": 3,
       "regions": [
         "europe",
         "us"
@@ -3206,23 +3214,9 @@
       "last_seen": "2026-08-08T13:41:32+00:00",
       "leans": [
         "center",
-        "left",
         "right"
       ],
       "sources": [
-        {
-          "outlet": "Der Spiegel",
-          "region": "europe",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Artificial Intelligence: Is AI killing capitalism?",
-          "url": "https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-killt-ki-den-kapitalismus-a-56ab0493-30a5-45e2-a2fc-226357d1de60#ref=rss",
-          "published": "2026-08-08T06:10:00+00:00",
-          "orig_title": "Künstliche Intelligenz: Killt KI den Kapitalismus?",
-          "lang": "de",
-          "translated": true,
-          "access": "unknown"
-        },
         {
           "outlet": "BBC News",
           "region": "europe",
@@ -3241,28 +3235,13 @@
           "region": "europe",
           "lean": "right",
           "ownership": "private",
-          "title": "The overlooked new AI risk",
-          "url": "https://www.welt.de/wirtschaft/plus6a6b0dfadd06dd5ef2e3f2cd/jobwelt-das-unerkannte-neue-ki-risiko.html",
-          "published": "2026-08-08T13:06:11+00:00",
-          "orig_title": "Das unerkannte neue KI-Risiko",
+          "title": "AI transforms home buying with instant setup and virtual tours",
+          "url": "https://www.welt.de/finanzen/immobilien/plus6a6f382347212184724ad0b3/angebote-im-vergleich-einrichtung-auf-knopfdruck-virtuelle-rundgaenge-so-veraendert-ki-den-hauskauf.html",
+          "published": "2026-08-08T13:06:44+00:00",
+          "orig_title": "Einrichtung auf Knopfdruck, virtuelle Rundgänge – So verändert KI den Hauskauf",
           "lang": "de",
           "translated": true,
-          "access": "unknown",
-          "more": [
-            {
-              "outlet": "Die Welt",
-              "region": "europe",
-              "lean": "right",
-              "ownership": "private",
-              "title": "AI transforms home buying with instant setup and virtual tours",
-              "url": "https://www.welt.de/finanzen/immobilien/plus6a6f382347212184724ad0b3/angebote-im-vergleich-einrichtung-auf-knopfdruck-virtuelle-rundgaenge-so-veraendert-ki-den-hauskauf.html",
-              "published": "2026-08-08T13:06:44+00:00",
-              "orig_title": "Einrichtung auf Knopfdruck, virtuelle Rundgänge – So verändert KI den Hauskauf",
-              "lang": "de",
-              "translated": true,
-              "access": "unknown"
-            }
-          ]
+          "access": "unknown"
         },
         {
           "outlet": "The Wall Street Journal",
@@ -3280,12 +3259,12 @@
       ]
     },
     {
-      "id": 196,
+      "id": 206,
       "topic": "Technology",
       "label": "Meta · Summer · Rogue",
       "title": "Meta AI breaches external firm during security testing sandbox error",
       "summary": "Meta announced one of its models had hacked another company during a security test. It becomes the third company to announced such a security breach.",
-      "score": 2.552,
+      "score": 2.516,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -3326,12 +3305,12 @@
       ]
     },
     {
-      "id": 248,
+      "id": 259,
       "topic": "Technology",
       "label": "Addiction · Hong · Kong",
       "title": "‘Addiction is irreversible’: Hong Kong urged to ban under-16s from social media",
       "summary": "Hong Kong should follow international peers in legislating to bar children under 16 from social media to combat cyberbullying and addiction, education experts and lawmakers have said, while stressing ",
-      "score": 2.42,
+      "score": 2.393,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -3372,12 +3351,12 @@
       ]
     },
     {
-      "id": 469,
+      "id": 476,
       "topic": "Technology",
       "label": "American · Russia · deportation",
-      "title": "American farmer who built a life in Russia says he and his family are facing deportation",
-      "summary": "Justus Walker, an American farmer known as “The Merry Milkman” who lives on a farm in Russia’s Altai Krai, said Russian authorities plan to expel his family from the country. He said he received a cal",
-      "score": 2.104,
+      "title": "Jolly milkman Justas Walker receives deportation notice from Russian immigration service",
+      "summary": "Проживающий в Алтайском крае фермер из США Джастас Уолкер получил уведомление миграционной службы об аннулировании вида на жительство. Его вместе с семьей могут депортировать из России, рассказал он в",
+      "score": 2.097,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -3417,12 +3396,12 @@
       ]
     },
     {
-      "id": 63,
+      "id": 78,
       "topic": "Technology",
       "label": "Nigeria · Election · Fought",
       "title": "Nigeria’s 2027 Election Will Be Fought in the Age of AI. Is the Country Ready?",
       "summary": "Nigeria is approaching its first general election of the generative-AI era and should prepare accordingly. The post Nigeria’s 2027 Election Will Be Fought in the Age of AI. Is the Country Ready? appea",
-      "score": 1.805,
+      "score": 1.753,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -3449,12 +3428,12 @@
       ]
     },
     {
-      "id": 106,
+      "id": 113,
       "topic": "Technology",
       "label": "Meet · Media · Industry",
       "title": "Meet the Media Industry’s Nerd-in-Chief",
       "summary": "People Inc. innovation chief Jonathan Roberts, a physicist who drew maps of Westeros for George R.R. Martin, has bold thoughts on the future of publishers.",
-      "score": 1.725,
+      "score": 1.678,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -3481,12 +3460,12 @@
       ]
     },
     {
-      "id": 136,
+      "id": 146,
       "topic": "Technology",
       "label": "Why · Nigeria · Olayinka",
       "title": "Why journalism is dying in Nigeria!, By Olayinka Oyegbile",
       "summary": "Today, every unemployed or unemployable journalist wants to carry a ‘dignified’ title of being a publisher, hence the rash of poorly edited and managed online publications in the cyberspace. It has be",
-      "score": 1.661,
+      "score": 1.618,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -3513,12 +3492,12 @@
       ]
     },
     {
-      "id": 141,
+      "id": 150,
       "topic": "Technology",
       "label": "Zomato · Urban · Company",
       "title": "Zomato, Urban Company gig workers embrace NPS, contributing up to ₹5,000 weekly: HDFC Pension’s CEO",
       "summary": "CEO & MD Sriram Iyer says the use of the e-Shram framework enabled the creation of 1.5 lakh PRANs for gig workers in one shot; the company’s AI deployments remain focused on customer engagement",
-      "score": 1.655,
+      "score": 1.613,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -3545,119 +3524,33 @@
       ]
     },
     {
-      "id": 158,
-      "topic": "Technology",
-      "label": "IRDAI · ISP · asks",
-      "title": "IRDAI asks insurers to submit premium, claims, investment data for ISP",
-      "summary": "Details needed to facilitate data requirements of Union Ministry of Statistics and Programme Implementation in preparation of the Index of Service Production, says IRDAI",
-      "score": 1.63,
-      "n_outlets": 1,
-      "n_articles": 1,
-      "regions": [
-        "india"
-      ],
-      "last_seen": "2026-08-08T13:19:17+00:00",
-      "leans": [
-        "left"
-      ],
-      "sources": [
-        {
-          "outlet": "The Hindu",
-          "region": "india",
-          "lean": "left",
-          "ownership": "private",
-          "title": "IRDAI asks insurers to submit premium, claims, investment data for ISP",
-          "url": "https://www.thehindu.com/business/Economy/irdai-asks-insurers-to-submit-premium-claims-investment-data-for-isp/article71321503.ece",
-          "published": "2026-08-08T13:19:17+00:00",
-          "orig_title": "IRDAI asks insurers to submit premium, claims, investment data for ISP",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        }
-      ]
-    },
-    {
-      "id": 26,
+      "id": 1,
       "topic": "Sports",
-      "label": "Lionel · Jorge · Messi",
-      "title": "Lionel Messi's father Jorge Messi dies at 68",
-      "summary": "Der Vater von Lionel Messi ist tot. Jorge Messi starb im Alter von 68 Jahren. Er verhandelte die Millionenverträge seines Sohnes.",
-      "score": 7.908,
-      "n_outlets": 7,
-      "n_articles": 9,
+      "label": "League · Russian · Premier",
+      "title": "CSKA draws with Rostov in third round of Russian Premier League",
+      "summary": "Московский ЦСКА и «Ростов» завершили матч третьего тура Российской премьер-лиги (РПЛ) со счетом 0:0. Игра прошла на «ВЭБ-Арене» в Москве.",
+      "score": 2.984,
+      "n_outlets": 2,
+      "n_articles": 7,
       "regions": [
         "europe",
-        "india",
         "russia"
       ],
-      "last_seen": "2026-08-08T17:42:28+00:00",
+      "last_seen": "2026-08-08T19:28:54+00:00",
       "leans": [
         "center",
-        "left",
         "right"
       ],
       "sources": [
-        {
-          "outlet": "Der Spiegel",
-          "region": "europe",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Lionel Messi's father Jorge Messi dies at 68",
-          "url": "https://www.spiegel.de/sport/fussball/lionel-messi-vater-jorge-messi-ist-im-alter-von-68-jahren-gestorben-a-dc9eb485-5cfe-447d-9a89-2e7138809455#ref=rss",
-          "published": "2026-08-08T16:03:00+00:00",
-          "orig_title": "Lionel Messi: Vater Jorge Messi ist im Alter von 68 Jahren gestorben",
-          "lang": "de",
-          "translated": true,
-          "access": "unknown"
-        },
-        {
-          "outlet": "El Pais",
-          "region": "europe",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Jorge Messi dies, the man who guided Leo Messi to the top of the world",
-          "url": "https://elpais.com/deportes/futbol/2026-08-08/muere-jorge-messi-padre-de-leo-messi-a-los-68-anos.html",
-          "published": "2026-08-08T13:23:10+00:00",
-          "orig_title": "Muere Jorge Messi, el ​hombre que guió a Leo Messi a la cima del mundo",
-          "lang": "es",
-          "translated": true,
-          "access": "unknown"
-        },
-        {
-          "outlet": "The Hindu",
-          "region": "india",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Lionel Messi's father Jorge dies aged 68",
-          "url": "https://www.thehindu.com/sport/lionel-messis-father-jorge-dies-aged-68/article71322062.ece",
-          "published": "2026-08-08T14:25:56+00:00",
-          "orig_title": "Lionel Messi's father Jorge dies aged 68",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "BBC News",
-          "region": "europe",
-          "lean": "center",
-          "ownership": "public",
-          "title": "Messi's father Jorge dies aged 68 after illness",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c70gn3w5ek5o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-08T15:51:11+00:00",
-          "orig_title": "Messi's father Jorge dies aged 68 after illness",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
         {
           "outlet": "Kommersant",
           "region": "russia",
           "lean": "center",
           "ownership": "private",
-          "title": "Lionel Messi's father dies",
-          "url": "https://www.kommersant.ru/doc/8875539",
-          "published": "2026-08-08T11:05:59+00:00",
-          "orig_title": "Умер отец Лионеля Месси",
+          "title": "CSKA draws with Rostov in third round of Russian Premier League",
+          "url": "https://www.kommersant.ru/doc/8875628",
+          "published": "2026-08-08T19:28:54+00:00",
+          "orig_title": "ЦСКА сыграл вничью с «Ростовом» в третьем туре РПЛ",
           "lang": "ru",
           "translated": true,
           "access": "unknown",
@@ -3667,152 +3560,14 @@
               "region": "russia",
               "lean": "center",
               "ownership": "private",
-              "title": "Messi received most threats at 2026 World Cup",
-              "url": "https://www.kommersant.ru/doc/8875542",
-              "published": "2026-08-08T11:15:32+00:00",
-              "orig_title": "Месси получил наибольшее количество угроз на ЧМ-2026",
+              "title": "Lokomotiv draws with Akron in third round of Russian Premier League",
+              "url": "https://www.kommersant.ru/doc/8875618",
+              "published": "2026-08-08T17:13:23+00:00",
+              "orig_title": "«Локомотив» сыграл вничью с «Акроном» в третьем туре РПЛ",
               "lang": "ru",
               "translated": true,
               "access": "unknown"
-            }
-          ]
-        },
-        {
-          "outlet": "Times of India",
-          "region": "india",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Lionel Messi’s father Jorge Messi dies after long illness",
-          "url": "https://timesofindia.indiatimes.com/sports/off-the-field/lionel-messis-father-jorge-messi-dies-after-long-illness/articleshow/133052574.cms",
-          "published": "2026-08-08T13:54:16+00:00",
-          "orig_title": "Lionel Messi’s father Jorge Messi dies after long illness",
-          "lang": "en",
-          "translated": false,
-          "access": "open",
-          "more": [
-            {
-              "outlet": "Times of India",
-              "region": "india",
-              "lean": "center",
-              "ownership": "private",
-              "title": "AFA, Barcelona mourn death of Lionel Messi’s father Jorge Messi",
-              "url": "https://timesofindia.indiatimes.com/sports/off-the-field/afa-barcelona-mourn-death-of-lionel-messis-father-jorge-messi/articleshow/133056683.cms",
-              "published": "2026-08-08T17:42:28+00:00",
-              "orig_title": "AFA, Barcelona mourn death of Lionel Messi’s father Jorge Messi",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
-            }
-          ]
-        },
-        {
-          "outlet": "Die Welt",
-          "region": "europe",
-          "lean": "right",
-          "ownership": "private",
-          "title": "World football mourns death of Lionel Messi's father at 68",
-          "url": "https://www.welt.de/sport/fussball/article6a7712d5cd7ba1c08997ca94/krebs-trauer-im-weltfussball-vater-von-superstar-lionel-messi-68-ist-tot.html",
-          "published": "2026-08-08T11:44:32+00:00",
-          "orig_title": "Trauer im Weltfußball – Vater von Superstar Lionel Messi (†68) ist tot",
-          "lang": "de",
-          "translated": true,
-          "access": "unknown"
-        }
-      ]
-    },
-    {
-      "id": 59,
-      "topic": "Sports",
-      "label": "Ukrainian · Vucic · Former",
-      "title": "Vucic doesn't expect quick end to Ukrainian conflict",
-      "summary": "Президент Сербии Александр Вучич выразил сомнения в скором завершении конфликта на Украине после встречи с украинским лидером Владимиром Зеленским. Его слова прозвучали на совместной пресс-конференции",
-      "score": 3.812,
-      "n_outlets": 3,
-      "n_articles": 3,
-      "regions": [
-        "india",
-        "russia"
-      ],
-      "last_seen": "2026-08-08T16:21:40+00:00",
-      "leans": [
-        "center",
-        "left",
-        "state"
-      ],
-      "sources": [
-        {
-          "outlet": "The Hindu",
-          "region": "india",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Former Ukrainian top commander sees no prospect of Kyiv joining NATO",
-          "url": "https://www.thehindu.com/news/international/former-ukrainian-top-commander-sees-no-prospect-of-kyiv-joining-nato/article71304837.ece",
-          "published": "2026-08-08T16:21:40+00:00",
-          "orig_title": "Former Ukrainian top commander sees no prospect of Kyiv joining NATO",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "Kommersant",
-          "region": "russia",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Vucic doesn't expect quick end to Ukrainian conflict",
-          "url": "https://www.kommersant.ru/doc/8875555",
-          "published": "2026-08-08T11:57:41+00:00",
-          "orig_title": "Вучич не ждет скорого окончания украинского конфликта",
-          "lang": "ru",
-          "translated": true,
-          "access": "unknown"
-        },
-        {
-          "outlet": "TASS",
-          "region": "russia",
-          "lean": "state",
-          "ownership": "state",
-          "title": "Vucic says he did not discuss Serbia-Ukraine military cooperation between with Zelensky",
-          "url": "https://tass.com/world/2170493",
-          "published": "2026-08-08T11:22:13+00:00",
-          "orig_title": "Vucic says he did not discuss Serbia-Ukraine military cooperation between with Zelensky",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        }
-      ]
-    },
-    {
-      "id": 36,
-      "topic": "Sports",
-      "label": "League · Lokomotiv · Akron",
-      "title": "Lokomotiv draws with Akron in third round of Russian Premier League",
-      "summary": "Московский «Локомотив» не смог одержать первую победу в новом сезоне РПЛ, сыграв вничью с тольяттинским «Акроном» в домашнем матче третьего тура. Встреча завершилась со счетом 0:0.",
-      "score": 2.872,
-      "n_outlets": 2,
-      "n_articles": 6,
-      "regions": [
-        "europe",
-        "russia"
-      ],
-      "last_seen": "2026-08-08T17:13:23+00:00",
-      "leans": [
-        "center",
-        "right"
-      ],
-      "sources": [
-        {
-          "outlet": "Kommersant",
-          "region": "russia",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Lokomotiv draws with Akron in third round of Russian Premier League",
-          "url": "https://www.kommersant.ru/doc/8875618",
-          "published": "2026-08-08T17:13:23+00:00",
-          "orig_title": "«Локомотив» сыграл вничью с «Акроном» в третьем туре РПЛ",
-          "lang": "ru",
-          "translated": true,
-          "access": "unknown",
-          "more": [
+            },
             {
               "outlet": "Kommersant",
               "region": "russia",
@@ -3822,32 +3577,6 @@
               "url": "https://www.kommersant.ru/doc/8875061",
               "published": "2026-08-07T15:14:26+00:00",
               "orig_title": "Вратарь Матвей Сафонов может покинуть ПСЖ следующим летом",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            },
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Stanley Cup champion Evgeny Kuznetsov joins HC Sibir",
-              "url": "https://www.kommersant.ru/doc/8875535",
-              "published": "2026-08-08T10:35:30+00:00",
-              "orig_title": "Обладатель Кубка Стэнли Евгений Кузнецов присоединился к ХК «Сибирь»",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            },
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Hockey player Nikita Grebenkin signs with Philadelphia",
-              "url": "https://www.kommersant.ru/doc/8864658",
-              "published": "2026-08-07T08:40:26+00:00",
-              "orig_title": "Хоккеист Никита Гребенкин подписал контракт с «Филадельфией»",
               "lang": "ru",
               "translated": true,
               "access": "unknown"
@@ -3878,63 +3607,152 @@
           "orig_title": "Fans verlassen vorzeitig das Stadion – Magdeburg geht unter",
           "lang": "de",
           "translated": true,
-          "access": "unknown"
+          "access": "unknown",
+          "more": [
+            {
+              "outlet": "Die Welt",
+              "region": "europe",
+              "lean": "right",
+              "ownership": "private",
+              "title": "Schalke spectacle – 100,000 attend but witness crushing defeat",
+              "url": "https://www.welt.de/sport/fussball/article6a776c9e0e3689919ec752c0/bundesliga-testspiele-schalke-wahnsinn-100-000-kommen-erleben-aber-eine-klatsche.html",
+              "published": "2026-08-08T18:51:42+00:00",
+              "orig_title": "Schalke-Wahnsinn – 100.000 kommen, erleben aber eine Klatsche",
+              "lang": "de",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Die Welt",
+              "region": "europe",
+              "lean": "right",
+              "ownership": "private",
+              "title": "HSV worried about midfielder prospect Grönbaek",
+              "url": "https://www.welt.de/regionales/hamburg/article6a775b3d3a0d7c37752ea391/remis-im-testspiel-der-hsv-bangt-um-mittelfeldhoffnung-groenbaek.html",
+              "published": "2026-08-08T16:44:22+00:00",
+              "orig_title": "Der HSV bangt um Mittelfeldhoffnung Grönbaek",
+              "lang": "de",
+              "translated": true,
+              "access": "unknown"
+            }
+          ]
         }
       ]
     },
     {
-      "id": 50,
+      "id": 3,
       "topic": "Sports",
-      "label": "HSV · Goalkeeper · Jonathan",
-      "title": "HSV worried about midfielder prospect Grönbaek",
-      "summary": "Der HSV feiert ein achtbares 2:2 gegen Lille – doch die Laune kippt, als sich Neuzugang Albert Grönbaek verletzt und als Schlüsselspieler plötzlich auszufallen droht.",
-      "score": 2.838,
+      "label": "Turkey · Ukraine · moratorium",
+      "title": "Turkey calls on parties to Ukraine conflict to declare moratorium on military operations",
+      "summary": "The request came from Ukraine, Turkish Foreign Minister Hakan Fidan said",
+      "score": 2.974,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
-        "europe"
+        "russia"
       ],
-      "last_seen": "2026-08-08T16:44:22+00:00",
+      "last_seen": "2026-08-08T19:21:31+00:00",
       "leans": [
-        "left",
-        "right"
+        "center",
+        "state"
       ],
       "sources": [
         {
-          "outlet": "Der Spiegel",
-          "region": "europe",
-          "lean": "left",
+          "outlet": "Kommersant",
+          "region": "russia",
+          "lean": "center",
           "ownership": "private",
-          "title": "Goalkeeper Jonathan Klinsmann discusses serious cervical spine injury",
-          "url": "https://www.spiegel.de/sport/fussball/jonathan-klinsmann-torwart-spricht-nach-halswirbelbruch-ueber-schwere-verletzung-a-524c6990-f493-41ed-abc2-bd3fc78294a0#ref=rss",
-          "published": "2026-08-08T12:01:00+00:00",
-          "orig_title": "Jonathan Klinsmann: Torwart spricht nach Halswirbelbruch über schwere Verletzung",
-          "lang": "de",
+          "title": "Turkey proposes moratorium on Black Sea strikes to Russia and Ukraine",
+          "url": "https://www.kommersant.ru/doc/8875625",
+          "published": "2026-08-08T18:17:14+00:00",
+          "orig_title": "Турция предложила России и Украине объявить мораторий на удары в Черном море",
+          "lang": "ru",
           "translated": true,
           "access": "unknown"
         },
         {
-          "outlet": "Die Welt",
-          "region": "europe",
-          "lean": "right",
-          "ownership": "private",
-          "title": "HSV worried about midfielder prospect Grönbaek",
-          "url": "https://www.welt.de/regionales/hamburg/article6a775b3d3a0d7c37752ea391/remis-im-testspiel-der-hsv-bangt-um-mittelfeldhoffnung-groenbaek.html",
-          "published": "2026-08-08T16:44:22+00:00",
-          "orig_title": "Der HSV bangt um Mittelfeldhoffnung Grönbaek",
-          "lang": "de",
-          "translated": true,
-          "access": "unknown"
+          "outlet": "TASS",
+          "region": "russia",
+          "lean": "state",
+          "ownership": "state",
+          "title": "Turkey calls on parties to Ukraine conflict to declare moratorium on military operations",
+          "url": "https://tass.com/world/2170545",
+          "published": "2026-08-08T19:21:31+00:00",
+          "orig_title": "Turkey calls on parties to Ukraine conflict to declare moratorium on military operations",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
         }
       ]
     },
     {
-      "id": 231,
+      "id": 19,
+      "topic": "Sports",
+      "label": "European · Egor · Gromadsky",
+      "title": "Egor Gromadsky becomes European pentathlon champion",
+      "summary": "Российский спортсмен Егор Громадский завоевал золотую медаль на чемпионате Европы по современному пятиборью. Турнир проходит в Стамбуле.",
+      "score": 2.933,
+      "n_outlets": 2,
+      "n_articles": 3,
+      "regions": [
+        "russia"
+      ],
+      "last_seen": "2026-08-08T18:50:15+00:00",
+      "leans": [
+        "center",
+        "state"
+      ],
+      "sources": [
+        {
+          "outlet": "Kommersant",
+          "region": "russia",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Egor Gromadsky becomes European pentathlon champion",
+          "url": "https://www.kommersant.ru/doc/8875626",
+          "published": "2026-08-08T18:50:15+00:00",
+          "orig_title": "Егор Громадский стал чемпионом Европы по пятиборью",
+          "lang": "ru",
+          "translated": true,
+          "access": "unknown",
+          "more": [
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Moscow bids farewell to Olympic champion Ivan Yedesho",
+              "url": "https://www.kommersant.ru/doc/8864740",
+              "published": "2026-08-07T10:17:38+00:00",
+              "orig_title": "В Москве простились с олимпийским чемпионом Иваном Едешко",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            }
+          ]
+        },
+        {
+          "outlet": "TASS",
+          "region": "russia",
+          "lean": "state",
+          "ownership": "state",
+          "title": "Russian athlete wins gold at 2026 European Modern Pentathlon Championships",
+          "url": "https://tass.com/sports/2170537",
+          "published": "2026-08-08T18:16:25+00:00",
+          "orig_title": "Russian athlete wins gold at 2026 European Modern Pentathlon Championships",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 242,
       "topic": "Sports",
       "label": "Korean · Soccer · Association",
       "title": "Korean Soccer Association allegedly provided sexual favors to foreign referees, report says Japanese included",
       "summary": "Korean Soccer Association allegedly provided sexual favors to foreign referees, report says Japanese included",
-      "score": 2.476,
+      "score": 2.445,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -3976,12 +3794,12 @@
       ]
     },
     {
-      "id": 4,
+      "id": 25,
       "topic": "Sports",
       "label": "Star · Last · Us'",
       "title": "Star from 'The Last of Us': Bella Ramsey ashamed of earning so much money",
       "summary": "Erstaunlich, wie zerknirscht man über den eigenen Erfolg sein kann! In einem Interview offenbart Bella Ramsey, wie peinlich es sich anfühlt, mit 22 schon eine eigene Wohnung kaufen zu können.",
-      "score": 1.97,
+      "score": 1.907,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -4008,59 +3826,12 @@
       ]
     },
     {
-      "id": 10,
-      "topic": "Sports",
-      "label": "Russian · European · Modern",
-      "title": "Russian athlete wins gold at 2026 European Modern Pentathlon Championships",
-      "summary": "Hungary's Botond Tamas finished second with 1,599 points, while Italy's Giorgio Malan took the bronze with 1,592 points",
-      "score": 1.952,
-      "n_outlets": 1,
-      "n_articles": 2,
-      "regions": [
-        "russia"
-      ],
-      "last_seen": "2026-08-08T18:16:25+00:00",
-      "leans": [
-        "state"
-      ],
-      "sources": [
-        {
-          "outlet": "TASS",
-          "region": "russia",
-          "lean": "state",
-          "ownership": "state",
-          "title": "Russian athlete wins gold at 2026 European Modern Pentathlon Championships",
-          "url": "https://tass.com/sports/2170537",
-          "published": "2026-08-08T18:16:25+00:00",
-          "orig_title": "Russian athlete wins gold at 2026 European Modern Pentathlon Championships",
-          "lang": "en",
-          "translated": false,
-          "access": "open",
-          "more": [
-            {
-              "outlet": "TASS",
-              "region": "russia",
-              "lean": "state",
-              "ownership": "state",
-              "title": "Russia’s Samsonova through to fourth round of 2026 WTA Toronto Open tennis tournament",
-              "url": "https://tass.com/sports/2170401",
-              "published": "2026-08-07T23:27:04+00:00",
-              "orig_title": "Russia’s Samsonova through to fourth round of 2026 WTA Toronto Open tennis tournament",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 61,
+      "id": 76,
       "topic": "Sports",
       "label": "Bangladesh · Australia · Coach",
-      "title": "Bangladesh crash to 54 against CA XI: Coach Simmons admits 'it wasn't nice'",
-      "summary": "Bangladesh’s batting order faced a severe setback in a recent practice match held in Darwin, where the team crumbled to a mere 54 runs due to Campbell Thompson's exceptional bowling performance, earni",
-      "score": 1.807,
+      "title": "Australia pacer takes 8/25 as Bangladesh bowled out for 54, lose match by an innings",
+      "summary": "Campbell Thompson was the main contributor to Bangladesh’s collapse, taking eight wickets for 25 runs in the second innings at Marrara Oval. The 22-year-old left-arm fast bowler had taken two wickets ",
+      "score": 1.754,
       "n_outlets": 1,
       "n_articles": 2,
       "regions": [
@@ -4076,10 +3847,10 @@
           "region": "india",
           "lean": "center",
           "ownership": "private",
-          "title": "Bangladesh crash to 54 against CA XI: Coach Simmons admits 'it wasn't nice'",
-          "url": "https://timesofindia.indiatimes.com/sports/cricket/news/bangladesh-crash-to-54-against-ca-xi-coach-simmons-admits-it-wasnt-nice-ahead-of-australia-tests/articleshow/133048365.cms",
-          "published": "2026-08-08T07:24:21+00:00",
-          "orig_title": "Bangladesh crash to 54 against CA XI: Coach Simmons admits 'it wasn't nice'",
+          "title": "Australia pacer takes 8/25 as Bangladesh bowled out for 54, lose match by an innings",
+          "url": "https://timesofindia.indiatimes.com/sports/cricket/news/australia-pacer-takes-8/25-as-bangladesh-bowled-out-for-54-lose-match-by-an-innings/articleshow/133055344.cms",
+          "published": "2026-08-08T16:17:12+00:00",
+          "orig_title": "Australia pacer takes 8/25 as Bangladesh bowled out for 54, lose match by an innings",
           "lang": "en",
           "translated": false,
           "access": "open",
@@ -4089,10 +3860,10 @@
               "region": "india",
               "lean": "center",
               "ownership": "private",
-              "title": "Australia pacer takes 8/25 as Bangladesh bowled out for 54, lose match by an innings",
-              "url": "https://timesofindia.indiatimes.com/sports/cricket/news/australia-pacer-takes-8/25-as-bangladesh-bowled-out-for-54-lose-match-by-an-innings/articleshow/133055344.cms",
-              "published": "2026-08-08T16:17:12+00:00",
-              "orig_title": "Australia pacer takes 8/25 as Bangladesh bowled out for 54, lose match by an innings",
+              "title": "Bangladesh crash to 54 against CA XI: Coach Simmons admits 'it wasn't nice'",
+              "url": "https://timesofindia.indiatimes.com/sports/cricket/news/bangladesh-crash-to-54-against-ca-xi-coach-simmons-admits-it-wasnt-nice-ahead-of-australia-tests/articleshow/133048365.cms",
+              "published": "2026-08-08T07:24:21+00:00",
+              "orig_title": "Bangladesh crash to 54 against CA XI: Coach Simmons admits 'it wasn't nice'",
               "lang": "en",
               "translated": false,
               "access": "open"
@@ -4102,12 +3873,12 @@
       ]
     },
     {
-      "id": 86,
+      "id": 96,
       "topic": "Sports",
       "label": "Utah · year-old · sister",
       "title": "2-year-old sister becomes perfect bone marrow match for Utah girl with aplastic anemia",
       "summary": "Emma Meline, a young girl diagnosed with severe aplastic anemia right before Christmas, found hope in her little sister Lucy. At only two years old, Lucy bravely became a bone marrow donor, granting E",
-      "score": 1.756,
+      "score": 1.707,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -4134,12 +3905,12 @@
       ]
     },
     {
-      "id": 98,
+      "id": 108,
       "topic": "Sports",
       "label": "Export · ATF · levy",
       "title": "Export levy on petrol, diesel and ATF hiked",
       "summary": "Since the peak of the West Asia conflict late March, the government has undertaken fortnightly reviews of export duty.",
-      "score": 1.739,
+      "score": 1.691,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -4162,6 +3933,124 @@
           "lang": "en",
           "translated": false,
           "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 116,
+      "topic": "Sports",
+      "label": "India · Sudharsan · Test",
+      "title": "Sarfaraz, Rasheed emerge as frontrunners to replace Sudharsan in India Test",
+      "summary": "Sai Sudharsan is all but ruled out of India's Sri Lanka Tests due to a foot niggle, with Shaik Rasheed and Sarfaraz Khan emerging as the frontrunners to replace him. Rasheed's recent India A stint and",
+      "score": 1.669,
+      "n_outlets": 1,
+      "n_articles": 5,
+      "regions": [
+        "india"
+      ],
+      "last_seen": "2026-08-08T14:50:33+00:00",
+      "leans": [
+        "center"
+      ],
+      "sources": [
+        {
+          "outlet": "Times of India",
+          "region": "india",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Sarfaraz, Rasheed emerge as frontrunners to replace Sudharsan in India Test",
+          "url": "https://timesofindia.indiatimes.com/sports/cricket/news/shaik-rasheed-sarfaraz-khan-emerge-as-frontrunners-to-replace-sai-sudharsan-in-india-test-squad/articleshow/133049814.cms",
+          "published": "2026-08-08T09:24:46+00:00",
+          "orig_title": "Sarfaraz, Rasheed emerge as frontrunners to replace Sudharsan in India Test",
+          "lang": "en",
+          "translated": false,
+          "access": "open",
+          "more": [
+            {
+              "outlet": "Times of India",
+              "region": "india",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Why Devdutt Padikkal's fluent ton allows India to breathe easy",
+              "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/why-devdutt-padikkals-fluent-ton-allows-india-to-breathe-easy/articleshow/133051615.cms",
+              "published": "2026-08-08T13:02:01+00:00",
+              "orig_title": "Why Devdutt Padikkal's fluent ton allows India to breathe easy",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            },
+            {
+              "outlet": "Times of India",
+              "region": "india",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Bumrah to Sudharsan: Full list of players ruled out of Sri Lanka Tests",
+              "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/jasprit-bumrah-to-sai-sudharsan-full-list-of-players-ruled-out-of-sri-lanka-tests-due-to-injuries/articleshow/133050286.cms",
+              "published": "2026-08-08T11:05:16+00:00",
+              "orig_title": "Bumrah to Sudharsan: Full list of players ruled out of Sri Lanka Tests",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            },
+            {
+              "outlet": "Times of India",
+              "region": "india",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Padikkal hits century, Pant &amp; Jurel fail: How India's batters fared vs SLC XI",
+              "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/devdutt-padikkal-hits-century-as-pant-and-jurel-falter-how-indias-batters-fared-on-day-2-vs-slc-xi/articleshow/133054598.cms",
+              "published": "2026-08-08T14:50:33+00:00",
+              "orig_title": "Padikkal hits century, Pant &amp; Jurel fail: How India's batters fared vs SLC XI",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            },
+            {
+              "outlet": "Times of India",
+              "region": "india",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Shubman Gill unlikely to bat in warm-up game, on track for Galle Test",
+              "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/shubman-gill-unlikely-to-bat-in-warm-up-game-on-track-for-galle-test-against-sri-lanka/articleshow/133046914.cms",
+              "published": "2026-08-08T05:12:27+00:00",
+              "orig_title": "Shubman Gill unlikely to bat in warm-up game, on track for Galle Test",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 121,
+      "topic": "Sports",
+      "label": "Yuto · Nagatomo's · J-League",
+      "title": "Yuto Nagatomo's continued career: what it means as J-League faces its last remaining challenge",
+      "summary": "Yuto Nagatomo's continued career: what it means as J-League faces its last remaining challenge",
+      "score": 1.66,
+      "n_outlets": 1,
+      "n_articles": 1,
+      "regions": [
+        "japan"
+      ],
+      "last_seen": "2026-08-08T14:41:30+00:00",
+      "leans": [
+        "left"
+      ],
+      "sources": [
+        {
+          "outlet": "Asahi Shimbun",
+          "region": "japan",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Yuto Nagatomo's continued career: what it means as J-League faces its last remaining challenge",
+          "url": "http://www.asahi.com/articles/ASV884JY9V88UTQP026M.html?ref=rss",
+          "published": "2026-08-08T14:41:30+00:00",
+          "orig_title": "Jリーグに残った最後の「壁」に 長友佑都が現役続行する意味とは",
+          "lang": "ja",
+          "translated": true,
+          "access": "unknown"
         }
       ]
     }
