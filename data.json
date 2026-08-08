@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T05:08:42.851511+00:00",
+  "generated_at": "2026-08-08T06:13:35.410749+00:00",
   "topics": [
     "World & Politics",
     "Economics",
@@ -14,28 +14,28 @@
       "name": "United States",
       "lat": 39.0,
       "lng": -98.0,
-      "count": 24
+      "count": 23
     },
     {
       "id": "europe",
       "name": "Europe",
       "lat": 50.0,
       "lng": 10.0,
-      "count": 28
+      "count": 26
     },
     {
       "id": "china",
       "name": "China",
       "lat": 35.0,
       "lng": 105.0,
-      "count": 14
+      "count": 15
     },
     {
       "id": "india",
       "name": "India",
       "lat": 22.0,
       "lng": 79.0,
-      "count": 30
+      "count": 29
     },
     {
       "id": "australia",
@@ -56,31 +56,31 @@
       "name": "Africa",
       "lat": 2.0,
       "lng": 21.0,
-      "count": 3
+      "count": 4
     },
     {
       "id": "japan",
       "name": "Japan",
       "lat": 36.5,
       "lng": 139.0,
-      "count": 13
+      "count": 14
     },
     {
       "id": "russia",
       "name": "Russia",
       "lat": 61.0,
       "lng": 90.0,
-      "count": 27
+      "count": 26
     }
   ],
   "clusters": [
     {
-      "id": 27,
+      "id": 54,
       "topic": "World & Politics",
       "label": "Colombia · Espriella · Trump",
       "title": "Colombia: Trump ally De la Espriella takes office",
       "summary": "Conservative Abelardo de la Espriella was sworn in as Colombia's president, promising to crack down on armed drug gangs.",
-      "score": 12.92,
+      "score": 12.84,
       "n_outlets": 12,
       "n_articles": 15,
       "regions": [
@@ -302,12 +302,187 @@
       ]
     },
     {
-      "id": 118,
+      "id": 0,
+      "topic": "World & Politics",
+      "label": "Saudi · Arabia · Pakistan",
+      "title": "Saudi Arabia, Turkey and Pakistan Sign Joint Defense Pact",
+      "summary": "The agreement treats an attack on any of the countries as an attack on all, but in a region of volatile rivalries, it was unclear how it would work in practice.",
+      "score": 9.992,
+      "n_outlets": 9,
+      "n_articles": 11,
+      "regions": [
+        "africa",
+        "china",
+        "europe",
+        "india",
+        "japan",
+        "russia",
+        "us"
+      ],
+      "last_seen": "2026-08-08T06:07:36+00:00",
+      "leans": [
+        "center",
+        "left",
+        "right",
+        "state"
+      ],
+      "sources": [
+        {
+          "outlet": "The Hindu",
+          "region": "india",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Pakistan, Saudi Arabia, Turkiye sign joint defence agreement",
+          "url": "https://www.thehindu.com/news/international/pakistan-saudi-and-turkiye-sign-joint-defence-agreement/article71317632.ece",
+          "published": "2026-08-07T15:55:16+00:00",
+          "orig_title": "Pakistan, Saudi Arabia, Turkiye sign joint defence agreement",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "The New York Times",
+          "region": "us",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Saudi Arabia, Turkey and Pakistan Sign Joint Defense Pact",
+          "url": "https://www.nytimes.com/2026/08/07/world/middleeast/saudi-turkey-pakistan-joint-defense-pact.html",
+          "published": "2026-08-07T16:29:25+00:00",
+          "orig_title": "Saudi Arabia, Turkey and Pakistan Sign Joint Defense Pact",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall"
+        },
+        {
+          "outlet": "BBC News",
+          "region": "europe",
+          "lean": "center",
+          "ownership": "public",
+          "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
+          "url": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-07T17:42:54+00:00",
+          "orig_title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "Kommersant",
+          "region": "russia",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Saudi Arabia, Pakistan and Turkey form defensive alliance",
+          "url": "https://www.kommersant.ru/doc/8874894",
+          "published": "2026-08-07T11:27:26+00:00",
+          "orig_title": "Саудовская Аравия, Пакистан и Турция образовали оборонительный союз",
+          "lang": "ru",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
+          "outlet": "Premium Times",
+          "region": "africa",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Saudi Arabia, Turkiye, Pakistan sign joint defence agreement",
+          "url": "https://www.premiumtimesng.com/foreign/901449-saudi-arabia-turkiye-pakistan-sign-joint-defence-agreement.html",
+          "published": "2026-08-08T06:07:36+00:00",
+          "orig_title": "Saudi Arabia, Turkiye, Pakistan sign joint defence agreement",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "South China Morning Post",
+          "region": "china",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Saudi Arabia, Turkey and Pakistan sign joint defence deal amid regional turmoil",
+          "url": "https://www.scmp.com/news/world/middle-east/article/3363340/saudi-arabia-turkey-and-pakistan-sign-joint-defence-deal-amid-regional-turmoil?utm_source=rss_feed",
+          "published": "2026-08-07T11:27:39+00:00",
+          "orig_title": "Saudi Arabia, Turkey and Pakistan sign joint defence deal amid regional turmoil",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "The Japan Times",
+          "region": "japan",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Saudi Arabia, Turkey, Pakistan sign defense pact amid regional war",
+          "url": "https://www.japantimes.co.jp/news/2026/08/08/world/saudi-arabia-turkey-pakistan-defense-pact/",
+          "published": "2026-08-07T23:38:00+00:00",
+          "orig_title": "Saudi Arabia, Turkey, Pakistan sign defense pact amid regional war",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall"
+        },
+        {
+          "outlet": "The Wall Street Journal",
+          "region": "us",
+          "lean": "right",
+          "ownership": "private",
+          "title": "Saudi Arabia, Turkey and Pakistan Sign Defense Pact",
+          "url": "https://www.wsj.com/world/middle-east/saudi-arabia-turkey-and-pakistan-sign-defense-pact-ba80d84d?mod=rss_worldnews",
+          "published": "2026-08-07T13:52:00+00:00",
+          "orig_title": "Saudi Arabia, Turkey and Pakistan Sign Defense Pact",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall",
+          "more": [
+            {
+              "outlet": "The Wall Street Journal",
+              "region": "us",
+              "lean": "right",
+              "ownership": "private",
+              "title": "Opinion | The Saudis Spurn the Abraham Accords",
+              "url": "https://www.wsj.com/opinion/saudis-spurn-abraham-accords-mecca-pact-turkey-pakistan-1ed8fb15?mod=rss_worldnews",
+              "published": "2026-08-07T21:31:00+00:00",
+              "orig_title": "Opinion | The Saudis Spurn the Abraham Accords",
+              "lang": "en",
+              "translated": false,
+              "access": "paywall"
+            }
+          ]
+        },
+        {
+          "outlet": "TASS",
+          "region": "russia",
+          "lean": "state",
+          "ownership": "state",
+          "title": "Ankara-Riyadh-Islamabad alliance stems from geopolitics — expert",
+          "url": "https://tass.com/world/2170195",
+          "published": "2026-08-07T12:04:58+00:00",
+          "orig_title": "Ankara-Riyadh-Islamabad alliance stems from geopolitics — expert",
+          "lang": "en",
+          "translated": false,
+          "access": "open",
+          "more": [
+            {
+              "outlet": "TASS",
+              "region": "russia",
+              "lean": "state",
+              "ownership": "state",
+              "title": "Saudi Arabia, Turkey, Pakistan to consider attack on one country as attack on all",
+              "url": "https://tass.com/world/2170183",
+              "published": "2026-08-07T11:27:07+00:00",
+              "orig_title": "Saudi Arabia, Turkey, Pakistan to consider attack on one country as attack on all",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145,
       "topic": "World & Politics",
       "label": "Italy · Spain · border",
       "title": "Ceuta: Spain sets up border controls on travelers from Italy",
       "summary": "Spain had warned Italy it would impose entry checks on visitors unless Rome halts its controls by Sunday. Even though they don't share a land border, the countries entered a spat after the Ceuta borde",
-      "score": 9.772,
+      "score": 9.705,
       "n_outlets": 9,
       "n_articles": 12,
       "regions": [
@@ -487,12 +662,12 @@
       ]
     },
     {
-      "id": 218,
+      "id": 247,
       "topic": "World & Politics",
       "label": "Thailand · shooting · school",
       "title": "Thailand school shooting: eight killed including suspected attacker, police say",
       "summary": "Teenager killed his grandparents ⁠before opening fire at school near Bangkok, where more than 30 were wounded A Thai teenager killed his grandparents before opening fire at his school, where he shot f",
-      "score": 9.521,
+      "score": 9.476,
       "n_outlets": 9,
       "n_articles": 12,
       "regions": [
@@ -673,188 +848,12 @@
       ]
     },
     {
-      "id": 40,
-      "topic": "World & Politics",
-      "label": "Pakistan · Saudi · Arabia",
-      "title": "Saudi Arabia, Turkey and Pakistan Sign Joint Defense Pact",
-      "summary": "The agreement treats an attack on any of the countries as an attack on all, but in a region of volatile rivalries, it was unclear how it would work in practice.",
-      "score": 8.897,
-      "n_outlets": 8,
-      "n_articles": 11,
-      "regions": [
-        "china",
-        "europe",
-        "india",
-        "japan",
-        "russia",
-        "us"
-      ],
-      "last_seen": "2026-08-08T03:50:25+00:00",
-      "leans": [
-        "center",
-        "left",
-        "right",
-        "state"
-      ],
-      "sources": [
-        {
-          "outlet": "The Hindu",
-          "region": "india",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Pakistan, Saudi Arabia, Turkiye sign joint defence agreement",
-          "url": "https://www.thehindu.com/news/international/pakistan-saudi-and-turkiye-sign-joint-defence-agreement/article71317632.ece",
-          "published": "2026-08-07T15:55:16+00:00",
-          "orig_title": "Pakistan, Saudi Arabia, Turkiye sign joint defence agreement",
-          "lang": "en",
-          "translated": false,
-          "access": "open",
-          "more": [
-            {
-              "outlet": "The Hindu",
-              "region": "india",
-              "lean": "left",
-              "ownership": "private",
-              "title": "Pakistan ‘doing its utmost’ to bring U.S., Iran back to negotiating table: Foreign Office",
-              "url": "https://www.thehindu.com/news/international/pakistan-doing-its-utmost-to-bring-us-iran-back-to-negotiating-table-foreign-office/article71286172.ece",
-              "published": "2026-08-08T03:50:25+00:00",
-              "orig_title": "Pakistan ‘doing its utmost’ to bring U.S., Iran back to negotiating table: Foreign Office",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
-            }
-          ]
-        },
-        {
-          "outlet": "The New York Times",
-          "region": "us",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Saudi Arabia, Turkey and Pakistan Sign Joint Defense Pact",
-          "url": "https://www.nytimes.com/2026/08/07/world/middleeast/saudi-turkey-pakistan-joint-defense-pact.html",
-          "published": "2026-08-07T16:29:25+00:00",
-          "orig_title": "Saudi Arabia, Turkey and Pakistan Sign Joint Defense Pact",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
-        },
-        {
-          "outlet": "BBC News",
-          "region": "europe",
-          "lean": "center",
-          "ownership": "public",
-          "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
-          "url": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-07T17:42:54+00:00",
-          "orig_title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "Kommersant",
-          "region": "russia",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Saudi Arabia, Pakistan and Turkey form defensive alliance",
-          "url": "https://www.kommersant.ru/doc/8874894",
-          "published": "2026-08-07T11:27:26+00:00",
-          "orig_title": "Саудовская Аравия, Пакистан и Турция образовали оборонительный союз",
-          "lang": "ru",
-          "translated": true,
-          "access": "unknown"
-        },
-        {
-          "outlet": "South China Morning Post",
-          "region": "china",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Saudi Arabia, Turkey and Pakistan sign joint defence deal amid regional turmoil",
-          "url": "https://www.scmp.com/news/world/middle-east/article/3363340/saudi-arabia-turkey-and-pakistan-sign-joint-defence-deal-amid-regional-turmoil?utm_source=rss_feed",
-          "published": "2026-08-07T11:27:39+00:00",
-          "orig_title": "Saudi Arabia, Turkey and Pakistan sign joint defence deal amid regional turmoil",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "The Japan Times",
-          "region": "japan",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Saudi Arabia, Turkey, Pakistan sign defense pact amid regional war",
-          "url": "https://www.japantimes.co.jp/news/2026/08/08/world/saudi-arabia-turkey-pakistan-defense-pact/",
-          "published": "2026-08-07T23:38:00+00:00",
-          "orig_title": "Saudi Arabia, Turkey, Pakistan sign defense pact amid regional war",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
-        },
-        {
-          "outlet": "The Wall Street Journal",
-          "region": "us",
-          "lean": "right",
-          "ownership": "private",
-          "title": "Saudi Arabia, Turkey and Pakistan Sign Defense Pact",
-          "url": "https://www.wsj.com/world/middle-east/saudi-arabia-turkey-and-pakistan-sign-defense-pact-ba80d84d?mod=rss_worldnews",
-          "published": "2026-08-07T13:52:00+00:00",
-          "orig_title": "Saudi Arabia, Turkey and Pakistan Sign Defense Pact",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall",
-          "more": [
-            {
-              "outlet": "The Wall Street Journal",
-              "region": "us",
-              "lean": "right",
-              "ownership": "private",
-              "title": "Opinion | The Saudis Spurn the Abraham Accords",
-              "url": "https://www.wsj.com/opinion/saudis-spurn-abraham-accords-mecca-pact-turkey-pakistan-1ed8fb15?mod=rss_worldnews",
-              "published": "2026-08-07T21:31:00+00:00",
-              "orig_title": "Opinion | The Saudis Spurn the Abraham Accords",
-              "lang": "en",
-              "translated": false,
-              "access": "paywall"
-            }
-          ]
-        },
-        {
-          "outlet": "TASS",
-          "region": "russia",
-          "lean": "state",
-          "ownership": "state",
-          "title": "Ankara-Riyadh-Islamabad alliance stems from geopolitics — expert",
-          "url": "https://tass.com/world/2170195",
-          "published": "2026-08-07T12:04:58+00:00",
-          "orig_title": "Ankara-Riyadh-Islamabad alliance stems from geopolitics — expert",
-          "lang": "en",
-          "translated": false,
-          "access": "open",
-          "more": [
-            {
-              "outlet": "TASS",
-              "region": "russia",
-              "lean": "state",
-              "ownership": "state",
-              "title": "Saudi Arabia, Turkey, Pakistan to consider attack on one country as attack on all",
-              "url": "https://tass.com/world/2170183",
-              "published": "2026-08-07T11:27:07+00:00",
-              "orig_title": "Saudi Arabia, Turkey, Pakistan to consider attack on one country as attack on all",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 85,
+      "id": 22,
       "topic": "World & Politics",
       "label": "Hormuz · Strait · Iran",
       "title": "Iran and Oman finalize Strait of Hormuz agreement amid Trump threats",
       "summary": "Este pacto, que estaría en vigor 60 días, es visto por Teherán como una “soberanía efectiva” sobre el estrecho",
-      "score": 7.854,
+      "score": 7.928,
       "n_outlets": 7,
       "n_articles": 10,
       "regions": [
@@ -863,7 +862,7 @@
         "russia",
         "us"
       ],
-      "last_seen": "2026-08-08T03:15:09+00:00",
+      "last_seen": "2026-08-08T05:20:05+00:00",
       "leans": [
         "center",
         "left",
@@ -929,7 +928,7 @@
               "ownership": "private",
               "title": "West Asia war LIVE: U.S. expects deal soon on Strait of Hormuz",
               "url": "https://www.thehindu.com/news/international/west-asia-war-us-iran-deal-strait-of-hormuz-yemen-houthis-saudi-arabia-live-updates-august-8-2026/article71320445.ece",
-              "published": "2026-08-08T03:15:09+00:00",
+              "published": "2026-08-08T05:20:05+00:00",
               "orig_title": "West Asia war LIVE: U.S. expects deal soon on Strait of Hormuz",
               "lang": "en",
               "translated": false,
@@ -1007,12 +1006,155 @@
       ]
     },
     {
-      "id": 148,
+      "id": 116,
+      "topic": "World & Politics",
+      "label": "Yabloko · Duma · party",
+      "title": "Russia’s nationalist Rodina party demands anti-war Yabloko party be pulled from State Duma race",
+      "summary": "Russia’s Rodina party has filed a lawsuit with the country’s Supreme Court seeking to remove Yabloko from the ballot, Rodina leader and sitting State Duma deputy Alexey Zhuravlev told the Russian stat",
+      "score": 7.774,
+      "n_outlets": 7,
+      "n_articles": 9,
+      "regions": [
+        "china",
+        "europe",
+        "japan",
+        "russia"
+      ],
+      "last_seen": "2026-08-08T03:09:30+00:00",
+      "leans": [
+        "center",
+        "left",
+        "state"
+      ],
+      "sources": [
+        {
+          "outlet": "Asahi Shimbun",
+          "region": "japan",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Russia's only anti-war party faces election ban as extremist designation could prohibit activities",
+          "url": "http://www.asahi.com/articles/ASV876T7RV87UHBI01WM.html?ref=rss",
+          "published": "2026-08-07T20:52:36+00:00",
+          "orig_title": "ロシア唯一の反戦政党、選挙排除の危機 「過激派」指定なら活動禁止",
+          "lang": "ja",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
+          "outlet": "Der Spiegel",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Russia and Yabloko party's Nikolai Rybakov: 'We can only express our opinion legally through elections'",
+          "url": "https://www.spiegel.de/ausland/russland-und-jabloko-partei-nikolaj-rybakow-koennen-nur-noch-bei-wahlen-legal-unsere-meinung-sagen-a-42f879e5-8dcd-4f54-b667-da6062bfa599#ref=rss",
+          "published": "2026-08-07T18:52:00+00:00",
+          "orig_title": "Russland und Jabloko-Partei Nikolaj Rybakow: »Können nur noch bei Wahlen legal unsere Meinung sagen«",
+          "lang": "de",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
+          "outlet": "Kommersant",
+          "region": "russia",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Yabloko party ordered off ballot for extremism and copyright violations",
+          "url": "https://www.kommersant.ru/doc/8874880",
+          "published": "2026-08-07T11:20:27+00:00",
+          "orig_title": "«Яблоко» требуют снять с выборов за экстремизм и нарушение авторских прав",
+          "lang": "ru",
+          "translated": true,
+          "access": "unknown",
+          "more": [
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Lawsuit filed in Supreme Court demanding removal of Yabloko party from State Duma elections",
+              "url": "https://www.kommersant.ru/doc/8870186",
+              "published": "2026-08-07T10:44:30+00:00",
+              "orig_title": "В Верховный суд поступил иск о снятии партии «Яблоко» с выборов в Госдуму",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Yabloko party distances itself from foreign-backed support campaign",
+              "url": "https://www.kommersant.ru/doc/8864657",
+              "published": "2026-08-07T13:46:53+00:00",
+              "orig_title": "Партия «Яблоко» дистанцировалась от кампании в свою поддержку из-за границы",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            }
+          ]
+        },
+        {
+          "outlet": "Meduza",
+          "region": "russia",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Russia’s nationalist Rodina party demands anti-war Yabloko party be pulled from State Duma race",
+          "url": "https://meduza.io/en/news/2026/08/07/russia-s-nationalist-rodina-party-demands-anti-war-yabloko-party-be-pulled-from-state-duma-race",
+          "published": "2026-08-07T11:55:36+00:00",
+          "orig_title": "Russia’s nationalist Rodina party demands anti-war Yabloko party be pulled from State Duma race",
+          "lang": "en",
+          "translated": false,
+          "access": "unknown"
+        },
+        {
+          "outlet": "South China Morning Post",
+          "region": "china",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Russia’s sole anti-war party targets coming elections, favours ceasefire",
+          "url": "https://www.scmp.com/news/world/russia-central-asia/article/3363376/russias-sole-anti-war-party-targets-coming-elections-favours-ceasefire?utm_source=rss_feed",
+          "published": "2026-08-08T03:09:30+00:00",
+          "orig_title": "Russia’s sole anti-war party targets coming elections, favours ceasefire",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "The Moscow Times",
+          "region": "russia",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Nationalist Rodina Party Sues to Disqualify Yabloko From State Duma Elections",
+          "url": "https://www.themoscowtimes.com/2026/08/07/nationalist-rodina-party-sues-to-disqualify-yabloko-from-state-duma-elections-a93438",
+          "published": "2026-08-07T12:11:00+00:00",
+          "orig_title": "Nationalist Rodina Party Sues to Disqualify Yabloko From State Duma Elections",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "TASS",
+          "region": "russia",
+          "lean": "state",
+          "ownership": "state",
+          "title": "Russian Deputy files petition to disqualify Yabloko party from Duma elections",
+          "url": "https://tass.com/politics/2170217",
+          "published": "2026-08-07T12:48:50+00:00",
+          "orig_title": "Russian Deputy files petition to disqualify Yabloko party from Duma elections",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 175,
       "topic": "World & Politics",
       "label": "Trump · White · House",
       "title": "US court blocks Trump’s US$400 million White House ballroom project",
       "summary": "A US federal appeal court ordered Donald Trump’s administration on Friday to stop construction on a US$400 million ballroom on the site of the White House’s demolished East Wing, dealing the Republica",
-      "score": 7.696,
+      "score": 7.636,
       "n_outlets": 7,
       "n_articles": 7,
       "regions": [
@@ -1124,144 +1266,12 @@
       ]
     },
     {
-      "id": 1,
-      "topic": "World & Politics",
-      "label": "Russian · Kyiv · strikes",
-      "title": "At least three killed in Russian strikes in Kyiv region, official says",
-      "summary": "Three more ‌people were injured ​in the attack",
-      "score": 6.992,
-      "n_outlets": 6,
-      "n_articles": 8,
-      "regions": [
-        "europe",
-        "india",
-        "russia"
-      ],
-      "last_seen": "2026-08-08T05:02:52+00:00",
-      "leans": [
-        "center",
-        "left",
-        "right",
-        "state"
-      ],
-      "sources": [
-        {
-          "outlet": "The Hindu",
-          "region": "india",
-          "lean": "left",
-          "ownership": "private",
-          "title": "At least three killed in Russian strikes in Kyiv region, official says",
-          "url": "https://www.thehindu.com/news/international/russia-strikes-attack-on-ukraine-updates-toll-august-8-2026/article71320452.ece",
-          "published": "2026-08-08T02:53:52+00:00",
-          "orig_title": "At least three killed in Russian strikes in Kyiv region, official says",
-          "lang": "en",
-          "translated": false,
-          "access": "open",
-          "more": [
-            {
-              "outlet": "The Hindu",
-              "region": "india",
-              "lean": "left",
-              "ownership": "private",
-              "title": "Russian strikes across Ukraine kill 9 and NATO scrambles jets after a missile falls in Poland",
-              "url": "https://www.thehindu.com/news/international/russian-strikes-across-ukraine-kill-9-and-nato-scrambles-jets-after-a-missile-falls-in-poland/article71287476.ece",
-              "published": "2026-08-08T04:30:07+00:00",
-              "orig_title": "Russian strikes across Ukraine kill 9 and NATO scrambles jets after a missile falls in Poland",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
-            }
-          ]
-        },
-        {
-          "outlet": "BBC News",
-          "region": "europe",
-          "lean": "center",
-          "ownership": "public",
-          "title": "Child among three killed in Russian missile attacks near Kyiv",
-          "url": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-08T04:23:33+00:00",
-          "orig_title": "Child among three killed in Russian missile attacks near Kyiv",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "Kommersant",
-          "region": "russia",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Eleven people injured in Ukrainian strikes on DNR",
-          "url": "https://www.kommersant.ru/doc/8875416",
-          "published": "2026-08-07T23:10:08+00:00",
-          "orig_title": "Одиннадцать человек пострадали при ударах ВСУ по ДНР",
-          "lang": "ru",
-          "translated": true,
-          "access": "unknown",
-          "more": [
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Russian hackers obtained data on Ukrainian strikes against oil terminals",
-              "url": "https://www.kommersant.ru/doc/8875099",
-              "published": "2026-08-07T16:04:33+00:00",
-              "orig_title": "Российские хакеры получили данные об ударах ВСУ по нефтяным терминалам",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            }
-          ]
-        },
-        {
-          "outlet": "Politico Europe",
-          "region": "europe",
-          "lean": "center",
-          "ownership": "private",
-          "title": "EU adds 5 people to Russia sanctions list after latest deadly attacks on Ukraine",
-          "url": "https://www.politico.eu/article/eu-sanctions-russia-attacks-ukraine/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-          "published": "2026-08-07T13:23:10+00:00",
-          "orig_title": "EU adds 5 people to Russia sanctions list after latest deadly attacks on Ukraine",
-          "lang": "en",
-          "translated": false,
-          "access": "unknown"
-        },
-        {
-          "outlet": "Die Welt",
-          "region": "europe",
-          "lean": "right",
-          "ownership": "private",
-          "title": "Russian attack wave on Kyiv and surroundings leaves child among dead",
-          "url": "https://www.welt.de/politik/ausland/article6a7685b40e3689919ec7480b/ukraine-krieg-russische-angriffswelle-auf-kiew-und-umgebung-kind-unter-den-todesopfern.html",
-          "published": "2026-08-08T01:50:49+00:00",
-          "orig_title": "Russische Angriffswelle auf Kiew und Umgebung – Kind unter den Todesopfern",
-          "lang": "de",
-          "translated": true,
-          "access": "unknown"
-        },
-        {
-          "outlet": "TASS",
-          "region": "russia",
-          "lean": "state",
-          "ownership": "state",
-          "title": "Russian forces strike defense enterprise, fuel depot in Kiev",
-          "url": "https://tass.com/defense/2170441",
-          "published": "2026-08-08T05:02:52+00:00",
-          "orig_title": "Russian forces strike defense enterprise, fuel depot in Kiev",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        }
-      ]
-    },
-    {
-      "id": 172,
+      "id": 200,
       "topic": "World & Politics",
       "label": "Trump · birthright · citizenship",
       "title": "Trump again tries to limit US birthright citizenship with new executive orders",
       "summary": "The executive orders ban birth tourism and expand the existing definition of people whose children are not eligible for US birthright citizenship.",
-      "score": 6.632,
+      "score": 6.577,
       "n_outlets": 6,
       "n_articles": 8,
       "regions": [
@@ -1389,12 +1399,12 @@
       ]
     },
     {
-      "id": 15,
+      "id": 42,
       "topic": "World & Politics",
       "label": "toll · Kumamoto · Japan",
       "title": "Kumamoto earthquake death toll rises to 39, one more under investigation for disaster-related cause",
       "summary": "Kumamoto earthquake death toll rises to 39, one more under investigation for disaster-related cause",
-      "score": 5.96,
+      "score": 5.877,
       "n_outlets": 5,
       "n_articles": 5,
       "regions": [
@@ -1478,12 +1488,12 @@
       ]
     },
     {
-      "id": 119,
+      "id": 146,
       "topic": "World & Politics",
       "label": "Trump · Todd · Blanche",
       "title": "Trump pick Todd Blanche clears major hurdle in bid to become US attorney general",
       "summary": "Republican Senator Bill Cassidy said on Friday he would back Todd Blanche for attorney general, clearing a path for Donald Trump’s nominee after weeks of scrutiny over the Justice Department’s indepen",
-      "score": 5.771,
+      "score": 5.705,
       "n_outlets": 5,
       "n_articles": 5,
       "regions": [
@@ -1567,12 +1577,12 @@
       ]
     },
     {
-      "id": 144,
+      "id": 171,
       "topic": "Economics",
       "label": "Senate · Russia · U.S.",
       "title": "U.S. Senate passes Russia sanctions bill that seeks 100% tariffs on India, four others",
       "summary": "The bill, renamed the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026, was approved by the Senate by an 86-11 vote",
-      "score": 6.704,
+      "score": 6.644,
       "n_outlets": 6,
       "n_articles": 7,
       "regions": [
@@ -1685,114 +1695,12 @@
       ]
     },
     {
-      "id": 173,
-      "topic": "Economics",
-      "label": "Trump · Lisa · Cook",
-      "title": "Trump renews effort to fire Fed’s Lisa Cook despite Supreme Court ruling",
-      "summary": "US President ⁠Donald Trump is renewing his effort to fire Federal Reserve Governor Lisa Cook, keeping alive his assault on the central bank’s independence even after the US Supreme Court in June dealt",
-      "score": 6.632,
-      "n_outlets": 6,
-      "n_articles": 6,
-      "regions": [
-        "china",
-        "europe",
-        "japan",
-        "us"
-      ],
-      "last_seen": "2026-08-07T23:38:00+00:00",
-      "leans": [
-        "center",
-        "left",
-        "right"
-      ],
-      "sources": [
-        {
-          "outlet": "El Pais",
-          "region": "europe",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Trump renews push to oust Lisa Cook from Fed despite Supreme Court opposition",
-          "url": "https://elpais.com/economia/2026-08-07/trump-vuelve-a-la-carga-para-despedir-a-lisa-cook-de-la-fed-pese-a-la-oposicion-del-supremo.html",
-          "published": "2026-08-07T19:49:18+00:00",
-          "orig_title": "Trump vuelve a la carga para despedir a Lisa Cook de la Fed, pese a la oposición del Supremo",
-          "lang": "es",
-          "translated": true,
-          "access": "unknown"
-        },
-        {
-          "outlet": "NPR",
-          "region": "us",
-          "lean": "left",
-          "ownership": "public",
-          "title": "Trump renews push to fire Fed Governor Lisa Cook",
-          "url": "https://www.npr.org/2026/08/07/nx-s1-5925167/trump-lisa-cook-federal-reserve",
-          "published": "2026-08-07T19:35:35+00:00",
-          "orig_title": "Trump renews push to fire Fed Governor Lisa Cook",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "South China Morning Post",
-          "region": "china",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Trump renews effort to fire Fed’s Lisa Cook despite Supreme Court ruling",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3363370/trump-renews-effort-fire-feds-lisa-cook-despite-supreme-court-ruling?utm_source=rss_feed",
-          "published": "2026-08-07T21:11:21+00:00",
-          "orig_title": "Trump renews effort to fire Fed’s Lisa Cook despite Supreme Court ruling",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "The Hill",
-          "region": "us",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Trump restarts effort to fire Fed's Lisa Cook",
-          "url": "https://thehill.com/homenews/administration/6017965-trump-attempts-remove-fed-cook/",
-          "published": "2026-08-07T22:17:46+00:00",
-          "orig_title": "Trump restarts effort to fire Fed's Lisa Cook",
-          "lang": "en",
-          "translated": false,
-          "access": "unknown"
-        },
-        {
-          "outlet": "The Japan Times",
-          "region": "japan",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Trump renews effort to fire Fed Gov. Lisa Cook, continuing attacks on central bank",
-          "url": "https://www.japantimes.co.jp/business/2026/08/08/economy/trump-fire-fed-lisa-cook/",
-          "published": "2026-08-07T23:38:00+00:00",
-          "orig_title": "Trump renews effort to fire Fed Gov. Lisa Cook, continuing attacks on central bank",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
-        },
-        {
-          "outlet": "The Wall Street Journal",
-          "region": "us",
-          "lean": "right",
-          "ownership": "private",
-          "title": "Trump revives effort to oust Fed governor Lisa Cook, demanding response to mortgage-fraud allegations she denies amid renewed fight over Fed independence",
-          "url": "https://www.wsj.com/politics/white-house-revives-attempt-to-fire-fed-governor-lisa-cook-9341c88e?mod=rss_socialpoliticsfeed",
-          "published": "2026-08-07T20:46:00+00:00",
-          "orig_title": "Trump revives effort to oust Fed governor Lisa Cook, demanding response to mortgage-fraud allegations she denies amid renewed fight over Fed independence",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
-        }
-      ]
-    },
-    {
-      "id": 281,
+      "id": 310,
       "topic": "Economics",
       "label": "July · jobs · Employers",
       "title": "US unexpectedly lost 23,000 jobs in July as slump in growth continues",
       "summary": "Estimates for previous two months were revised down sharply but unemployment rate held steady at 4.1% Business live – latest updates US employers unexpectedly lost 23,000 jobs in July and gains for th",
-      "score": 6.415,
+      "score": 6.379,
       "n_outlets": 6,
       "n_articles": 6,
       "regions": [
@@ -1888,12 +1796,12 @@
       ]
     },
     {
-      "id": 171,
+      "id": 199,
       "topic": "Economics",
       "label": "Trump · German · RWE",
       "title": "Trump administration to pay German firm $1.2bn to halt US wind projects",
       "summary": "The RWE payout is the latest in a string of deals cancelling wind energy projects, a power source long derided by Trump.",
-      "score": 5.633,
+      "score": 5.579,
       "n_outlets": 5,
       "n_articles": 5,
       "regions": [
@@ -1976,12 +1884,100 @@
       ]
     },
     {
-      "id": 88,
+      "id": 201,
+      "topic": "Economics",
+      "label": "Trump · Lisa · Cook",
+      "title": "Trump renews effort to fire Fed’s Lisa Cook despite Supreme Court ruling",
+      "summary": "US President ⁠Donald Trump is renewing his effort to fire Federal Reserve Governor Lisa Cook, keeping alive his assault on the central bank’s independence even after the US Supreme Court in June dealt",
+      "score": 5.577,
+      "n_outlets": 5,
+      "n_articles": 5,
+      "regions": [
+        "china",
+        "japan",
+        "us"
+      ],
+      "last_seen": "2026-08-07T23:38:00+00:00",
+      "leans": [
+        "center",
+        "left",
+        "right"
+      ],
+      "sources": [
+        {
+          "outlet": "NPR",
+          "region": "us",
+          "lean": "left",
+          "ownership": "public",
+          "title": "Trump renews push to fire Fed Governor Lisa Cook",
+          "url": "https://www.npr.org/2026/08/07/nx-s1-5925167/trump-lisa-cook-federal-reserve",
+          "published": "2026-08-07T19:35:35+00:00",
+          "orig_title": "Trump renews push to fire Fed Governor Lisa Cook",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "South China Morning Post",
+          "region": "china",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Trump renews effort to fire Fed’s Lisa Cook despite Supreme Court ruling",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3363370/trump-renews-effort-fire-feds-lisa-cook-despite-supreme-court-ruling?utm_source=rss_feed",
+          "published": "2026-08-07T21:11:21+00:00",
+          "orig_title": "Trump renews effort to fire Fed’s Lisa Cook despite Supreme Court ruling",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "The Hill",
+          "region": "us",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Trump restarts effort to fire Fed's Lisa Cook",
+          "url": "https://thehill.com/homenews/administration/6017965-trump-attempts-remove-fed-cook/",
+          "published": "2026-08-07T22:17:46+00:00",
+          "orig_title": "Trump restarts effort to fire Fed's Lisa Cook",
+          "lang": "en",
+          "translated": false,
+          "access": "unknown"
+        },
+        {
+          "outlet": "The Japan Times",
+          "region": "japan",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Trump renews effort to fire Fed Gov. Lisa Cook, continuing attacks on central bank",
+          "url": "https://www.japantimes.co.jp/business/2026/08/08/economy/trump-fire-fed-lisa-cook/",
+          "published": "2026-08-07T23:38:00+00:00",
+          "orig_title": "Trump renews effort to fire Fed Gov. Lisa Cook, continuing attacks on central bank",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall"
+        },
+        {
+          "outlet": "The Wall Street Journal",
+          "region": "us",
+          "lean": "right",
+          "ownership": "private",
+          "title": "Trump revives effort to oust Fed governor Lisa Cook, demanding response to mortgage-fraud allegations she denies amid renewed fight over Fed independence",
+          "url": "https://www.wsj.com/politics/white-house-revives-attempt-to-fire-fed-governor-lisa-cook-9341c88e?mod=rss_socialpoliticsfeed",
+          "published": "2026-08-07T20:46:00+00:00",
+          "orig_title": "Trump revives effort to oust Fed governor Lisa Cook, demanding response to mortgage-fraud allegations she denies amid renewed fight over Fed independence",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall"
+        }
+      ]
+    },
+    {
+      "id": 115,
       "topic": "Economics",
       "label": "Ukraine · GDP · Bloomberg",
       "title": "Ukraine’s budget deficit to reach record-high 35% of GDP in 2026",
       "summary": "The deficit is expected to amount to over $70 billion",
-      "score": 2.852,
+      "score": 2.779,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -2022,12 +2018,12 @@
       ]
     },
     {
-      "id": 105,
+      "id": 132,
       "topic": "Economics",
       "label": "High · India · April-June",
       "title": "Gold’s price potential still ‘explosive’ amid Beijing hoarding, Hong Kong trading push",
       "summary": "Gold prices have “explosive” upside potential, according to analysts, boding well for Hong Kong’s ambitions as a trading hub as Asian central banks continue to have a voracious appetite for stockpilin",
-      "score": 2.806,
+      "score": 2.737,
       "n_outlets": 2,
       "n_articles": 3,
       "regions": [
@@ -2084,12 +2080,12 @@
       ]
     },
     {
-      "id": 264,
+      "id": 293,
       "topic": "Economics",
       "label": "Prudent · RBI · Weak",
-      "title": "Prudent approach: On the RBI’s interest rate-setting committee meeting",
-      "summary": "The RBI did well to hold interest rates, but inflationary pressures remain",
-      "score": 2.451,
+      "title": "Weak Jobs Report Does Not Eliminate Prospects of Interest Rate Rise",
+      "summary": "Officials at the Federal Reserve are chiefly focused on the trajectory of inflation after five years of overshooting the central bank’s 2 percent target.",
+      "score": 2.412,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -2130,12 +2126,12 @@
       ]
     },
     {
-      "id": 321,
+      "id": 345,
       "topic": "Economics",
       "label": "Industrial · June · German",
-      "title": "German Industry’s Resilient Streak Continues Despite Lingering Uncertainty",
-      "summary": "German industrial production unexpectedly rose in June, extending a run of resilient manufacturing data that suggests Europe’s largest economy has so far shrugged off the economic fallout from the war",
-      "score": 2.361,
+      "title": "Industrial growth hits 23-month high of 7.3% in June 2026",
+      "summary": "Growth in the Index of Industrial Production quickened on the back of strong performances in the manufacturing, electricity, capital goods, and consumer-facing sectors.",
+      "score": 2.33,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -2177,12 +2173,12 @@
       ]
     },
     {
-      "id": 550,
+      "id": 559,
       "topic": "Economics",
       "label": "Trump · China · Issues",
-      "title": "Trump imposes 15% tariff on key chip material to counter China",
-      "summary": "The move aims to protect US firms as they face increasing competition from China's chip industry.",
-      "score": 2.096,
+      "title": "Trump Issues Tariffs on Key Ingredient for Electronics and Solar Panels",
+      "summary": "The administration will impose a minimum import price for polysilicon, a key component for semiconductors and solar panels, as well as tariffs for products made with the material.",
+      "score": 2.088,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -2224,31 +2220,31 @@
       ]
     },
     {
-      "id": 33,
+      "id": 2,
       "topic": "Economics",
-      "label": "Pay · UPI · wall",
-      "title": "​Pay wall: On a charge on UPI transactions",
-      "summary": "Removing UPI’s free nature will not only be unpopular but also unfair",
-      "score": 1.91,
+      "label": "Union · OBR · calls",
+      "title": "Union calls for robust review of OBR over fears it holds back economic growth",
+      "summary": "TUC will urge John Healey to order ‘root and branch’ assessment of watchdog amid claims its forecasts downplay investment benefits The TUC is urging the new chancellor, John Healey, to order a “root a",
+      "score": 1.982,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
-        "india"
+        "europe"
       ],
-      "last_seen": "2026-08-08T04:01:00+00:00",
+      "last_seen": "2026-08-08T06:00:38+00:00",
       "leans": [
         "left"
       ],
       "sources": [
         {
-          "outlet": "The Hindu",
-          "region": "india",
+          "outlet": "The Guardian",
+          "region": "europe",
           "lean": "left",
           "ownership": "private",
-          "title": "​Pay wall: On a charge on UPI transactions",
-          "url": "https://www.thehindu.com/opinion/editorial/pay-wall-on-a-charge-on-upi-transactions/article71318110.ece",
-          "published": "2026-08-08T04:01:00+00:00",
-          "orig_title": "​Pay wall: On a charge on UPI transactions",
+          "title": "Union calls for robust review of OBR over fears it holds back economic growth",
+          "url": "https://www.theguardian.com/business/2026/aug/08/tuc-review-obr-investment-economy-business",
+          "published": "2026-08-08T06:00:38+00:00",
+          "orig_title": "Union calls for robust review of OBR over fears it holds back economic growth",
           "lang": "en",
           "translated": false,
           "access": "open"
@@ -2256,79 +2252,19 @@
       ]
     },
     {
-      "id": 351,
-      "topic": "Trading & Markets",
-      "label": "Mexico · Peru · restore",
-      "title": "Mexico and Peru restore diplomatic relations after four years of clashes",
-      "summary": "El gobierno de Sheinbaum mantiene su apoyo a Pedro Castillo y consigue reconciliarse con la recién elegida Keiko Fujimori",
-      "score": 3.325,
-      "n_outlets": 3,
-      "n_articles": 3,
-      "regions": [
-        "europe",
-        "russia"
-      ],
-      "last_seen": "2026-08-07T15:38:28+00:00",
-      "leans": [
-        "center",
-        "left"
-      ],
-      "sources": [
-        {
-          "outlet": "El Pais",
-          "region": "europe",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Mexico and Peru restore diplomatic relations after four years of clashes",
-          "url": "https://elpais.com/mexico/2026-08-07/mexico-y-peru-restablecen-las-relaciones-diplomaticas-tras-cuatro-anos-de-choques.html",
-          "published": "2026-08-07T13:14:34+00:00",
-          "orig_title": "México y Perú restablecen las relaciones diplomáticas tras cuatro años de choques",
-          "lang": "es",
-          "translated": true,
-          "access": "unknown"
-        },
-        {
-          "outlet": "BBC News",
-          "region": "europe",
-          "lean": "center",
-          "ownership": "public",
-          "title": "Mexico and Peru restore diplomatic relations after asylum row",
-          "url": "https://www.bbc.co.uk/news/articles/cz7dy1l3e77o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-07T15:38:28+00:00",
-          "orig_title": "Mexico and Peru restore diplomatic relations after asylum row",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "Kommersant",
-          "region": "russia",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Peru and Mexico agree to restore diplomatic relations",
-          "url": "https://www.kommersant.ru/doc/8874986",
-          "published": "2026-08-07T13:21:32+00:00",
-          "orig_title": "Перу и Мексика договорились о восстановлении дипломатических отношений",
-          "lang": "ru",
-          "translated": true,
-          "access": "unknown"
-        }
-      ]
-    },
-    {
-      "id": 14,
+      "id": 21,
       "topic": "Trading & Markets",
       "label": "Pellet · Guns · Sticks",
-      "title": "A new youth agitation grips an Indian state after 'cockroach' protests",
-      "summary": "Weeks after the CJP protests shook Delhi, a new youth-led movement over jobs and recruitment is gathering force in Jharkhand.",
-      "score": 2.967,
+      "title": "Pellet Guns, Sticks and Tear Gas: How India’s Police Halted a Youth March",
+      "summary": "A New York Times analysis details the July 20 crackdown on unarmed protesters in New Delhi that has provoked public outrage and accusations of excessive force.",
+      "score": 2.93,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
         "europe",
         "us"
       ],
-      "last_seen": "2026-08-08T04:44:34+00:00",
+      "last_seen": "2026-08-08T05:21:05+00:00",
       "leans": [
         "center",
         "left"
@@ -2341,7 +2277,7 @@
           "ownership": "private",
           "title": "Pellet Guns, Sticks and Tear Gas: How India’s Police Halted a Youth March",
           "url": "https://www.nytimes.com/2026/08/08/world/asia/pellet-guns-sticks-and-tear-gas-how-indias-police-halted-a-youth-march.html",
-          "published": "2026-08-08T04:44:34+00:00",
+          "published": "2026-08-08T05:21:05+00:00",
           "orig_title": "Pellet Guns, Sticks and Tear Gas: How India’s Police Halted a Youth March",
           "lang": "en",
           "translated": false,
@@ -2363,12 +2299,59 @@
       ]
     },
     {
-      "id": 270,
+      "id": 230,
+      "topic": "Trading & Markets",
+      "label": "Trump · GOP · Senate",
+      "title": "Trump says he could be last Republican president in US",
+      "summary": "The US president also stood firm in his belief that the GOP would come out on top, but said the Senate will have to \"get smart\" for that to happen",
+      "score": 2.507,
+      "n_outlets": 2,
+      "n_articles": 2,
+      "regions": [
+        "russia",
+        "us"
+      ],
+      "last_seen": "2026-08-07T22:04:33+00:00",
+      "leans": [
+        "center",
+        "state"
+      ],
+      "sources": [
+        {
+          "outlet": "The Hill",
+          "region": "us",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Trump urges GOP to keep Senate in session until college sports bill passes",
+          "url": "https://thehill.com/homenews/senate/6017932-trump-gop-college-sports-bill/",
+          "published": "2026-08-07T22:04:33+00:00",
+          "orig_title": "Trump urges GOP to keep Senate in session until college sports bill passes",
+          "lang": "en",
+          "translated": false,
+          "access": "unknown"
+        },
+        {
+          "outlet": "TASS",
+          "region": "russia",
+          "lean": "state",
+          "ownership": "state",
+          "title": "Trump says he could be last Republican president in US",
+          "url": "https://tass.com/world/2170219",
+          "published": "2026-08-07T12:48:46+00:00",
+          "orig_title": "Trump says he could be last Republican president in US",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 300,
       "topic": "Trading & Markets",
       "label": "Albanese · gambling · Pocock",
       "title": "Albanese returns to a gambling debate ready to catch fire",
       "summary": "The explosive evidence heard at a two-day inquiry into Labor's proposed crackdown on wagering advertising has proved a watershed moment for the increasingly friendless bill.",
-      "score": 2.429,
+      "score": 2.392,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -2409,12 +2392,12 @@
       ]
     },
     {
-      "id": 303,
+      "id": 327,
       "topic": "Trading & Markets",
       "label": "Russian · Dollar · Hits",
-      "title": "Dollar Hits 7-Week Low After Weak U.S. Jobs Data",
-      "summary": "The dollar fell to a seven-week low against a basket of currencies after data showed an unexpected decline in U.S. nonfarm payrolls in July.",
-      "score": 2.383,
+      "title": "Russian stock market ends week lower as major indices decline",
+      "summary": "The yuan edged up by 0.16 rubles to 12.24 rubles",
+      "score": 2.35,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -2456,44 +2439,58 @@
       ]
     },
     {
-      "id": 43,
+      "id": 374,
       "topic": "Trading & Markets",
-      "label": "Flintoff · England · Lions",
-      "title": "Flintoff steps down as England Lions coach, set to focus on Sydney Thunder role",
-      "summary": "Andrew Flintoff has officially resigned from his position as head coach of the England Lions after two fruitful years. He is set to take charge of Sydney Thunder in Australia's Big Bash League. Flinto",
-      "score": 1.888,
-      "n_outlets": 1,
-      "n_articles": 1,
+      "label": "Mexico · Peru · restore",
+      "title": "Peru and Mexico agree to restore diplomatic relations",
+      "summary": "Перу и Мексика договорились о восстановлении дипломатических отношений, сообщили пресс-службы перуанского и мексиканского МИДов. В пресс-релизе отмечается, что страны «вновь подтверждают уважение к ме",
+      "score": 2.297,
+      "n_outlets": 2,
+      "n_articles": 2,
       "regions": [
-        "india"
+        "europe",
+        "russia"
       ],
-      "last_seen": "2026-08-08T03:43:07+00:00",
+      "last_seen": "2026-08-07T15:38:28+00:00",
       "leans": [
         "center"
       ],
       "sources": [
         {
-          "outlet": "Times of India",
-          "region": "india",
+          "outlet": "BBC News",
+          "region": "europe",
           "lean": "center",
-          "ownership": "private",
-          "title": "Flintoff steps down as England Lions coach, set to focus on Sydney Thunder role",
-          "url": "https://timesofindia.indiatimes.com/sports/cricket/news/andrew-flintoff-steps-down-as-england-lions-head-coach-set-to-focus-on-sydney-thunder-role/articleshow/133045997.cms",
-          "published": "2026-08-08T03:43:07+00:00",
-          "orig_title": "Flintoff steps down as England Lions coach, set to focus on Sydney Thunder role",
+          "ownership": "public",
+          "title": "Mexico and Peru restore diplomatic relations after asylum row",
+          "url": "https://www.bbc.co.uk/news/articles/cz7dy1l3e77o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-07T15:38:28+00:00",
+          "orig_title": "Mexico and Peru restore diplomatic relations after asylum row",
           "lang": "en",
           "translated": false,
           "access": "open"
+        },
+        {
+          "outlet": "Kommersant",
+          "region": "russia",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Peru and Mexico agree to restore diplomatic relations",
+          "url": "https://www.kommersant.ru/doc/8874986",
+          "published": "2026-08-07T13:21:32+00:00",
+          "orig_title": "Перу и Мексика договорились о восстановлении дипломатических отношений",
+          "lang": "ru",
+          "translated": true,
+          "access": "unknown"
         }
       ]
     },
     {
-      "id": 80,
+      "id": 108,
       "topic": "Trading & Markets",
       "label": "Compound · interest · also",
       "title": "Compound interest also helps buy a house: how to invest to save for a down payment",
       "summary": "Invertir los ahorros puede suponer un impulso para lograr el dinero necesario para acceder a una hipoteca. Es preciso conocer de antemano con qué horizonte temporal se cuenta y asumir algún riesgo",
-      "score": 1.866,
+      "score": 1.791,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -2520,12 +2517,12 @@
       ]
     },
     {
-      "id": 112,
+      "id": 139,
       "topic": "Trading & Markets",
       "label": "Yemen · Houthis · Red",
       "title": "Yemen government says Houthis planning to impose fees for Red Sea transit",
       "summary": "The narrow maritime artery has been a critical waterway for delivering vast quantities of Saudi crude to the international market, after energy exports were largely choked off by fighting in the Strai",
-      "score": 1.785,
+      "score": 1.718,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -2552,12 +2549,12 @@
       ]
     },
     {
-      "id": 116,
+      "id": 143,
       "topic": "Trading & Markets",
       "label": "Voters · Manchester · Andy",
       "title": "Voters in Manchester choose mayor to replace Andy Burnham, who left city hall for Downing Street",
       "summary": "Polling stations are open from 7 a.m. to 10 p.m., with vote-counting starting Friday morning (July 31, 2026)",
-      "score": 1.773,
+      "score": 1.706,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -2584,12 +2581,12 @@
       ]
     },
     {
-      "id": 149,
+      "id": 176,
       "topic": "Trading & Markets",
       "label": "Lakh · Sanjeev · Sanyal",
       "title": "₹1 Lakh crores stuck in government fund for years; one fix cut wait times considerably: Sanjeev Sanyal",
       "summary": "EAC-PM member Sanjeev Sanyal reveals how a 25-step, three-portal bureaucratic maze trapped citizens’ unclaimed shares and dividends, until a process overhaul pushed monthly approvals from 900 to over ",
-      "score": 1.69,
+      "score": 1.63,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -2616,12 +2613,12 @@
       ]
     },
     {
-      "id": 151,
+      "id": 178,
       "topic": "Trading & Markets",
       "label": "Remains · Chicago · people",
       "title": "Remains of 56 people found decomposing at Chicago funeral home",
       "summary": "Officials describe ‘deplorable conditions’ at home run by pair linked to crematory closed due to mishandled remains The remains of 56 people were found improperly stored and decomposing on Thursday at",
-      "score": 1.68,
+      "score": 1.621,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -2648,116 +2645,12 @@
       ]
     },
     {
-      "id": 534,
-      "topic": "Science",
-      "label": "artificial · virus · first",
-      "title": "AI designs artificial virus strains from scratch for first time",
-      "summary": "Американские ученые впервые успешно применили ИИ-модель для проектирования полных геномов жизнеспособных бактериофагов — вирусов, поражающих только бактериальные клетки. Эти вирусы смогли уничтожить ш",
-      "score": 5.121,
-      "n_outlets": 5,
-      "n_articles": 6,
-      "regions": [
-        "europe",
-        "japan",
-        "russia",
-        "us"
-      ],
-      "last_seen": "2026-08-07T03:48:06+00:00",
-      "leans": [
-        "center",
-        "left",
-        "right"
-      ],
-      "sources": [
-        {
-          "outlet": "Asahi Shimbun",
-          "region": "japan",
-          "lean": "left",
-          "ownership": "private",
-          "title": "AI-designed artificial virus \"actually works,\" published in Science; terrorism concerns",
-          "url": "http://www.asahi.com/articles/ASV867R8VV86UHBI006M.html?ref=rss",
-          "published": "2026-08-06T23:38:00+00:00",
-          "orig_title": "AI設計の人工ウイルス「実際に機能」サイエンス誌掲載 テロ懸念も",
-          "lang": "ja",
-          "translated": true,
-          "access": "unknown"
-        },
-        {
-          "outlet": "The Guardian",
-          "region": "europe",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Safety fears as scientists make first viruses designed by AI",
-          "url": "https://www.theguardian.com/science/2026/aug/06/safety-fears-as-scientists-make-first-viruses-designed-by-ai",
-          "published": "2026-08-06T18:00:04+00:00",
-          "orig_title": "Safety fears as scientists make first viruses designed by AI",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "The New York Times",
-          "region": "us",
-          "lean": "left",
-          "ownership": "private",
-          "title": "This A.I. Just Created Viruses Not Found in Nature",
-          "url": "https://www.nytimes.com/2026/08/06/science/ai-viruses-bacteria-arc.html",
-          "published": "2026-08-07T00:30:08+00:00",
-          "orig_title": "This A.I. Just Created Viruses Not Found in Nature",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
-        },
-        {
-          "outlet": "Kommersant",
-          "region": "russia",
-          "lean": "center",
-          "ownership": "private",
-          "title": "AI designs artificial virus strains from scratch for first time",
-          "url": "https://www.kommersant.ru/doc/8864439",
-          "published": "2026-08-07T03:48:06+00:00",
-          "orig_title": "ИИ впервые в истории спроектировал искусственные штаммы вирусов с нуля",
-          "lang": "ru",
-          "translated": true,
-          "access": "unknown",
-          "more": [
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Generative AI adoption will boost labor productivity by 1.2 percent",
-              "url": "https://www.kommersant.ru/doc/8864442",
-              "published": "2026-08-07T03:30:46+00:00",
-              "orig_title": "Внедрение генеративного ИИ увеличит производительность труда на 1,2 %",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            }
-          ]
-        },
-        {
-          "outlet": "The Wall Street Journal",
-          "region": "us",
-          "lean": "right",
-          "ownership": "private",
-          "title": "The Latest Scary-Sounding AI Milestone: A Brand-New Virus",
-          "url": "https://www.wsj.com/tech/ai/the-latest-scary-sounding-ai-milestone-a-brand-new-virus-6080b1db?mod=rss_Technology",
-          "published": "2026-08-07T01:50:00+00:00",
-          "orig_title": "The Latest Scary-Sounding AI Milestone: A Brand-New Virus",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
-        }
-      ]
-    },
-    {
-      "id": 520,
+      "id": 530,
       "topic": "Science",
       "label": "Nasa · astronauts · spacewalk",
       "title": "Watch: Nasa astronauts conduct 6.5-hour spacewalk outside ISS",
       "summary": "Astronauts Anil Menon and Jessica Meir ventured out to install a mounting hardware for the future addition of solar arrays to the space station.",
-      "score": 3.149,
+      "score": 3.137,
       "n_outlets": 3,
       "n_articles": 3,
       "regions": [
@@ -2812,12 +2705,73 @@
       ]
     },
     {
-      "id": 79,
+      "id": 1,
+      "topic": "Science",
+      "label": "How · recover · California",
+      "title": "How can landscape recover after devastating fires?",
+      "summary": "Conservationists are working to restore wildlife after recent wildfires devastated habitats.",
+      "score": 2.99,
+      "n_outlets": 2,
+      "n_articles": 3,
+      "regions": [
+        "europe",
+        "india"
+      ],
+      "last_seen": "2026-08-08T06:06:00+00:00",
+      "leans": [
+        "center"
+      ],
+      "sources": [
+        {
+          "outlet": "BBC News",
+          "region": "europe",
+          "lean": "center",
+          "ownership": "public",
+          "title": "How can landscape recover after devastating fires?",
+          "url": "https://www.bbc.co.uk/news/articles/c5yv2wd7e66o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-08T06:06:00+00:00",
+          "orig_title": "How can landscape recover after devastating fires?",
+          "lang": "en",
+          "translated": false,
+          "access": "open",
+          "more": [
+            {
+              "outlet": "BBC News",
+              "region": "europe",
+              "lean": "center",
+              "ownership": "public",
+              "title": "Wildfire damage could take hundreds of years to recover from, experts say",
+              "url": "https://www.bbc.co.uk/news/articles/c0qvp00x707o?at_medium=RSS&at_campaign=rss",
+              "published": "2026-08-07T05:15:56+00:00",
+              "orig_title": "Wildfire damage could take hundreds of years to recover from, experts say",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            }
+          ]
+        },
+        {
+          "outlet": "Times of India",
+          "region": "india",
+          "lean": "center",
+          "ownership": "private",
+          "title": "California lost as many as 1.3 million Joshua trees in the 2020 Dome Fire",
+          "url": "https://timesofindia.indiatimes.com/world/us/california-lost-as-many-as-1-3-million-joshua-trees-in-the-2020-dome-fire-new-software-now-helps-park-managers-target-recovery-after-wildfires/articleshow/133039377.cms",
+          "published": "2026-08-07T18:29:51+00:00",
+          "orig_title": "California lost as many as 1.3 million Joshua trees in the 2020 Dome Fire",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 107,
       "topic": "Science",
       "label": "Bengaluru · lab-grown · Skyroot",
-      "title": "China’s lab-grown diamonds get an AI boost as industry rides demand for chip cooling",
-      "summary": "Once overshadowed by natural diamonds in consumer markets, lab-grown versions of the world’s strongest natural substance have become a bright spot for industrial applications, fuelled by the global ar",
-      "score": 2.866,
+      "title": "Bengaluru start-up sends world’s first lab-grown diamond jewel to space aboard Skyroot’s Vikram-1",
+      "summary": "The lotus-shaped jewel is handcrafted in gold and set with 16.9 carats of lab-grown diamonds",
+      "score": 2.791,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -2859,58 +2813,12 @@
       ]
     },
     {
-      "id": 283,
-      "topic": "Science",
-      "label": "California · Joshua · Dome",
-      "title": "California lost as many as 1.3 million Joshua trees in the 2020 Dome Fire",
-      "summary": "California scientists developed digital tools to map fire damage in the Mojave National Preserve. These new software programs help park managers focus restoration work on vulnerable desert plants. The",
-      "score": 2.412,
-      "n_outlets": 2,
-      "n_articles": 2,
-      "regions": [
-        "europe",
-        "india"
-      ],
-      "last_seen": "2026-08-07T18:29:51+00:00",
-      "leans": [
-        "center"
-      ],
-      "sources": [
-        {
-          "outlet": "BBC News",
-          "region": "europe",
-          "lean": "center",
-          "ownership": "public",
-          "title": "Wildfire damage could take hundreds of years to recover from, experts say",
-          "url": "https://www.bbc.co.uk/news/articles/c0qvp00x707o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-07T05:15:56+00:00",
-          "orig_title": "Wildfire damage could take hundreds of years to recover from, experts say",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "Times of India",
-          "region": "india",
-          "lean": "center",
-          "ownership": "private",
-          "title": "California lost as many as 1.3 million Joshua trees in the 2020 Dome Fire",
-          "url": "https://timesofindia.indiatimes.com/world/us/california-lost-as-many-as-1-3-million-joshua-trees-in-the-2020-dome-fire-new-software-now-helps-park-managers-target-recovery-after-wildfires/articleshow/133039377.cms",
-          "published": "2026-08-07T18:29:51+00:00",
-          "orig_title": "California lost as many as 1.3 million Joshua trees in the 2020 Dome Fire",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        }
-      ]
-    },
-    {
-      "id": 405,
+      "id": 424,
       "topic": "Science",
       "label": "China-Free · Batteries · Made",
-      "title": "Why airlines are warning over lithium-ion batteries",
-      "summary": "The airline industry wants passengers to be careful when travelling with lithium ion batteries.",
-      "score": 2.263,
+      "title": "China-Free Batteries Made From Salt Are Finally Here",
+      "summary": "Sodium-ion batteries have almost none of the problems that lithium-ion ones do, and could be cheap enough to make fossil-fuel dependence a thing of the past.",
+      "score": 2.24,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -2952,12 +2860,44 @@
       ]
     },
     {
-      "id": 10,
+      "id": 30,
+      "topic": "Science",
+      "label": "couldn · breathe · deadly",
+      "title": "‘I couldn’t breathe’: the deadly health burden of wildfire smoke",
+      "summary": "Scientists race to untangle complex links between exposure and mortality as fire weather grows more prevalent A thousand kilometres from the infernos gorging on northern Ontario’s boreal forests, Erin",
+      "score": 1.904,
+      "n_outlets": 1,
+      "n_articles": 1,
+      "regions": [
+        "europe"
+      ],
+      "last_seen": "2026-08-08T05:00:37+00:00",
+      "leans": [
+        "left"
+      ],
+      "sources": [
+        {
+          "outlet": "The Guardian",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "‘I couldn’t breathe’: the deadly health burden of wildfire smoke",
+          "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/08/wildfire-smoke-unknown-health-impacts",
+          "published": "2026-08-08T05:00:37+00:00",
+          "orig_title": "‘I couldn’t breathe’: the deadly health burden of wildfire smoke",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 38,
       "topic": "Science",
       "label": "Pumas · protecting · human",
       "title": "Pumas are protecting human lives by preventing vehicle collisions accounting for a 76% reduction in accidents",
       "summary": "Pumas in Washington's Olympic Peninsula play a crucial role in decreasing deer-related accidents on highways. By changing deer movement patterns to avoid roads and nighttime activities, they enhance s",
-      "score": 1.971,
+      "score": 1.888,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -2984,12 +2924,12 @@
       ]
     },
     {
-      "id": 34,
+      "id": 61,
       "topic": "Science",
       "label": "SPECIAL · REPORT · Inside",
       "title": "SPECIAL REPORT: Inside fragile chain holding Kano, Gombe’s immunisation systems together",
       "summary": "Although routine immunisation coverage has improved in recent years, many children in northern Nigeria still receive no vaccines at all or fail to complete the schedule. The post SPECIAL REPORT: Insid",
-      "score": 1.91,
+      "score": 1.832,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -3016,12 +2956,12 @@
       ]
     },
     {
-      "id": 38,
+      "id": 65,
       "topic": "Science",
       "label": "Chinese · Yangtze · scientists",
       "title": "Chinese scientists find some Yangtze flood controls may do more harm than good",
       "summary": "For centuries, the Yangtze River has been China’s vital lifeblood, yet its floods have claimed countless lives. To tame its waters, flood-control systems have evolved from ancient dykes to the enginee",
-      "score": 1.909,
+      "score": 1.831,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -3048,12 +2988,12 @@
       ]
     },
     {
-      "id": 117,
+      "id": 144,
       "topic": "Science",
       "label": "Science · Works · Fields",
       "title": "Science quiz: Works that won the Fields Medal",
       "summary": "Test your Fields Medal IQ with this quiz. Can you name these math genuises?",
-      "score": 1.772,
+      "score": 1.706,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -3080,12 +3020,12 @@
       ]
     },
     {
-      "id": 140,
+      "id": 167,
       "topic": "Science",
       "label": "Chinese · Backlash · China",
       "title": "111-year-old Chinese grandma reveals secret daily ‘workout’ leading to her longevity",
       "summary": "A 111-year-old grandmother in eastern China has captured the attention of social media by attributing her remarkable longevity to simple habits, such as viewing housework as a form of daily exercise. ",
-      "score": 1.708,
+      "score": 1.647,
       "n_outlets": 1,
       "n_articles": 2,
       "regions": [
@@ -3127,12 +3067,12 @@
       ]
     },
     {
-      "id": 371,
+      "id": 393,
       "topic": "Technology",
       "label": "Meta · Ordered · Pay",
       "title": "Meta Ordered to Pay $942 Million to Address Harm to Kids From Social Media",
       "summary": "A New Mexico judge ordered the social-media giant to create a new $567 million fund in addition to paying $375 million in previously determined civil penalties.",
-      "score": 6.3,
+      "score": 6.274,
       "n_outlets": 6,
       "n_articles": 6,
       "regions": [
@@ -3229,12 +3169,12 @@
       ]
     },
     {
-      "id": 121,
+      "id": 148,
       "topic": "Technology",
       "label": "China · OpenAI · Chinese-language",
       "title": "Behind China’s AI gift, a constraint",
       "summary": "China’s embrace of open-weight AI models is driven as much by compute constraints as by a bid to project itself as a responsible global AI power; until it overcomes chip and inference bottlenecks, Bei",
-      "score": 5.77,
+      "score": 5.704,
       "n_outlets": 5,
       "n_articles": 7,
       "regions": [
@@ -3349,12 +3289,102 @@
       ]
     },
     {
-      "id": 84,
+      "id": 544,
+      "topic": "Technology",
+      "label": "artificial · virus · Generative",
+      "title": "AI designs artificial virus strains from scratch for first time",
+      "summary": "Американские ученые впервые успешно применили ИИ-модель для проектирования полных геномов жизнеспособных бактериофагов — вирусов, поражающих только бактериальные клетки. Эти вирусы смогли уничтожить ш",
+      "score": 4.111,
+      "n_outlets": 4,
+      "n_articles": 5,
+      "regions": [
+        "japan",
+        "russia",
+        "us"
+      ],
+      "last_seen": "2026-08-07T03:48:06+00:00",
+      "leans": [
+        "center",
+        "left",
+        "right"
+      ],
+      "sources": [
+        {
+          "outlet": "Asahi Shimbun",
+          "region": "japan",
+          "lean": "left",
+          "ownership": "private",
+          "title": "AI-designed artificial virus \"actually works,\" published in Science; terrorism concerns",
+          "url": "http://www.asahi.com/articles/ASV867R8VV86UHBI006M.html?ref=rss",
+          "published": "2026-08-06T23:38:00+00:00",
+          "orig_title": "AI設計の人工ウイルス「実際に機能」サイエンス誌掲載 テロ懸念も",
+          "lang": "ja",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
+          "outlet": "The New York Times",
+          "region": "us",
+          "lean": "left",
+          "ownership": "private",
+          "title": "This A.I. Just Created Viruses Not Found in Nature",
+          "url": "https://www.nytimes.com/2026/08/06/science/ai-viruses-bacteria-arc.html",
+          "published": "2026-08-07T00:30:08+00:00",
+          "orig_title": "This A.I. Just Created Viruses Not Found in Nature",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall"
+        },
+        {
+          "outlet": "Kommersant",
+          "region": "russia",
+          "lean": "center",
+          "ownership": "private",
+          "title": "AI designs artificial virus strains from scratch for first time",
+          "url": "https://www.kommersant.ru/doc/8864439",
+          "published": "2026-08-07T03:48:06+00:00",
+          "orig_title": "ИИ впервые в истории спроектировал искусственные штаммы вирусов с нуля",
+          "lang": "ru",
+          "translated": true,
+          "access": "unknown",
+          "more": [
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Generative AI adoption will boost labor productivity by 1.2 percent",
+              "url": "https://www.kommersant.ru/doc/8864442",
+              "published": "2026-08-07T03:30:46+00:00",
+              "orig_title": "Внедрение генеративного ИИ увеличит производительность труда на 1,2 %",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            }
+          ]
+        },
+        {
+          "outlet": "The Wall Street Journal",
+          "region": "us",
+          "lean": "right",
+          "ownership": "private",
+          "title": "The Latest Scary-Sounding AI Milestone: A Brand-New Virus",
+          "url": "https://www.wsj.com/tech/ai/the-latest-scary-sounding-ai-milestone-a-brand-new-virus-6080b1db?mod=rss_Technology",
+          "published": "2026-08-07T01:50:00+00:00",
+          "orig_title": "The Latest Scary-Sounding AI Milestone: A Brand-New Virus",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall"
+        }
+      ]
+    },
+    {
+      "id": 112,
       "topic": "Technology",
       "label": "U.S. · China · US-China",
-      "title": "EU aims for seven AI gigafactories with €10 billion plan in race with U.S., China",
-      "summary": "European Commission said it aims to attract at least €20 billion in ‌private investments for the ‌projects; the total was increased from five ⁠planned gigafactories to seven following strong interest ",
-      "score": 2.855,
+      "title": "As US-China pharma rivalry heats up, can Hong Kong’s US$8b fund be the global bridge?",
+      "summary": "Hong Kong is stepping up its efforts to invest in a cluster of biotech companies, positioning itself as a linchpin in Beijing’s push to reach new levels of innovation and challenge the United States f",
+      "score": 2.781,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -3396,12 +3426,12 @@
       ]
     },
     {
-      "id": 145,
+      "id": 172,
       "topic": "Technology",
       "label": "America · Bloomberg · U.S.",
-      "title": "Bloomberg: U.S. Cyber Command investigates series of staff suicides",
-      "summary": "Киберкомандование Вооруженных сил США расследует серию самоубийств среди личного состава, сообщает Bloomberg со ссылкой на источники и документы. С начала июня по начало июля 2026 года покончили с жиз",
-      "score": 2.701,
+      "title": "America’s cyberforces grapple with cluster of deaths by suicide",
+      "summary": "The U.S. military's cyberwarfare unit is scrutinizing an unusually high number of deaths by suicide among personnel over a monthlong period this summer.",
+      "score": 2.641,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -3442,12 +3472,12 @@
       ]
     },
     {
-      "id": 221,
+      "id": 250,
       "topic": "Technology",
       "label": "China · How · CXMT",
       "title": "Global AI trade revival brightens outlook for Chinese tech stocks after record sell-offs",
       "summary": "The outlook for Chinese technology stocks has improved after a sharp monthly sell-off, as the global rebound in the artificial intelligence trade regains momentum, speculative positions are flushed ou",
-      "score": 2.512,
+      "score": 2.468,
       "n_outlets": 2,
       "n_articles": 3,
       "regions": [
@@ -3504,12 +3534,12 @@
       ]
     },
     {
-      "id": 282,
+      "id": 311,
       "topic": "Technology",
       "label": "Russian · International · Olympiad",
-      "title": "Russian team wins International AI Olympiad for high schoolers in Astana",
-      "summary": "A team from China took second place, and a Polish team finished third",
-      "score": 2.414,
+      "title": "Russian schoolers win international AI olympiad for third consecutive year",
+      "summary": "Сборная России третий год подряд стала абсолютным чемпионом на Международной олимпиаде по искусственному интеллекту среди старшеклассников (IOAI). Учащиеся завоевали семь золотых медалей и одну бронзо",
+      "score": 2.378,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -3550,12 +3580,12 @@
       ]
     },
     {
-      "id": 350,
+      "id": 373,
       "topic": "Technology",
       "label": "American · Russia · deportation",
       "title": "American farmer who built a life in Russia says he and his family are facing deportation",
       "summary": "Justus Walker, an American farmer known as “The Merry Milkman” who lives on a farm in Russia’s Altai Krai, said Russian authorities plan to expel his family from the country. He said he received a cal",
-      "score": 2.325,
+      "score": 2.297,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -3595,59 +3625,12 @@
       ]
     },
     {
-      "id": 486,
-      "topic": "Technology",
-      "label": "Iran · Reuters · Hackers",
-      "title": "Reuters: Hackers attacked dozens of major U.S. financial companies",
-      "summary": "Хакеры-вымогатели, использующие телефонные звонки для взлома систем, за последний месяц атаковали десятки ведущих финансовых компаний США. Об этом сообщает Reuters, ссылаясь на Google и информацию, по",
-      "score": 2.192,
-      "n_outlets": 2,
-      "n_articles": 2,
-      "regions": [
-        "europe",
-        "russia"
-      ],
-      "last_seen": "2026-08-07T09:21:49+00:00",
-      "leans": [
-        "center",
-        "right"
-      ],
-      "sources": [
-        {
-          "outlet": "Kommersant",
-          "region": "russia",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Reuters: Hackers attacked dozens of major U.S. financial companies",
-          "url": "https://www.kommersant.ru/doc/8864343",
-          "published": "2026-08-06T18:06:18+00:00",
-          "orig_title": "Reuters: хакеры атаковали десятки крупнейших финансовых компаний США",
-          "lang": "ru",
-          "translated": true,
-          "access": "unknown"
-        },
-        {
-          "outlet": "Le Figaro",
-          "region": "europe",
-          "lean": "right",
-          "ownership": "private",
-          "title": "US suspects Iran behind cyberattacks on drinking water networks",
-          "url": "https://www.lefigaro.fr/international/aux-etats-unis-l-iran-soupconne-d-etre-a-l-origine-de-cyberattaques-contre-les-reseaux-d-eau-potables-20260806",
-          "published": "2026-08-07T09:21:49+00:00",
-          "orig_title": "Aux États-Unis, l’Iran soupçonné d’être à l’origine de cyberattaques contre les réseaux d’eau potable",
-          "lang": "fr",
-          "translated": true,
-          "access": "unknown"
-        }
-      ]
-    },
-    {
-      "id": 496,
+      "id": 505,
       "topic": "Technology",
       "label": "Alan · Jones · trial",
       "title": "Alan Jones trial: complainant wants to ‘humiliate’ broadcaster by revealing intimate details of alleged assaults, defence tells court",
       "summary": "Barrister alleges ‘account of penis wiggling is an attempt to humiliate’ broadcaster who has pleaded not guilty to 22 charges of indecent assault and sexual touching Get our breaking news email , free",
-      "score": 2.181,
+      "score": 2.166,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -3690,16 +3673,16 @@
     {
       "id": 3,
       "topic": "Technology",
-      "label": "Man · found · Hong",
-      "title": "Missing man, 58, found dead in Ma On Shan after days-long search effort",
-      "summary": "Hong Kong police have found the body of a missing 58-year-old man in Ma On Shan, with his cause of death to be confirmed following an autopsy. Officers received a report at around 12.50am on Friday fr",
-      "score": 1.986,
+      "label": "China · Beijing · Shanghai",
+      "title": "Buyer linked to Ningbo’s richest family purchases Hong Kong trophy home for US$18.5m",
+      "summary": "A buyer linked to the family behind Ningbo Tuopu Group has acquired a luxury villa in Hong Kong’s Tai Po area for HK$145.6 million (US$18.5 million), adding to signs of fresh mainland Chinese wealth m",
+      "score": 1.981,
       "n_outlets": 1,
-      "n_articles": 3,
+      "n_articles": 2,
       "regions": [
         "china"
       ],
-      "last_seen": "2026-08-08T04:58:53+00:00",
+      "last_seen": "2026-08-08T06:00:07+00:00",
       "leans": [
         "center"
       ],
@@ -3709,10 +3692,10 @@
           "region": "china",
           "lean": "center",
           "ownership": "private",
-          "title": "Missing man, 58, found dead in Ma On Shan after days-long search effort",
-          "url": "https://www.scmp.com/news/hong-kong/society/article/3363315/missing-man-58-found-dead-ma-shan-after-days-long-search-effort?utm_source=rss_feed",
-          "published": "2026-08-07T09:38:23+00:00",
-          "orig_title": "Missing man, 58, found dead in Ma On Shan after days-long search effort",
+          "title": "Buyer linked to Ningbo’s richest family purchases Hong Kong trophy home for US$18.5m",
+          "url": "https://www.scmp.com/business/banking-finance/article/3363322/buyer-linked-ningbos-richest-family-purchases-hong-kong-trophy-home-us185m?utm_source=rss_feed",
+          "published": "2026-08-07T12:39:47+00:00",
+          "orig_title": "Buyer linked to Ningbo’s richest family purchases Hong Kong trophy home for US$18.5m",
           "lang": "en",
           "translated": false,
           "access": "open",
@@ -3722,23 +3705,10 @@
               "region": "china",
               "lean": "center",
               "ownership": "private",
-              "title": "Man found with knife wounds in lift before another falls to death at same Hong Kong block",
-              "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3363379/man-found-knife-wounds-lift-another-falls-death-same-hong-kong-block?utm_source=rss_feed",
-              "published": "2026-08-08T04:58:53+00:00",
-              "orig_title": "Man found with knife wounds in lift before another falls to death at same Hong Kong block",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
-            },
-            {
-              "outlet": "South China Morning Post",
-              "region": "china",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Tai Po inquiry sheds more light on final moments of firefighter Ho Wai-ho",
-              "url": "https://www.scmp.com/news/hong-kong/society/article/3363336/tai-po-inquiry-sheds-more-light-final-moments-firefighter-ho-wai-ho?utm_source=rss_feed",
-              "published": "2026-08-07T11:00:32+00:00",
-              "orig_title": "Tai Po inquiry sheds more light on final moments of firefighter Ho Wai-ho",
+              "title": "Over a quarter of China’s ultra-wealthy concentrated in Beijing and Shanghai: report",
+              "url": "https://www.scmp.com/business/money/wealth/article/3363314/over-quarter-chinas-ultra-wealthy-concentrated-beijing-and-shanghai-report?utm_source=rss_feed",
+              "published": "2026-08-08T06:00:07+00:00",
+              "orig_title": "Over a quarter of China’s ultra-wealthy concentrated in Beijing and Shanghai: report",
               "lang": "en",
               "translated": false,
               "access": "open"
@@ -3748,12 +3718,12 @@
       ]
     },
     {
-      "id": 6,
+      "id": 34,
       "topic": "Sports",
       "label": "Infantino · UEFA · Fifa",
       "title": "Infantile Infantino should exit for trying to sell the World Cup, By Owei Lakemfa",
       "summary": "In reality, the Infantino gang tried to commercialise the soul of football, a unifying force of humanity. He had dangled a $40 million award to every association that voted for his plans, promising th",
-      "score": 4.978,
+      "score": 4.894,
       "n_outlets": 4,
       "n_articles": 5,
       "regions": [
@@ -3837,12 +3807,12 @@
       ]
     },
     {
-      "id": 19,
+      "id": 45,
       "topic": "Sports",
       "label": "Brazil · Trump's · U.S.",
       "title": "Two months from the vote, Lula turns diplomatic crises into a sovereignty message",
       "summary": "Brazilian President Luiz Inácio Lula da Silva enters the final stretch toward the October 4 elections with three open diplomatic fronts and a message centered on defending national sovereignty.",
-      "score": 2.956,
+      "score": 2.874,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -3884,58 +3854,12 @@
       ]
     },
     {
-      "id": 135,
-      "topic": "Sports",
-      "label": "Cuba · C.I.A. · Sets",
-      "title": "C.I.A. Sets Up Secret Cuba Task Force as Trump Pressures Havana",
-      "summary": "The task force will allow the spy agency to quickly direct more financial, human and technical resources at the island, with the goal of creating fissures among the Cuban political elite.",
-      "score": 2.732,
-      "n_outlets": 2,
-      "n_articles": 2,
-      "regions": [
-        "europe",
-        "us"
-      ],
-      "last_seen": "2026-08-08T01:24:17+00:00",
-      "leans": [
-        "left"
-      ],
-      "sources": [
-        {
-          "outlet": "El Pais",
-          "region": "europe",
-          "lean": "left",
-          "ownership": "private",
-          "title": "CIA increases presence in Cuba to pressure for regime change",
-          "url": "https://elpais.com/internacional/2026-08-06/la-cia-refuerza-su-presencia-en-cuba-para-presionar-por-un-cambio-de-regimen.html",
-          "published": "2026-08-06T19:20:58+00:00",
-          "orig_title": "La CIA refuerza su presencia en Cuba para presionar por un cambio de régimen",
-          "lang": "es",
-          "translated": true,
-          "access": "unknown"
-        },
-        {
-          "outlet": "The New York Times",
-          "region": "us",
-          "lean": "left",
-          "ownership": "private",
-          "title": "C.I.A. Sets Up Secret Cuba Task Force as Trump Pressures Havana",
-          "url": "https://www.nytimes.com/2026/08/05/us/politics/cia-cuba-task-force.html",
-          "published": "2026-08-08T01:24:17+00:00",
-          "orig_title": "C.I.A. Sets Up Secret Cuba Task Force as Trump Pressures Havana",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
-        }
-      ]
-    },
-    {
-      "id": 184,
+      "id": 213,
       "topic": "Sports",
       "label": "ADNOC · ships · Strait",
-      "title": "ADNOC says at least 15 ships attacked in Strait of Hormuz since start of conflict",
-      "summary": "One crew member was killed and 20 were wounded as a result of these attacks, the company reported",
-      "score": 2.601,
+      "title": "Seafarers’ safety ‘highest priority’, says Indian Embassy in Ukraine amid attacks on ships in Black Sea",
+      "summary": "Fifteen sailors, including 13 Indians, are trapped in a “terrible and life-threatening situation” at the Ukrainian port of Chornomorsk in the Black Sea, FSUI said on July 28",
+      "score": 2.549,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -3977,14 +3901,14 @@
       ]
     },
     {
-      "id": 222,
+      "id": 251,
       "topic": "Sports",
-      "label": "Hertha · Bochum · BSC",
-      "title": "Hertha BSC wins season opener at VfL Bochum in Second Bundesliga as fan banner halts match",
-      "summary": "Der erste Schritt zum Neuanfang bei der Hertha ist geglückt: Die Berliner setzten sich in einer fußballerisch ereignisarmen Partie gegen den VfL Bochum durch. Aufsehen erregte vor allem ein Sicherheit",
-      "score": 2.511,
+      "label": "Hertha · BSC · VfL",
+      "title": "Relegated Düsseldorf stumbles in third-tier debut",
+      "summary": "Die Vorfreude bei den Fans von Fortuna Düsseldorf auf den Saisonstart war groß. Doch der Auftakt wird zum Debakel. Ihr Klub hat im ersten Spiel jede Menge Pech. Der Schiedsrichter steht im Fokus.",
+      "score": 2.467,
       "n_outlets": 2,
-      "n_articles": 3,
+      "n_articles": 2,
       "regions": [
         "europe"
       ],
@@ -4012,38 +3936,23 @@
           "region": "europe",
           "lean": "right",
           "ownership": "private",
-          "title": "Match interrupted over banner at emergency exit – Hertha wins season opener in Bochum",
-          "url": "https://www.welt.de/sport/fussball/2-bundesliga/article6a7602c8c07f6c2f08035f14/zweite-liga-hertha-bsc-siegt-beim-vfl-bochum-und-sorgt-mit-banner-fuer-aufsehen.html",
-          "published": "2026-08-07T18:18:17+00:00",
-          "orig_title": "Unterbrechung wegen Banner über Fluchttor – Hertha siegt beim Auftakt in Bochum",
+          "title": "Relegated Düsseldorf stumbles in third-tier debut",
+          "url": "https://www.welt.de/sport/fussball/article6a762f9280ffe1cacd793fd6/fussball-absteiger-fortuna-duesseldorf-verpatzt-seinen-drittliga-start.html",
+          "published": "2026-08-07T19:42:38+00:00",
+          "orig_title": "Absteiger Düsseldorf verpatzt seinen Drittliga-Start",
           "lang": "de",
           "translated": true,
-          "access": "unknown",
-          "more": [
-            {
-              "outlet": "Die Welt",
-              "region": "europe",
-              "lean": "right",
-              "ownership": "private",
-              "title": "Relegated Düsseldorf stumbles in third-tier debut",
-              "url": "https://www.welt.de/sport/fussball/article6a762f9280ffe1cacd793fd6/fussball-absteiger-fortuna-duesseldorf-verpatzt-seinen-drittliga-start.html",
-              "published": "2026-08-07T19:42:38+00:00",
-              "orig_title": "Absteiger Düsseldorf verpatzt seinen Drittliga-Start",
-              "lang": "de",
-              "translated": true,
-              "access": "unknown"
-            }
-          ]
+          "access": "unknown"
         }
       ]
     },
     {
-      "id": 261,
+      "id": 290,
       "topic": "Sports",
       "label": "Honduran · summer · TikTok",
-      "title": "Goalkeeper Matvey Safonov could leave PSG next summer",
-      "summary": "Футбольный клуб ПСЖ следующим летом может расстаться с одним из вратарей — россиянином Матвеем Сафоновым или французом Люкой Шевалье. Об этом сообщает газета L'Equipe.",
-      "score": 2.452,
+      "title": "Honduran club make bizarre summer signing by recruiting TikTok star as goalkeeper",
+      "summary": "CD Choloma have signed Honduran TikTok creator Saúl \"La More\" Fox as a goalkeeper for the 2026 Apertura season, despite his lack of professional appearances. The 30-year-old social media star, who pre",
+      "score": 2.413,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -4084,12 +3993,12 @@
       ]
     },
     {
-      "id": 299,
+      "id": 324,
       "topic": "Sports",
       "label": "Russian · European · Championships",
       "title": "Russian rhythmic gymnastics team leaders denied visas for European Championships",
       "summary": "Олимпийские чемпионки по спортивной гимнастике Ангелина Мельникова и Виктория Листунова пока не получили визы для участия в чемпионате Европы в Загребе. Об этом сообщила пресс-служба Федерации гимнаст",
-      "score": 2.388,
+      "score": 2.355,
       "n_outlets": 2,
       "n_articles": 4,
       "regions": [
@@ -4158,12 +4067,12 @@
       ]
     },
     {
-      "id": 330,
+      "id": 353,
       "topic": "Sports",
       "label": "Russia-linked · Ceuta · How",
-      "title": "How Russia is impersonating French news outlets in a bid to influence France’s next presidential election",
-      "summary": "Russian disinformation networks have launched an active campaign to interfere in France’s presidential election, which is set for April 2027. Over the past two weeks, at least three cases have come to",
-      "score": 2.351,
+      "title": "Russia-linked accounts spread far-right narrative online during Ceuta migration crisis, analysis finds",
+      "summary": "Counter-disinformation group says social media channels connected to Pravda network helped amplify message Accounts with links to the Russian military promoting far-right messages reached more than 50",
+      "score": 2.321,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -4205,14 +4114,14 @@
       ]
     },
     {
-      "id": 341,
+      "id": 363,
       "topic": "Sports",
-      "label": "Shakib · Hasan · return",
-      "title": "Exiled Bangladeshi cricket star Shakib Al Hasan willing to return, face murder trial if safety assured",
-      "summary": "Exiled Bangladeshi cricket star Shakib Al Hasan willing to return, face murder trial if safety assured",
-      "score": 2.33,
+      "label": "Shakib · Hasan · ready",
+      "title": "Hasina-linked exiled cricketer ready to face murder trial, seeks safe return",
+      "summary": "The 39-year-old has not retired from international cricket and said he still hopes to play one final series for Bangladesh at home before representing the country at the 2027 ODI World Cup.",
+      "score": 2.302,
       "n_outlets": 2,
-      "n_articles": 3,
+      "n_articles": 2,
       "regions": [
         "india"
       ],
@@ -4240,10 +4149,42 @@
           "region": "india",
           "lean": "center",
           "ownership": "private",
-          "title": "Exiled Bangladeshi cricket star Shakib Al Hasan willing to return, face murder trial if safety assured",
-          "url": "https://timesofindia.indiatimes.com/world/south-asia/exiled-bangladeshi-cricket-star-shakib-al-hasan-willing-to-return-face-murder-trial-if-safety-assured/articleshow/133035696.cms",
-          "published": "2026-08-07T14:03:06+00:00",
-          "orig_title": "Exiled Bangladeshi cricket star Shakib Al Hasan willing to return, face murder trial if safety assured",
+          "title": "Hasina-linked exiled cricketer ready to face murder trial, seeks safe return",
+          "url": "https://timesofindia.indiatimes.com/sports/off-the-field/sheikh-hasina-linked-exiled-bangladesh-cricketer-ready-to-return-face-murder-trial-if-security-is-guaranteed/articleshow/133031410.cms",
+          "published": "2026-08-07T12:59:37+00:00",
+          "orig_title": "Hasina-linked exiled cricketer ready to face murder trial, seeks safe return",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "topic": "Sports",
+      "label": "IPL · McDonald · Australia's",
+      "title": "'IPL is part of our plan': McDonald explains Australia's strategy",
+      "summary": "Australia's coach Andrew McDonald is committed to judiciously overseeing player availability during the IPL. With a jam-packed international calendar on the horizon, ensuring the well-being of fast bo",
+      "score": 1.932,
+      "n_outlets": 1,
+      "n_articles": 2,
+      "regions": [
+        "india"
+      ],
+      "last_seen": "2026-08-08T05:22:47+00:00",
+      "leans": [
+        "center"
+      ],
+      "sources": [
+        {
+          "outlet": "Times of India",
+          "region": "india",
+          "lean": "center",
+          "ownership": "private",
+          "title": "'IPL is part of our plan': McDonald explains Australia's strategy",
+          "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ipl-is-part-of-our-plan-andrew-mcdonald-explains-australias-strategy-before-india-tour-and-ashes/articleshow/133046886.cms",
+          "published": "2026-08-08T05:22:47+00:00",
+          "orig_title": "'IPL is part of our plan': McDonald explains Australia's strategy",
           "lang": "en",
           "translated": false,
           "access": "open",
@@ -4253,10 +4194,10 @@
               "region": "india",
               "lean": "center",
               "ownership": "private",
-              "title": "Hasina-linked exiled cricketer ready to face murder trial, seeks safe return",
-              "url": "https://timesofindia.indiatimes.com/sports/off-the-field/sheikh-hasina-linked-exiled-bangladesh-cricketer-ready-to-return-face-murder-trial-if-security-is-guaranteed/articleshow/133031410.cms",
-              "published": "2026-08-07T12:59:37+00:00",
-              "orig_title": "Hasina-linked exiled cricketer ready to face murder trial, seeks safe return",
+              "title": "Flintoff steps down as England Lions coach, set to focus on Sydney Thunder role",
+              "url": "https://timesofindia.indiatimes.com/sports/cricket/news/andrew-flintoff-steps-down-as-england-lions-head-coach-set-to-focus-on-sydney-thunder-role/articleshow/133045997.cms",
+              "published": "2026-08-08T03:43:07+00:00",
+              "orig_title": "Flintoff steps down as England Lions coach, set to focus on Sydney Thunder role",
               "lang": "en",
               "translated": false,
               "access": "open"
@@ -4266,49 +4207,62 @@
       ]
     },
     {
-      "id": 452,
+      "id": 26,
       "topic": "Sports",
-      "label": "Iran · Key · President",
-      "title": "President Trump has ordered new probes into disclosures of the U.S. munitions stockpile, administration officials said, an escalation of his effort to battle damaging revelations about the Iran war",
-      "summary": "The president made the demand after weeks of headlines describing depleted munitions levels associated with the Iran war.",
-      "score": 2.22,
-      "n_outlets": 2,
-      "n_articles": 2,
+      "label": "Shubman · Gill · Galle",
+      "title": "Shubman Gill unlikely to bat in warm-up game, on track for Galle Test",
+      "summary": "Shubman Gill, the Indian captain, will miss the warm-up match following a finger injury he picked up during training just a day prior. To prioritise his readiness for the Test, the management has deci",
+      "score": 1.919,
+      "n_outlets": 1,
+      "n_articles": 3,
       "regions": [
-        "russia",
-        "us"
+        "india"
       ],
-      "last_seen": "2026-08-07T10:59:18+00:00",
+      "last_seen": "2026-08-08T05:12:27+00:00",
       "leans": [
-        "right",
-        "state"
+        "center"
       ],
       "sources": [
         {
-          "outlet": "The Wall Street Journal",
-          "region": "us",
-          "lean": "right",
+          "outlet": "Times of India",
+          "region": "india",
+          "lean": "center",
           "ownership": "private",
-          "title": "President Trump has ordered new probes into disclosures of the U.S. munitions stockpile, administration officials said, an escalation of his effort to battle damaging revelations about the Iran war",
-          "url": "https://www.wsj.com/politics/national-security/trump-orders-leak-probe-after-venting-about-media-coverage-of-munitions-stockpile-bdd0251b?mod=rss_socialpoliticsfeed",
-          "published": "2026-08-06T23:30:00+00:00",
-          "orig_title": "President Trump has ordered new probes into disclosures of the U.S. munitions stockpile, administration officials said, an escalation of his effort to battle damaging revelations about the Iran war",
+          "title": "Shubman Gill unlikely to bat in warm-up game, on track for Galle Test",
+          "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/shubman-gill-unlikely-to-bat-in-warm-up-game-on-track-for-galle-test-against-sri-lanka/articleshow/133046914.cms",
+          "published": "2026-08-08T05:12:27+00:00",
+          "orig_title": "Shubman Gill unlikely to bat in warm-up game, on track for Galle Test",
           "lang": "en",
           "translated": false,
-          "access": "paywall"
-        },
-        {
-          "outlet": "TASS",
-          "region": "russia",
-          "lean": "state",
-          "ownership": "state",
-          "title": "Key US missile stockpiles run 'extremely low' amid Iran conflict — TV",
-          "url": "https://tass.com/world/2170169",
-          "published": "2026-08-07T10:59:18+00:00",
-          "orig_title": "Key US missile stockpiles run 'extremely low' amid Iran conflict — TV",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
+          "access": "open",
+          "more": [
+            {
+              "outlet": "Times of India",
+              "region": "india",
+              "lean": "center",
+              "ownership": "private",
+              "title": "India's day out in Colombo: Gill sidelined by injury, bowlers find rhythm",
+              "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/indias-day-out-in-colombo-shubman-gill-sidelined-by-injury-as-bowlers-find-rhythm-after-sluggish-start/articleshow/133034246.cms",
+              "published": "2026-08-07T12:56:58+00:00",
+              "orig_title": "India's day out in Colombo: Gill sidelined by injury, bowlers find rhythm",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            },
+            {
+              "outlet": "Times of India",
+              "region": "india",
+              "lean": "center",
+              "ownership": "private",
+              "title": "India vs Sri Lanka: Captain Shubman Gill's time to take centrestage",
+              "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/india-vs-sri-lanka-captain-shubman-gills-time-to-take-centrestage/articleshow/133044961.cms",
+              "published": "2026-08-08T01:46:45+00:00",
+              "orig_title": "India vs Sri Lanka: Captain Shubman Gill's time to take centrestage",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            }
+          ]
         }
       ]
     }
