@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T08:54:40.093914+00:00",
+  "generated_at": "2026-08-08T09:49:47.978401+00:00",
   "topics": [
     "World & Politics",
     "Economics",
@@ -14,21 +14,21 @@
       "name": "United States",
       "lat": 39.0,
       "lng": -98.0,
-      "count": 22
+      "count": 27
     },
     {
       "id": "europe",
       "name": "Europe",
       "lat": 50.0,
       "lng": 10.0,
-      "count": 27
+      "count": 26
     },
     {
       "id": "china",
       "name": "China",
       "lat": 35.0,
       "lng": 105.0,
-      "count": 14
+      "count": 15
     },
     {
       "id": "india",
@@ -42,14 +42,14 @@
       "name": "Australia",
       "lat": -25.0,
       "lng": 134.0,
-      "count": 3
+      "count": 2
     },
     {
       "id": "south_america",
       "name": "South America",
       "lat": -12.0,
       "lng": -58.0,
-      "count": 6
+      "count": 5
     },
     {
       "id": "africa",
@@ -70,17 +70,17 @@
       "name": "Russia",
       "lat": 61.0,
       "lng": 90.0,
-      "count": 24
+      "count": 22
     }
   ],
   "clusters": [
     {
-      "id": 30,
+      "id": 67,
       "topic": "World & Politics",
       "label": "Colombia · Espriella · Trump",
       "title": "Colombia: Trump ally De la Espriella takes office",
       "summary": "Conservative Abelardo de la Espriella was sworn in as Colombia's president, promising to crack down on armed drug gangs.",
-      "score": 14.927,
+      "score": 14.858,
       "n_outlets": 14,
       "n_articles": 18,
       "regions": [
@@ -343,14 +343,14 @@
       ]
     },
     {
-      "id": 79,
+      "id": 110,
       "topic": "World & Politics",
       "label": "Saudi · Arabia · Pakistan",
       "title": "Saudi Arabia, Turkey and Pakistan Sign Joint Defense Pact",
       "summary": "The agreement treats an attack on any of the countries as an attack on all, but in a region of volatile rivalries, it was unclear how it would work in practice.",
-      "score": 10.835,
-      "n_outlets": 10,
-      "n_articles": 11,
+      "score": 9.774,
+      "n_outlets": 9,
+      "n_articles": 10,
       "regions": [
         "africa",
         "china",
@@ -364,8 +364,7 @@
       "leans": [
         "center",
         "left",
-        "right",
-        "state"
+        "right"
       ],
       "sources": [
         {
@@ -499,29 +498,189 @@
               "access": "paywall"
             }
           ]
-        },
-        {
-          "outlet": "TASS",
-          "region": "russia",
-          "lean": "state",
-          "ownership": "state",
-          "title": "Ankara-Riyadh-Islamabad alliance stems from geopolitics — expert",
-          "url": "https://tass.com/world/2170195",
-          "published": "2026-08-07T12:04:58+00:00",
-          "orig_title": "Ankara-Riyadh-Islamabad alliance stems from geopolitics — expert",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
         }
       ]
     },
     {
-      "id": 46,
+      "id": 1,
+      "topic": "World & Politics",
+      "label": "Blanche · Todd · Senate",
+      "title": "Trump pick Todd Blanche clears major hurdle in bid to become US attorney general",
+      "summary": "Republican Senator Bill Cassidy said on Friday he would back Todd Blanche for attorney general, clearing a path for Donald Trump’s nominee after weeks of scrutiny over the Justice Department’s indepen",
+      "score": 8.992,
+      "n_outlets": 8,
+      "n_articles": 11,
+      "regions": [
+        "china",
+        "europe",
+        "japan",
+        "us"
+      ],
+      "last_seen": "2026-08-08T09:44:00+00:00",
+      "leans": [
+        "center",
+        "left",
+        "right"
+      ],
+      "sources": [
+        {
+          "outlet": "Der Spiegel",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "US Senate confirms Trump's controversial pick for Justice Minister",
+          "url": "https://www.spiegel.de/ausland/us-senat-bestaetigt-trumps-umstrittenen-kandidaten-als-us-justizminister-a-921dcd55-0ee6-4796-8e91-53bc7e861735#ref=rss",
+          "published": "2026-08-08T09:44:00+00:00",
+          "orig_title": "US-Senat bestätigt Trumps umstrittenen Kandidaten als US-Justizminister",
+          "lang": "de",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
+          "outlet": "NPR",
+          "region": "us",
+          "lean": "left",
+          "ownership": "public",
+          "title": "Senate votes to confirm Todd Blanche as attorney general",
+          "url": "https://www.npr.org/2026/08/08/g-s1-137631/senate-confirms-todd-blanche-attorney-general",
+          "published": "2026-08-08T08:46:39+00:00",
+          "orig_title": "Senate votes to confirm Todd Blanche as attorney general",
+          "lang": "en",
+          "translated": false,
+          "access": "open",
+          "more": [
+            {
+              "outlet": "NPR",
+              "region": "us",
+              "lean": "left",
+              "ownership": "public",
+              "title": "Blanche's path to confirmation appears clear after winning key Republican's support",
+              "url": "https://www.npr.org/2026/08/07/g-s1-137773/lisa-murkowski-todd-blanche-attorney-general",
+              "published": "2026-08-07T14:12:59+00:00",
+              "orig_title": "Blanche's path to confirmation appears clear after winning key Republican's support",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            }
+          ]
+        },
+        {
+          "outlet": "The Guardian",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Trump loyalist Todd Blanche confirmed by Senate as US attorney general",
+          "url": "https://www.theguardian.com/us-news/2026/aug/08/todd-blanche-attorney-general-confirmed",
+          "published": "2026-08-08T08:47:19+00:00",
+          "orig_title": "Trump loyalist Todd Blanche confirmed by Senate as US attorney general",
+          "lang": "en",
+          "translated": false,
+          "access": "open",
+          "more": [
+            {
+              "outlet": "The Guardian",
+              "region": "europe",
+              "lean": "left",
+              "ownership": "private",
+              "title": "Trump blasts appeals court for halting White House ballroom construction, claiming decision is a ‘national security threat’ – as it happened",
+              "url": "https://www.theguardian.com/us-news/live/2026/aug/07/donald-trump-ohio-republican-max-miller-domestic-abuse-allegations-birthright-citizenship-us-politics-latest",
+              "published": "2026-08-08T02:01:31+00:00",
+              "orig_title": "Trump blasts appeals court for halting White House ballroom construction, claiming decision is a ‘national security threat’ – as it happened",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            }
+          ]
+        },
+        {
+          "outlet": "South China Morning Post",
+          "region": "china",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Trump pick Todd Blanche clears major hurdle in bid to become US attorney general",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3363368/trump-pick-todd-blanche-clears-major-hurdle-bid-become-us-attorney-general?utm_source=rss_feed",
+          "published": "2026-08-07T20:30:46+00:00",
+          "orig_title": "Trump pick Todd Blanche clears major hurdle in bid to become US attorney general",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "The Hill",
+          "region": "us",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Senate confirms Todd Blanche as attorney general after bruising fight",
+          "url": "https://thehill.com/homenews/senate/6017820-senate-todd-blanche-attorney-general-nomination/",
+          "published": "2026-08-08T08:34:16+00:00",
+          "orig_title": "Senate confirms Todd Blanche as attorney general after bruising fight",
+          "lang": "en",
+          "translated": false,
+          "access": "unknown"
+        },
+        {
+          "outlet": "The Japan Times",
+          "region": "japan",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Trump nominee Todd Blanche clears major hurdle in bid to become attorney general",
+          "url": "https://www.japantimes.co.jp/news/2026/08/08/world/politics/todd-blanche-attorney-general/",
+          "published": "2026-08-07T23:40:00+00:00",
+          "orig_title": "Trump nominee Todd Blanche clears major hurdle in bid to become attorney general",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall"
+        },
+        {
+          "outlet": "Die Welt",
+          "region": "europe",
+          "lean": "right",
+          "ownership": "private",
+          "title": "US Senate confirms Trump's controversial Justice Minister Blanche",
+          "url": "https://www.welt.de/politik/ausland/article6a76f1690c281ffac789f828/us-senat-bestaetigt-todd-blance-sehr-knappe-mehrheit-fuer-trumps-umstrittenen-justizminister.html",
+          "published": "2026-08-08T09:20:12+00:00",
+          "orig_title": "US-Senat bestätigt Trumps umstrittenen Justizminister Blanche",
+          "lang": "de",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
+          "outlet": "The Wall Street Journal",
+          "region": "us",
+          "lean": "right",
+          "ownership": "private",
+          "title": "A key senator said he would vote to confirm Todd Blanche as attorney general, clearing the path for President Trump’s pick to lead the Justice Department",
+          "url": "https://www.wsj.com/politics/policy/second-republican-will-oppose-blanche-leaving-confirmation-down-to-the-wire-aa02c480?mod=rss_socialpoliticsfeed",
+          "published": "2026-08-07T16:03:00+00:00",
+          "orig_title": "A key senator said he would vote to confirm Todd Blanche as attorney general, clearing the path for President Trump’s pick to lead the Justice Department",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall",
+          "more": [
+            {
+              "outlet": "The Wall Street Journal",
+              "region": "us",
+              "lean": "right",
+              "ownership": "private",
+              "title": "The Senate narrowly confirmed Todd Blanche as attorney general, cementing a trusted Trump ally atop the Justice Department",
+              "url": "https://www.wsj.com/politics/policy/blanche-confirmed-as-attorney-general-on-tight-senate-vote-f8ad433a?mod=rss_socialpoliticsfeed",
+              "published": "2026-08-08T08:34:00+00:00",
+              "orig_title": "The Senate narrowly confirmed Todd Blanche as attorney general, cementing a trusted Trump ally atop the Justice Department",
+              "lang": "en",
+              "translated": false,
+              "access": "paywall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 80,
       "topic": "World & Politics",
       "label": "Russia · Senate · sanctions",
       "title": "US Senate approves bill tightening sanctions against Russia",
       "summary": "Сенат США проголосовал за принятие законопроекта об ужесточении санкций в отношении России и Ирана. Трансляция заседания велась на сайте верхней палаты Конгресса.",
-      "score": 8.898,
+      "score": 8.831,
       "n_outlets": 8,
       "n_articles": 10,
       "regions": [
@@ -676,14 +835,14 @@
       ]
     },
     {
-      "id": 222,
+      "id": 247,
       "topic": "World & Politics",
-      "label": "Italy · Spain · border",
+      "label": "Spain · Italy · border",
       "title": "Ceuta: Spain sets up border controls on travelers from Italy",
       "summary": "Spain had warned Italy it would impose entry checks on visitors unless Rome halts its controls by Sunday. Even though they don't share a land border, the countries entered a spat after the Ceuta borde",
-      "score": 8.564,
+      "score": 8.522,
       "n_outlets": 8,
-      "n_articles": 11,
+      "n_articles": 9,
       "regions": [
         "europe",
         "india",
@@ -748,35 +907,7 @@
           "orig_title": "Испания начала выборочный контроль путешественников из Италии",
           "lang": "ru",
           "translated": true,
-          "access": "unknown",
-          "more": [
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Spain gives Italy two days to restore Schengen agreement",
-              "url": "https://www.kommersant.ru/doc/8874982",
-              "published": "2026-08-07T13:08:44+00:00",
-              "orig_title": "Испания дала Италии два дня на возобновление действия Шенгенского соглашения",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            },
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Italy rejects Spain's ultimatum to end border checks",
-              "url": "https://www.kommersant.ru/doc/8875119",
-              "published": "2026-08-07T16:51:15+00:00",
-              "orig_title": "Италия отвергла ультиматум Испании о прекращении пограничных проверок",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            }
-          ]
+          "access": "unknown"
         },
         {
           "outlet": "Politico Europe",
@@ -848,12 +979,12 @@
       ]
     },
     {
-      "id": 308,
+      "id": 331,
       "topic": "World & Politics",
       "label": "Thailand · shooting · Thai",
       "title": "What we know so far about the deadly Thailand shooting",
       "summary": "At least seven people have died after a teenage boy shot his grandparents before opening fire on a school in Bangkok.",
-      "score": 7.381,
+      "score": 7.353,
       "n_outlets": 7,
       "n_articles": 10,
       "regions": [
@@ -1006,129 +1137,12 @@
       ]
     },
     {
-      "id": 8,
-      "topic": "World & Politics",
-      "label": "Todd · Blanche · Trump",
-      "title": "Trump pick Todd Blanche clears major hurdle in bid to become US attorney general",
-      "summary": "Republican Senator Bill Cassidy said on Friday he would back Todd Blanche for attorney general, clearing a path for Donald Trump’s nominee after weeks of scrutiny over the Justice Department’s indepen",
-      "score": 6.972,
-      "n_outlets": 6,
-      "n_articles": 7,
-      "regions": [
-        "china",
-        "europe",
-        "japan",
-        "us"
-      ],
-      "last_seen": "2026-08-08T08:34:16+00:00",
-      "leans": [
-        "center",
-        "left",
-        "right"
-      ],
-      "sources": [
-        {
-          "outlet": "NPR",
-          "region": "us",
-          "lean": "left",
-          "ownership": "public",
-          "title": "Blanche's path to confirmation appears clear after winning key Republican's support",
-          "url": "https://www.npr.org/2026/08/07/g-s1-137773/lisa-murkowski-todd-blanche-attorney-general",
-          "published": "2026-08-07T14:12:59+00:00",
-          "orig_title": "Blanche's path to confirmation appears clear after winning key Republican's support",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "The Guardian",
-          "region": "europe",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Trump blasts appeals court for halting White House ballroom construction, claiming decision is a ‘national security threat’ – as it happened",
-          "url": "https://www.theguardian.com/us-news/live/2026/aug/07/donald-trump-ohio-republican-max-miller-domestic-abuse-allegations-birthright-citizenship-us-politics-latest",
-          "published": "2026-08-08T02:01:31+00:00",
-          "orig_title": "Trump blasts appeals court for halting White House ballroom construction, claiming decision is a ‘national security threat’ – as it happened",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "South China Morning Post",
-          "region": "china",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Trump pick Todd Blanche clears major hurdle in bid to become US attorney general",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3363368/trump-pick-todd-blanche-clears-major-hurdle-bid-become-us-attorney-general?utm_source=rss_feed",
-          "published": "2026-08-07T20:30:46+00:00",
-          "orig_title": "Trump pick Todd Blanche clears major hurdle in bid to become US attorney general",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "The Hill",
-          "region": "us",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Senate confirms Todd Blanche as attorney general after bruising fight",
-          "url": "https://thehill.com/homenews/senate/6017820-senate-todd-blanche-attorney-general-nomination/",
-          "published": "2026-08-08T08:34:16+00:00",
-          "orig_title": "Senate confirms Todd Blanche as attorney general after bruising fight",
-          "lang": "en",
-          "translated": false,
-          "access": "unknown"
-        },
-        {
-          "outlet": "The Japan Times",
-          "region": "japan",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Trump nominee Todd Blanche clears major hurdle in bid to become attorney general",
-          "url": "https://www.japantimes.co.jp/news/2026/08/08/world/politics/todd-blanche-attorney-general/",
-          "published": "2026-08-07T23:40:00+00:00",
-          "orig_title": "Trump nominee Todd Blanche clears major hurdle in bid to become attorney general",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
-        },
-        {
-          "outlet": "The Wall Street Journal",
-          "region": "us",
-          "lean": "right",
-          "ownership": "private",
-          "title": "A key senator said he would vote to confirm Todd Blanche as attorney general, clearing the path for President Trump’s pick to lead the Justice Department",
-          "url": "https://www.wsj.com/politics/policy/second-republican-will-oppose-blanche-leaving-confirmation-down-to-the-wire-aa02c480?mod=rss_socialpoliticsfeed",
-          "published": "2026-08-07T16:03:00+00:00",
-          "orig_title": "A key senator said he would vote to confirm Todd Blanche as attorney general, clearing the path for President Trump’s pick to lead the Justice Department",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall",
-          "more": [
-            {
-              "outlet": "The Wall Street Journal",
-              "region": "us",
-              "lean": "right",
-              "ownership": "private",
-              "title": "The Senate narrowly confirmed Todd Blanche as attorney general, cementing a trusted Trump ally atop the Justice Department",
-              "url": "https://www.wsj.com/politics/policy/blanche-confirmed-as-attorney-general-on-tight-senate-vote-f8ad433a?mod=rss_socialpoliticsfeed",
-              "published": "2026-08-08T08:34:00+00:00",
-              "orig_title": "The Senate narrowly confirmed Todd Blanche as attorney general, cementing a trusted Trump ally atop the Justice Department",
-              "lang": "en",
-              "translated": false,
-              "access": "paywall"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 60,
+      "id": 93,
       "topic": "World & Politics",
       "label": "Houthis · Yemeni · Yemen",
       "title": "Houthis Claim Attack on Yemeni Military Camp",
       "summary": "Recent escalating tensions between the Iran-backed group and the Yemeni government have prompted fears that a truce in place since 2022 is nearing collapse.",
-      "score": 6.864,
+      "score": 6.8,
       "n_outlets": 6,
       "n_articles": 8,
       "regions": [
@@ -1256,153 +1270,37 @@
       ]
     },
     {
-      "id": 270,
+      "id": 19,
       "topic": "World & Politics",
-      "label": "Trump · birthright · citizenship",
-      "title": "Trump again tries to limit US birthright citizenship with new executive orders",
-      "summary": "The executive orders ban birth tourism and expand the existing definition of people whose children are not eligible for US birthright citizenship.",
-      "score": 6.462,
-      "n_outlets": 6,
-      "n_articles": 7,
+      "label": "Japan · Kumamoto · toll",
+      "title": "Kumamoto earthquake: Prefecture releases names of 4 more victims, death toll rises to 39",
+      "summary": "Kumamoto earthquake: Prefecture releases names of 4 more victims, death toll rises to 39",
+      "score": 5.956,
+      "n_outlets": 5,
+      "n_articles": 6,
       "regions": [
-        "africa",
-        "europe",
+        "india",
         "japan",
         "russia",
         "us"
       ],
-      "last_seen": "2026-08-07T23:38:00+00:00",
+      "last_seen": "2026-08-08T09:17:32+00:00",
       "leans": [
         "center",
         "left",
-        "right"
+        "state"
       ],
       "sources": [
         {
-          "outlet": "NPR",
-          "region": "us",
-          "lean": "left",
-          "ownership": "public",
-          "title": "Trump targets birthright citizenship. And, Iran aims to ban U.S. from Strait of Hormuz",
-          "url": "https://www.npr.org/2026/08/07/g-s1-137730/up-first-newsletter-trump-birthright-citizenship-iran-oman-strait-of-hormuz-anthony-fauci-mitch-mcconnell",
-          "published": "2026-08-07T10:56:19+00:00",
-          "orig_title": "Trump targets birthright citizenship. And, Iran aims to ban U.S. from Strait of Hormuz",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "BBC News",
-          "region": "europe",
-          "lean": "center",
-          "ownership": "public",
-          "title": "Trump again tries to limit US birthright citizenship with new executive orders",
-          "url": "https://www.bbc.co.uk/news/articles/cj63966j95yo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-07T00:34:14+00:00",
-          "orig_title": "Trump again tries to limit US birthright citizenship with new executive orders",
-          "lang": "en",
-          "translated": false,
-          "access": "open",
-          "more": [
-            {
-              "outlet": "BBC News",
-              "region": "europe",
-              "lean": "center",
-              "ownership": "public",
-              "title": "What is birthright citizenship and how common is birth tourism in the US?",
-              "url": "https://www.bbc.co.uk/news/articles/cn9nz5qwl8jo?at_medium=RSS&at_campaign=rss",
-              "published": "2026-08-07T21:09:51+00:00",
-              "orig_title": "What is birthright citizenship and how common is birth tourism in the US?",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
-            }
-          ]
-        },
-        {
-          "outlet": "Kommersant",
-          "region": "russia",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Trump signs orders restricting birthright citizenship",
-          "url": "https://www.kommersant.ru/doc/8864430",
-          "published": "2026-08-07T00:52:12+00:00",
-          "orig_title": "Трамп подписал указы об ограничении гражданства США по праву рождения",
-          "lang": "ru",
-          "translated": true,
-          "access": "unknown"
-        },
-        {
-          "outlet": "Le Matin",
-          "region": "africa",
-          "lean": "center",
-          "ownership": "private",
-          "title": "American citizenship: Trump signs decree against birth tourism",
-          "url": "https://lematin.ma/monde/trump-signe-un-decret-contre-le-tourisme-des-naissances/359842",
-          "published": "2026-08-07T08:39:00+00:00",
-          "orig_title": "Nationalité américaine : Trump signe un décret contre le tourisme des naissances",
-          "lang": "fr",
-          "translated": true,
-          "access": "unknown"
-        },
-        {
-          "outlet": "The Japan Times",
+          "outlet": "Asahi Shimbun",
           "region": "japan",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Trump’s new attack on birthright citizenship faces uphill legal battle",
-          "url": "https://www.japantimes.co.jp/news/2026/08/08/world/politics/trump-birthright-citizenship-analysis/",
-          "published": "2026-08-07T23:38:00+00:00",
-          "orig_title": "Trump’s new attack on birthright citizenship faces uphill legal battle",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
-        },
-        {
-          "outlet": "The Wall Street Journal",
-          "region": "us",
-          "lean": "right",
-          "ownership": "private",
-          "title": "President Trump signed a pair of executive orders that he said were aimed at cracking down on birthright citizenship, renewing one of his signature policies",
-          "url": "https://www.wsj.com/politics/policy/trump-signs-executive-orders-targeting-birthright-citizenship-882e673b?mod=rss_socialpoliticsfeed",
-          "published": "2026-08-07T00:31:00+00:00",
-          "orig_title": "President Trump signed a pair of executive orders that he said were aimed at cracking down on birthright citizenship, renewing one of his signature policies",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "topic": "World & Politics",
-      "label": "Russian · Kyiv · Ukraine",
-      "title": "At least three killed in Russian strikes in Kyiv region, official says",
-      "summary": "Three more ‌people were injured ​in the attack",
-      "score": 5.981,
-      "n_outlets": 5,
-      "n_articles": 8,
-      "regions": [
-        "europe",
-        "india",
-        "russia"
-      ],
-      "last_seen": "2026-08-08T08:41:07+00:00",
-      "leans": [
-        "center",
-        "left"
-      ],
-      "sources": [
-        {
-          "outlet": "Novaya Gazeta Europe",
-          "region": "russia",
           "lean": "left",
           "ownership": "private",
-          "title": "Russia launches night strike on Kyiv and region, four killed",
-          "url": "https://novayagazeta.eu/articles/2026/08/08/rossiia-nanesla-nochnoi-udar-po-kievu-i-oblasti-pogibli-chetyre-cheloveka-news",
-          "published": "2026-08-08T08:12:23+00:00",
-          "orig_title": "Россия нанесла ночной удар по Киеву и области, погибли четыре человека",
-          "lang": "ru",
+          "title": "Kumamoto earthquake: Prefecture releases names of 4 more victims, death toll rises to 39",
+          "url": "http://www.asahi.com/articles/ASV8811H8V88TLVB002M.html?ref=rss",
+          "published": "2026-08-08T09:17:32+00:00",
+          "orig_title": "熊本地震、県が新たに4人の犠牲者氏名を公表 死者は1人増え39人",
+          "lang": "ja",
           "translated": true,
           "access": "unknown"
         },
@@ -1411,10 +1309,10 @@
           "region": "india",
           "lean": "left",
           "ownership": "private",
-          "title": "At least three killed in Russian strikes in Kyiv region, official says",
-          "url": "https://www.thehindu.com/news/international/russia-strikes-attack-on-ukraine-updates-toll-august-8-2026/article71320452.ece",
-          "published": "2026-08-08T02:53:52+00:00",
-          "orig_title": "At least three killed in Russian strikes in Kyiv region, official says",
+          "title": "Japan quake toll hits 28 as survivors struggle in heat",
+          "url": "https://www.thehindu.com/news/international/japan-quake-death-toll-increases-as-survivors-struggle-in-heat/article71284372.ece",
+          "published": "2026-08-08T02:47:41+00:00",
+          "orig_title": "Japan quake toll hits 28 as survivors struggle in heat",
           "lang": "en",
           "translated": false,
           "access": "open",
@@ -1424,23 +1322,10 @@
               "region": "india",
               "lean": "left",
               "ownership": "private",
-              "title": "Russian strikes across Ukraine kill 9 and NATO scrambles jets after a missile falls in Poland",
-              "url": "https://www.thehindu.com/news/international/russian-strikes-across-ukraine-kill-9-and-nato-scrambles-jets-after-a-missile-falls-in-poland/article71287476.ece",
-              "published": "2026-08-08T04:30:07+00:00",
-              "orig_title": "Russian strikes across Ukraine kill 9 and NATO scrambles jets after a missile falls in Poland",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
-            },
-            {
-              "outlet": "The Hindu",
-              "region": "india",
-              "lean": "left",
-              "ownership": "private",
-              "title": "Ukraine says it hit a major Russian oil refinery, hours after Zelenskyy’s meeting with Trump",
-              "url": "https://www.thehindu.com/news/international//article71281250.ece",
-              "published": "2026-08-07T23:43:56+00:00",
-              "orig_title": "Ukraine says it hit a major Russian oil refinery, hours after Zelenskyy’s meeting with Trump",
+              "title": "Japan earthquake: ‘Many people’ feared trapped in mall",
+              "url": "https://www.thehindu.com/news/international/japan-magnitude-71-earthquake-kyushu-toll-updates-tsunami-july-28-2026/article71276019.ece",
+              "published": "2026-08-07T18:06:33+00:00",
+              "orig_title": "Japan earthquake: ‘Many people’ feared trapped in mall",
               "lang": "en",
               "translated": false,
               "access": "open"
@@ -1448,70 +1333,55 @@
           ]
         },
         {
-          "outlet": "BBC News",
-          "region": "europe",
+          "outlet": "The New York Times",
+          "region": "us",
+          "lean": "left",
+          "ownership": "private",
+          "title": "How Japan Reduced Deaths From a Major Quake",
+          "url": "https://www.nytimes.com/2026/08/07/world/asia/japan-earthquake-kumamoto-preparation.html",
+          "published": "2026-08-07T12:54:36+00:00",
+          "orig_title": "How Japan Reduced Deaths From a Major Quake",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall"
+        },
+        {
+          "outlet": "The Japan Times",
+          "region": "japan",
           "lean": "center",
-          "ownership": "public",
-          "title": "Child among three killed in Russian missile attacks near Kyiv",
-          "url": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-08T06:12:56+00:00",
-          "orig_title": "Child among three killed in Russian missile attacks near Kyiv",
+          "ownership": "private",
+          "title": "Kumamoto quake toll rises to 39",
+          "url": "https://www.japantimes.co.jp/news/2026/08/08/japan/kumamoto-quake-toll-39/",
+          "published": "2026-08-08T04:06:00+00:00",
+          "orig_title": "Kumamoto quake toll rises to 39",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall"
+        },
+        {
+          "outlet": "TASS",
+          "region": "russia",
+          "lean": "state",
+          "ownership": "state",
+          "title": "Japanese earthquake death toll rises to 39",
+          "url": "https://tass.com/emergencies/2170433",
+          "published": "2026-08-08T04:39:09+00:00",
+          "orig_title": "Japanese earthquake death toll rises to 39",
           "lang": "en",
           "translated": false,
           "access": "open"
-        },
-        {
-          "outlet": "Politico Europe",
-          "region": "europe",
-          "lean": "center",
-          "ownership": "private",
-          "title": "EU adds 5 people to Russia sanctions list after latest deadly attacks on Ukraine",
-          "url": "https://www.politico.eu/article/eu-sanctions-russia-attacks-ukraine/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-          "published": "2026-08-07T13:23:10+00:00",
-          "orig_title": "EU adds 5 people to Russia sanctions list after latest deadly attacks on Ukraine",
-          "lang": "en",
-          "translated": false,
-          "access": "unknown"
-        },
-        {
-          "outlet": "The Moscow Times",
-          "region": "russia",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Russian Strikes Kill 3 in Kyiv Region, Official Says",
-          "url": "https://www.themoscowtimes.com/2026/08/08/russian-strikes-kill-3-in-kyiv-region-official-says-a93442",
-          "published": "2026-08-08T08:41:07+00:00",
-          "orig_title": "Russian Strikes Kill 3 in Kyiv Region, Official Says",
-          "lang": "en",
-          "translated": false,
-          "access": "open",
-          "more": [
-            {
-              "outlet": "The Moscow Times",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Ukraine Strikes Oil Refinery in Russia's Krasnodar Region in Drone Attack",
-              "url": "https://www.themoscowtimes.com/2026/08/08/ukraine-strikes-oil-refinery-in-russias-krasnodar-region-in-drone-attack-a93441",
-              "published": "2026-08-08T08:28:13+00:00",
-              "orig_title": "Ukraine Strikes Oil Refinery in Russia's Krasnodar Region in Drone Attack",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
-            }
-          ]
         }
       ]
     },
     {
-      "id": 96,
+      "id": 125,
       "topic": "World & Politics",
-      "label": "Hormuz · Iran · Strait",
+      "label": "Hormuz · Strait · Iran",
       "title": "Reuters: US expects imminent Iran-Oman deal on Strait of Hormuz",
       "summary": "Иран и Оман достигли значительного прогресса на переговорах по регулированию судоходства в Ормузском проливе. США ждут, что сделка будет подписана уже скоро, пишет Reuters со ссылкой на источник.",
-      "score": 5.8,
+      "score": 5.741,
       "n_outlets": 5,
-      "n_articles": 9,
+      "n_articles": 8,
       "regions": [
         "europe",
         "india",
@@ -1610,19 +1480,6 @@
               "region": "russia",
               "lean": "center",
               "ownership": "private",
-              "title": "Trump: Iran operation could end soon",
-              "url": "https://www.kommersant.ru/doc/8864428",
-              "published": "2026-08-07T02:43:08+00:00",
-              "orig_title": "Трамп: операция против Ирана может скоро закончиться",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            },
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
               "title": "US Treasury chief announces imminent deal with Iran",
               "url": "https://www.kommersant.ru/doc/8875042",
               "published": "2026-08-07T14:45:14+00:00",
@@ -1649,113 +1506,116 @@
       ]
     },
     {
-      "id": 356,
-      "topic": "Economics",
-      "label": "July · jobs · Employers",
-      "title": "US unexpectedly lost 23,000 jobs in July as slump in growth continues",
-      "summary": "Estimates for previous two months were revised down sharply but unemployment rate held steady at 4.1% Business live – latest updates US employers unexpectedly lost 23,000 jobs in July and gains for th",
-      "score": 6.303,
-      "n_outlets": 6,
+      "id": 293,
+      "topic": "World & Politics",
+      "label": "Trump · citizenship · birthright",
+      "title": "Trump again tries to limit US birthright citizenship with new executive orders",
+      "summary": "The executive orders ban birth tourism and expand the existing definition of people whose children are not eligible for US birthright citizenship.",
+      "score": 5.428,
+      "n_outlets": 5,
       "n_articles": 6,
       "regions": [
-        "china",
+        "africa",
         "europe",
         "japan",
+        "russia",
         "us"
       ],
-      "last_seen": "2026-08-07T18:35:32+00:00",
+      "last_seen": "2026-08-07T23:38:00+00:00",
       "leans": [
         "center",
-        "left"
+        "right"
       ],
       "sources": [
-        {
-          "outlet": "Asahi Shimbun",
-          "region": "japan",
-          "lean": "left",
-          "ownership": "private",
-          "title": "US July jobs fall 23,000, sharply missing forecast as yen strengthens",
-          "url": "http://www.asahi.com/articles/ASV874CQDV87UHBI02FM.html?ref=rss",
-          "published": "2026-08-07T13:26:32+00:00",
-          "orig_title": "米7月の就業者数2.3万人減 市場予想を大幅に下回る 円高が進行",
-          "lang": "ja",
-          "translated": true,
-          "access": "unknown"
-        },
-        {
-          "outlet": "NPR",
-          "region": "us",
-          "lean": "left",
-          "ownership": "public",
-          "title": "Employers unexpectedly cut 23,000 jobs in a sign of a wilting labor market",
-          "url": "https://www.npr.org/2026/08/07/nx-s1-5924786/employers-economy-labor-jobs-federal-reserve",
-          "published": "2026-08-07T13:10:10+00:00",
-          "orig_title": "Employers unexpectedly cut 23,000 jobs in a sign of a wilting labor market",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "The Guardian",
-          "region": "europe",
-          "lean": "left",
-          "ownership": "private",
-          "title": "US unexpectedly lost 23,000 jobs in July as slump in growth continues",
-          "url": "https://www.theguardian.com/business/2026/aug/07/july-jobs-report-middle-east-conflict",
-          "published": "2026-08-07T13:22:43+00:00",
-          "orig_title": "US unexpectedly lost 23,000 jobs in July as slump in growth continues",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "The New York Times",
-          "region": "us",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Labor Market Shifts Into Reverse as Employers Balk at Hiring",
-          "url": "https://www.nytimes.com/2026/08/07/business/economy/heres-the-latest.html",
-          "published": "2026-08-07T18:35:32+00:00",
-          "orig_title": "Labor Market Shifts Into Reverse as Employers Balk at Hiring",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
-        },
         {
           "outlet": "BBC News",
           "region": "europe",
           "lean": "center",
           "ownership": "public",
-          "title": "Surprise fall in US jobs last month as slow summer continues",
-          "url": "https://www.bbc.co.uk/news/articles/c20j5rle717o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-07T14:03:55+00:00",
-          "orig_title": "Surprise fall in US jobs last month as slow summer continues",
+          "title": "Trump again tries to limit US birthright citizenship with new executive orders",
+          "url": "https://www.bbc.co.uk/news/articles/cj63966j95yo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-07T00:34:14+00:00",
+          "orig_title": "Trump again tries to limit US birthright citizenship with new executive orders",
           "lang": "en",
           "translated": false,
-          "access": "open"
+          "access": "open",
+          "more": [
+            {
+              "outlet": "BBC News",
+              "region": "europe",
+              "lean": "center",
+              "ownership": "public",
+              "title": "What is birthright citizenship and how common is birth tourism in the US?",
+              "url": "https://www.bbc.co.uk/news/articles/cn9nz5qwl8jo?at_medium=RSS&at_campaign=rss",
+              "published": "2026-08-07T21:09:51+00:00",
+              "orig_title": "What is birthright citizenship and how common is birth tourism in the US?",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            }
+          ]
         },
         {
-          "outlet": "South China Morning Post",
-          "region": "china",
+          "outlet": "Kommersant",
+          "region": "russia",
           "lean": "center",
           "ownership": "private",
-          "title": "US unexpectedly loses jobs in July, in blow to Trump’s economy claims",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3363356/us-unexpectedly-loses-jobs-july-blow-trumps-economy-claims?utm_source=rss_feed",
-          "published": "2026-08-07T13:55:04+00:00",
-          "orig_title": "US unexpectedly loses jobs in July, in blow to Trump’s economy claims",
+          "title": "Trump signs orders restricting birthright citizenship",
+          "url": "https://www.kommersant.ru/doc/8864430",
+          "published": "2026-08-07T00:52:12+00:00",
+          "orig_title": "Трамп подписал указы об ограничении гражданства США по праву рождения",
+          "lang": "ru",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
+          "outlet": "Le Matin",
+          "region": "africa",
+          "lean": "center",
+          "ownership": "private",
+          "title": "American citizenship: Trump signs decree against birth tourism",
+          "url": "https://lematin.ma/monde/trump-signe-un-decret-contre-le-tourisme-des-naissances/359842",
+          "published": "2026-08-07T08:39:00+00:00",
+          "orig_title": "Nationalité américaine : Trump signe un décret contre le tourisme des naissances",
+          "lang": "fr",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
+          "outlet": "The Japan Times",
+          "region": "japan",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Trump’s new attack on birthright citizenship faces uphill legal battle",
+          "url": "https://www.japantimes.co.jp/news/2026/08/08/world/politics/trump-birthright-citizenship-analysis/",
+          "published": "2026-08-07T23:38:00+00:00",
+          "orig_title": "Trump’s new attack on birthright citizenship faces uphill legal battle",
           "lang": "en",
           "translated": false,
-          "access": "open"
+          "access": "paywall"
+        },
+        {
+          "outlet": "The Wall Street Journal",
+          "region": "us",
+          "lean": "right",
+          "ownership": "private",
+          "title": "President Trump signed a pair of executive orders that he said were aimed at cracking down on birthright citizenship, renewing one of his signature policies",
+          "url": "https://www.wsj.com/politics/policy/trump-signs-executive-orders-targeting-birthright-citizenship-882e673b?mod=rss_socialpoliticsfeed",
+          "published": "2026-08-07T00:31:00+00:00",
+          "orig_title": "President Trump signed a pair of executive orders that he said were aimed at cracking down on birthright citizenship, renewing one of his signature policies",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall"
         }
       ]
     },
     {
-      "id": 269,
+      "id": 292,
       "topic": "Economics",
       "label": "Trump · German · RWE",
       "title": "Trump administration to pay German firm $1.2bn to halt US wind projects",
       "summary": "The RWE payout is the latest in a string of deals cancelling wind energy projects, a power source long derided by Trump.",
-      "score": 5.463,
+      "score": 5.429,
       "n_outlets": 5,
       "n_articles": 5,
       "regions": [
@@ -1838,14 +1698,101 @@
       ]
     },
     {
-      "id": 271,
+      "id": 377,
       "topic": "Economics",
-      "label": "Trump · Lisa · Cook",
-      "title": "Trump renews effort to fire Fed’s Lisa Cook despite Supreme Court ruling",
-      "summary": "US President ⁠Donald Trump is renewing his effort to fire Federal Reserve Governor Lisa Cook, keeping alive his assault on the central bank’s independence even after the US Supreme Court in June dealt",
-      "score": 5.462,
+      "label": "Employers · jobs · July",
+      "title": "Surprise fall in US jobs last month as slow summer continues",
+      "summary": "Analysts had expected an uptick in the number of jobs created, but the number of roles fell by 23,000 in July.",
+      "score": 5.281,
       "n_outlets": 5,
       "n_articles": 5,
+      "regions": [
+        "europe",
+        "japan",
+        "us"
+      ],
+      "last_seen": "2026-08-07T18:35:32+00:00",
+      "leans": [
+        "center",
+        "left"
+      ],
+      "sources": [
+        {
+          "outlet": "Asahi Shimbun",
+          "region": "japan",
+          "lean": "left",
+          "ownership": "private",
+          "title": "US July jobs fall 23,000, sharply missing forecast as yen strengthens",
+          "url": "http://www.asahi.com/articles/ASV874CQDV87UHBI02FM.html?ref=rss",
+          "published": "2026-08-07T13:26:32+00:00",
+          "orig_title": "米7月の就業者数2.3万人減 市場予想を大幅に下回る 円高が進行",
+          "lang": "ja",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
+          "outlet": "NPR",
+          "region": "us",
+          "lean": "left",
+          "ownership": "public",
+          "title": "Employers unexpectedly cut 23,000 jobs in a sign of a wilting labor market",
+          "url": "https://www.npr.org/2026/08/07/nx-s1-5924786/employers-economy-labor-jobs-federal-reserve",
+          "published": "2026-08-07T13:10:10+00:00",
+          "orig_title": "Employers unexpectedly cut 23,000 jobs in a sign of a wilting labor market",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "The Guardian",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "US unexpectedly lost 23,000 jobs in July as slump in growth continues",
+          "url": "https://www.theguardian.com/business/2026/aug/07/july-jobs-report-middle-east-conflict",
+          "published": "2026-08-07T13:22:43+00:00",
+          "orig_title": "US unexpectedly lost 23,000 jobs in July as slump in growth continues",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "The New York Times",
+          "region": "us",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Labor Market Shifts Into Reverse as Employers Balk at Hiring",
+          "url": "https://www.nytimes.com/2026/08/07/business/economy/heres-the-latest.html",
+          "published": "2026-08-07T18:35:32+00:00",
+          "orig_title": "Labor Market Shifts Into Reverse as Employers Balk at Hiring",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall"
+        },
+        {
+          "outlet": "BBC News",
+          "region": "europe",
+          "lean": "center",
+          "ownership": "public",
+          "title": "Surprise fall in US jobs last month as slow summer continues",
+          "url": "https://www.bbc.co.uk/news/articles/c20j5rle717o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-07T14:03:55+00:00",
+          "orig_title": "Surprise fall in US jobs last month as slow summer continues",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 294,
+      "topic": "Economics",
+      "label": "Trump · Fed · Lisa",
+      "title": "Trump renews push to fire Fed Governor Lisa Cook",
+      "summary": "Trump is once again threatening to fire Cook over unproven allegations of mortgage fraud after an earlier effort to remove Cook was struck down by the Supreme Court.",
+      "score": 4.428,
+      "n_outlets": 4,
+      "n_articles": 4,
       "regions": [
         "china",
         "japan",
@@ -1885,19 +1832,6 @@
           "access": "open"
         },
         {
-          "outlet": "The Hill",
-          "region": "us",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Trump restarts effort to fire Fed's Lisa Cook",
-          "url": "https://thehill.com/homenews/administration/6017965-trump-attempts-remove-fed-cook/",
-          "published": "2026-08-07T22:17:46+00:00",
-          "orig_title": "Trump restarts effort to fire Fed's Lisa Cook",
-          "lang": "en",
-          "translated": false,
-          "access": "unknown"
-        },
-        {
           "outlet": "The Japan Times",
           "region": "japan",
           "lean": "center",
@@ -1926,12 +1860,88 @@
       ]
     },
     {
-      "id": 13,
+      "id": 38,
+      "topic": "Economics",
+      "label": "Weak · Jobs · Data",
+      "title": "Global Economy Briefing — August 8, 2026",
+      "summary": "The US economy unexpectedly shed jobs in July, the first monthly decline in years, yet stocks climbed to fresh records as investors concluded the weak report all but rules out a Federal Reserve rate r",
+      "score": 3.929,
+      "n_outlets": 3,
+      "n_articles": 4,
+      "regions": [
+        "china",
+        "south_america",
+        "us"
+      ],
+      "last_seen": "2026-08-08T08:57:08+00:00",
+      "leans": [
+        "center",
+        "right"
+      ],
+      "sources": [
+        {
+          "outlet": "South China Morning Post",
+          "region": "china",
+          "lean": "center",
+          "ownership": "private",
+          "title": "US unexpectedly loses jobs in July, in blow to Trump’s economy claims",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3363356/us-unexpectedly-loses-jobs-july-blow-trumps-economy-claims?utm_source=rss_feed",
+          "published": "2026-08-07T13:55:04+00:00",
+          "orig_title": "US unexpectedly loses jobs in July, in blow to Trump’s economy claims",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "The Rio Times",
+          "region": "south_america",
+          "lean": "right",
+          "ownership": "private",
+          "title": "Global Economy Briefing — August 8, 2026",
+          "url": "https://www.riotimesonline.com/global-economy-briefing-august-8-2026/",
+          "published": "2026-08-08T08:57:08+00:00",
+          "orig_title": "Global Economy Briefing — August 8, 2026",
+          "lang": "en",
+          "translated": false,
+          "access": "unknown",
+          "more": [
+            {
+              "outlet": "The Rio Times",
+              "region": "south_america",
+              "lean": "right",
+              "ownership": "private",
+              "title": "Mexican Stocks Jump as Weak US Jobs Data Lifts Miners and Peso",
+              "url": "https://www.riotimesonline.com/mexico-markets-ipc-peso-august-8-2026/",
+              "published": "2026-08-08T08:36:44+00:00",
+              "orig_title": "Mexican Stocks Jump as Weak US Jobs Data Lifts Miners and Peso",
+              "lang": "en",
+              "translated": false,
+              "access": "unknown"
+            }
+          ]
+        },
+        {
+          "outlet": "The Wall Street Journal",
+          "region": "us",
+          "lean": "right",
+          "ownership": "private",
+          "title": "Dollar Hits 7-Week Low After Weak U.S. Jobs Data",
+          "url": "https://www.wsj.com/finance/currencies/nikkei-falls-0-7-dragged-by-chip-related-stocks-f3f924b2?mod=rss_markets_main",
+          "published": "2026-08-07T13:19:00+00:00",
+          "orig_title": "Dollar Hits 7-Week Low After Weak U.S. Jobs Data",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall"
+        }
+      ]
+    },
+    {
+      "id": 52,
       "topic": "Economics",
       "label": "Behind · yen · Europe",
       "title": "US yen intervention blindsides Europe, puts global economy on alert",
       "summary": "Global economic policy now seems at the mercy of an exceptionally casual approach to information, scribbled on a notepad, awaiting an update on Scott Bessent's to-do list.",
-      "score": 2.966,
+      "score": 2.895,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -1972,12 +1982,12 @@
       ]
     },
     {
-      "id": 196,
+      "id": 221,
       "topic": "Economics",
       "label": "Ukraine · GDP · Bloomberg",
-      "title": "Ukraine’s budget deficit to reach record-high 35% of GDP in 2026",
-      "summary": "The deficit is expected to amount to over $70 billion",
-      "score": 2.623,
+      "title": "Bloomberg: Kim Jong Un accumulated $22 billion since 2022",
+      "summary": "В период с 2022 по 2026 год доходы Северной Кореи за рубежом достигли $22 млрд, увеличившись вчетверо в сравнении с предыдущими четырьмя годами. Это подсчеты аналитического сервиса Bloomberg Economics",
+      "score": 2.577,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -2018,12 +2028,12 @@
       ]
     },
     {
-      "id": 209,
+      "id": 234,
       "topic": "Economics",
       "label": "High · India · April-June",
       "title": "Gold’s price potential still ‘explosive’ amid Beijing hoarding, Hong Kong trading push",
       "summary": "Gold prices have “explosive” upside potential, according to analysts, boding well for Hong Kong’s ambitions as a trading hub as Asian central banks continue to have a voracious appetite for stockpilin",
-      "score": 2.589,
+      "score": 2.546,
       "n_outlets": 2,
       "n_articles": 3,
       "regions": [
@@ -2080,12 +2090,12 @@
       ]
     },
     {
-      "id": 344,
+      "id": 368,
       "topic": "Economics",
       "label": "Prudent · RBI · Weak",
       "title": "Prudent approach: On the RBI’s interest rate-setting committee meeting",
       "summary": "The RBI did well to hold interest rates, but inflationary pressures remain",
-      "score": 2.33,
+      "score": 2.305,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -2126,12 +2136,12 @@
       ]
     },
     {
-      "id": 384,
+      "id": 400,
       "topic": "Economics",
       "label": "Industrial · June · German",
       "title": "German Industry’s Resilient Streak Continues Despite Lingering Uncertainty",
       "summary": "German industrial production unexpectedly rose in June, extending a run of resilient manufacturing data that suggests Europe’s largest economy has so far shrugged off the economic fallout from the war",
-      "score": 2.264,
+      "score": 2.244,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -2173,12 +2183,12 @@
       ]
     },
     {
-      "id": 571,
+      "id": 578,
       "topic": "Economics",
       "label": "Trump · China · Issues",
       "title": "Trump imposes 15% tariff on key chip material to counter China",
       "summary": "The move aims to protect US firms as they face increasing competition from China's chip industry.",
-      "score": 2.07,
+      "score": 2.065,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -2220,92 +2230,19 @@
       ]
     },
     {
-      "id": 4,
-      "topic": "Economics",
-      "label": "Stocks · Week · Chilean",
-      "title": "Brazil Stocks Post Worst Week Since May as Petrobras Slides",
-      "summary": "Brazilian shares fell for a fourth straight session on Friday, closing the worst week since May, as Petrobras gave up early gains despite a record quarterly profit. The post Brazil Stocks Post Worst W",
-      "score": 1.981,
-      "n_outlets": 1,
-      "n_articles": 4,
-      "regions": [
-        "south_america"
-      ],
-      "last_seen": "2026-08-08T08:40:49+00:00",
-      "leans": [
-        "right"
-      ],
-      "sources": [
-        {
-          "outlet": "The Rio Times",
-          "region": "south_america",
-          "lean": "right",
-          "ownership": "private",
-          "title": "Brazil Stocks Post Worst Week Since May as Petrobras Slides",
-          "url": "https://www.riotimesonline.com/brazil-markets-ibovespa-the-real-august-8-2026/",
-          "published": "2026-08-08T08:12:10+00:00",
-          "orig_title": "Brazil Stocks Post Worst Week Since May as Petrobras Slides",
-          "lang": "en",
-          "translated": false,
-          "access": "unknown",
-          "more": [
-            {
-              "outlet": "The Rio Times",
-              "region": "south_america",
-              "lean": "right",
-              "ownership": "private",
-              "title": "Mexican Stocks Jump as Weak US Jobs Data Lifts Miners and Peso",
-              "url": "https://www.riotimesonline.com/mexico-markets-ipc-peso-august-8-2026/",
-              "published": "2026-08-08T08:36:44+00:00",
-              "orig_title": "Mexican Stocks Jump as Weak US Jobs Data Lifts Miners and Peso",
-              "lang": "en",
-              "translated": false,
-              "access": "unknown"
-            },
-            {
-              "outlet": "The Rio Times",
-              "region": "south_america",
-              "lean": "right",
-              "ownership": "private",
-              "title": "Argentine Stocks Fall a Sixth Day as Country Risk Climbs to 451",
-              "url": "https://www.riotimesonline.com/argentina-markets-merval-peso-august-8-2026/",
-              "published": "2026-08-08T08:35:49+00:00",
-              "orig_title": "Argentine Stocks Fall a Sixth Day as Country Risk Climbs to 451",
-              "lang": "en",
-              "translated": false,
-              "access": "unknown"
-            },
-            {
-              "outlet": "The Rio Times",
-              "region": "south_america",
-              "lean": "right",
-              "ownership": "private",
-              "title": "Chilean Stocks Pause After Region’s Best Week as Inflation Cools",
-              "url": "https://www.riotimesonline.com/chile-markets-ipsa-peso-august-8-2026/",
-              "published": "2026-08-08T08:40:49+00:00",
-              "orig_title": "Chilean Stocks Pause After Region’s Best Week as Inflation Cools",
-              "lang": "en",
-              "translated": false,
-              "access": "unknown"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 1,
+      "id": 7,
       "topic": "Trading & Markets",
-      "label": "Senate · U.S. · passes",
-      "title": "Senate passes stopgap funding bill to prevent shutdown ahead of midterms",
-      "summary": "The Senate voted early Saturday morning to fund the federal government until Dec. 11 with the aim of averting another government shutdown before the midterm election, sending the bill to the House bef",
-      "score": 2.991,
-      "n_outlets": 2,
-      "n_articles": 2,
+      "label": "Senate · funding · passes",
+      "title": "US Senate passes stopgap funding bill to avert shutdown ahead of midterms",
+      "summary": "In a decisive move, the US Senate has passed a temporary spending bill aimed at funding government operations until December eleventh. This crucial legislation is designed to avert a government shutdo",
+      "score": 3.979,
+      "n_outlets": 3,
+      "n_articles": 5,
       "regions": [
         "india",
         "us"
       ],
-      "last_seen": "2026-08-08T08:48:06+00:00",
+      "last_seen": "2026-08-08T09:34:34+00:00",
       "leans": [
         "center",
         "left"
@@ -2318,7 +2255,7 @@
           "ownership": "private",
           "title": "U.S. Senate passes short-term funding Bill to avert federal shutdown before election",
           "url": "https://www.thehindu.com/news/international/us-senate-passes-short-term-funding-bill-to-avert-federal-shutdown-before-election/article71321040.ece",
-          "published": "2026-08-08T08:48:06+00:00",
+          "published": "2026-08-08T09:34:34+00:00",
           "orig_title": "U.S. Senate passes short-term funding Bill to avert federal shutdown before election",
           "lang": "en",
           "translated": false,
@@ -2335,17 +2272,119 @@
           "orig_title": "Senate passes stopgap funding bill to prevent shutdown ahead of midterms",
           "lang": "en",
           "translated": false,
-          "access": "unknown"
+          "access": "unknown",
+          "more": [
+            {
+              "outlet": "The Hill",
+              "region": "us",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Senate embarks on recess after funding government and confirming Blanche, punting other priorities",
+              "url": "https://thehill.com/homenews/senate/6018324-senate-adjourns-funding-blanche-budget-save-america/",
+              "published": "2026-08-08T09:00:31+00:00",
+              "orig_title": "Senate embarks on recess after funding government and confirming Blanche, punting other priorities",
+              "lang": "en",
+              "translated": false,
+              "access": "unknown"
+            },
+            {
+              "outlet": "The Hill",
+              "region": "us",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Senate tables hemp amendment at center of funding fight, allowing one-month delay of ban",
+              "url": "https://thehill.com/policy/healthcare/6017926-senate-delays-hemp-thc-ban/",
+              "published": "2026-08-08T07:42:05+00:00",
+              "orig_title": "Senate tables hemp amendment at center of funding fight, allowing one-month delay of ban",
+              "lang": "en",
+              "translated": false,
+              "access": "unknown"
+            }
+          ]
+        },
+        {
+          "outlet": "Times of India",
+          "region": "india",
+          "lean": "center",
+          "ownership": "private",
+          "title": "US Senate passes stopgap funding bill to avert shutdown ahead of midterms",
+          "url": "https://timesofindia.indiatimes.com/world/us/us-senate-passes-stopgap-funding-bill-to-avert-shutdown-ahead-of-midterms/articleshow/133049620.cms",
+          "published": "2026-08-08T09:26:36+00:00",
+          "orig_title": "US Senate passes stopgap funding bill to avert shutdown ahead of midterms",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
         }
       ]
     },
     {
-      "id": 114,
+      "id": 31,
+      "topic": "Trading & Markets",
+      "label": "Iran · Trump · Bluster",
+      "title": "Bluster and backdown have turned Iran war into Trump’s own Groundhog Day",
+      "summary": "The US president’s profound ignorance of his enemy has led to an impotent cycle of empty threats, analysts say Being the subject of mockery may be the most intense of all Donald Trump’s known aversion",
+      "score": 2.934,
+      "n_outlets": 2,
+      "n_articles": 3,
+      "regions": [
+        "europe",
+        "us"
+      ],
+      "last_seen": "2026-08-08T09:00:43+00:00",
+      "leans": [
+        "left"
+      ],
+      "sources": [
+        {
+          "outlet": "The Guardian",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Bluster and backdown have turned Iran war into Trump’s own Groundhog Day",
+          "url": "https://www.theguardian.com/world/ng-interactive/2026/aug/08/trump-iran-war-criticism-groundhog-day",
+          "published": "2026-08-08T09:00:43+00:00",
+          "orig_title": "Bluster and backdown have turned Iran war into Trump’s own Groundhog Day",
+          "lang": "en",
+          "translated": false,
+          "access": "open",
+          "more": [
+            {
+              "outlet": "The Guardian",
+              "region": "europe",
+              "lean": "left",
+              "ownership": "private",
+              "title": "Iran plots to deal Trump a blow in midterms by keeping him entangled in war",
+              "url": "https://www.theguardian.com/world/2026/aug/07/iran-war-trump-midterm-ballot",
+              "published": "2026-08-07T11:47:24+00:00",
+              "orig_title": "Iran plots to deal Trump a blow in midterms by keeping him entangled in war",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            }
+          ]
+        },
+        {
+          "outlet": "The New York Times",
+          "region": "us",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Iranians Say Trump’s Promises Have Fallen by the Wayside as Iran War Drags On",
+          "url": "https://www.nytimes.com/2026/08/07/us/politics/trump-iran-war-protesters.html",
+          "published": "2026-08-07T18:56:02+00:00",
+          "orig_title": "Iranians Say Trump’s Promises Have Fallen by the Wayside as Iran War Drags On",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall"
+        }
+      ]
+    },
+    {
+      "id": 140,
       "topic": "Trading & Markets",
       "label": "Pellet · Guns · Sticks",
       "title": "A new youth agitation grips an Indian state after 'cockroach' protests",
       "summary": "Weeks after the CJP protests shook Delhi, a new youth-led movement over jobs and recruitment is gathering force in Jharkhand.",
-      "score": 2.743,
+      "score": 2.689,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -2387,12 +2426,12 @@
       ]
     },
     {
-      "id": 348,
+      "id": 371,
       "topic": "Trading & Markets",
       "label": "Albanese · gambling · Pocock",
       "title": "Albanese returns to a gambling debate ready to catch fire",
       "summary": "The explosive evidence heard at a two-day inquiry into Labor's proposed crackdown on wagering advertising has proved a watershed moment for the increasingly friendless bill.",
-      "score": 2.314,
+      "score": 2.291,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -2433,59 +2472,12 @@
       ]
     },
     {
-      "id": 371,
-      "topic": "Trading & Markets",
-      "label": "Russian · Dollar · Hits",
-      "title": "Dollar Hits 7-Week Low After Weak U.S. Jobs Data",
-      "summary": "The dollar fell to a seven-week low against a basket of currencies after data showed an unexpected decline in U.S. nonfarm payrolls in July.",
-      "score": 2.28,
-      "n_outlets": 2,
-      "n_articles": 2,
-      "regions": [
-        "russia",
-        "us"
-      ],
-      "last_seen": "2026-08-07T17:38:26+00:00",
-      "leans": [
-        "right",
-        "state"
-      ],
-      "sources": [
-        {
-          "outlet": "The Wall Street Journal",
-          "region": "us",
-          "lean": "right",
-          "ownership": "private",
-          "title": "Dollar Hits 7-Week Low After Weak U.S. Jobs Data",
-          "url": "https://www.wsj.com/finance/currencies/nikkei-falls-0-7-dragged-by-chip-related-stocks-f3f924b2?mod=rss_markets_main",
-          "published": "2026-08-07T13:19:00+00:00",
-          "orig_title": "Dollar Hits 7-Week Low After Weak U.S. Jobs Data",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
-        },
-        {
-          "outlet": "TASS",
-          "region": "russia",
-          "lean": "state",
-          "ownership": "state",
-          "title": "Russian stock market ends week lower as major indices decline",
-          "url": "https://tass.com/economy/2170339",
-          "published": "2026-08-07T17:38:26+00:00",
-          "orig_title": "Russian stock market ends week lower as major indices decline",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        }
-      ]
-    },
-    {
-      "id": 406,
+      "id": 420,
       "topic": "Trading & Markets",
       "label": "Mexico · Peru · restore",
       "title": "Mexico and Peru restore diplomatic relations after asylum row",
       "summary": "Relations broke down after former Peruvian Prime Minister Betssy Chávez sought asylum in the Mexican embassy in November 2025.",
-      "score": 2.237,
+      "score": 2.22,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -2526,12 +2518,196 @@
       ]
     },
     {
-      "id": 38,
+      "id": 4,
+      "topic": "Trading & Markets",
+      "label": "Stocks · Country · Risk",
+      "title": "Argentine Stocks Fall a Sixth Day as Country Risk Climbs to 451",
+      "summary": "Argentine shares fell for a sixth straight session as weak industrial, construction and inflation figures outweighed a global backdrop that should have helped. The post Argentine Stocks Fall a Sixth D",
+      "score": 1.99,
+      "n_outlets": 1,
+      "n_articles": 4,
+      "regions": [
+        "south_america"
+      ],
+      "last_seen": "2026-08-08T09:42:16+00:00",
+      "leans": [
+        "right"
+      ],
+      "sources": [
+        {
+          "outlet": "The Rio Times",
+          "region": "south_america",
+          "lean": "right",
+          "ownership": "private",
+          "title": "Argentine Stocks Fall a Sixth Day as Country Risk Climbs to 451",
+          "url": "https://www.riotimesonline.com/argentina-markets-merval-peso-august-8-2026/",
+          "published": "2026-08-08T08:35:49+00:00",
+          "orig_title": "Argentine Stocks Fall a Sixth Day as Country Risk Climbs to 451",
+          "lang": "en",
+          "translated": false,
+          "access": "unknown",
+          "more": [
+            {
+              "outlet": "The Rio Times",
+              "region": "south_america",
+              "lean": "right",
+              "ownership": "private",
+              "title": "Argentina’s Country Risk Climbed to 451 While the Rest of the Region Rallied",
+              "url": "https://www.riotimesonline.com/argentina-country-risk-451-decoupling-2026/",
+              "published": "2026-08-08T09:42:16+00:00",
+              "orig_title": "Argentina’s Country Risk Climbed to 451 While the Rest of the Region Rallied",
+              "lang": "en",
+              "translated": false,
+              "access": "unknown"
+            },
+            {
+              "outlet": "The Rio Times",
+              "region": "south_america",
+              "lean": "right",
+              "ownership": "private",
+              "title": "Chilean Stocks Pause After Region’s Best Week as Inflation Cools",
+              "url": "https://www.riotimesonline.com/chile-markets-ipsa-peso-august-8-2026/",
+              "published": "2026-08-08T08:40:49+00:00",
+              "orig_title": "Chilean Stocks Pause After Region’s Best Week as Inflation Cools",
+              "lang": "en",
+              "translated": false,
+              "access": "unknown"
+            },
+            {
+              "outlet": "The Rio Times",
+              "region": "south_america",
+              "lean": "right",
+              "ownership": "private",
+              "title": "Brazil Stocks Post Worst Week Since May as Petrobras Slides",
+              "url": "https://www.riotimesonline.com/brazil-markets-ibovespa-the-real-august-8-2026/",
+              "published": "2026-08-08T08:12:10+00:00",
+              "orig_title": "Brazil Stocks Post Worst Week Since May as Petrobras Slides",
+              "lang": "en",
+              "translated": false,
+              "access": "unknown"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "topic": "Trading & Markets",
+      "label": "Summer · Hottest · Arm",
+      "title": "This Summer’s Hottest Arm Candy Is a Private Equity Boyfriend",
+      "summary": "Reese Witherspoon, Nicole Kidman and Olivia Rodrigo are all hanging out with finance guys",
+      "score": 1.973,
+      "n_outlets": 1,
+      "n_articles": 1,
+      "regions": [
+        "us"
+      ],
+      "last_seen": "2026-08-08T09:30:00+00:00",
+      "leans": [
+        "right"
+      ],
+      "sources": [
+        {
+          "outlet": "The Wall Street Journal",
+          "region": "us",
+          "lean": "right",
+          "ownership": "private",
+          "title": "This Summer’s Hottest Arm Candy Is a Private Equity Boyfriend",
+          "url": "https://www.wsj.com/lifestyle/olivia-rodrigo-private-equity-boyfriend-fc331621?mod=rss_markets_main",
+          "published": "2026-08-08T09:30:00+00:00",
+          "orig_title": "This Summer’s Hottest Arm Candy Is a Private Equity Boyfriend",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "topic": "Trading & Markets",
+      "label": "Either · can't · won't",
+      "title": "Either they can't or won't shoot them down because they want cover",
+      "summary": "Nach mehreren Drohnenüberflügen über Bundeswehrstandorten fordert Sicherheitsexperte Nico Lange konsequente Abwehrmaßnahmen und kritisiert die unzureichende Ausstattung: „Es ist erschreckend, dass wir",
+      "score": 1.95,
+      "n_outlets": 1,
+      "n_articles": 1,
+      "regions": [
+        "europe"
+      ],
+      "last_seen": "2026-08-08T09:13:12+00:00",
+      "leans": [
+        "right"
+      ],
+      "sources": [
+        {
+          "outlet": "Die Welt",
+          "region": "europe",
+          "lean": "right",
+          "ownership": "private",
+          "title": "Either they can't or won't shoot them down because they want cover",
+          "url": "https://www.welt.de/politik/deutschland/video6a76e4ccb722fa620e428f20/flugkoerper-ueber-bundeswehrstuetzpunkt-entweder-kann-oder-will-niemand-die-dinger-runterholen-weil-man-sich-absichern-will.html",
+          "published": "2026-08-08T09:13:12+00:00",
+          "orig_title": "„Entweder kann oder will niemand die Dinger runterholen, weil man sich absichern will“",
+          "lang": "de",
+          "translated": true,
+          "access": "unknown"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "topic": "Trading & Markets",
+      "label": "ETFs · More · percent",
+      "title": "5,000 percent in 16 years: four ETFs offering wealth-building potential",
+      "summary": "Ab sofort können Anleger erstmals den gesamten Weltaktienmarkt mit doppeltem Hebel kaufen. WELT hat diesen neuen ETF und drei bestehende Produkte geprüft. Für Anleger mit Durchhaltevermögen bieten die",
+      "score": 1.944,
+      "n_outlets": 1,
+      "n_articles": 2,
+      "regions": [
+        "europe"
+      ],
+      "last_seen": "2026-08-08T09:07:58+00:00",
+      "leans": [
+        "right"
+      ],
+      "sources": [
+        {
+          "outlet": "Die Welt",
+          "region": "europe",
+          "lean": "right",
+          "ownership": "private",
+          "title": "5,000 percent in 16 years: four ETFs offering wealth-building potential",
+          "url": "https://www.welt.de/wirtschaft/plus6a7564310e3689919ec73749/msci-world-5000-prozent-in-16-jahren-diese-4-etfs-bieten-die-reichtums-option.html",
+          "published": "2026-08-08T09:07:58+00:00",
+          "orig_title": "5000 Prozent in 16 Jahren – diese 4 ETFs bieten die Reichtums-Option",
+          "lang": "de",
+          "translated": true,
+          "access": "unknown",
+          "more": [
+            {
+              "outlet": "Die Welt",
+              "region": "europe",
+              "lean": "right",
+              "ownership": "private",
+              "title": "More money does make people happier – contrary to earlier happiness research",
+              "url": "https://www.welt.de/gesundheit/article6a75a755e04765407d9a25ea/zufriedenheit-mehr-geld-macht-doch-gluecklicher-entgegen-aelterer-gluecksforschung.html",
+              "published": "2026-08-08T08:33:11+00:00",
+              "orig_title": "Mehr Geld macht doch glücklicher – entgegen älterer Glücksforschung",
+              "lang": "de",
+              "translated": true,
+              "access": "unknown"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 73,
       "topic": "Trading & Markets",
       "label": "Femi · Otedola · Tightens",
       "title": "Femi Otedola Tightens Grip on Nigeria’s Oldest Bank, First HoldCo",
       "summary": "Nigeria · DEALS Key Facts —The institution: First Bank of Nigeria was founded in 1894 and now operates under the holding company First HoldCo Plc, renamed from FBN Holdings in 2025. —Otedola’s stake: ",
-      "score": 1.905,
+      "score": 1.838,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -2558,216 +2734,12 @@
       ]
     },
     {
-      "id": 41,
-      "topic": "Trading & Markets",
-      "label": "Truck · Shutdown · Threat",
-      "title": "Truck Shutdown Threat Returns in South Africa",
-      "summary": "South Africa · TRADE Key Facts —Sector value: South Africa&#8217;s road freight and logistics sector was worth R480 billion (about US$29.4 billion), according to Business Day reporting in 2023. —Drive",
-      "score": 1.902,
-      "n_outlets": 1,
-      "n_articles": 1,
-      "regions": [
-        "south_america"
-      ],
-      "last_seen": "2026-08-08T07:40:33+00:00",
-      "leans": [
-        "right"
-      ],
-      "sources": [
-        {
-          "outlet": "The Rio Times",
-          "region": "south_america",
-          "lean": "right",
-          "ownership": "private",
-          "title": "Truck Shutdown Threat Returns in South Africa",
-          "url": "https://www.riotimesonline.com/south-africa-freight-shutdown-foreign-driver-dispute-2026/",
-          "published": "2026-08-08T07:40:33+00:00",
-          "orig_title": "Truck Shutdown Threat Returns in South Africa",
-          "lang": "en",
-          "translated": false,
-          "access": "unknown"
-        }
-      ]
-    },
-    {
-      "id": 87,
-      "topic": "Trading & Markets",
-      "label": "Trump · Why · H-1B",
-      "title": "Trump mulling $1,00,000 fee for students keen to work in U.S. after graduation: report",
-      "summary": "According to The Wall Street Journal, the Department of Homeland Security is mulling the high fee on Optional Practical Training (OPT) visas which are an extension of F-1 visas issued to students",
-      "score": 1.819,
-      "n_outlets": 1,
-      "n_articles": 2,
-      "regions": [
-        "india"
-      ],
-      "last_seen": "2026-08-08T06:30:50+00:00",
-      "leans": [
-        "left"
-      ],
-      "sources": [
-        {
-          "outlet": "The Hindu",
-          "region": "india",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Trump mulling $1,00,000 fee for students keen to work in U.S. after graduation: report",
-          "url": "https://www.thehindu.com/news/international/trump-mulling-100000-fee-for-students-keen-to-work-in-us-after-graduation/article71288822.ece",
-          "published": "2026-08-08T06:30:39+00:00",
-          "orig_title": "Trump mulling $1,00,000 fee for students keen to work in U.S. after graduation: report",
-          "lang": "en",
-          "translated": false,
-          "access": "open",
-          "more": [
-            {
-              "outlet": "The Hindu",
-              "region": "india",
-              "lean": "left",
-              "ownership": "private",
-              "title": "Why was Trump’s H-1B fee struck down?",
-              "url": "https://www.thehindu.com/news/international/why-was-trumps-h-1b-fee-struck-down/article71108812.ece",
-              "published": "2026-08-08T06:30:50+00:00",
-              "orig_title": "Why was Trump’s H-1B fee struck down?",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 191,
-      "topic": "Trading & Markets",
-      "label": "Compound · interest · also",
-      "title": "Compound interest also helps buy a house: how to invest to save for a down payment",
-      "summary": "Invertir los ahorros puede suponer un impulso para lograr el dinero necesario para acceder a una hipoteca. Es preciso conocer de antemano con qué horizonte temporal se cuenta y asumir algún riesgo",
-      "score": 1.633,
-      "n_outlets": 1,
-      "n_articles": 1,
-      "regions": [
-        "europe"
-      ],
-      "last_seen": "2026-08-08T03:25:00+00:00",
-      "leans": [
-        "left"
-      ],
-      "sources": [
-        {
-          "outlet": "El Pais",
-          "region": "europe",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Compound interest also helps buy a house: how to invest to save for a down payment",
-          "url": "https://cincodias.elpais.com/mercados-financieros/2026-08-08/el-interes-compuesto-tambien-ayuda-a-comprar-una-casa-como-invertir-para-ahorrar-el-dinero-de-la-entrada.html",
-          "published": "2026-08-08T03:25:00+00:00",
-          "orig_title": "El interés compuesto también ayuda a comprar una casa: cómo invertir para ahorrar el dinero de la entrada",
-          "lang": "es",
-          "translated": true,
-          "access": "unknown"
-        }
-      ]
-    },
-    {
-      "id": 216,
-      "topic": "Trading & Markets",
-      "label": "Yemen · Houthis · Red",
-      "title": "Yemen government says Houthis planning to impose fees for Red Sea transit",
-      "summary": "The narrow maritime artery has been a critical waterway for delivering vast quantities of Saudi crude to the international market, after energy exports were largely choked off by fighting in the Strai",
-      "score": 1.574,
-      "n_outlets": 1,
-      "n_articles": 1,
-      "regions": [
-        "india"
-      ],
-      "last_seen": "2026-08-08T02:14:49+00:00",
-      "leans": [
-        "left"
-      ],
-      "sources": [
-        {
-          "outlet": "The Hindu",
-          "region": "india",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Yemen government says Houthis planning to impose fees for Red Sea transit",
-          "url": "https://www.thehindu.com/news/international/yemen-government-says-houthis-planning-to-impose-fees-for-red-sea-transit/article71283059.ece",
-          "published": "2026-08-08T02:14:49+00:00",
-          "orig_title": "Yemen government says Houthis planning to impose fees for Red Sea transit",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        }
-      ]
-    },
-    {
-      "id": 98,
-      "topic": "Science",
-      "label": "How · recover · California",
-      "title": "How can landscape recover after devastating fires?",
-      "summary": "Conservationists are working to restore wildlife after recent wildfires devastated habitats.",
-      "score": 2.791,
-      "n_outlets": 2,
-      "n_articles": 3,
-      "regions": [
-        "europe",
-        "india"
-      ],
-      "last_seen": "2026-08-08T06:06:00+00:00",
-      "leans": [
-        "center"
-      ],
-      "sources": [
-        {
-          "outlet": "BBC News",
-          "region": "europe",
-          "lean": "center",
-          "ownership": "public",
-          "title": "How can landscape recover after devastating fires?",
-          "url": "https://www.bbc.co.uk/news/articles/c5yv2wd7e66o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-08T06:06:00+00:00",
-          "orig_title": "How can landscape recover after devastating fires?",
-          "lang": "en",
-          "translated": false,
-          "access": "open",
-          "more": [
-            {
-              "outlet": "BBC News",
-              "region": "europe",
-              "lean": "center",
-              "ownership": "public",
-              "title": "Wildfire damage could take hundreds of years to recover from, experts say",
-              "url": "https://www.bbc.co.uk/news/articles/c0qvp00x707o?at_medium=RSS&at_campaign=rss",
-              "published": "2026-08-07T05:15:56+00:00",
-              "orig_title": "Wildfire damage could take hundreds of years to recover from, experts say",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
-            }
-          ]
-        },
-        {
-          "outlet": "Times of India",
-          "region": "india",
-          "lean": "center",
-          "ownership": "private",
-          "title": "California lost as many as 1.3 million Joshua trees in the 2020 Dome Fire",
-          "url": "https://timesofindia.indiatimes.com/world/us/california-lost-as-many-as-1-3-million-joshua-trees-in-the-2020-dome-fire-new-software-now-helps-park-managers-target-recovery-after-wildfires/articleshow/133039377.cms",
-          "published": "2026-08-07T18:29:51+00:00",
-          "orig_title": "California lost as many as 1.3 million Joshua trees in the 2020 Dome Fire",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        }
-      ]
-    },
-    {
-      "id": 190,
+      "id": 215,
       "topic": "Science",
       "label": "Bengaluru · lab-grown · Skyroot",
       "title": "China’s lab-grown diamonds get an AI boost as industry rides demand for chip cooling",
       "summary": "Once overshadowed by natural diamonds in consumer markets, lab-grown versions of the world’s strongest natural substance have become a bright spot for industrial applications, fuelled by the global ar",
-      "score": 2.633,
+      "score": 2.586,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -2809,12 +2781,12 @@
       ]
     },
     {
-      "id": 451,
+      "id": 465,
       "topic": "Science",
       "label": "China-Free · Batteries · Made",
       "title": "Why airlines are warning over lithium-ion batteries",
       "summary": "The airline industry wants passengers to be careful when travelling with lithium ion batteries.",
-      "score": 2.192,
+      "score": 2.178,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -2856,12 +2828,12 @@
       ]
     },
     {
-      "id": 546,
+      "id": 554,
       "topic": "Science",
       "label": "NASA · astronauts · Anil",
       "title": "Watch: Nasa astronauts conduct 6.5-hour spacewalk outside ISS",
       "summary": "Astronauts Anil Menon and Jessica Meir ventured out to install a mounting hardware for the future addition of solar arrays to the space station.",
-      "score": 2.109,
+      "score": 2.101,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -2903,12 +2875,44 @@
       ]
     },
     {
-      "id": 5,
+      "id": 8,
+      "topic": "Science",
+      "label": "Science · Quiz · Strange",
+      "title": "Science Quiz | On Strange stars",
+      "summary": "The Hindu science quiz on the universe’s more unusual twinklers",
+      "score": 1.975,
+      "n_outlets": 1,
+      "n_articles": 1,
+      "regions": [
+        "india"
+      ],
+      "last_seen": "2026-08-08T09:31:53+00:00",
+      "leans": [
+        "left"
+      ],
+      "sources": [
+        {
+          "outlet": "The Hindu",
+          "region": "india",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Science Quiz | On Strange stars",
+          "url": "https://www.thehindu.com/sci-tech/science/the-hindus-daily-quiz-on-august-7-2026/article71317601.ece",
+          "published": "2026-08-08T09:31:53+00:00",
+          "orig_title": "Science Quiz | On Strange stars",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 46,
       "topic": "Science",
       "label": "Glen · Canyon · Dam",
       "title": "US officials will not release cool water from Glen Canyon Dam this year, protecting hydropower while threatening humpback chub",
       "summary": "This year, federal officials have decided against releasing cool water from the Colorado River reservoirs, emphasizing the need for hydropower production over the conservation of a threatened fish spe",
-      "score": 1.977,
+      "score": 1.905,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -2935,12 +2939,12 @@
       ]
     },
     {
-      "id": 19,
+      "id": 57,
       "topic": "Science",
       "label": "Researchers · Brazil · Uruguay",
       "title": "Researchers map 100+ lakes in Brazil, Uruguay that could warn of ecosystem collapse",
       "summary": "Researchers map 100+ lakes in Brazil, Uruguay that could warn of ecosystem collapse",
-      "score": 1.959,
+      "score": 1.888,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -2967,12 +2971,12 @@
       ]
     },
     {
-      "id": 27,
+      "id": 63,
       "topic": "Science",
       "label": "Sadiq · Khan · Andy",
       "title": "Sadiq Khan calls on Andy Burnham to commit to climate action as pressure grows over North Sea oil",
       "summary": "London mayor points to ‘terrifying scenes’ this summer amid speculation Burnham may back Jackdaw and Rosebank projects Sadiq Khan: This burning summer is the proof: the voices of climate denial aren’t",
-      "score": 1.928,
+      "score": 1.859,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -2999,12 +3003,12 @@
       ]
     },
     {
-      "id": 48,
+      "id": 81,
       "topic": "Science",
       "label": "Teaching · India · speak",
       "title": "Teaching AI to speak India",
       "summary": "Artificial intelligence can chat, translate and answer questions but only if it understands your language. At IIT Madras, researchers at AI4Bharat are travelling across India, collecting voices, prese",
-      "score": 1.896,
+      "score": 1.83,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -3031,12 +3035,44 @@
       ]
     },
     {
-      "id": 58,
+      "id": 88,
+      "topic": "Science",
+      "label": "Spain's · Tinto · Mars",
+      "title": "Spain's blood-red Río Tinto may hold clues to life on Mars, Nasa says",
+      "summary": "The Río Tinto in Spain captivates with its vivid red and orange colors, a result of both its ancient geology and extensive mining activities. In this caustic environment, specialized microorganisms fl",
+      "score": 1.81,
+      "n_outlets": 1,
+      "n_articles": 1,
+      "regions": [
+        "india"
+      ],
+      "last_seen": "2026-08-08T07:18:26+00:00",
+      "leans": [
+        "center"
+      ],
+      "sources": [
+        {
+          "outlet": "Times of India",
+          "region": "india",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Spain's blood-red Río Tinto may hold clues to life on Mars, Nasa says",
+          "url": "https://timesofindia.indiatimes.com/world/europe/spains-blood-red-ro-tinto-river-is-as-acidic-as-vinegar-and-nasa-says-it-could-help-scientists-find-life-on-mars/articleshow/133048345.cms",
+          "published": "2026-08-08T07:18:26+00:00",
+          "orig_title": "Spain's blood-red Río Tinto may hold clues to life on Mars, Nasa says",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 91,
       "topic": "Science",
       "label": "Science · Quiz · Vibranium",
       "title": "Science Quiz: Vibranium’s equally unusual cousins",
       "summary": "Test your knowledge with this Science Quiz!",
-      "score": 1.869,
+      "score": 1.805,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -3063,44 +3099,12 @@
       ]
     },
     {
-      "id": 83,
-      "topic": "Science",
-      "label": "When · Explained · heavy",
-      "title": "When is heavy rainfall a cloudburst, and when is it not? | Explained",
-      "summary": "Last week, the IMD rejected reports that Assam and Nagaland had experienced cloudbursts over the preceding few days and that they were responsible for the Upper Assam floods",
-      "score": 1.826,
-      "n_outlets": 1,
-      "n_articles": 1,
-      "regions": [
-        "india"
-      ],
-      "last_seen": "2026-08-08T06:36:39+00:00",
-      "leans": [
-        "left"
-      ],
-      "sources": [
-        {
-          "outlet": "The Hindu",
-          "region": "india",
-          "lean": "left",
-          "ownership": "private",
-          "title": "When is heavy rainfall a cloudburst, and when is it not? | Explained",
-          "url": "https://www.thehindu.com/sci-tech/science/when-is-heavy-rainfall-a-cloudburst-and-when-is-it-not-explained/article71280448.ece",
-          "published": "2026-08-08T06:36:39+00:00",
-          "orig_title": "When is heavy rainfall a cloudburst, and when is it not? | Explained",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        }
-      ]
-    },
-    {
-      "id": 224,
+      "id": 249,
       "topic": "Technology",
       "label": "China · OpenAI · Chinese-language",
       "title": "OpenAI Pauses Some Work on New AI Model Over Cybersecurity Concerns",
       "summary": "The decision reflects internal findings that the upcoming “Astra” model may possess “critical cyber capabilities” and follows a string of AI-testing incidents.",
-      "score": 5.562,
+      "score": 5.521,
       "n_outlets": 5,
       "n_articles": 6,
       "regions": [
@@ -3200,12 +3204,12 @@
       ]
     },
     {
-      "id": 507,
+      "id": 517,
       "topic": "Technology",
       "label": "Meta · Ordered · Pay",
       "title": "Meta Ordered to Pay $942 Million to Address Harm to Kids From Social Media",
       "summary": "A New Mexico judge ordered the social-media giant to create a new $567 million fund in addition to paying $375 million in previously determined civil penalties.",
-      "score": 5.146,
+      "score": 5.135,
       "n_outlets": 5,
       "n_articles": 5,
       "regions": [
@@ -3288,12 +3292,12 @@
       ]
     },
     {
-      "id": 559,
+      "id": 567,
       "topic": "Technology",
       "label": "artificial · virus · Generative",
       "title": "AI designs artificial virus strains from scratch for first time",
       "summary": "Американские ученые впервые успешно применили ИИ-модель для проектирования полных геномов жизнеспособных бактериофагов — вирусов, поражающих только бактериальные клетки. Эти вирусы смогли уничтожить ш",
-      "score": 4.088,
+      "score": 4.082,
       "n_outlets": 4,
       "n_articles": 5,
       "regions": [
@@ -3378,12 +3382,147 @@
       ]
     },
     {
-      "id": 97,
+      "id": 14,
+      "topic": "Technology",
+      "label": "Amazon · Data · Center",
+      "title": "Amazon to finance huge US gas plant for data centres",
+      "summary": "Amazon has confirmed it is financing a massive, private gas power plant in Texas that could become the single largest source of greenhouse gas emissions in the United States. It is the latest example ",
+      "score": 3.967,
+      "n_outlets": 3,
+      "n_articles": 3,
+      "regions": [
+        "china",
+        "us"
+      ],
+      "last_seen": "2026-08-08T09:25:41+00:00",
+      "leans": [
+        "center",
+        "left",
+        "right"
+      ],
+      "sources": [
+        {
+          "outlet": "The New York Times",
+          "region": "us",
+          "lean": "left",
+          "ownership": "private",
+          "title": "New Amazon Data Center Is Set to Have the Most Polluting Power Plant in the U.S.",
+          "url": "https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html",
+          "published": "2026-08-08T09:02:25+00:00",
+          "orig_title": "New Amazon Data Center Is Set to Have the Most Polluting Power Plant in the U.S.",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall"
+        },
+        {
+          "outlet": "South China Morning Post",
+          "region": "china",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Amazon to finance huge US gas plant for data centres",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3363393/amazon-finance-huge-us-gas-plant-data-centres?utm_source=rss_feed",
+          "published": "2026-08-08T09:25:41+00:00",
+          "orig_title": "Amazon to finance huge US gas plant for data centres",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "The Wall Street Journal",
+          "region": "us",
+          "lean": "right",
+          "ownership": "private",
+          "title": "How Amazon Built a Data Center in a California Town Without Anyone Noticing",
+          "url": "https://www.wsj.com/us-news/how-amazon-built-a-data-center-in-a-california-town-without-anyone-noticing-8610bb67?mod=rss_Technology",
+          "published": "2026-08-07T09:30:00+00:00",
+          "orig_title": "How Amazon Built a Data Center in a California Town Without Anyone Noticing",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "topic": "Technology",
+      "label": "OpenAI · Interior · Ministry",
+      "title": "New OpenAI model proves too effective at cyberattacks",
+      "summary": "OpenAI приостановила часть работ с готовящейся к выпуску моделью Astra после предварительных испытаний. Они показали, что система может обладать «критическими» возможностями в сфере кибербезопасности.",
+      "score": 2.964,
+      "n_outlets": 2,
+      "n_articles": 4,
+      "regions": [
+        "russia"
+      ],
+      "last_seen": "2026-08-08T09:23:11+00:00",
+      "leans": [
+        "center",
+        "left"
+      ],
+      "sources": [
+        {
+          "outlet": "Novaya Gazeta Europe",
+          "region": "russia",
+          "lean": "left",
+          "ownership": "private",
+          "title": "New OpenAI model proves too effective at cyberattacks",
+          "url": "https://novayagazeta.eu/articles/2026/08/08/novaia-model-openai-okazalas-slishkom-khorosha-v-kiberatakakh-news",
+          "published": "2026-08-08T09:23:11+00:00",
+          "orig_title": "Новая модель OpenAI оказалась слишком хороша в кибератаках",
+          "lang": "ru",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
+          "outlet": "Kommersant",
+          "region": "russia",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Banks have less than three months to transition to new encryption standard",
+          "url": "https://www.kommersant.ru/doc/8864462",
+          "published": "2026-08-07T05:01:00+00:00",
+          "orig_title": "Для перехода на новую версию криптозащиты у банков осталось меньше трех месяцев",
+          "lang": "ru",
+          "translated": true,
+          "access": "unknown",
+          "more": [
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Bloomberg: OpenAI develops pocket-sized voice assistant",
+              "url": "https://www.kommersant.ru/doc/8864435",
+              "published": "2026-08-07T03:27:24+00:00",
+              "orig_title": "Bloomberg: OpenAI работает над карманной «живой колонкой»",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Interior Ministry advises using password managers to protect accounts from hacking",
+              "url": "https://www.kommersant.ru/doc/8875499",
+              "published": "2026-08-08T08:29:36+00:00",
+              "orig_title": "МВД советует использовать менеджер паролей для защиты аккаунтов от взлома",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 126,
       "topic": "Technology",
       "label": "Artificial · Intelligence · Against",
       "title": "Artificial Intelligence: Is AI killing capitalism?",
       "summary": "Künstliche Intelligenz ist dabei, menschliche Arbeit überflüssig zu machen. Die Mittelschicht bangt, die Techbosse profitieren, die Demokratie ist in Gefahr. Naht das Ende des Kapitalismus, das Karl M",
-      "score": 2.796,
+      "score": 2.737,
       "n_outlets": 2,
       "n_articles": 3,
       "regions": [
@@ -3438,12 +3577,12 @@
       ]
     },
     {
-      "id": 194,
+      "id": 219,
       "topic": "Technology",
       "label": "U.S. · China · US-China",
       "title": "EU aims for seven AI gigafactories with €10 billion plan in race with U.S., China",
       "summary": "European Commission said it aims to attract at least €20 billion in ‌private investments for the ‌projects; the total was increased from five ⁠planned gigafactories to seven following strong interest ",
-      "score": 2.625,
+      "score": 2.578,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -3485,58 +3624,59 @@
       ]
     },
     {
-      "id": 246,
+      "id": 251,
       "topic": "Technology",
-      "label": "America · Bloomberg · U.S.",
-      "title": "Bloomberg: U.S. Cyber Command investigates series of staff suicides",
-      "summary": "Киберкомандование Вооруженных сил США расследует серию самоубийств среди личного состава, сообщает Bloomberg со ссылкой на источники и документы. С начала июня по начало июля 2026 года покончили с жиз",
-      "score": 2.512,
+      "label": "Russia · Hottest · Startup",
+      "title": "Russia, Kazakhstan always have alternatives for cooperation amidst sanctions — MFA",
+      "summary": "Russian Deputy Foreign Minister Mikhail Galuzin stressed that Moscow and Astana consider these sanctions illegitimate, aimed at securing geoeconomic advantages through unfair competition",
+      "score": 2.521,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
-        "japan",
-        "russia"
+        "russia",
+        "us"
       ],
-      "last_seen": "2026-08-08T00:53:00+00:00",
+      "last_seen": "2026-08-08T02:00:00+00:00",
       "leans": [
-        "center"
+        "right",
+        "state"
       ],
       "sources": [
         {
-          "outlet": "Kommersant",
-          "region": "russia",
-          "lean": "center",
+          "outlet": "The Wall Street Journal",
+          "region": "us",
+          "lean": "right",
           "ownership": "private",
-          "title": "Bloomberg: U.S. Cyber Command investigates series of staff suicides",
-          "url": "https://www.kommersant.ru/doc/8864432",
-          "published": "2026-08-07T01:42:28+00:00",
-          "orig_title": "Bloomberg: киберкомандование США расследует серию самоубийств своих сотрудников",
-          "lang": "ru",
-          "translated": true,
-          "access": "unknown"
-        },
-        {
-          "outlet": "The Japan Times",
-          "region": "japan",
-          "lean": "center",
-          "ownership": "private",
-          "title": "America’s cyberforces grapple with cluster of deaths by suicide",
-          "url": "https://www.japantimes.co.jp/news/2026/08/08/world/us-cyberforces-suicides-focus/",
-          "published": "2026-08-08T00:53:00+00:00",
-          "orig_title": "America’s cyberforces grapple with cluster of deaths by suicide",
+          "title": "Russia’s Hottest Startup Is a State-Backed Sanctions Evasion Network",
+          "url": "https://www.wsj.com/world/russia/russias-hottest-startup-is-a-state-backed-sanctions-evasion-network-7afc488c?mod=rss_worldnews",
+          "published": "2026-08-08T02:00:00+00:00",
+          "orig_title": "Russia’s Hottest Startup Is a State-Backed Sanctions Evasion Network",
           "lang": "en",
           "translated": false,
           "access": "paywall"
+        },
+        {
+          "outlet": "TASS",
+          "region": "russia",
+          "lean": "state",
+          "ownership": "state",
+          "title": "Russia, Kazakhstan always have alternatives for cooperation amidst sanctions — MFA",
+          "url": "https://tass.com/politics/2170279",
+          "published": "2026-08-07T14:56:00+00:00",
+          "orig_title": "Russia, Kazakhstan always have alternatives for cooperation amidst sanctions — MFA",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
         }
       ]
     },
     {
-      "id": 311,
+      "id": 334,
       "topic": "Technology",
       "label": "China · How · CXMT",
       "title": "Global AI trade revival brightens outlook for Chinese tech stocks after record sell-offs",
       "summary": "The outlook for Chinese technology stocks has improved after a sharp monthly sell-off, as the global rebound in the artificial intelligence trade regains momentum, speculative positions are flushed ou",
-      "score": 2.374,
+      "score": 2.346,
       "n_outlets": 2,
       "n_articles": 3,
       "regions": [
@@ -3593,12 +3733,12 @@
       ]
     },
     {
-      "id": 357,
+      "id": 378,
       "topic": "Technology",
       "label": "Russian · International · Olympiad",
       "title": "Russian schoolers win international AI olympiad for third consecutive year",
       "summary": "Сборная России третий год подряд стала абсолютным чемпионом на Международной олимпиаде по искусственному интеллекту среди старшеклассников (IOAI). Учащиеся завоевали семь золотых медалей и одну бронзо",
-      "score": 2.302,
+      "score": 2.28,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -3639,117 +3779,42 @@
       ]
     },
     {
-      "id": 405,
-      "topic": "Technology",
-      "label": "American · Russia · deportation",
-      "title": "American farmer who built a life in Russia says he and his family are facing deportation",
-      "summary": "Justus Walker, an American farmer known as “The Merry Milkman” who lives on a farm in Russia’s Altai Krai, said Russian authorities plan to expel his family from the country. He said he received a cal",
-      "score": 2.237,
-      "n_outlets": 2,
-      "n_articles": 2,
-      "regions": [
-        "russia"
-      ],
-      "last_seen": "2026-08-07T15:38:46+00:00",
-      "leans": [
-        "center"
-      ],
-      "sources": [
-        {
-          "outlet": "Kommersant",
-          "region": "russia",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Jolly milkman Justas Walker receives deportation notice from Russian immigration service",
-          "url": "https://www.kommersant.ru/doc/8875012",
-          "published": "2026-08-07T14:02:47+00:00",
-          "orig_title": "«Веселый молочник» Джастас Уолкер получил уведомление ФМС о депортации из России",
-          "lang": "ru",
-          "translated": true,
-          "access": "unknown"
-        },
-        {
-          "outlet": "Meduza",
-          "region": "russia",
-          "lean": "center",
-          "ownership": "private",
-          "title": "American farmer who built a life in Russia says he and his family are facing deportation",
-          "url": "https://meduza.io/en/news/2026/08/07/american-farmer-who-built-a-life-in-russia-says-he-and-his-family-are-facing-deportation",
-          "published": "2026-08-07T15:38:46+00:00",
-          "orig_title": "American farmer who built a life in Russia says he and his family are facing deportation",
-          "lang": "en",
-          "translated": false,
-          "access": "unknown"
-        }
-      ]
-    },
-    {
-      "id": 523,
-      "topic": "Technology",
-      "label": "Alan · Jones · trial",
-      "title": "Alan Jones trial: complainant wants to ‘humiliate’ broadcaster by revealing intimate details of alleged assaults, defence tells court",
-      "summary": "Barrister alleges ‘account of penis wiggling is an attempt to humiliate’ broadcaster who has pleaded not guilty to 22 charges of indecent assault and sexual touching Get our breaking news email , free",
-      "score": 2.132,
-      "n_outlets": 2,
-      "n_articles": 2,
-      "regions": [
-        "australia",
-        "europe"
-      ],
-      "last_seen": "2026-08-07T08:38:56+00:00",
-      "leans": [
-        "left"
-      ],
-      "sources": [
-        {
-          "outlet": "The Guardian",
-          "region": "europe",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Alan Jones trial: complainant wants to ‘humiliate’ broadcaster by revealing intimate details of alleged assaults, defence tells court",
-          "url": "https://www.theguardian.com/australia-news/2026/aug/07/alan-jones-trial-defence-court-case-sydney-ntwnfb",
-          "published": "2026-08-07T08:38:56+00:00",
-          "orig_title": "Alan Jones trial: complainant wants to ‘humiliate’ broadcaster by revealing intimate details of alleged assaults, defence tells court",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "The Guardian Australia",
-          "region": "australia",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Journalists at Alan Jones's trial off to 'inauspicious' start as spelling error and rogue mobile phone antagonise judge | Weekly Beast",
-          "url": "https://www.theguardian.com/media/2026/aug/07/alan-jones-trial-media-coverage-weekly-beast-ntwnfb",
-          "published": "2026-08-07T02:48:46+00:00",
-          "orig_title": "Journalists at Alan Jones's trial off to 'inauspicious' start as spelling error and rogue mobile phone antagonise judge | Weekly Beast",
-          "lang": "en",
-          "translated": false,
-          "access": "unknown"
-        }
-      ]
-    },
-    {
-      "id": 25,
+      "id": 15,
       "topic": "Sports",
       "label": "Infantino · FIFA · UEFA",
-      "title": "FIFA president Infantino denies alleged affair, calls UEFA claims 'defamatory'",
-      "summary": "Gianni Infantino has firmly rejected allegations that UEFA funds were involved in a former employee's exit package. The accusations highlight an abrupt promotion and a notable salary boost for the ind",
-      "score": 5.936,
-      "n_outlets": 5,
-      "n_articles": 5,
+      "title": "FIFA denies reports of Infantino's relationship with former UEFA employee",
+      "summary": "Президент Международной федерации футбола (FIFA) Джанни Инфантино отверг информацию о том, что его любовница получила шестизначную сумму от Союза европейских футбольных ассоциаций (UEFA), сотрудницей ",
+      "score": 8.965,
+      "n_outlets": 8,
+      "n_articles": 9,
       "regions": [
         "africa",
+        "china",
         "europe",
         "india",
         "russia",
         "south_america"
       ],
-      "last_seen": "2026-08-08T08:07:17+00:00",
+      "last_seen": "2026-08-08T09:24:29+00:00",
       "leans": [
-        "center"
+        "center",
+        "left",
+        "state"
       ],
       "sources": [
+        {
+          "outlet": "Der Spiegel",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "South Korea: Football federation admits massage scandal",
+          "url": "https://www.spiegel.de/sport/fussball/suedkorea-fussballverband-gibt-massage-skandal-zu-a-a62af7b2-0a57-47fe-b770-a64c168ac66f#ref=rss",
+          "published": "2026-08-08T08:10:00+00:00",
+          "orig_title": "Südkorea: Fußballverband gibt Massage-Skandal zu",
+          "lang": "de",
+          "translated": true,
+          "access": "unknown"
+        },
         {
           "outlet": "BBC News",
           "region": "europe",
@@ -3781,13 +3846,28 @@
           "region": "russia",
           "lean": "center",
           "ownership": "private",
-          "title": "UEFA paid mistress of Gianni Infantino six-figure sum",
-          "url": "https://www.kommersant.ru/doc/8875412",
-          "published": "2026-08-07T21:40:43+00:00",
-          "orig_title": "Любовница Джанни Инфантино получила от UEFA шестизначную сумму",
+          "title": "FIFA denies reports of Infantino's relationship with former UEFA employee",
+          "url": "https://www.kommersant.ru/doc/8875506",
+          "published": "2026-08-08T08:54:26+00:00",
+          "orig_title": "FIFA отрицает информацию об отношениях Инфантино с бывшей сотрудницей UEFA",
           "lang": "ru",
           "translated": true,
-          "access": "unknown"
+          "access": "unknown",
+          "more": [
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "UEFA paid mistress of Gianni Infantino six-figure sum",
+              "url": "https://www.kommersant.ru/doc/8875412",
+              "published": "2026-08-07T21:40:43+00:00",
+              "orig_title": "Любовница Джанни Инфантино получила от UEFA шестизначную сумму",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            }
+          ]
         },
         {
           "outlet": "Premium Times",
@@ -3798,6 +3878,19 @@
           "url": "https://www.premiumtimesng.com/opinion/901430-infantile-infantino-should-exit-for-trying-to-sell-the-world-cup-by-owei-lakemfa.html",
           "published": "2026-08-08T04:52:36+00:00",
           "orig_title": "Infantile Infantino should exit for trying to sell the World Cup, By Owei Lakemfa",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "South China Morning Post",
+          "region": "china",
+          "lean": "center",
+          "ownership": "private",
+          "title": "South Korean football body apologises after report on referee sex scandal",
+          "url": "https://www.scmp.com/news/asia/east-asia/article/3363388/south-korean-football-body-apologises-after-report-referee-sex-scandal?utm_source=rss_feed",
+          "published": "2026-08-08T07:48:42+00:00",
+          "orig_title": "South Korean football body apologises after report on referee sex scandal",
           "lang": "en",
           "translated": false,
           "access": "open"
@@ -3814,121 +3907,41 @@
           "lang": "en",
           "translated": false,
           "access": "open"
+        },
+        {
+          "outlet": "TASS",
+          "region": "russia",
+          "lean": "state",
+          "ownership": "state",
+          "title": "FIFA denies Infantino's relationship with former UEFA employee",
+          "url": "https://tass.com/sports/2170469",
+          "published": "2026-08-08T09:24:29+00:00",
+          "orig_title": "FIFA denies Infantino's relationship with former UEFA employee",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
         }
       ]
     },
     {
-      "id": 151,
+      "id": 25,
       "topic": "Sports",
-      "label": "Real · Madrid · World",
-      "title": "Rodri changes course: from Real Madrid interest to finalizing Barcelona transfer",
-      "summary": "El mediocentro rechaza la oferta del club blanco y acepta la propuesta del Barcelona, que ya negocia por él, seducido por un estilo futbolístico más parecido al de la Roja y el City y un vestuario con",
-      "score": 2.664,
+      "label": "Owen · Ansah · Goalkeeper",
+      "title": "Goalkeeper Matvey Safonov could leave PSG next summer",
+      "summary": "Футбольный клуб ПСЖ следующим летом может расстаться с одним из вратарей — россиянином Матвеем Сафоновым или французом Люкой Шевалье. Об этом сообщает газета L'Equipe.",
+      "score": 2.949,
       "n_outlets": 2,
-      "n_articles": 8,
+      "n_articles": 3,
       "regions": [
         "europe",
         "russia"
       ],
-      "last_seen": "2026-08-08T04:00:00+00:00",
+      "last_seen": "2026-08-08T09:11:57+00:00",
       "leans": [
         "center",
-        "left"
+        "right"
       ],
       "sources": [
-        {
-          "outlet": "El Pais",
-          "region": "europe",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Rodri changes course: from Real Madrid interest to finalizing Barcelona transfer",
-          "url": "https://elpais.com/deportes/futbol/2026-08-08/rodri-cambia-de-direccion-de-su-acercamiento-al-madrid-a-ultimar-su-fichaje-por-el-barca.html",
-          "published": "2026-08-08T03:30:01+00:00",
-          "orig_title": "Rodri cambia de dirección: de su acercamiento al Madrid a ultimar su fichaje por el Barça",
-          "lang": "es",
-          "translated": true,
-          "access": "unknown",
-          "more": [
-            {
-              "outlet": "El Pais",
-              "region": "europe",
-              "lean": "left",
-              "ownership": "private",
-              "title": "Mourinho and Guardiola, so close and so far",
-              "url": "https://elpais.com/deportes/futbol/2026-08-08/guardiola-y-mourinho-tan-cerca-y-tan-lejos.html",
-              "published": "2026-08-08T03:30:01+00:00",
-              "orig_title": "Mourinho y Guardiola, tan cerca y tan lejos",
-              "lang": "es",
-              "translated": true,
-              "access": "unknown"
-            },
-            {
-              "outlet": "El Pais",
-              "region": "europe",
-              "lean": "left",
-              "ownership": "private",
-              "title": "Defender Tim Payne Enjoys Unexpected Stardom in Paraguay",
-              "url": "https://elpais.com/america/2026-08-08/el-defensa-tim-payne-disfruta-de-una-inesperada-fama-de-estrella-en-paraguay.html",
-              "published": "2026-08-08T04:00:00+00:00",
-              "orig_title": "El defensa Tim Payne disfruta de una inesperada fama de estrella en Paraguay",
-              "lang": "es",
-              "translated": true,
-              "access": "unknown"
-            },
-            {
-              "outlet": "El Pais",
-              "region": "europe",
-              "lean": "left",
-              "ownership": "private",
-              "title": "Franco Mastantuono loaned by Real Madrid to Fiorentina",
-              "url": "https://elpais.com/deportes/futbol/2026-08-07/franco-mastantuono-cedido-por-el-madrid-a-la-fiorentina.html",
-              "published": "2026-08-07T14:51:41+00:00",
-              "orig_title": "Franco Mastantuono, cedido por el Real Madrid a la Fiorentina",
-              "lang": "es",
-              "translated": true,
-              "access": "unknown"
-            },
-            {
-              "outlet": "El Pais",
-              "region": "europe",
-              "lean": "left",
-              "ownership": "private",
-              "title": "World Cup hero Ferran Torres returns to his hometown Foios",
-              "url": "https://elpais.com/deportes/futbol/2026-08-07/ferran-torres-el-heroe-del-mundial-regresa-a-su-pueblo-foios.html",
-              "published": "2026-08-07T18:29:31+00:00",
-              "orig_title": "Ferran Torres, el héroe del Mundial regresa a su pueblo, Foios",
-              "lang": "es",
-              "translated": true,
-              "access": "unknown"
-            },
-            {
-              "outlet": "El Pais",
-              "region": "europe",
-              "lean": "left",
-              "ownership": "private",
-              "title": "South America solidifies support for Infantino and demands 18 matches for 2030 World Cup",
-              "url": "https://elpais.com/america/2026-08-07/sudamerica-blinda-su-apoyo-a-infantino-y-le-pide-18-partidos-para-el-mundial-2030.html",
-              "published": "2026-08-07T16:35:50+00:00",
-              "orig_title": "Sudamérica blinda su apoyo a Infantino y le pide 18 partidos para el Mundial 2030",
-              "lang": "es",
-              "translated": true,
-              "access": "unknown"
-            },
-            {
-              "outlet": "El Pais",
-              "region": "europe",
-              "lean": "left",
-              "ownership": "private",
-              "title": "ICE Detains Argentine Footballer While Traveling With Team for Match",
-              "url": "https://elpais.com/argentina/2026-08-08/el-ice-detiene-a-un-futbolista-argentino-cuando-viajaba-con-su-equipo-para-jugar-un-partido.html",
-              "published": "2026-08-08T04:00:00+00:00",
-              "orig_title": "El ICE detiene a un futbolista argentino cuando viajaba con su equipo para jugar un partido",
-              "lang": "es",
-              "translated": true,
-              "access": "unknown"
-            }
-          ]
-        },
         {
           "outlet": "Kommersant",
           "region": "russia",
@@ -3940,17 +3953,45 @@
           "orig_title": "Вратарь Матвей Сафонов может покинуть ПСЖ следующим летом",
           "lang": "ru",
           "translated": true,
+          "access": "unknown",
+          "more": [
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Doping-suspended Zabolotny joins Media League club SKA-Rostov",
+              "url": "https://www.kommersant.ru/doc/8864618",
+              "published": "2026-08-07T07:59:41+00:00",
+              "orig_title": "Отстраненный за допинг Заболотный перешел в клуб Медиалиги «СКА-Ростов»",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            }
+          ]
+        },
+        {
+          "outlet": "Die Welt",
+          "region": "europe",
+          "lean": "right",
+          "ownership": "private",
+          "title": "You could call it fate: Owen Ansah fights for his career",
+          "url": "https://www.welt.de/sport/article6a76ea190e3689919ec74b8a/eklat-um-dopingtest-man-kann-es-auch-schicksal-nennen-wie-owen-ansah-um-seine-karriere-kaempft.html",
+          "published": "2026-08-08T09:11:57+00:00",
+          "orig_title": "„Man kann es auch Schicksal nennen“ – Wie Owen Ansah um seine Karriere kämpft",
+          "lang": "de",
+          "translated": true,
           "access": "unknown"
         }
       ]
     },
     {
-      "id": 282,
+      "id": 305,
       "topic": "Sports",
       "label": "ADNOC · ships · Strait",
       "title": "ADNOC says at least 15 ships attacked in Strait of Hormuz since start of conflict",
       "summary": "One crew member was killed and 20 were wounded as a result of these attacks, the company reported",
-      "score": 2.439,
+      "score": 2.407,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -3992,12 +4033,12 @@
       ]
     },
     {
-      "id": 369,
+      "id": 388,
       "topic": "Sports",
       "label": "Russian · European · Championships",
       "title": "Russian rhythmic gymnastics team leaders denied visas for European Championships",
       "summary": "Олимпийские чемпионки по спортивной гимнастике Ангелина Мельникова и Виктория Листунова пока не получили визы для участия в чемпионате Европы в Загребе. Об этом сообщила пресс-служба Федерации гимнаст",
-      "score": 2.284,
+      "score": 2.263,
       "n_outlets": 2,
       "n_articles": 3,
       "regions": [
@@ -4053,21 +4094,51 @@
       ]
     },
     {
-      "id": 389,
+      "id": 27,
       "topic": "Sports",
-      "label": "Russia-linked · Ceuta · Former",
-      "title": "Former Trump supporters discuss forming new political movement",
-      "summary": "Бывшие активные сторонники Дональда Трампа — журналист Такер Карлсон, экс-конгрессвумен Марджори Тейлор Грин, конгрессмен Томас Масси и экс-директор Национального центра по борьбе с терроризмом Джо Ке",
-      "score": 2.257,
-      "n_outlets": 2,
-      "n_articles": 2,
+      "label": "Maryland · year-old · baker's",
+      "title": "10-year-old baker's grand champion cake fetches $15,000 at Maryland county fair auction",
+      "summary": "At a recent county fair auction, a remarkable cake created by 10-year-old baker Herbie Martin IV fetched an astounding $15,000. Herbie dedicated countless late-night hours to master his delightful lem",
+      "score": 1.938,
+      "n_outlets": 1,
+      "n_articles": 1,
       "regions": [
-        "europe",
-        "russia"
+        "india"
       ],
-      "last_seen": "2026-08-07T16:35:26+00:00",
+      "last_seen": "2026-08-08T09:03:34+00:00",
       "leans": [
-        "center",
+        "center"
+      ],
+      "sources": [
+        {
+          "outlet": "Times of India",
+          "region": "india",
+          "lean": "center",
+          "ownership": "private",
+          "title": "10-year-old baker's grand champion cake fetches $15,000 at Maryland county fair auction",
+          "url": "https://timesofindia.indiatimes.com/life-style/food-news/maryland-10-year-old-herbie-martin-iv-stayed-up-until-2-a-m-perfecting-his-lemon-blueberry-buttercream-cake-the-grand-champion-cake-sold-for-15000/articleshow/133049506.cms",
+          "published": "2026-08-08T09:03:34+00:00",
+          "orig_title": "10-year-old baker's grand champion cake fetches $15,000 at Maryland county fair auction",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "topic": "Sports",
+      "label": "High · Paris · Seine",
+      "title": "High divers take the plunge in Paris for a new test of reclaimed Seine’s water",
+      "summary": "European Aquatics Championships taking place in city Threat to water quality tested two years after Games Paris is staging its first high-diving competition in the Seine, with athletes launching thems",
+      "score": 1.934,
+      "n_outlets": 1,
+      "n_articles": 1,
+      "regions": [
+        "europe"
+      ],
+      "last_seen": "2026-08-08T09:00:44+00:00",
+      "leans": [
         "left"
       ],
       "sources": [
@@ -4076,36 +4147,55 @@
           "region": "europe",
           "lean": "left",
           "ownership": "private",
-          "title": "Russia-linked accounts spread far-right narrative online during Ceuta migration crisis, analysis finds",
-          "url": "https://www.theguardian.com/media/2026/aug/07/far-right-narrative-russia-online-accounts-ceuta-migration-crisis-analysis",
-          "published": "2026-08-07T16:35:26+00:00",
-          "orig_title": "Russia-linked accounts spread far-right narrative online during Ceuta migration crisis, analysis finds",
+          "title": "High divers take the plunge in Paris for a new test of reclaimed Seine’s water",
+          "url": "https://www.theguardian.com/sport/2026/aug/08/high-divers-paris-river-seine-swimming-european-aquatics-championships",
+          "published": "2026-08-08T09:00:44+00:00",
+          "orig_title": "High divers take the plunge in Paris for a new test of reclaimed Seine’s water",
           "lang": "en",
           "translated": false,
           "access": "open"
-        },
-        {
-          "outlet": "Kommersant",
-          "region": "russia",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Former Trump supporters discuss forming new political movement",
-          "url": "https://www.kommersant.ru/doc/8870396",
-          "published": "2026-08-07T10:38:40+00:00",
-          "orig_title": "Бывшие сторонники Трампа заговорили о создании новой политической силы",
-          "lang": "ru",
-          "translated": true,
-          "access": "unknown"
         }
       ]
     },
     {
-      "id": 0,
+      "id": 32,
+      "topic": "Sports",
+      "label": "Scratch · day · local",
+      "title": "Scratch of the day: local football season postponed due to ‘rock hard’ pitches",
+      "summary": "Drought and record heat have forced the Norfolk and Suffolk league to move kick-off to the end of August as the ground is deemed too dangerous to play on This summer’s record drought has forced a foot",
+      "score": 1.934,
+      "n_outlets": 1,
+      "n_articles": 1,
+      "regions": [
+        "europe"
+      ],
+      "last_seen": "2026-08-08T09:00:43+00:00",
+      "leans": [
+        "left"
+      ],
+      "sources": [
+        {
+          "outlet": "The Guardian",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Scratch of the day: local football season postponed due to ‘rock hard’ pitches",
+          "url": "https://www.theguardian.com/environment/2026/aug/08/scratch-of-the-day-local-football-season-postponed-due-to-rock-hard-pitches",
+          "published": "2026-08-08T09:00:43+00:00",
+          "orig_title": "Scratch of the day: local football season postponed due to ‘rock hard’ pitches",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 41,
       "topic": "Sports",
       "label": "Parents · Covid-19 · RSV",
       "title": "Parents urged to vaccinate children amid threat of flu, Covid-19 and RSV infections",
       "summary": "Hong Kong parents should have their children vaccinated against respiratory infections as the city faces a triple threat from influenza, Covid-19 and respiratory syncytial virus (RSV), a medical exper",
-      "score": 1.994,
+      "score": 1.921,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -4132,63 +4222,31 @@
       ]
     },
     {
-      "id": 28,
+      "id": 42,
       "topic": "Sports",
-      "label": "Planting · Teenagers · Devon",
-      "title": "Planting the seeds? Teenagers from across global divide talk peace in Devon",
-      "summary": "UK hosts decades-old event for first time where many participants are from opposite sides of global disputes from Israel and Palestine, to India and Pakistan On the surface it looks like a normal summ",
-      "score": 1.928,
+      "label": "Estranged · Gardner's · wife",
+      "title": "Estranged wife calls for Gardner's vice-captaincy to be stripped, slams CA",
+      "summary": "Ashleigh Gardner's leadership role faces scrutiny after her estranged wife's public accusations. Monica Wright questioned Cricket Australia's silence regarding the alleged affair with Georgia Voll. Wr",
+      "score": 1.917,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
-        "europe"
+        "india"
       ],
-      "last_seen": "2026-08-08T08:00:40+00:00",
-      "leans": [
-        "left"
-      ],
-      "sources": [
-        {
-          "outlet": "The Guardian",
-          "region": "europe",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Planting the seeds? Teenagers from across global divide talk peace in Devon",
-          "url": "https://www.theguardian.com/society/2026/aug/08/seeds-of-peace-teenagers-conflict-torn-world-devon-summer-camp",
-          "published": "2026-08-08T08:00:40+00:00",
-          "orig_title": "Planting the seeds? Teenagers from across global divide talk peace in Devon",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        }
-      ]
-    },
-    {
-      "id": 35,
-      "topic": "Sports",
-      "label": "South · Korean · football",
-      "title": "South Korean football body apologises after report on referee sex scandal",
-      "summary": "South Korea’s national football association apologised on Saturday ⁠after a media report ⁠alleged it had provided “sexual services” ⁠to foreign referees when they were in the country for international",
-      "score": 1.912,
-      "n_outlets": 1,
-      "n_articles": 1,
-      "regions": [
-        "china"
-      ],
-      "last_seen": "2026-08-08T07:48:42+00:00",
+      "last_seen": "2026-08-08T08:47:05+00:00",
       "leans": [
         "center"
       ],
       "sources": [
         {
-          "outlet": "South China Morning Post",
-          "region": "china",
+          "outlet": "Times of India",
+          "region": "india",
           "lean": "center",
           "ownership": "private",
-          "title": "South Korean football body apologises after report on referee sex scandal",
-          "url": "https://www.scmp.com/news/asia/east-asia/article/3363388/south-korean-football-body-apologises-after-report-referee-sex-scandal?utm_source=rss_feed",
-          "published": "2026-08-08T07:48:42+00:00",
-          "orig_title": "South Korean football body apologises after report on referee sex scandal",
+          "title": "Estranged wife calls for Gardner's vice-captaincy to be stripped, slams CA",
+          "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ashleigh-gardner-under-pressure-ex-wife-calls-for-vice-captaincy-to-be-stripped-slams-cricket-australia/articleshow/133049096.cms",
+          "published": "2026-08-08T08:47:05+00:00",
+          "orig_title": "Estranged wife calls for Gardner's vice-captaincy to be stripped, slams CA",
           "lang": "en",
           "translated": false,
           "access": "open"
@@ -4196,18 +4254,18 @@
       ]
     },
     {
-      "id": 37,
+      "id": 43,
       "topic": "Sports",
       "label": "Tohoku · Daishowa · Shirakaba",
       "title": "Tohoku Daishowa wins pitcher's duel for first victory; Shirakaba Academy falls short despite tying game temporarily",
       "summary": "Tohoku Daishowa wins pitcher's duel for first victory; Shirakaba Academy falls short despite tying game temporarily",
-      "score": 1.908,
+      "score": 1.912,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
         "japan"
       ],
-      "last_seen": "2026-08-08T07:45:00+00:00",
+      "last_seen": "2026-08-08T08:43:36+00:00",
       "leans": [
         "left"
       ],
@@ -4219,58 +4277,11 @@
           "ownership": "private",
           "title": "Tohoku Daishowa wins pitcher's duel for first victory; Shirakaba Academy falls short despite tying game temporarily",
           "url": "http://www.asahi.com/articles/ASV8825SJV88UQIP037M.html?ref=rss",
-          "published": "2026-08-08T07:45:00+00:00",
+          "published": "2026-08-08T08:43:36+00:00",
           "orig_title": "東日大昌平が投手戦制して初勝利 白樺学園は一時同点にするも及ばず",
           "lang": "ja",
           "translated": true,
           "access": "unknown"
-        }
-      ]
-    },
-    {
-      "id": 45,
-      "topic": "Sports",
-      "label": "Celtic · Falklands · Malvinas",
-      "title": "Celtic roots of both the Falklands and Malvinas names?",
-      "summary": "The Irish Times has published a very interesting piece from Tomaí Ó Conghaile following on the fallout from the World Cup, who argues that both the English and Spanish versions of the Falkland-Malvina",
-      "score": 1.899,
-      "n_outlets": 1,
-      "n_articles": 2,
-      "regions": [
-        "south_america"
-      ],
-      "last_seen": "2026-08-08T07:38:00+00:00",
-      "leans": [
-        "center"
-      ],
-      "sources": [
-        {
-          "outlet": "MercoPress",
-          "region": "south_america",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Celtic roots of both the Falklands and Malvinas names?",
-          "url": "https://en.mercopress.com/2026/08/08/celtic-roots-of-both-the-falklands-and-malvinas-names?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
-          "published": "2026-08-08T07:38:00+00:00",
-          "orig_title": "Celtic roots of both the Falklands and Malvinas names?",
-          "lang": "en",
-          "translated": false,
-          "access": "open",
-          "more": [
-            {
-              "outlet": "MercoPress",
-              "region": "south_america",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Why the Falkland Islands are British",
-              "url": "https://en.mercopress.com/2026/08/07/why-the-falkland-islands-are-british?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
-              "published": "2026-08-07T20:58:00+00:00",
-              "orig_title": "Why the Falkland Islands are British",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
-            }
-          ]
         }
       ]
     }
