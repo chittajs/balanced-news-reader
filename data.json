@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T16:46:27.732627+00:00",
+  "generated_at": "2026-08-08T17:40:54.460682+00:00",
   "topics": [
     "World & Politics",
     "Economics",
@@ -14,28 +14,28 @@
       "name": "United States",
       "lat": 39.0,
       "lng": -98.0,
-      "count": 22
+      "count": 19
     },
     {
       "id": "europe",
       "name": "Europe",
       "lat": 50.0,
       "lng": 10.0,
-      "count": 19
+      "count": 20
     },
     {
       "id": "china",
       "name": "China",
       "lat": 35.0,
       "lng": 105.0,
-      "count": 16
+      "count": 18
     },
     {
       "id": "india",
       "name": "India",
       "lat": 22.0,
       "lng": 79.0,
-      "count": 17
+      "count": 25
     },
     {
       "id": "australia",
@@ -56,14 +56,14 @@
       "name": "Africa",
       "lat": 2.0,
       "lng": 21.0,
-      "count": 3
+      "count": 2
     },
     {
       "id": "japan",
       "name": "Japan",
       "lat": 36.5,
       "lng": 139.0,
-      "count": 13
+      "count": 9
     },
     {
       "id": "russia",
@@ -75,12 +75,12 @@
   ],
   "clusters": [
     {
-      "id": 3,
+      "id": 29,
       "topic": "World & Politics",
       "label": "Colombia · Espriella · Trump",
       "title": "Colombia: Trump ally De la Espriella takes office",
       "summary": "Conservative Abelardo de la Espriella was sworn in as Colombia's president, promising to crack down on armed drug gangs.",
-      "score": 12.983,
+      "score": 12.912,
       "n_outlets": 12,
       "n_articles": 15,
       "regions": [
@@ -301,116 +301,146 @@
       ]
     },
     {
-      "id": 29,
+      "id": 1,
       "topic": "World & Politics",
-      "label": "Todd · Blanche · Senate",
-      "title": "Senate votes to confirm Todd Blanche as attorney general",
-      "summary": "The Senate confirmed Blanche by a 50-49 vote early Saturday morning, elevating President Trump's former personal lawyer to head the Justice Department.",
-      "score": 11.933,
-      "n_outlets": 11,
-      "n_articles": 12,
+      "label": "Hormuz · Iran · Strait",
+      "title": "Iran targeted tanker, says UAE, as Tehran says Hormuz deal with Oman close",
+      "summary": "The United Arab Emirates on Saturday said Iran had targeted a tanker belonging to the state-owned Abu Dhabi National Oil Company (ADNOC) while it was transiting the Strait of Hormuz. Iran has imposed ",
+      "score": 9.986,
+      "n_outlets": 9,
+      "n_articles": 14,
       "regions": [
         "china",
         "europe",
         "india",
-        "japan",
         "russia",
         "us"
       ],
-      "last_seen": "2026-08-08T15:56:39+00:00",
+      "last_seen": "2026-08-08T17:30:41+00:00",
       "leans": [
         "center",
         "left",
-        "right"
+        "right",
+        "state"
       ],
       "sources": [
         {
-          "outlet": "El Pais",
+          "outlet": "Der Spiegel",
           "region": "europe",
           "lean": "left",
           "ownership": "private",
-          "title": "Trump lawyer Todd Blanche becomes attorney general after narrow Senate midnight vote",
-          "url": "https://elpais.com/internacional/2026-08-08/todd-blanche-el-candidato-de-trump-logra-la-nominacion-como-fiscal-general-tras-una-votacion-ajustada-en-el-senado.html",
-          "published": "2026-08-08T12:33:55+00:00",
-          "orig_title": "Todd Blanche, el abogado de Trump, se convierte en fiscal general tras una ajustada votación de madrugada en el Senado",
-          "lang": "es",
+          "title": "Strait of Hormuz: Iran publishes list of demands to the USA",
+          "url": "https://www.spiegel.de/ausland/strasse-von-hormus-iran-veroeffentlicht-forderungskatalog-an-die-usa-a-dfc6f1b5-7c20-485d-a7de-2d9258219f56#ref=rss",
+          "published": "2026-08-08T16:53:00+00:00",
+          "orig_title": "Straße von Hormus: Iran veröffentlicht Forderungskatalog an die USA",
+          "lang": "de",
           "translated": true,
           "access": "unknown"
-        },
-        {
-          "outlet": "NPR",
-          "region": "us",
-          "lean": "left",
-          "ownership": "public",
-          "title": "Senate votes to confirm Todd Blanche as attorney general",
-          "url": "https://www.npr.org/2026/08/08/g-s1-137631/senate-confirms-todd-blanche-attorney-general",
-          "published": "2026-08-08T08:46:39+00:00",
-          "orig_title": "Senate votes to confirm Todd Blanche as attorney general",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "The Guardian",
-          "region": "europe",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Trump loyalist Todd Blanche confirmed by Senate as US attorney general",
-          "url": "https://www.theguardian.com/us-news/2026/aug/08/todd-blanche-attorney-general-confirmed",
-          "published": "2026-08-08T12:34:41+00:00",
-          "orig_title": "Trump loyalist Todd Blanche confirmed by Senate as US attorney general",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
         },
         {
           "outlet": "The Hindu",
           "region": "india",
           "lean": "left",
           "ownership": "private",
-          "title": "Todd Blanche narrowly confirmed as Trump's attorney general in overnight vote",
-          "url": "https://www.thehindu.com/news/international/todd-blanche-narrowly-confirmed-as-trumps-attorney-general-in-overnight-vote/article71321160.ece",
-          "published": "2026-08-08T12:25:42+00:00",
-          "orig_title": "Todd Blanche narrowly confirmed as Trump's attorney general in overnight vote",
+          "title": "UAE says Iran targeted tanker as Oman cites progress in Hormuz talks",
+          "url": "https://www.thehindu.com/news/international/uae-says-iran-targeted-tanker-as-oman-cites-progress-in-hormuz-talks/article71322549.ece",
+          "published": "2026-08-08T16:13:39+00:00",
+          "orig_title": "UAE says Iran targeted tanker as Oman cites progress in Hormuz talks",
           "lang": "en",
           "translated": false,
-          "access": "open"
+          "access": "open",
+          "more": [
+            {
+              "outlet": "The Hindu",
+              "region": "india",
+              "lean": "left",
+              "ownership": "private",
+              "title": "West Asia war LIVE: Iran attacks vessel in Strait of Hormuz, UAE says",
+              "url": "https://www.thehindu.com/news/international/west-asia-war-us-iran-deal-strait-of-hormuz-yemen-houthis-saudi-arabia-live-updates-august-8-2026/article71320445.ece",
+              "published": "2026-08-08T16:04:51+00:00",
+              "orig_title": "West Asia war LIVE: Iran attacks vessel in Strait of Hormuz, UAE says",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            }
+          ]
         },
         {
-          "outlet": "BBC News",
-          "region": "europe",
-          "lean": "center",
-          "ownership": "public",
-          "title": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
-          "url": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-08T15:56:39+00:00",
-          "orig_title": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
+          "outlet": "The New York Times",
+          "region": "us",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Iran Issues List of Demands, Dampening Hopes of Reopening Strait of Hormuz",
+          "url": "https://www.nytimes.com/2026/08/08/world/middleeast/iran-us-oman-strait-of-hormuz.html",
+          "published": "2026-08-08T16:12:26+00:00",
+          "orig_title": "Iran Issues List of Demands, Dampening Hopes of Reopening Strait of Hormuz",
           "lang": "en",
           "translated": false,
-          "access": "open"
+          "access": "paywall"
         },
         {
           "outlet": "Kommersant",
           "region": "russia",
           "lean": "center",
           "ownership": "private",
-          "title": "Senate confirms Todd Blanche as US Attorney General",
-          "url": "https://www.kommersant.ru/doc/8875531",
-          "published": "2026-08-08T10:20:42+00:00",
-          "orig_title": "Сенат утвердил Тодда Бланша на пост генпрокурора США",
+          "title": "Iran demands US compensation to reopen Strait of Hormuz",
+          "url": "https://www.kommersant.ru/doc/8875568",
+          "published": "2026-08-08T13:01:01+00:00",
+          "orig_title": "Иран потребовал от США компенсаций для открытия Ормузского пролива",
           "lang": "ru",
           "translated": true,
-          "access": "unknown"
+          "access": "unknown",
+          "more": [
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Oman condemns attacks on ships in Strait of Hormuz",
+              "url": "https://www.kommersant.ru/doc/8875595",
+              "published": "2026-08-08T14:58:13+00:00",
+              "orig_title": "Оман осудил атаки на суда в Ормузском проливе",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Iran seeks sanctions lifted in exchange for opening Strait of Hormuz",
+              "url": "https://www.kommersant.ru/doc/8874948",
+              "published": "2026-08-07T12:24:48+00:00",
+              "orig_title": "Иран добивается отмены санкций в обмен на открытие Ормузского пролива",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Vessel catches fire after shelling in Strait of Hormuz off Oman coast",
+              "url": "https://www.kommersant.ru/doc/8875588",
+              "published": "2026-08-08T14:40:53+00:00",
+              "orig_title": "У берегов Омана в Ормузском проливе загорелось судно после обстрела",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            }
+          ]
         },
         {
           "outlet": "South China Morning Post",
           "region": "china",
           "lean": "center",
           "ownership": "private",
-          "title": "Trump-pick Todd Blanche confirmed as US attorney general",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3363368/trump-pick-todd-blanche-clears-major-hurdle-bid-become-us-attorney-general?utm_source=rss_feed",
-          "published": "2026-08-07T20:30:46+00:00",
-          "orig_title": "Trump-pick Todd Blanche confirmed as US attorney general",
+          "title": "Iran targeted tanker, says UAE, as Tehran says Hormuz deal with Oman close",
+          "url": "https://www.scmp.com/news/world/middle-east/article/3363411/iran-targeted-tanker-says-uae-tehran-says-hormuz-deal-oman-close?utm_source=rss_feed",
+          "published": "2026-08-08T14:56:28+00:00",
+          "orig_title": "Iran targeted tanker, says UAE, as Tehran says Hormuz deal with Oman close",
           "lang": "en",
           "translated": false,
           "access": "open"
@@ -420,77 +450,77 @@
           "region": "us",
           "lean": "center",
           "ownership": "private",
-          "title": "Live updates: Senate passes stopgap funding bill; Todd Blanche confirmed to lead DOJ",
-          "url": "https://thehill.com/homenews/administration/6018352-live-updates-senate-august-recess-blanche-spending-bill-iran-war/",
-          "published": "2026-08-08T14:54:30+00:00",
-          "orig_title": "Live updates: Senate passes stopgap funding bill; Todd Blanche confirmed to lead DOJ",
+          "title": "Iran signals Strait of Hormuz deal close, but ceasefire dispute lingers",
+          "url": "https://thehill.com/policy/international/6018567-iran-oman-strait-hormuz-deal-close/",
+          "published": "2026-08-08T15:31:17+00:00",
+          "orig_title": "Iran signals Strait of Hormuz deal close, but ceasefire dispute lingers",
           "lang": "en",
           "translated": false,
           "access": "unknown"
         },
         {
-          "outlet": "The Japan Times",
-          "region": "japan",
-          "lean": "center",
+          "outlet": "Die Welt",
+          "region": "europe",
+          "lean": "right",
           "ownership": "private",
-          "title": "Trump nominee Todd Blanche clears major hurdle in bid to become attorney general",
-          "url": "https://www.japantimes.co.jp/news/2026/08/08/world/politics/todd-blanche-attorney-general/",
-          "published": "2026-08-07T23:40:00+00:00",
-          "orig_title": "Trump nominee Todd Blanche clears major hurdle in bid to become attorney general",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
-        },
-        {
-          "outlet": "Times of India",
-          "region": "india",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Senate confirms Trump’s ex-lawyer Todd Blanche as US Attorney General",
-          "url": "https://timesofindia.indiatimes.com/world/us/senate-confirms-trumps-ex-lawyer-todd-blanche-as-us-attorney-general/articleshow/133050212.cms",
-          "published": "2026-08-08T10:31:14+00:00",
-          "orig_title": "Senate confirms Trump’s ex-lawyer Todd Blanche as US Attorney General",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
+          "title": "New tensions in Hormuz – UAE accuses Iran of attacking tanker",
+          "url": "https://www.welt.de/politik/ausland/article6a772038cd7ba1c08997cb7e/schifffahrtsroute-neue-spannungen-in-hormus-emirate-werfen-iran-tanker-angriff-vor.html",
+          "published": "2026-08-08T12:50:00+00:00",
+          "orig_title": "Neue Spannungen in Hormus – Emirate werfen Iran Tanker-Angriff vor",
+          "lang": "de",
+          "translated": true,
+          "access": "unknown"
         },
         {
           "outlet": "The Wall Street Journal",
           "region": "us",
           "lean": "right",
           "ownership": "private",
-          "title": "The Senate narrowly confirmed Todd Blanche as attorney general, cementing a trusted Trump ally atop the Justice Department",
-          "url": "https://www.wsj.com/politics/policy/blanche-confirmed-as-attorney-general-on-tight-senate-vote-f8ad433a?mod=rss_socialpoliticsfeed",
-          "published": "2026-08-08T08:34:00+00:00",
-          "orig_title": "The Senate narrowly confirmed Todd Blanche as attorney general, cementing a trusted Trump ally atop the Justice Department",
+          "title": "U.A.E. Says Iran Attacked One of Its Ships in Hormuz",
+          "url": "https://www.wsj.com/world/middle-east/u-a-e-says-iran-attacked-one-of-its-ships-in-hormuz-bfbec3b2?mod=rss_worldnews",
+          "published": "2026-08-08T13:12:00+00:00",
+          "orig_title": "U.A.E. Says Iran Attacked One of Its Ships in Hormuz",
           "lang": "en",
           "translated": false,
-          "access": "paywall",
+          "access": "paywall"
+        },
+        {
+          "outlet": "TASS",
+          "region": "russia",
+          "lean": "state",
+          "ownership": "state",
+          "title": "Oman, Iran continue talks on Strait of Hormuz in positive atmosphere — Foreign Ministry",
+          "url": "https://tass.com/world/2170529",
+          "published": "2026-08-08T17:30:41+00:00",
+          "orig_title": "Oman, Iran continue talks on Strait of Hormuz in positive atmosphere — Foreign Ministry",
+          "lang": "en",
+          "translated": false,
+          "access": "open",
           "more": [
             {
-              "outlet": "The Wall Street Journal",
-              "region": "us",
-              "lean": "right",
-              "ownership": "private",
-              "title": "A key senator said he would vote to confirm Todd Blanche as attorney general, clearing the path for President Trump’s pick to lead the Justice Department",
-              "url": "https://www.wsj.com/politics/policy/second-republican-will-oppose-blanche-leaving-confirmation-down-to-the-wire-aa02c480?mod=rss_socialpoliticsfeed",
-              "published": "2026-08-07T16:03:00+00:00",
-              "orig_title": "A key senator said he would vote to confirm Todd Blanche as attorney general, clearing the path for President Trump’s pick to lead the Justice Department",
+              "outlet": "TASS",
+              "region": "russia",
+              "lean": "state",
+              "ownership": "state",
+              "title": "ADNOC says at least 15 ships attacked in Strait of Hormuz since start of conflict",
+              "url": "https://tass.com/world/2170397",
+              "published": "2026-08-07T23:02:16+00:00",
+              "orig_title": "ADNOC says at least 15 ships attacked in Strait of Hormuz since start of conflict",
               "lang": "en",
               "translated": false,
-              "access": "paywall"
+              "access": "open"
             }
           ]
         }
       ]
     },
     {
-      "id": 7,
+      "id": 32,
       "topic": "World & Politics",
       "label": "Spain · Ceuta · Italy",
       "title": "Ceuta: Spain sets up border controls on travelers from Italy",
       "summary": "Spain had warned Italy it would impose entry checks on visitors unless Rome halts its controls by Sunday. Even though they don't share a land border, the countries entered a spat after the Ceuta borde",
-      "score": 9.975,
+      "score": 9.904,
       "n_outlets": 9,
       "n_articles": 16,
       "regions": [
@@ -723,14 +753,172 @@
       ]
     },
     {
-      "id": 68,
+      "id": 52,
+      "topic": "World & Politics",
+      "label": "Todd · Blanche · Senate",
+      "title": "Senate votes to confirm Todd Blanche as attorney general",
+      "summary": "The Senate confirmed Blanche by a 50-49 vote early Saturday morning, elevating President Trump's former personal lawyer to head the Justice Department.",
+      "score": 9.865,
+      "n_outlets": 9,
+      "n_articles": 10,
+      "regions": [
+        "china",
+        "europe",
+        "india",
+        "japan",
+        "russia",
+        "us"
+      ],
+      "last_seen": "2026-08-08T15:56:39+00:00",
+      "leans": [
+        "center",
+        "left",
+        "right"
+      ],
+      "sources": [
+        {
+          "outlet": "El Pais",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Trump lawyer Todd Blanche becomes attorney general after narrow Senate midnight vote",
+          "url": "https://elpais.com/internacional/2026-08-08/todd-blanche-el-candidato-de-trump-logra-la-nominacion-como-fiscal-general-tras-una-votacion-ajustada-en-el-senado.html",
+          "published": "2026-08-08T12:33:55+00:00",
+          "orig_title": "Todd Blanche, el abogado de Trump, se convierte en fiscal general tras una ajustada votación de madrugada en el Senado",
+          "lang": "es",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
+          "outlet": "NPR",
+          "region": "us",
+          "lean": "left",
+          "ownership": "public",
+          "title": "Senate votes to confirm Todd Blanche as attorney general",
+          "url": "https://www.npr.org/2026/08/08/g-s1-137631/senate-confirms-todd-blanche-attorney-general",
+          "published": "2026-08-08T08:46:39+00:00",
+          "orig_title": "Senate votes to confirm Todd Blanche as attorney general",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "The Hindu",
+          "region": "india",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Todd Blanche narrowly confirmed as Trump's attorney general in overnight vote",
+          "url": "https://www.thehindu.com/news/international/todd-blanche-narrowly-confirmed-as-trumps-attorney-general-in-overnight-vote/article71321160.ece",
+          "published": "2026-08-08T12:25:42+00:00",
+          "orig_title": "Todd Blanche narrowly confirmed as Trump's attorney general in overnight vote",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "BBC News",
+          "region": "europe",
+          "lean": "center",
+          "ownership": "public",
+          "title": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
+          "url": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-08T15:56:39+00:00",
+          "orig_title": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "Kommersant",
+          "region": "russia",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Senate confirms Todd Blanche as US Attorney General",
+          "url": "https://www.kommersant.ru/doc/8875531",
+          "published": "2026-08-08T10:20:42+00:00",
+          "orig_title": "Сенат утвердил Тодда Бланша на пост генпрокурора США",
+          "lang": "ru",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
+          "outlet": "South China Morning Post",
+          "region": "china",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Trump-pick Todd Blanche confirmed as US attorney general",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3363368/trump-pick-todd-blanche-clears-major-hurdle-bid-become-us-attorney-general?utm_source=rss_feed",
+          "published": "2026-08-07T20:30:46+00:00",
+          "orig_title": "Trump-pick Todd Blanche confirmed as US attorney general",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "The Hill",
+          "region": "us",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Live updates: Senate passes stopgap funding bill; Todd Blanche confirmed to lead DOJ",
+          "url": "https://thehill.com/homenews/administration/6018352-live-updates-senate-august-recess-blanche-spending-bill-iran-war/",
+          "published": "2026-08-08T14:54:30+00:00",
+          "orig_title": "Live updates: Senate passes stopgap funding bill; Todd Blanche confirmed to lead DOJ",
+          "lang": "en",
+          "translated": false,
+          "access": "unknown"
+        },
+        {
+          "outlet": "The Japan Times",
+          "region": "japan",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Trump nominee Todd Blanche clears major hurdle in bid to become attorney general",
+          "url": "https://www.japantimes.co.jp/news/2026/08/08/world/politics/todd-blanche-attorney-general/",
+          "published": "2026-08-07T23:40:00+00:00",
+          "orig_title": "Trump nominee Todd Blanche clears major hurdle in bid to become attorney general",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall"
+        },
+        {
+          "outlet": "The Wall Street Journal",
+          "region": "us",
+          "lean": "right",
+          "ownership": "private",
+          "title": "The Senate narrowly confirmed Todd Blanche as attorney general, cementing a trusted Trump ally atop the Justice Department",
+          "url": "https://www.wsj.com/politics/policy/blanche-confirmed-as-attorney-general-on-tight-senate-vote-f8ad433a?mod=rss_socialpoliticsfeed",
+          "published": "2026-08-08T08:34:00+00:00",
+          "orig_title": "The Senate narrowly confirmed Todd Blanche as attorney general, cementing a trusted Trump ally atop the Justice Department",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall",
+          "more": [
+            {
+              "outlet": "The Wall Street Journal",
+              "region": "us",
+              "lean": "right",
+              "ownership": "private",
+              "title": "A key senator said he would vote to confirm Todd Blanche as attorney general, clearing the path for President Trump’s pick to lead the Justice Department",
+              "url": "https://www.wsj.com/politics/policy/second-republican-will-oppose-blanche-leaving-confirmation-down-to-the-wire-aa02c480?mod=rss_socialpoliticsfeed",
+              "published": "2026-08-07T16:03:00+00:00",
+              "orig_title": "A key senator said he would vote to confirm Todd Blanche as attorney general, clearing the path for President Trump’s pick to lead the Justice Department",
+              "lang": "en",
+              "translated": false,
+              "access": "paywall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 93,
       "topic": "World & Politics",
       "label": "Thailand · shooting · school",
       "title": "What we know so far about the deadly Thailand shooting",
       "summary": "At least seven people have died after a teenage boy shot his grandparents before opening fire on a school in Bangkok.",
-      "score": 8.848,
+      "score": 8.786,
       "n_outlets": 8,
-      "n_articles": 13,
+      "n_articles": 12,
       "regions": [
         "china",
         "europe",
@@ -832,19 +1020,6 @@
               "region": "russia",
               "lean": "center",
               "ownership": "private",
-              "title": "Two teachers killed in school shooting in Thailand",
-              "url": "https://www.kommersant.ru/doc/8864455",
-              "published": "2026-08-07T04:57:44+00:00",
-              "orig_title": "Два учителя погибли при стрельбе в таиландской школе",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            },
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
               "title": "Death toll from school shooting in Thailand rises to nine",
               "url": "https://www.kommersant.ru/doc/8875578",
               "published": "2026-08-08T13:57:04+00:00",
@@ -923,170 +1098,12 @@
       ]
     },
     {
-      "id": 16,
-      "topic": "World & Politics",
-      "label": "Hormuz · Iran · Strait",
-      "title": "Iran signals Strait of Hormuz deal close, but ceasefire dispute lingers",
-      "summary": "Iran announced Saturday that it is nearing an agreement with Oman over control of the Strait of Hormuz but warned that its reopening would depend on other conditions, including compensation from the U",
-      "score": 7.954,
-      "n_outlets": 7,
-      "n_articles": 10,
-      "regions": [
-        "europe",
-        "japan",
-        "russia",
-        "us"
-      ],
-      "last_seen": "2026-08-08T16:12:26+00:00",
-      "leans": [
-        "center",
-        "left",
-        "right"
-      ],
-      "sources": [
-        {
-          "outlet": "Asahi Shimbun",
-          "region": "japan",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Iran and Oman discuss Strait of Hormuz passage; US official says agreement imminent",
-          "url": "http://www.asahi.com/articles/ASV882RCYV88UHBI00ZM.html?ref=rss",
-          "published": "2026-08-08T10:03:16+00:00",
-          "orig_title": "ホルムズ海峡通航へイランとオマーン協議、米当局者「まもなく合意」",
-          "lang": "ja",
-          "translated": true,
-          "access": "unknown"
-        },
-        {
-          "outlet": "El Pais",
-          "region": "europe",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Iran and Oman finalize Strait of Hormuz agreement amid Trump threats",
-          "url": "https://elpais.com/internacional/2026-08-07/iran-y-oman-ultiman-un-acuerdo-sobre-ormuz-pese-a-las-amenazas-de-trump.html",
-          "published": "2026-08-07T16:37:41+00:00",
-          "orig_title": "Irán y Omán ultiman un acuerdo sobre Ormuz entre amenazas de Trump",
-          "lang": "es",
-          "translated": true,
-          "access": "unknown"
-        },
-        {
-          "outlet": "The New York Times",
-          "region": "us",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Iran Issues List of Demands, Dampening Hopes of Reopening Strait of Hormuz",
-          "url": "https://www.nytimes.com/2026/08/08/world/middleeast/iran-us-oman-strait-of-hormuz.html",
-          "published": "2026-08-08T16:12:26+00:00",
-          "orig_title": "Iran Issues List of Demands, Dampening Hopes of Reopening Strait of Hormuz",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall",
-          "more": [
-            {
-              "outlet": "The New York Times",
-              "region": "us",
-              "lean": "left",
-              "ownership": "private",
-              "title": "Yemen Teeters on Civil War as Regional Stability Hangs in the Balance",
-              "url": "https://www.nytimes.com/2026/08/08/world/middleeast/yemen-houthis-regional-stability.html",
-              "published": "2026-08-08T14:57:24+00:00",
-              "orig_title": "Yemen Teeters on Civil War as Regional Stability Hangs in the Balance",
-              "lang": "en",
-              "translated": false,
-              "access": "paywall"
-            }
-          ]
-        },
-        {
-          "outlet": "Deutsche Welle",
-          "region": "europe",
-          "lean": "center",
-          "ownership": "public",
-          "title": "How viable is the potential Iran-Oman Hormuz shipping deal?",
-          "url": "https://www.dw.com/en/how-viable-is-the-potential-iran-oman-hormuz-shipping-deal/a-78283434?maca=en-rss-en-world-4025-rdf",
-          "published": "2026-08-07T15:02:00+00:00",
-          "orig_title": "How viable is the potential Iran-Oman Hormuz shipping deal?",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "Kommersant",
-          "region": "russia",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Reuters: US expects imminent Iran-Oman deal on Strait of Hormuz",
-          "url": "https://www.kommersant.ru/doc/8875177",
-          "published": "2026-08-07T19:32:32+00:00",
-          "orig_title": "Reuters: США ожидают скорой сделки Ирана и Омана по Ормузскому проливу",
-          "lang": "ru",
-          "translated": true,
-          "access": "unknown",
-          "more": [
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Iran demands US compensation to reopen Strait of Hormuz",
-              "url": "https://www.kommersant.ru/doc/8875568",
-              "published": "2026-08-08T13:01:01+00:00",
-              "orig_title": "Иран потребовал от США компенсаций для открытия Ормузского пролива",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            },
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Iran seeks sanctions lifted in exchange for opening Strait of Hormuz",
-              "url": "https://www.kommersant.ru/doc/8874948",
-              "published": "2026-08-07T12:24:48+00:00",
-              "orig_title": "Иран добивается отмены санкций в обмен на открытие Ормузского пролива",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            }
-          ]
-        },
-        {
-          "outlet": "The Hill",
-          "region": "us",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Iran signals Strait of Hormuz deal close, but ceasefire dispute lingers",
-          "url": "https://thehill.com/policy/international/6018567-iran-oman-strait-hormuz-deal-close/",
-          "published": "2026-08-08T15:31:17+00:00",
-          "orig_title": "Iran signals Strait of Hormuz deal close, but ceasefire dispute lingers",
-          "lang": "en",
-          "translated": false,
-          "access": "unknown"
-        },
-        {
-          "outlet": "The Wall Street Journal",
-          "region": "us",
-          "lean": "right",
-          "ownership": "private",
-          "title": "Iran Sees an Opening to Kick the U.S. Out of the Gulf",
-          "url": "https://www.wsj.com/world/middle-east/iran-sees-an-opening-to-kick-the-u-s-out-of-the-gulf-b9f9cc53?mod=rss_worldnews",
-          "published": "2026-08-08T00:00:00+00:00",
-          "orig_title": "Iran Sees an Opening to Kick the U.S. Out of the Gulf",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
-        }
-      ]
-    },
-    {
-      "id": 19,
+      "id": 42,
       "topic": "World & Politics",
       "label": "Lionel · Messi's · Jorge",
       "title": "Lionel Messi's father Jorge Messi dies at 68",
       "summary": "Der Vater von Lionel Messi ist tot. Jorge Messi starb im Alter von 68 Jahren. Er verhandelte die Millionenverträge seines Sohnes.",
-      "score": 7.941,
+      "score": 7.873,
       "n_outlets": 7,
       "n_articles": 8,
       "regions": [
@@ -1210,12 +1227,12 @@
       ]
     },
     {
-      "id": 97,
+      "id": 129,
       "topic": "World & Politics",
       "label": "FIFA · UEFA · Infantino",
       "title": "FIFA denies reports of Infantino's relationship with former UEFA employee",
       "summary": "Президент Международной федерации футбола (FIFA) Джанни Инфантино отверг информацию о том, что его любовница получила шестизначную сумму от Союза европейских футбольных ассоциаций (UEFA), сотрудницей ",
-      "score": 7.779,
+      "score": 7.722,
       "n_outlets": 7,
       "n_articles": 9,
       "regions": [
@@ -1356,22 +1373,20 @@
       ]
     },
     {
-      "id": 15,
+      "id": 28,
       "topic": "World & Politics",
-      "label": "Hormuz · Iran · Oman",
-      "title": "Iran targeted tanker, says UAE, as Tehran says Hormuz deal with Oman close",
-      "summary": "The United Arab Emirates on Saturday said Iran had targeted a tanker belonging to the state-owned Abu Dhabi National Oil Company (ADNOC) while it was transiting the Strait of Hormuz. Iran has imposed ",
-      "score": 6.955,
+      "label": "drone · Drone · Belgorod",
+      "title": "Two injured in drone attack in Lipetsk region",
+      "summary": "При падении обломков БПЛА в городе Задонске Липецкой области пострадали два мужчины 50 и 28 лет. Об этом сообщил губернатор Липецкой области Игорь Артамонов в Telegram.",
+      "score": 6.916,
       "n_outlets": 6,
-      "n_articles": 9,
+      "n_articles": 22,
       "regions": [
-        "china",
         "europe",
         "india",
-        "russia",
-        "us"
+        "russia"
       ],
-      "last_seen": "2026-08-08T16:13:39+00:00",
+      "last_seen": "2026-08-08T16:37:42+00:00",
       "leans": [
         "center",
         "left",
@@ -1380,42 +1395,53 @@
       ],
       "sources": [
         {
+          "outlet": "Der Spiegel",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Drone explodes between Romania and Bulgaria near gas pipeline",
+          "url": "https://www.spiegel.de/ausland/drohne-explodiert-zwischen-rumaenien-und-bulgarien-nahe-einer-gaspipeline-a-daaa153c-92f4-4086-ab12-d71dd10ef6d0#ref=rss",
+          "published": "2026-08-08T15:42:00+00:00",
+          "orig_title": "Drohne explodiert zwischen Rumänien und Bulgarien nahe einer Gaspipeline",
+          "lang": "de",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
+          "outlet": "El Pais",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Explosive drone from Romania crashes near Bulgarian gas pipeline",
+          "url": "https://elpais.com/internacional/2026-08-08/un-dron-con-explosivos-procedente-de-rumania-se-estrella-cerca-de-un-gasoducto-en-bulgaria.html",
+          "published": "2026-08-08T16:37:42+00:00",
+          "orig_title": "Un dron con explosivos procedente de Rumania se estrella cerca de un gasoducto en Bulgaria",
+          "lang": "es",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
           "outlet": "The Hindu",
           "region": "india",
           "lean": "left",
           "ownership": "private",
-          "title": "UAE says Iran targeted tanker as Oman cites progress in Hormuz talks",
-          "url": "https://www.thehindu.com/news/international/uae-says-iran-targeted-tanker-as-oman-cites-progress-in-hormuz-talks/article71322549.ece",
-          "published": "2026-08-08T16:13:39+00:00",
-          "orig_title": "UAE says Iran targeted tanker as Oman cites progress in Hormuz talks",
+          "title": "Drone enters Bulgaria, explodes near pipeline at Romanian border",
+          "url": "https://www.thehindu.com/news/international/drone-enters-bulgaria-explodes-near-pipeline-at-romanian-border/article71322596.ece",
+          "published": "2026-08-08T16:24:34+00:00",
+          "orig_title": "Drone enters Bulgaria, explodes near pipeline at Romanian border",
           "lang": "en",
           "translated": false,
-          "access": "open",
-          "more": [
-            {
-              "outlet": "The Hindu",
-              "region": "india",
-              "lean": "left",
-              "ownership": "private",
-              "title": "West Asia war LIVE: Iran attacks vessel in Strait of Hormuz, UAE says",
-              "url": "https://www.thehindu.com/news/international/west-asia-war-us-iran-deal-strait-of-hormuz-yemen-houthis-saudi-arabia-live-updates-august-8-2026/article71320445.ece",
-              "published": "2026-08-08T16:04:51+00:00",
-              "orig_title": "West Asia war LIVE: Iran attacks vessel in Strait of Hormuz, UAE says",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
-            }
-          ]
+          "access": "open"
         },
         {
           "outlet": "Kommersant",
           "region": "russia",
           "lean": "center",
           "ownership": "private",
-          "title": "Oman condemns attacks on ships in Strait of Hormuz",
-          "url": "https://www.kommersant.ru/doc/8875595",
-          "published": "2026-08-08T14:58:13+00:00",
-          "orig_title": "Оман осудил атаки на суда в Ормузском проливе",
+          "title": "Two injured in drone attack in Lipetsk region",
+          "url": "https://www.kommersant.ru/doc/8875443",
+          "published": "2026-08-08T04:56:13+00:00",
+          "orig_title": "В Липецкой области пострадали двое при атаке БПЛА",
           "lang": "ru",
           "translated": true,
           "access": "unknown",
@@ -1425,10 +1451,192 @@
               "region": "russia",
               "lean": "center",
               "ownership": "private",
-              "title": "Vessel catches fire after shelling in Strait of Hormuz off Oman coast",
-              "url": "https://www.kommersant.ru/doc/8875588",
-              "published": "2026-08-08T14:40:53+00:00",
-              "orig_title": "У берегов Омана в Ормузском проливе загорелось судно после обстрела",
+              "title": "Drone strike in Belgorod region kills cyclist",
+              "url": "https://www.kommersant.ru/doc/8875151",
+              "published": "2026-08-07T18:00:49+00:00",
+              "orig_title": "При ударе БПЛА в Белгородской области погиб велосипедист",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Bulgarian Defense Ministry: downed drone was Ukrainian",
+              "url": "https://www.kommersant.ru/doc/8875601",
+              "published": "2026-08-08T15:33:50+00:00",
+              "orig_title": "Минобороны Болгарии: упавший в стране дрон был украинским",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Three people injured in drone strike on Belgorod",
+              "url": "https://www.kommersant.ru/doc/8864655",
+              "published": "2026-08-07T08:40:06+00:00",
+              "orig_title": "В Белгороде три человека пострадали при ударе БПЛА",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Romanian drone explodes near gas pipeline in Bulgaria",
+              "url": "https://www.kommersant.ru/doc/8875534",
+              "published": "2026-08-08T10:37:16+00:00",
+              "orig_title": "Беспилотник из Румынии взорвался возле газопровода в Болгарии",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Drone attacks Turkish-flagged vessel near Novorossiysk",
+              "url": "https://www.kommersant.ru/doc/8875086",
+              "published": "2026-08-07T15:50:14+00:00",
+              "orig_title": "Беспилотник атаковал судно под турецким флагом у Новороссийска",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Three injured in Ukrainian drone strike on truck near Belgorod",
+              "url": "https://www.kommersant.ru/doc/8875570",
+              "published": "2026-08-08T13:05:15+00:00",
+              "orig_title": "Три человека пострадали при ударе дрона ВСУ по грузовику под Белгородом",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Victim of August 3 drone attack dies in Belgorod region",
+              "url": "https://www.kommersant.ru/doc/8875479",
+              "published": "2026-08-08T07:37:55+00:00",
+              "orig_title": "В Белгородской области умер пострадавший при атаке дрона 3 августа",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "22 residential buildings damaged in Sevastopol after drone attack",
+              "url": "https://www.kommersant.ru/doc/8875549",
+              "published": "2026-08-08T11:38:06+00:00",
+              "orig_title": "В Севастополе после атаки БПЛА повреждены 22 жилых дома",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Fire extinguished at Ilsky refinery following drone attack",
+              "url": "https://www.kommersant.ru/doc/8875511",
+              "published": "2026-08-08T09:07:11+00:00",
+              "orig_title": "На Ильском НПЗ потушили пожар после атаки БПЛА",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Unmanned vessel damaged in Yalta",
+              "url": "https://www.kommersant.ru/doc/8869999",
+              "published": "2026-08-07T10:38:24+00:00",
+              "orig_title": "В Ялте подбили безэкипажный катер",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Two killed in drone strike on residential building in Kerch",
+              "url": "https://www.kommersant.ru/doc/8875067",
+              "published": "2026-08-07T15:27:58+00:00",
+              "orig_title": "Два человека погибли при ударе БПЛА по жилому дому в Керчи",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Seven more drones shot down approaching Moscow",
+              "url": "https://www.kommersant.ru/doc/8875566",
+              "published": "2026-08-08T12:51:09+00:00",
+              "orig_title": "На подлете к Москве сбили еще семь беспилотников",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Unknown drone found washed ashore in Turkey",
+              "url": "https://www.kommersant.ru/doc/8875554",
+              "published": "2026-08-08T11:58:10+00:00",
+              "orig_title": "У моря в Турции найден неизвестный БПЛА",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Air defense downs 828 drones, Vampire shells, HIMARS systems and eight Flamingo missiles in 24 hours",
+              "url": "https://www.kommersant.ru/doc/8875515",
+              "published": "2026-08-08T09:19:59+00:00",
+              "orig_title": "Силы ПВО за сутки сбили 828 БПЛА, снаряды Vampire, HIMARS и восемь «Фламинго»",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Gelendzhik beaches closed due to drone attack threat",
+              "url": "https://www.kommersant.ru/doc/8875525",
+              "published": "2026-08-08T09:58:51+00:00",
+              "orig_title": "Пляжи в Геленджике закрыли из-за угрозы атаки БПЛА",
               "lang": "ru",
               "translated": true,
               "access": "unknown"
@@ -1436,53 +1644,27 @@
           ]
         },
         {
-          "outlet": "South China Morning Post",
-          "region": "china",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Iran targeted tanker, says UAE, as Tehran says Hormuz deal with Oman close",
-          "url": "https://www.scmp.com/news/world/middle-east/article/3363411/iran-targeted-tanker-says-uae-tehran-says-hormuz-deal-oman-close?utm_source=rss_feed",
-          "published": "2026-08-08T14:56:28+00:00",
-          "orig_title": "Iran targeted tanker, says UAE, as Tehran says Hormuz deal with Oman close",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
           "outlet": "Die Welt",
           "region": "europe",
           "lean": "right",
           "ownership": "private",
-          "title": "New tensions in Hormuz – UAE accuses Iran of attacking tanker",
-          "url": "https://www.welt.de/politik/ausland/article6a772038cd7ba1c08997cb7e/schifffahrtsroute-neue-spannungen-in-hormus-emirate-werfen-iran-tanker-angriff-vor.html",
-          "published": "2026-08-08T12:50:00+00:00",
-          "orig_title": "Neue Spannungen in Hormus – Emirate werfen Iran Tanker-Angriff vor",
+          "title": "Drone carrying significant explosives detonates at Romania-Bulgaria border",
+          "url": "https://www.welt.de/politik/ausland/article6a77183dcd7ba1c08997caf4/bulgarien-drohne-mit-erheblicher-menge-sprengstoff-explodiert-an-grenze.html",
+          "published": "2026-08-08T12:22:13+00:00",
+          "orig_title": "Drohne mit „erheblicher“ Menge Sprengstoff explodiert an der Grenze zwischen Rumänien und Bulgarien",
           "lang": "de",
           "translated": true,
           "access": "unknown"
-        },
-        {
-          "outlet": "The Wall Street Journal",
-          "region": "us",
-          "lean": "right",
-          "ownership": "private",
-          "title": "U.A.E. Says Iran Attacked One of Its Ships in Hormuz",
-          "url": "https://www.wsj.com/world/middle-east/u-a-e-says-iran-attacked-one-of-its-ships-in-hormuz-bfbec3b2?mod=rss_worldnews",
-          "published": "2026-08-08T13:12:00+00:00",
-          "orig_title": "U.A.E. Says Iran Attacked One of Its Ships in Hormuz",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
         },
         {
           "outlet": "TASS",
           "region": "russia",
           "lean": "state",
           "ownership": "state",
-          "title": "ADNOC says at least 15 ships attacked in Strait of Hormuz since start of conflict",
-          "url": "https://tass.com/world/2170397",
-          "published": "2026-08-07T23:02:16+00:00",
-          "orig_title": "ADNOC says at least 15 ships attacked in Strait of Hormuz since start of conflict",
+          "title": "Three people injured in UAV attack by Ukraine on truck in Belgorod region",
+          "url": "https://tass.com/defense/2170499",
+          "published": "2026-08-08T12:45:31+00:00",
+          "orig_title": "Three people injured in UAV attack by Ukraine on truck in Belgorod region",
           "lang": "en",
           "translated": false,
           "access": "open",
@@ -1492,10 +1674,10 @@
               "region": "russia",
               "lean": "state",
               "ownership": "state",
-              "title": "Cargo ship comes under attack off Oman’s coast — British maritime security authority",
-              "url": "https://tass.com/world/2170505",
-              "published": "2026-08-08T13:51:43+00:00",
-              "orig_title": "Cargo ship comes under attack off Oman’s coast — British maritime security authority",
+              "title": "Two wounded by drone fragments in Central Russia’s Lipetsk Region",
+              "url": "https://tass.com/emergencies/2170435",
+              "published": "2026-08-08T04:45:30+00:00",
+              "orig_title": "Two wounded by drone fragments in Central Russia’s Lipetsk Region",
               "lang": "en",
               "translated": false,
               "access": "open"
@@ -1505,12 +1687,12 @@
       ]
     },
     {
-      "id": 36,
+      "id": 58,
       "topic": "World & Politics",
       "label": "Typhoon · Dolphin · China",
       "title": "Typhoon Dolphin hits Okinawa as China shuts ports ahead of landfall",
       "summary": "Japan &#183; TRADE Key Facts &#8212;Okinawa impact: Typhoon Dolphin injured six people in Japan and cut power to more than 50,000 buildings, around 39,000 of them in Kagoshima and just over 12,000 in ",
-      "score": 6.926,
+      "score": 6.858,
       "n_outlets": 6,
       "n_articles": 7,
       "regions": [
@@ -1622,12 +1804,12 @@
       ]
     },
     {
-      "id": 261,
+      "id": 273,
       "topic": "World & Politics",
       "label": "Turkey · Saudi · Arabia",
       "title": "Saudi Arabia, Turkey and Pakistan Sign Joint Defense Pact",
       "summary": "The agreement treats an attack on any of the countries as an attack on all, but in a region of volatile rivalries, it was unclear how it would work in practice.",
-      "score": 6.434,
+      "score": 6.402,
       "n_outlets": 6,
       "n_articles": 7,
       "regions": [
@@ -1739,86 +1921,12 @@
       ]
     },
     {
-      "id": 376,
-      "topic": "Economics",
-      "label": "Trump · German · solar",
-      "title": "Trump administration to pay German firm $1.2bn to halt US wind projects",
-      "summary": "The RWE payout is the latest in a string of deals cancelling wind energy projects, a power source long derided by Trump.",
-      "score": 4.24,
-      "n_outlets": 4,
-      "n_articles": 4,
-      "regions": [
-        "europe",
-        "japan",
-        "russia"
-      ],
-      "last_seen": "2026-08-07T23:40:00+00:00",
-      "leans": [
-        "center",
-        "left"
-      ],
-      "sources": [
-        {
-          "outlet": "The Guardian",
-          "region": "europe",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Trump orders new 15% tariff on key material for solar panels and microchips",
-          "url": "https://www.theguardian.com/us-news/2026/aug/07/trump-orders-tariff-solar-panels-microchips-manufacturing-ingredient",
-          "published": "2026-08-07T09:11:36+00:00",
-          "orig_title": "Trump orders new 15% tariff on key material for solar panels and microchips",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "BBC News",
-          "region": "europe",
-          "lean": "center",
-          "ownership": "public",
-          "title": "Trump administration to pay German firm $1.2bn to halt US wind projects",
-          "url": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-07T13:32:41+00:00",
-          "orig_title": "Trump administration to pay German firm $1.2bn to halt US wind projects",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "Kommersant",
-          "region": "russia",
-          "lean": "center",
-          "ownership": "private",
-          "title": "US to pay German RWE $1.2 billion for wind farm cancellation",
-          "url": "https://www.kommersant.ru/doc/8874979",
-          "published": "2026-08-07T13:27:10+00:00",
-          "orig_title": "США выплатят немецкой RWE $1,2 млрд за отказ от ветряных электростанций",
-          "lang": "ru",
-          "translated": true,
-          "access": "unknown"
-        },
-        {
-          "outlet": "The Japan Times",
-          "region": "japan",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Trump’s homegrown solar push risks widening green divide",
-          "url": "https://www.japantimes.co.jp/business/2026/08/08/economy/trump-solar-green-divide/",
-          "published": "2026-08-07T23:40:00+00:00",
-          "orig_title": "Trump’s homegrown solar push risks widening green divide",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
-        }
-      ]
-    },
-    {
-      "id": 433,
+      "id": 441,
       "topic": "Economics",
       "label": "July · jobs · Labor",
       "title": "Surprise fall in US jobs last month as slow summer continues",
       "summary": "Analysts had expected an uptick in the number of jobs created, but the number of roles fell by 23,000 in July.",
-      "score": 4.157,
+      "score": 4.146,
       "n_outlets": 4,
       "n_articles": 4,
       "regions": [
@@ -1887,12 +1995,73 @@
       ]
     },
     {
-      "id": 378,
+      "id": 2,
+      "topic": "Economics",
+      "label": "Amazon · Hidden · Environmental",
+      "title": "Amazon to finance huge US gas plant for data centres",
+      "summary": "Amazon has confirmed it is financing a massive, private gas power plant in Texas that could become the single largest source of greenhouse gas emissions in the United States. It is the latest example ",
+      "score": 3.983,
+      "n_outlets": 3,
+      "n_articles": 3,
+      "regions": [
+        "china",
+        "india",
+        "us"
+      ],
+      "last_seen": "2026-08-08T17:28:44+00:00",
+      "leans": [
+        "center",
+        "left"
+      ],
+      "sources": [
+        {
+          "outlet": "The Hindu",
+          "region": "india",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Hidden Environmental Cost of Powering Growing Digital and AI-World",
+          "url": "https://www.thehindu.com/business/Economy/hidden-environmental-cost-of-powering-growing-digital-and-ai-world/article71322001.ece",
+          "published": "2026-08-08T17:28:44+00:00",
+          "orig_title": "Hidden Environmental Cost of Powering Growing Digital and AI-World",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "The New York Times",
+          "region": "us",
+          "lean": "left",
+          "ownership": "private",
+          "title": "New Amazon Data Center Stokes Worry It Would Be the Most Polluting Power Plant in the U.S.",
+          "url": "https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html",
+          "published": "2026-08-08T15:53:04+00:00",
+          "orig_title": "New Amazon Data Center Stokes Worry It Would Be the Most Polluting Power Plant in the U.S.",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall"
+        },
+        {
+          "outlet": "South China Morning Post",
+          "region": "china",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Amazon to finance huge US gas plant for data centres",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3363393/amazon-finance-huge-us-gas-plant-data-centres?utm_source=rss_feed",
+          "published": "2026-08-08T09:25:41+00:00",
+          "orig_title": "Amazon to finance huge US gas plant for data centres",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 385,
       "topic": "Economics",
       "label": "Trump · Fed · Lisa",
       "title": "Trump renews effort to fire Fed’s Lisa Cook despite Supreme Court ruling",
       "summary": "US President ⁠Donald Trump is renewing his effort to fire Federal Reserve Governor Lisa Cook, keeping alive his assault on the central bank’s independence even after the US Supreme Court in June dealt",
-      "score": 3.24,
+      "score": 3.222,
       "n_outlets": 3,
       "n_articles": 3,
       "regions": [
@@ -1948,12 +2117,136 @@
       ]
     },
     {
-      "id": 163,
+      "id": 23,
+      "topic": "Economics",
+      "label": "India · pharma · Transport",
+      "title": "Global pharma giants turn to Chinese biotech to tap innovation, valuation growth",
+      "summary": "Global pharmaceutical giants are doubling down on investing in China’s fast-growing biotech companies given the sector’s huge room for valuation growth, according to speakers at the Global Health Summ",
+      "score": 2.927,
+      "n_outlets": 2,
+      "n_articles": 4,
+      "regions": [
+        "china",
+        "india"
+      ],
+      "last_seen": "2026-08-08T16:46:38+00:00",
+      "leans": [
+        "center",
+        "left"
+      ],
+      "sources": [
+        {
+          "outlet": "The Hindu",
+          "region": "india",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Transport, pharma and biotech as industry become India’s biggest research investors",
+          "url": "https://www.thehindu.com/business/Economy/transport-pharma-and-biotech-as-industry-become-indias-biggest-research-investors/article71305502.ece",
+          "published": "2026-08-08T16:46:38+00:00",
+          "orig_title": "Transport, pharma and biotech as industry become India’s biggest research investors",
+          "lang": "en",
+          "translated": false,
+          "access": "open",
+          "more": [
+            {
+              "outlet": "The Hindu",
+              "region": "india",
+              "lean": "left",
+              "ownership": "private",
+              "title": "India’s R&D spending crosses 0.8% of GDP for first time since 2010",
+              "url": "https://www.thehindu.com/business/Economy/indias-rd-spending-crosses-08-of-gdp-for-first-time-since-2010/article71282374.ece",
+              "published": "2026-08-08T02:16:56+00:00",
+              "orig_title": "India’s R&D spending crosses 0.8% of GDP for first time since 2010",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            }
+          ]
+        },
+        {
+          "outlet": "South China Morning Post",
+          "region": "china",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Global pharma giants turn to Chinese biotech to tap innovation, valuation growth",
+          "url": "https://www.scmp.com/business/china-business/article/3363398/global-pharma-giants-turn-chinese-biotech-tap-innovation-valuation-growth?utm_source=rss_feed",
+          "published": "2026-08-08T10:34:51+00:00",
+          "orig_title": "Global pharma giants turn to Chinese biotech to tap innovation, valuation growth",
+          "lang": "en",
+          "translated": false,
+          "access": "open",
+          "more": [
+            {
+              "outlet": "South China Morning Post",
+              "region": "china",
+              "lean": "center",
+              "ownership": "private",
+              "title": "As US-China pharma rivalry heats up, can Hong Kong’s US$8b fund be the global bridge?",
+              "url": "https://www.scmp.com/business/china-business/article/3363320/us-china-pharma-rivalry-heats-can-hong-kongs-us8b-fund-be-global-bridge?utm_source=rss_feed",
+              "published": "2026-08-07T10:12:36+00:00",
+              "orig_title": "As US-China pharma rivalry heats up, can Hong Kong’s US$8b fund be the global bridge?",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "topic": "Economics",
+      "label": "India · Japanese · AMFI",
+      "title": "India will be the biggest destination for Japanese capital in a decade: AMFI chairman Sundeep Sikka",
+      "summary": "`The country’s booming systematic investment plan (SIP) culture has fundamentally reshaped the equity market by creating a strong domestic buffer against foreign capital outflows’",
+      "score": 2.838,
+      "n_outlets": 2,
+      "n_articles": 2,
+      "regions": [
+        "china",
+        "india"
+      ],
+      "last_seen": "2026-08-08T15:33:47+00:00",
+      "leans": [
+        "center",
+        "left"
+      ],
+      "sources": [
+        {
+          "outlet": "The Hindu",
+          "region": "india",
+          "lean": "left",
+          "ownership": "private",
+          "title": "India will be the biggest destination for Japanese capital in a decade: AMFI chairman Sundeep Sikka",
+          "url": "https://www.thehindu.com/business/markets/india-will-be-the-biggest-destination-for-japanese-capital-in-a-decade-amfi-chairman-sandeep-sikka/article71294766.ece",
+          "published": "2026-08-08T15:33:47+00:00",
+          "orig_title": "India will be the biggest destination for Japanese capital in a decade: AMFI chairman Sundeep Sikka",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "South China Morning Post",
+          "region": "china",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Behind the AI stock market bubble lies a weak yen",
+          "url": "https://www.scmp.com/opinion/asia-opinion/article/3363176/behind-ai-stock-market-bubble-lies-weak-yen?utm_source=rss_feed",
+          "published": "2026-08-08T08:30:06+00:00",
+          "orig_title": "Behind the AI stock market bubble lies a weak yen",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 187,
       "topic": "Economics",
       "label": "Silica · Gor · Bangladesh",
       "title": "Chip off the old bloc: Thailand looks to Siam Silica to propel it to top Asean player",
       "summary": "Thailand launched its Siam Silica framework last week, a national road map that stamps the Southeast Asian country’s stake in the semiconductor race by building a domestic ecosystem and positioning it",
-      "score": 2.656,
+      "score": 2.608,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -1995,12 +2288,12 @@
       ]
     },
     {
-      "id": 224,
+      "id": 239,
       "topic": "Economics",
       "label": "Global · Economy · Briefing",
       "title": "US yen intervention blindsides Europe, puts global economy on alert",
       "summary": "Global economic policy now seems at the mercy of an exceptionally casual approach to information, scribbled on a notepad, awaiting an update on Scott Bessent's to-do list.",
-      "score": 2.521,
+      "score": 2.483,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -2042,12 +2335,12 @@
       ]
     },
     {
-      "id": 333,
+      "id": 341,
       "topic": "Economics",
       "label": "Ukraine · GDP · Bloomberg",
       "title": "Ukraine’s budget deficit to reach record-high 35% of GDP in 2026",
       "summary": "The deficit is expected to amount to over $70 billion",
-      "score": 2.323,
+      "score": 2.3,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -2088,12 +2381,12 @@
       ]
     },
     {
-      "id": 454,
+      "id": 461,
       "topic": "Economics",
       "label": "Industrial · June · German",
       "title": "German Industry’s Resilient Streak Continues Despite Lingering Uncertainty",
       "summary": "German industrial production unexpectedly rose in June, extending a run of resilient manufacturing data that suggests Europe’s largest economy has so far shrugged off the economic fallout from the war",
-      "score": 2.137,
+      "score": 2.127,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -2135,219 +2428,62 @@
       ]
     },
     {
-      "id": 59,
+      "id": 493,
       "topic": "Economics",
-      "label": "Private · Phillip · Inman",
-      "title": "Private pensions are a publicly subsidised gift to the wealthy | Phillip Inman",
-      "summary": "John Healey should equalise the tax break on pension savings to stop inequalities from widening Private pensions are a privilege for the lucky few and a curse for everyone else. Sold as a saviour for ",
-      "score": 1.864,
-      "n_outlets": 1,
-      "n_articles": 1,
+      "label": "German · Trump · pay",
+      "title": "US to pay German RWE $1.2 billion for wind farm cancellation",
+      "summary": "Немецкая энергетическая компания RWE заявила, что откажется от своих проектов по строительству прибрежных ветряных электростанций в США, получив за это от Министерства внутренних дел $1,2 млрд в виде ",
+      "score": 2.096,
+      "n_outlets": 2,
+      "n_articles": 2,
       "regions": [
-        "europe"
+        "europe",
+        "russia"
       ],
-      "last_seen": "2026-08-08T15:00:48+00:00",
-      "leans": [
-        "left"
-      ],
-      "sources": [
-        {
-          "outlet": "The Guardian",
-          "region": "europe",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Private pensions are a publicly subsidised gift to the wealthy | Phillip Inman",
-          "url": "https://www.theguardian.com/business/2026/aug/08/private-pensions-publicly-subsidised-gift-to-the-wealthy",
-          "published": "2026-08-08T15:00:48+00:00",
-          "orig_title": "Private pensions are a publicly subsidised gift to the wealthy | Phillip Inman",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        }
-      ]
-    },
-    {
-      "id": 74,
-      "topic": "Economics",
-      "label": "Canada · Offers · U.S.",
-      "title": "Canada Offers U.S. Concessions in Trade Talks but Demands a Comprehensive Deal",
-      "summary": "Prime Minister Mark Carney is attempting to prevent 50 percent tariffs against many Canadian goods scheduled for this month.",
-      "score": 1.838,
-      "n_outlets": 1,
-      "n_articles": 1,
-      "regions": [
-        "us"
-      ],
-      "last_seen": "2026-08-08T14:39:26+00:00",
-      "leans": [
-        "left"
-      ],
-      "sources": [
-        {
-          "outlet": "The New York Times",
-          "region": "us",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Canada Offers U.S. Concessions in Trade Talks but Demands a Comprehensive Deal",
-          "url": "https://www.nytimes.com/2026/08/07/world/canada/us-trade-tariffs-carney-trump.html",
-          "published": "2026-08-08T14:39:26+00:00",
-          "orig_title": "Canada Offers U.S. Concessions in Trade Talks but Demands a Comprehensive Deal",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
-        }
-      ]
-    },
-    {
-      "id": 128,
-      "topic": "Economics",
-      "label": "Dipo · Baruwa · federalism",
-      "title": "The federalism that promotes productivity (2), By Dipo Baruwa",
-      "summary": "Ultimately, federalism succeeds not merely because power is decentralised, but because authority, incentives and capability are deliberately aligned to make productivity the basis of political success",
-      "score": 1.733,
-      "n_outlets": 1,
-      "n_articles": 1,
-      "regions": [
-        "africa"
-      ],
-      "last_seen": "2026-08-08T13:02:39+00:00",
+      "last_seen": "2026-08-07T13:32:41+00:00",
       "leans": [
         "center"
       ],
       "sources": [
         {
-          "outlet": "Premium Times",
-          "region": "africa",
+          "outlet": "BBC News",
+          "region": "europe",
           "lean": "center",
-          "ownership": "private",
-          "title": "The federalism that promotes productivity (2), By Dipo Baruwa",
-          "url": "https://www.premiumtimesng.com/opinion/901500-the-federalism-that-promotes-productivity-2-by-dipo-baruwa.html",
-          "published": "2026-08-08T13:02:39+00:00",
-          "orig_title": "The federalism that promotes productivity (2), By Dipo Baruwa",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        }
-      ]
-    },
-    {
-      "id": 40,
-      "topic": "Trading & Markets",
-      "label": "Taiwan · Taipei · China's",
-      "title": "Taipei says China's traffic control order for Taiwan Strait during typhoon is 'ridiculous'",
-      "summary": "The unreasonable and crude statement by the relevant Chinese Communist departments reflects ‌an ignorance, disregard, and trampling of international order ​and norms. It is utterly ridiculous, says Ta",
-      "score": 2.913,
-      "n_outlets": 2,
-      "n_articles": 3,
-      "regions": [
-        "china",
-        "india"
-      ],
-      "last_seen": "2026-08-08T15:40:49+00:00",
-      "leans": [
-        "center",
-        "left"
-      ],
-      "sources": [
-        {
-          "outlet": "The Hindu",
-          "region": "india",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Taipei says China's traffic control order for Taiwan Strait during typhoon is 'ridiculous'",
-          "url": "https://www.thehindu.com/news/international/taipei-says-chinas-traffic-control-order-for-taiwan-strait-during-typhoon-is-ridiculous/article71322409.ece",
-          "published": "2026-08-08T15:40:49+00:00",
-          "orig_title": "Taipei says China's traffic control order for Taiwan Strait during typhoon is 'ridiculous'",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "South China Morning Post",
-          "region": "china",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Taiwan’s push to dissolve pro-Beijing party triggers political censorship debate",
-          "url": "https://www.scmp.com/news/china/politics/article/3363313/taiwans-push-dissolve-pro-beijing-party-triggers-political-censorship-debate?utm_source=rss_feed",
-          "published": "2026-08-08T01:00:10+00:00",
-          "orig_title": "Taiwan’s push to dissolve pro-Beijing party triggers political censorship debate",
-          "lang": "en",
-          "translated": false,
-          "access": "open",
-          "more": [
-            {
-              "outlet": "South China Morning Post",
-              "region": "china",
-              "lean": "center",
-              "ownership": "private",
-              "title": "How Beijing’s hypersonic ‘carrier killers’ could distract US forces in a Taiwan conflict",
-              "url": "https://www.scmp.com/news/china/military/article/3363386/how-chinas-hypersonic-carrier-killers-could-distract-us-forces-taiwan-conflict?utm_source=rss_feed",
-              "published": "2026-08-08T14:00:05+00:00",
-              "orig_title": "How Beijing’s hypersonic ‘carrier killers’ could distract US forces in a Taiwan conflict",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 52,
-      "topic": "Trading & Markets",
-      "label": "RFK · CDC · Atlanta",
-      "title": "RFK Jr. visits CDC Atlanta office one year after fatal shooting",
-      "summary": "Health and Human Services (HHS) Secretary Robert F. Kennedy Jr. visited the Centers for Disease Control and Prevention (CDC) in Atlanta on Friday, one year after a shooting forced the facility to lock",
-      "score": 2.887,
-      "n_outlets": 2,
-      "n_articles": 2,
-      "regions": [
-        "us"
-      ],
-      "last_seen": "2026-08-08T15:20:00+00:00",
-      "leans": [
-        "center",
-        "left"
-      ],
-      "sources": [
-        {
-          "outlet": "NPR",
-          "region": "us",
-          "lean": "left",
           "ownership": "public",
-          "title": "Staff at the CDC in Atlanta remember victim of shooting a year ago as RFK jr. attends",
-          "url": "https://www.npr.org/2026/08/07/nx-s1-5924799/staff-at-the-cdc-in-atlanta-remember-victim-of-shooting-a-year-ago-as-rfk-jr-attends",
-          "published": "2026-08-07T20:24:46+00:00",
-          "orig_title": "Staff at the CDC in Atlanta remember victim of shooting a year ago as RFK jr. attends",
+          "title": "Trump administration to pay German firm $1.2bn to halt US wind projects",
+          "url": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-07T13:32:41+00:00",
+          "orig_title": "Trump administration to pay German firm $1.2bn to halt US wind projects",
           "lang": "en",
           "translated": false,
           "access": "open"
         },
         {
-          "outlet": "The Hill",
-          "region": "us",
+          "outlet": "Kommersant",
+          "region": "russia",
           "lean": "center",
           "ownership": "private",
-          "title": "RFK Jr. visits CDC Atlanta office one year after fatal shooting",
-          "url": "https://thehill.com/homenews/administration/6018546-kennedy-visits-atlanta-cdc-office/",
-          "published": "2026-08-08T15:20:00+00:00",
-          "orig_title": "RFK Jr. visits CDC Atlanta office one year after fatal shooting",
-          "lang": "en",
-          "translated": false,
+          "title": "US to pay German RWE $1.2 billion for wind farm cancellation",
+          "url": "https://www.kommersant.ru/doc/8874979",
+          "published": "2026-08-07T13:27:10+00:00",
+          "orig_title": "США выплатят немецкой RWE $1,2 млрд за отказ от ветряных электростанций",
+          "lang": "ru",
+          "translated": true,
           "access": "unknown"
         }
       ]
     },
     {
-      "id": 216,
+      "id": 233,
       "topic": "Trading & Markets",
       "label": "Moscow · drones · Russia",
-      "title": "Russia shot down 397 drones overnight",
-      "summary": "Российские силы ПВО сбили за ночь 397 украинских беспилотников. Дроны перехватывали над российскими регионами и над Азовским морем, сообщили в Минобороны России.",
-      "score": 2.538,
-      "n_outlets": 2,
-      "n_articles": 10,
+      "title": "Nine drones downed near Moscow",
+      "summary": "Силы ПВО сбили девять беспилотников, которые летели на Москву. Об этом сообщил мэр столицы Сергей Собянин в Telegram.",
+      "score": 3.499,
+      "n_outlets": 3,
+      "n_articles": 9,
       "regions": [
+        "europe",
         "russia"
       ],
       "last_seen": "2026-08-08T09:19:57+00:00",
@@ -2357,44 +2493,31 @@
       ],
       "sources": [
         {
+          "outlet": "BBC News",
+          "region": "europe",
+          "lean": "center",
+          "ownership": "public",
+          "title": "'I ran because I knew I would die': Russian drones target medics in Ukraine",
+          "url": "https://www.bbc.co.uk/news/articles/c3r073eqvrjo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-08T00:02:49+00:00",
+          "orig_title": "'I ran because I knew I would die': Russian drones target medics in Ukraine",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
           "outlet": "Kommersant",
           "region": "russia",
           "lean": "center",
           "ownership": "private",
-          "title": "Russia shot down 397 drones overnight",
-          "url": "https://www.kommersant.ru/doc/8875436",
-          "published": "2026-08-08T04:25:47+00:00",
-          "orig_title": "В России ночью сбили 397 беспилотников",
+          "title": "Nine drones downed near Moscow",
+          "url": "https://www.kommersant.ru/doc/8875434",
+          "published": "2026-08-08T04:09:38+00:00",
+          "orig_title": "Рядом с Москвой сбили девять беспилотников",
           "lang": "ru",
           "translated": true,
           "access": "unknown",
           "more": [
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Nine drones downed near Moscow",
-              "url": "https://www.kommersant.ru/doc/8875434",
-              "published": "2026-08-08T04:09:38+00:00",
-              "orig_title": "Рядом с Москвой сбили девять беспилотников",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            },
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Over 30 Drones Shot Down Over Rostov Region Overnight",
-              "url": "https://www.kommersant.ru/doc/8875454",
-              "published": "2026-08-08T05:39:19+00:00",
-              "orig_title": "Над Ростовской областью ночью сбили более 30 БПЛА",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            },
             {
               "outlet": "Kommersant",
               "region": "russia",
@@ -2413,10 +2536,23 @@
               "region": "russia",
               "lean": "center",
               "ownership": "private",
-              "title": "Russia shoots down 203 drones overnight",
-              "url": "https://www.kommersant.ru/doc/8864488",
-              "published": "2026-08-07T05:27:29+00:00",
-              "orig_title": "Над Россией за ночь сбили 203 беспилотника",
+              "title": "Russia shot down 397 drones overnight",
+              "url": "https://www.kommersant.ru/doc/8875436",
+              "published": "2026-08-08T04:25:47+00:00",
+              "orig_title": "В России ночью сбили 397 беспилотников",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Over 30 Drones Shot Down Over Rostov Region Overnight",
+              "url": "https://www.kommersant.ru/doc/8875454",
+              "published": "2026-08-08T05:39:19+00:00",
+              "orig_title": "Над Ростовской областью ночью сбили более 30 БПЛА",
               "lang": "ru",
               "translated": true,
               "access": "unknown"
@@ -2473,17 +2609,110 @@
           "orig_title": "Since morning of August 1, nearly 2,000 UAVs detected on approach to Moscow region",
           "lang": "en",
           "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "topic": "Trading & Markets",
+      "label": "Tour · France · Femmes",
+      "title": "Tour de France Femmes: Pauline Ferrand-Prévôt's dramatic collapse",
+      "summary": "In Paris feierten die Franzosen das Olympiagold von Radsportlerin Pauline Ferrand-Prévôt, dann siegte sie auch noch bei der Tour de France. In diesem Sommer folgt der Absturz. Nun musste sie das Renne",
+      "score": 2.932,
+      "n_outlets": 2,
+      "n_articles": 2,
+      "regions": [
+        "europe"
+      ],
+      "last_seen": "2026-08-08T16:50:30+00:00",
+      "leans": [
+        "left",
+        "right"
+      ],
+      "sources": [
+        {
+          "outlet": "Der Spiegel",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Tour de France Femmes: Pauline Ferrand-Prévôt's dramatic collapse",
+          "url": "https://www.spiegel.de/sport/radsport/tour-de-france-femmes-pauline-ferrand-prevot-erlebt-sportlichen-absturz-a-8090809f-52a9-4d91-b9df-75771651b062#ref=rss",
+          "published": "2026-08-08T13:48:00+00:00",
+          "orig_title": "Tour de France Femmes: Pauline Ferrand-Prévôt erlebt sportlichen Absturz",
+          "lang": "de",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
+          "outlet": "Die Welt",
+          "region": "europe",
+          "lean": "right",
+          "ownership": "private",
+          "title": "Tour de France drama – final day comes down to seconds",
+          "url": "https://www.welt.de/sport/article6a7759693a0d7c37752ea382/rad-drama-bei-tour-der-france-am-letzten-tag-geht-es-um-sekunden.html",
+          "published": "2026-08-08T16:50:30+00:00",
+          "orig_title": "Drama bei Tour der France – Am letzten Tag geht es um Sekunden",
+          "lang": "de",
+          "translated": true,
+          "access": "unknown"
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "topic": "Trading & Markets",
+      "label": "Taiwan · Taipei · China's",
+      "title": "Taipei says China's traffic control order for Taiwan Strait during typhoon is 'ridiculous'",
+      "summary": "The unreasonable and crude statement by the relevant Chinese Communist departments reflects ‌an ignorance, disregard, and trampling of international order ​and norms. It is utterly ridiculous, says Ta",
+      "score": 2.846,
+      "n_outlets": 2,
+      "n_articles": 3,
+      "regions": [
+        "china",
+        "india"
+      ],
+      "last_seen": "2026-08-08T15:40:49+00:00",
+      "leans": [
+        "center",
+        "left"
+      ],
+      "sources": [
+        {
+          "outlet": "The Hindu",
+          "region": "india",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Taipei says China's traffic control order for Taiwan Strait during typhoon is 'ridiculous'",
+          "url": "https://www.thehindu.com/news/international/taipei-says-chinas-traffic-control-order-for-taiwan-strait-during-typhoon-is-ridiculous/article71322409.ece",
+          "published": "2026-08-08T15:40:49+00:00",
+          "orig_title": "Taipei says China's traffic control order for Taiwan Strait during typhoon is 'ridiculous'",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "South China Morning Post",
+          "region": "china",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Taiwan’s push to dissolve pro-Beijing party triggers political censorship debate",
+          "url": "https://www.scmp.com/news/china/politics/article/3363313/taiwans-push-dissolve-pro-beijing-party-triggers-political-censorship-debate?utm_source=rss_feed",
+          "published": "2026-08-08T01:00:10+00:00",
+          "orig_title": "Taiwan’s push to dissolve pro-Beijing party triggers political censorship debate",
+          "lang": "en",
+          "translated": false,
           "access": "open",
           "more": [
             {
-              "outlet": "TASS",
-              "region": "russia",
-              "lean": "state",
-              "ownership": "state",
-              "title": "Unknown drones spotted over Bundeswehr base in western Germany — newspaper",
-              "url": "https://tass.com/world/2170327",
-              "published": "2026-08-07T17:03:11+00:00",
-              "orig_title": "Unknown drones spotted over Bundeswehr base in western Germany — newspaper",
+              "outlet": "South China Morning Post",
+              "region": "china",
+              "lean": "center",
+              "ownership": "private",
+              "title": "How Beijing’s hypersonic ‘carrier killers’ could distract US forces in a Taiwan conflict",
+              "url": "https://www.scmp.com/news/china/military/article/3363386/how-chinas-hypersonic-carrier-killers-could-distract-us-forces-taiwan-conflict?utm_source=rss_feed",
+              "published": "2026-08-08T14:00:05+00:00",
+              "orig_title": "How Beijing’s hypersonic ‘carrier killers’ could distract US forces in a Taiwan conflict",
               "lang": "en",
               "translated": false,
               "access": "open"
@@ -2493,59 +2722,58 @@
       ]
     },
     {
-      "id": 277,
+      "id": 76,
       "topic": "Trading & Markets",
-      "label": "Pellet · Guns · Sticks",
-      "title": "A new youth agitation grips an Indian state after 'cockroach' protests",
-      "summary": "Weeks after the CJP protests shook Delhi, a new youth-led movement over jobs and recruitment is gathering force in Jharkhand.",
-      "score": 2.386,
+      "label": "RFK · CDC · Atlanta",
+      "title": "RFK Jr. visits CDC Atlanta office one year after fatal shooting",
+      "summary": "Health and Human Services (HHS) Secretary Robert F. Kennedy Jr. visited the Centers for Disease Control and Prevention (CDC) in Atlanta on Friday, one year after a shooting forced the facility to lock",
+      "score": 2.822,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
-        "europe",
         "us"
       ],
-      "last_seen": "2026-08-08T05:21:06+00:00",
+      "last_seen": "2026-08-08T15:20:00+00:00",
       "leans": [
         "center",
         "left"
       ],
       "sources": [
         {
-          "outlet": "The New York Times",
+          "outlet": "NPR",
           "region": "us",
           "lean": "left",
-          "ownership": "private",
-          "title": "Pellet Guns, Sticks and Tear Gas: How India’s Police Halted a Youth March",
-          "url": "https://www.nytimes.com/2026/08/08/world/asia/india-new-delhi-cjp-protest-march-police.html",
-          "published": "2026-08-08T05:21:06+00:00",
-          "orig_title": "Pellet Guns, Sticks and Tear Gas: How India’s Police Halted a Youth March",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
-        },
-        {
-          "outlet": "BBC News",
-          "region": "europe",
-          "lean": "center",
           "ownership": "public",
-          "title": "A new youth agitation grips an Indian state after 'cockroach' protests",
-          "url": "https://www.bbc.co.uk/news/articles/c5ywv6egvx8o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-07T08:32:57+00:00",
-          "orig_title": "A new youth agitation grips an Indian state after 'cockroach' protests",
+          "title": "Staff at the CDC in Atlanta remember victim of shooting a year ago as RFK jr. attends",
+          "url": "https://www.npr.org/2026/08/07/nx-s1-5924799/staff-at-the-cdc-in-atlanta-remember-victim-of-shooting-a-year-ago-as-rfk-jr-attends",
+          "published": "2026-08-07T20:24:46+00:00",
+          "orig_title": "Staff at the CDC in Atlanta remember victim of shooting a year ago as RFK jr. attends",
           "lang": "en",
           "translated": false,
           "access": "open"
+        },
+        {
+          "outlet": "The Hill",
+          "region": "us",
+          "lean": "center",
+          "ownership": "private",
+          "title": "RFK Jr. visits CDC Atlanta office one year after fatal shooting",
+          "url": "https://thehill.com/homenews/administration/6018546-kennedy-visits-atlanta-cdc-office/",
+          "published": "2026-08-08T15:20:00+00:00",
+          "orig_title": "RFK Jr. visits CDC Atlanta office one year after fatal shooting",
+          "lang": "en",
+          "translated": false,
+          "access": "unknown"
         }
       ]
     },
     {
-      "id": 429,
+      "id": 437,
       "topic": "Trading & Markets",
       "label": "Albanese · gambling · Pocock",
       "title": "Albanese returns to a gambling debate ready to catch fire",
       "summary": "The explosive evidence heard at a two-day inquiry into Labor's proposed crackdown on wagering advertising has proved a watershed moment for the increasingly friendless bill.",
-      "score": 2.163,
+      "score": 2.151,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -2586,12 +2814,12 @@
       ]
     },
     {
-      "id": 445,
+      "id": 453,
       "topic": "Trading & Markets",
       "label": "Russian · Dollar · Hits",
       "title": "Dollar Hits 7-Week Low After Weak U.S. Jobs Data",
       "summary": "The dollar fell to a seven-week low against a basket of currencies after data showed an unexpected decline in U.S. nonfarm payrolls in July.",
-      "score": 2.145,
+      "score": 2.135,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -2633,12 +2861,12 @@
       ]
     },
     {
-      "id": 13,
+      "id": 39,
       "topic": "Trading & Markets",
       "label": "Six · Sri · Lanka",
       "title": "Six killed in Sri Lanka as heavy rain triggers landslides, floods",
       "summary": "The adverse weather has affected five districts, with incessant downpours triggering landslides, flooding and strong winds, disrupting normal life and forcing nearly 1,900 people into relief centres",
-      "score": 1.96,
+      "score": 1.89,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -2665,12 +2893,12 @@
       ]
     },
     {
-      "id": 26,
+      "id": 49,
       "topic": "Trading & Markets",
       "label": "Miller · Ohio · GOP",
       "title": "Miller saga muddles midterm landscape for Ohio GOP",
       "summary": "The controversy around Rep. Max Miller (R-Ohio) is complicating the midterm landscape for Ohio Republicans as Democrats build momentum in the Buckeye State, a former battleground that’s become a red s",
-      "score": 1.938,
+      "score": 1.869,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -2697,12 +2925,44 @@
       ]
     },
     {
-      "id": 85,
+      "id": 71,
+      "topic": "Trading & Markets",
+      "label": "India's · July · PMI",
+      "title": "India's manufacturing sector activity growth falls to 5-year low in July amid challenging market condition: PMI",
+      "summary": "The HSBC India Manufacturing Purchasing Managers’ Index (PMI) is a gauge of overall conditions derived from measures of new orders, output, employment, supplier delivery times and stocks of purchases.",
+      "score": 1.826,
+      "n_outlets": 1,
+      "n_articles": 1,
+      "regions": [
+        "india"
+      ],
+      "last_seen": "2026-08-08T15:23:20+00:00",
+      "leans": [
+        "left"
+      ],
+      "sources": [
+        {
+          "outlet": "The Hindu",
+          "region": "india",
+          "lean": "left",
+          "ownership": "private",
+          "title": "India's manufacturing sector activity growth falls to 5-year low in July amid challenging market condition: PMI",
+          "url": "https://www.thehindu.com/business/Economy/indias-manufacturing-sector-activity-growth-falls-to-5-year-low-in-july-amid-challenging-market-condition-pmi/article71302500.ece",
+          "published": "2026-08-08T15:23:20+00:00",
+          "orig_title": "India's manufacturing sector activity growth falls to 5-year low in July amid challenging market condition: PMI",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 113,
       "topic": "Trading & Markets",
       "label": "Berkshire · Hathaway · Under",
       "title": "Berkshire Hathaway, Under a New CEO, Starts to Spend Its Cash Pile",
       "summary": "The conglomerate struck a $6.8 billion deal, repurchased Berkshire shares and was a net buyer of other stocks, while more than doubling quarterly profit.",
-      "score": 1.805,
+      "score": 1.746,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -2729,44 +2989,12 @@
       ]
     },
     {
-      "id": 89,
-      "topic": "Trading & Markets",
-      "label": "Sam · Alito · locked",
-      "title": "Sam Alito is locked and loaded for another term",
-      "summary": "A month after National Public Radio's Nina Totenberg announced that Sam Alito was retiring (a story NPR later had to retract), the 76-year-old jurist told the Wall Street Journal in an interview, “Obv",
-      "score": 1.794,
-      "n_outlets": 1,
-      "n_articles": 1,
-      "regions": [
-        "us"
-      ],
-      "last_seen": "2026-08-08T14:00:00+00:00",
-      "leans": [
-        "center"
-      ],
-      "sources": [
-        {
-          "outlet": "The Hill",
-          "region": "us",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Sam Alito is locked and loaded for another term",
-          "url": "https://thehill.com/opinion/judiciary/6017848-alito-not-retiring-yet/",
-          "published": "2026-08-08T14:00:00+00:00",
-          "orig_title": "Sam Alito is locked and loaded for another term",
-          "lang": "en",
-          "translated": false,
-          "access": "unknown"
-        }
-      ]
-    },
-    {
-      "id": 242,
+      "id": 256,
       "topic": "Science",
       "label": "Teaching · India · Opinion",
       "title": "Teaching AI to speak India",
       "summary": "Artificial intelligence can chat, translate and answer questions but only if it understands your language. At IIT Madras, researchers at AI4Bharat are travelling across India, collecting voices, prese",
-      "score": 2.465,
+      "score": 2.431,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -2808,12 +3036,44 @@
       ]
     },
     {
-      "id": 24,
+      "id": 22,
+      "topic": "Science",
+      "label": "Meet · Costa · Rica's",
+      "title": "Meet Costa Rica's tiny 'coffee frog,' a nocturnal species found living among coffee shrubs",
+      "summary": "A remarkable discovery in Costa Rica reveals a diminutive nocturnal frog inhabiting the coffee plantations. Measuring less than four centimeters, this unique species relies on small insects for food a",
+      "score": 1.929,
+      "n_outlets": 1,
+      "n_articles": 1,
+      "regions": [
+        "india"
+      ],
+      "last_seen": "2026-08-08T16:47:48+00:00",
+      "leans": [
+        "center"
+      ],
+      "sources": [
+        {
+          "outlet": "Times of India",
+          "region": "india",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Meet Costa Rica's tiny 'coffee frog,' a nocturnal species found living among coffee shrubs",
+          "url": "https://timesofindia.indiatimes.com/science/meet-costa-ricas-tiny-coffee-frog-a-nocturnal-species-found-living-among-coffee-shrubs/articleshow/133055805.cms",
+          "published": "2026-08-08T16:47:48+00:00",
+          "orig_title": "Meet Costa Rica's tiny 'coffee frog,' a nocturnal species found living among coffee shrubs",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 47,
       "topic": "Science",
       "label": "One · fossil · Britain",
       "title": "One of UK’s best fossil collections sold overseas in ‘loss to the nation’",
       "summary": "Exclusive: Lack of funds left British museums unable pay eight-figure sum for collection, which went to Abu Dhabi institution One of the most important collections of UK Jurassic fossils ever compiled",
-      "score": 1.938,
+      "score": 1.869,
       "n_outlets": 1,
       "n_articles": 2,
       "regions": [
@@ -2855,12 +3115,76 @@
       ]
     },
     {
-      "id": 130,
+      "id": 101,
+      "topic": "Science",
+      "label": "Dinosaur · bone · found",
+      "title": "Dinosaur bone found in 1999 finally identified as 3-metre species after 27 years",
+      "summary": "Dinosaur bone found in 1999 finally identified as 3-metre species after 27 years",
+      "score": 1.775,
+      "n_outlets": 1,
+      "n_articles": 1,
+      "regions": [
+        "india"
+      ],
+      "last_seen": "2026-08-08T14:37:11+00:00",
+      "leans": [
+        "center"
+      ],
+      "sources": [
+        {
+          "outlet": "Times of India",
+          "region": "india",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Dinosaur bone found in 1999 finally identified as 3-metre species after 27 years",
+          "url": "https://timesofindia.indiatimes.com/science/in-1999-a-dinosaur-bone-was-found-on-japans-fukushima-coast-and-left-unstudied-in-2026-scientists-identified-it-belonged-to-a-3-metre-iguanodontian-that-lived-90-million-years-ago/articleshow/133054574.cms",
+          "published": "2026-08-08T14:37:11+00:00",
+          "orig_title": "Dinosaur bone found in 1999 finally identified as 3-metre species after 27 years",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "topic": "Science",
+      "label": "China · Nevada · NASA",
+      "title": "China dominates 80% of tungsten market; Nevada discovery faces NASA mining block",
+      "summary": "China dominates 80% of tungsten market; Nevada discovery faces NASA mining block",
+      "score": 1.768,
+      "n_outlets": 1,
+      "n_articles": 1,
+      "regions": [
+        "india"
+      ],
+      "last_seen": "2026-08-08T14:30:36+00:00",
+      "leans": [
+        "center"
+      ],
+      "sources": [
+        {
+          "outlet": "Times of India",
+          "region": "india",
+          "lean": "center",
+          "ownership": "private",
+          "title": "China dominates 80% of tungsten market; Nevada discovery faces NASA mining block",
+          "url": "https://timesofindia.indiatimes.com/world/us/china-controls-about-80-of-the-tungsten-market-a-nevada-company-says-it-has-found-1-78-million-tonnes-but-nasa-is-blocking-mining-on-part-of-the-site/articleshow/133054510.cms",
+          "published": "2026-08-08T14:30:36+00:00",
+          "orig_title": "China dominates 80% of tungsten market; Nevada discovery faces NASA mining block",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 158,
       "topic": "Science",
       "label": "What · Chinese-led · glueball",
       "title": "What is a glueball? Chinese-led team finds rare particle made entirely of force",
       "summary": "In a historic breakthrough, a Chinese-led international team of scientists has confirmed the existence of the glueball – a rare form of matter made entirely of force. The finding was announced by a Ch",
-      "score": 1.73,
+      "score": 1.677,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -2887,12 +3211,12 @@
       ]
     },
     {
-      "id": 151,
+      "id": 176,
       "topic": "Science",
       "label": "China · lunar · research",
       "title": "China’s lunar research station could be guarded by robot watchdogs, space scientists say",
       "summary": "Robot dogs could one day lead the way across the moon, patrolling research stations, scouting hazards and helping astronauts search for scientifically valuable rocks, according to a blueprint by resea",
-      "score": 1.672,
+      "score": 1.623,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -2919,12 +3243,12 @@
       ]
     },
     {
-      "id": 159,
+      "id": 183,
       "topic": "Science",
       "label": "Couple · turning · inherited",
       "title": "Couple turning inherited farm into nature site",
       "summary": "The farm in Cockermouth is undergoing a 30-year project to boost wildlife there.",
-      "score": 1.661,
+      "score": 1.612,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -2951,12 +3275,12 @@
       ]
     },
     {
-      "id": 191,
+      "id": 212,
       "topic": "Science",
       "label": "Monkey · sanctuary · shuts",
       "title": "Monkey sanctuary shuts after more than 60 years",
       "summary": "The charity says plans for a new buyer fell through, meaning all the monkeys will be rehomed.",
-      "score": 1.603,
+      "score": 1.559,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -2983,12 +3307,12 @@
       ]
     },
     {
-      "id": 195,
+      "id": 214,
       "topic": "Science",
       "label": "How · Hong · Kong",
       "title": "How a Hong Kong charity is using AI to help migrant workers tackle exploitation",
       "summary": "Overwhelmed by a high volume of inquiries, a 17-member Hong Kong charity offering pro bono help to migrant workers has turned to artificial intelligence (AI) to scale up its operations. David Bishop, ",
-      "score": 1.593,
+      "score": 1.55,
       "n_outlets": 1,
       "n_articles": 2,
       "regions": [
@@ -3030,113 +3354,17 @@
       ]
     },
     {
-      "id": 202,
-      "topic": "Science",
-      "label": "Why · Beijing · Indian",
-      "title": "Why Beijing struggles to win Indian hearts and minds despite diplomatic thaw",
-      "summary": "Though the relationship between the Chinese and Indian governments has been thawing, Beijing has yet to win over the Indian public as it lacked a long-term strategy and communication channels, accordi",
-      "score": 1.569,
-      "n_outlets": 1,
-      "n_articles": 1,
-      "regions": [
-        "china"
-      ],
-      "last_seen": "2026-08-08T10:00:11+00:00",
-      "leans": [
-        "center"
-      ],
-      "sources": [
-        {
-          "outlet": "South China Morning Post",
-          "region": "china",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Why Beijing struggles to win Indian hearts and minds despite diplomatic thaw",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3363382/why-beijing-struggles-win-indian-hearts-and-minds-despite-diplomatic-thaw?utm_source=rss_feed",
-          "published": "2026-08-08T10:00:11+00:00",
-          "orig_title": "Why Beijing struggles to win Indian hearts and minds despite diplomatic thaw",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        }
-      ]
-    },
-    {
-      "id": 213,
-      "topic": "Science",
-      "label": "Science · Quiz · Strange",
-      "title": "Science Quiz | On Strange stars",
-      "summary": "The Hindu science quiz on the universe’s more unusual twinklers",
-      "score": 1.547,
-      "n_outlets": 1,
-      "n_articles": 1,
-      "regions": [
-        "india"
-      ],
-      "last_seen": "2026-08-08T09:31:53+00:00",
-      "leans": [
-        "left"
-      ],
-      "sources": [
-        {
-          "outlet": "The Hindu",
-          "region": "india",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Science Quiz | On Strange stars",
-          "url": "https://www.thehindu.com/sci-tech/science/the-hindus-daily-quiz-on-august-7-2026/article71317601.ece",
-          "published": "2026-08-08T09:31:53+00:00",
-          "orig_title": "Science Quiz | On Strange stars",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        }
-      ]
-    },
-    {
-      "id": 250,
-      "topic": "Science",
-      "label": "Spain's · Tinto · Mars",
-      "title": "Spain's blood-red Río Tinto may hold clues to life on Mars, Nasa says",
-      "summary": "The Río Tinto in Spain captivates with its vivid red and orange colors, a result of both its ancient geology and extensive mining activities. In this caustic environment, specialized microorganisms fl",
-      "score": 1.454,
-      "n_outlets": 1,
-      "n_articles": 1,
-      "regions": [
-        "india"
-      ],
-      "last_seen": "2026-08-08T07:18:26+00:00",
-      "leans": [
-        "center"
-      ],
-      "sources": [
-        {
-          "outlet": "Times of India",
-          "region": "india",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Spain's blood-red Río Tinto may hold clues to life on Mars, Nasa says",
-          "url": "https://timesofindia.indiatimes.com/world/europe/spains-blood-red-ro-tinto-river-is-as-acidic-as-vinegar-and-nasa-says-it-could-help-scientists-find-life-on-mars/articleshow/133048345.cms",
-          "published": "2026-08-08T07:18:26+00:00",
-          "orig_title": "Spain's blood-red Río Tinto may hold clues to life on Mars, Nasa says",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        }
-      ]
-    },
-    {
-      "id": 99,
+      "id": 131,
       "topic": "Technology",
-      "label": "OpenAI · AI-proof · Why",
+      "label": "AI-proof · Why · tech",
       "title": "The overlooked new AI risk",
       "summary": "Künstliche Intelligenz bringt Firmen deutliche Produktionsgewinne. Das hat einen bislang wenig beachteten negativen Effekt, der vor allem erfahrene Angestellte betrifft.",
-      "score": 6.773,
-      "n_outlets": 6,
-      "n_articles": 8,
+      "score": 5.717,
+      "n_outlets": 5,
+      "n_articles": 6,
       "regions": [
+        "china",
         "europe",
-        "russia",
         "us"
       ],
       "last_seen": "2026-08-08T13:41:32+00:00",
@@ -3160,19 +3388,6 @@
           "access": "unknown"
         },
         {
-          "outlet": "Novaya Gazeta Europe",
-          "region": "russia",
-          "lean": "left",
-          "ownership": "private",
-          "title": "New OpenAI model proves too effective at cyberattacks",
-          "url": "https://novayagazeta.eu/articles/2026/08/08/novaia-model-openai-okazalas-slishkom-khorosha-v-kiberatakakh-news",
-          "published": "2026-08-08T09:23:11+00:00",
-          "orig_title": "Новая модель OpenAI оказалась слишком хороша в кибератаках",
-          "lang": "ru",
-          "translated": true,
-          "access": "unknown"
-        },
-        {
           "outlet": "BBC News",
           "region": "europe",
           "lean": "center",
@@ -3186,17 +3401,17 @@
           "access": "open"
         },
         {
-          "outlet": "Kommersant",
-          "region": "russia",
+          "outlet": "South China Morning Post",
+          "region": "china",
           "lean": "center",
           "ownership": "private",
-          "title": "Axios: OpenAI fears Astra model's capabilities, delays release",
-          "url": "https://www.kommersant.ru/doc/8875159",
-          "published": "2026-08-07T18:04:50+00:00",
-          "orig_title": "Axios: OpenAI опасается возможностей модели Astra и отложит ее выпуск",
-          "lang": "ru",
-          "translated": true,
-          "access": "unknown"
+          "title": "Global AI trade revival brightens outlook for Chinese tech stocks after record sell-offs",
+          "url": "https://www.scmp.com/business/china-business/article/3363261/global-ai-trade-revival-brightens-outlook-chinese-tech-stocks-after-record-sell-offs?utm_source=rss_feed",
+          "published": "2026-08-07T05:41:13+00:00",
+          "orig_title": "Global AI trade revival brightens outlook for Chinese tech stocks after record sell-offs",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
         },
         {
           "outlet": "Die Welt",
@@ -3231,45 +3446,31 @@
           "region": "us",
           "lean": "right",
           "ownership": "private",
-          "title": "OpenAI Pauses Some Work on New AI Model Over Cybersecurity Concerns",
-          "url": "https://www.wsj.com/tech/ai/openai-pauses-some-work-on-new-ai-model-over-cybersecurity-concerns-8473a86f?mod=rss_Technology",
-          "published": "2026-08-07T21:17:00+00:00",
-          "orig_title": "OpenAI Pauses Some Work on New AI Model Over Cybersecurity Concerns",
+          "title": "Move 37 Is the Moment AI Changes Everything. It’s Suddenly Happening Everywhere.",
+          "url": "https://www.wsj.com/tech/ai/move-37-ai-demis-hassabis-google-deepmind-alphago-ec832a41?mod=rss_Technology",
+          "published": "2026-08-08T01:00:00+00:00",
+          "orig_title": "Move 37 Is the Moment AI Changes Everything. It’s Suddenly Happening Everywhere.",
           "lang": "en",
           "translated": false,
-          "access": "paywall",
-          "more": [
-            {
-              "outlet": "The Wall Street Journal",
-              "region": "us",
-              "lean": "right",
-              "ownership": "private",
-              "title": "Move 37 Is the Moment AI Changes Everything. It’s Suddenly Happening Everywhere.",
-              "url": "https://www.wsj.com/tech/ai/move-37-ai-demis-hassabis-google-deepmind-alphago-ec832a41?mod=rss_Technology",
-              "published": "2026-08-08T01:00:00+00:00",
-              "orig_title": "Move 37 Is the Moment AI Changes Everything. It’s Suddenly Happening Everywhere.",
-              "lang": "en",
-              "translated": false,
-              "access": "paywall"
-            }
-          ]
+          "access": "paywall"
         }
       ]
     },
     {
-      "id": 31,
+      "id": 15,
       "topic": "Technology",
-      "label": "Amazon · Data · Center",
-      "title": "Amazon to finance huge US gas plant for data centres",
-      "summary": "Amazon has confirmed it is financing a massive, private gas power plant in Texas that could become the single largest source of greenhouse gas emissions in the United States. It is the latest example ",
-      "score": 3.929,
-      "n_outlets": 3,
-      "n_articles": 3,
+      "label": "OpenAI · Astra · model",
+      "title": "OpenAI Pauses Some Work on New AI Model Over Cybersecurity Concerns",
+      "summary": "The decision reflects internal findings that the upcoming “Astra” model may possess “critical cyber capabilities” and follows a string of AI-testing incidents.",
+      "score": 4.946,
+      "n_outlets": 4,
+      "n_articles": 4,
       "regions": [
-        "china",
+        "europe",
+        "russia",
         "us"
       ],
-      "last_seen": "2026-08-08T15:53:04+00:00",
+      "last_seen": "2026-08-08T17:00:41+00:00",
       "leans": [
         "center",
         "left",
@@ -3277,40 +3478,53 @@
       ],
       "sources": [
         {
-          "outlet": "The New York Times",
-          "region": "us",
+          "outlet": "Novaya Gazeta Europe",
+          "region": "russia",
           "lean": "left",
           "ownership": "private",
-          "title": "New Amazon Data Center Stokes Worry It Would Be the Most Polluting Power Plant in the U.S.",
-          "url": "https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html",
-          "published": "2026-08-08T15:53:04+00:00",
-          "orig_title": "New Amazon Data Center Stokes Worry It Would Be the Most Polluting Power Plant in the U.S.",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
+          "title": "New OpenAI model proves too effective at cyberattacks",
+          "url": "https://novayagazeta.eu/articles/2026/08/08/novaia-model-openai-okazalas-slishkom-khorosha-v-kiberatakakh-news",
+          "published": "2026-08-08T09:23:11+00:00",
+          "orig_title": "Новая модель OpenAI оказалась слишком хороша в кибератаках",
+          "lang": "ru",
+          "translated": true,
+          "access": "unknown"
         },
         {
-          "outlet": "South China Morning Post",
-          "region": "china",
-          "lean": "center",
+          "outlet": "The Guardian",
+          "region": "europe",
+          "lean": "left",
           "ownership": "private",
-          "title": "Amazon to finance huge US gas plant for data centres",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3363393/amazon-finance-huge-us-gas-plant-data-centres?utm_source=rss_feed",
-          "published": "2026-08-08T09:25:41+00:00",
-          "orig_title": "Amazon to finance huge US gas plant for data centres",
+          "title": "OpenAI to pause some work on AI model Astra due to security concerns",
+          "url": "https://www.theguardian.com/technology/2026/aug/08/openai-astra-security-concerns",
+          "published": "2026-08-08T17:00:41+00:00",
+          "orig_title": "OpenAI to pause some work on AI model Astra due to security concerns",
           "lang": "en",
           "translated": false,
           "access": "open"
+        },
+        {
+          "outlet": "Kommersant",
+          "region": "russia",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Axios: OpenAI fears Astra model's capabilities, delays release",
+          "url": "https://www.kommersant.ru/doc/8875159",
+          "published": "2026-08-07T18:04:50+00:00",
+          "orig_title": "Axios: OpenAI опасается возможностей модели Astra и отложит ее выпуск",
+          "lang": "ru",
+          "translated": true,
+          "access": "unknown"
         },
         {
           "outlet": "The Wall Street Journal",
           "region": "us",
           "lean": "right",
           "ownership": "private",
-          "title": "How Amazon Built a Data Center in a California Town Without Anyone Noticing",
-          "url": "https://www.wsj.com/us-news/how-amazon-built-a-data-center-in-a-california-town-without-anyone-noticing-8610bb67?mod=rss_Technology",
-          "published": "2026-08-07T09:30:00+00:00",
-          "orig_title": "How Amazon Built a Data Center in a California Town Without Anyone Noticing",
+          "title": "OpenAI Pauses Some Work on New AI Model Over Cybersecurity Concerns",
+          "url": "https://www.wsj.com/tech/ai/openai-pauses-some-work-on-new-ai-model-over-cybersecurity-concerns-8473a86f?mod=rss_Technology",
+          "published": "2026-08-07T21:17:00+00:00",
+          "orig_title": "OpenAI Pauses Some Work on New AI Model Over Cybersecurity Concerns",
           "lang": "en",
           "translated": false,
           "access": "paywall"
@@ -3318,12 +3532,12 @@
       ]
     },
     {
-      "id": 162,
+      "id": 186,
       "topic": "Technology",
       "label": "Meta · Summer · Rogue",
       "title": "Meta AI breaches external firm during security testing sandbox error",
       "summary": "Meta announced one of its models had hacked another company during a security test. It becomes the third company to announced such a security breach.",
-      "score": 2.657,
+      "score": 2.609,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -3364,12 +3578,12 @@
       ]
     },
     {
-      "id": 231,
+      "id": 245,
       "topic": "Technology",
       "label": "Addiction · Hong · Kong",
       "title": "‘Addiction is irreversible’: Hong Kong urged to ban under-16s from social media",
       "summary": "Hong Kong should follow international peers in legislating to bar children under 16 from social media to combat cyberbullying and addiction, education experts and lawmakers have said, while stressing ",
-      "score": 2.5,
+      "score": 2.464,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -3410,12 +3624,12 @@
       ]
     },
     {
-      "id": 434,
+      "id": 442,
       "topic": "Technology",
       "label": "Russian · International · Olympiad",
       "title": "Russian schoolers win international AI olympiad for third consecutive year",
       "summary": "Сборная России третий год подряд стала абсолютным чемпионом на Международной олимпиаде по искусственному интеллекту среди старшеклассников (IOAI). Учащиеся завоевали семь золотых медалей и одну бронзо",
-      "score": 2.157,
+      "score": 2.146,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -3456,12 +3670,12 @@
       ]
     },
     {
-      "id": 468,
+      "id": 473,
       "topic": "Technology",
       "label": "American · Russia · deportation",
       "title": "American farmer who built a life in Russia says he and his family are facing deportation",
       "summary": "Justus Walker, an American farmer known as “The Merry Milkman” who lives on a farm in Russia’s Altai Krai, said Russian authorities plan to expel his family from the country. He said he received a cal",
-      "score": 2.123,
+      "score": 2.114,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -3501,12 +3715,12 @@
       ]
     },
     {
-      "id": 14,
+      "id": 40,
       "topic": "Technology",
       "label": "Nigeria · Election · Fought",
       "title": "Nigeria’s 2027 Election Will Be Fought in the Age of AI. Is the Country Ready?",
       "summary": "Nigeria is approaching its first general election of the generative-AI era and should prepare accordingly. The post Nigeria’s 2027 Election Will Be Fought in the Age of AI. Is the Country Ready? appea",
-      "score": 1.959,
+      "score": 1.889,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -3533,12 +3747,12 @@
       ]
     },
     {
-      "id": 62,
+      "id": 87,
       "topic": "Technology",
       "label": "Meet · Media · Industry",
       "title": "Meet the Media Industry’s Nerd-in-Chief",
       "summary": "People Inc. innovation chief Jonathan Roberts, a physicist who drew maps of Westeros for George R.R. Martin, has bold thoughts on the future of publishers.",
-      "score": 1.863,
+      "score": 1.8,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -3565,12 +3779,12 @@
       ]
     },
     {
-      "id": 92,
+      "id": 122,
       "topic": "Technology",
       "label": "Why · Nigeria · Olayinka",
       "title": "Why journalism is dying in Nigeria!, By Olayinka Oyegbile",
       "summary": "Today, every unemployed or unemployable journalist wants to carry a ‘dignified’ title of being a publisher, hence the rash of poorly edited and managed online publications in the cyberspace. It has be",
-      "score": 1.787,
+      "score": 1.73,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -3597,18 +3811,18 @@
       ]
     },
     {
-      "id": 116,
+      "id": 127,
       "topic": "Technology",
-      "label": "IRDAI · ISP · asks",
-      "title": "IRDAI asks insurers to submit premium, claims, investment data for ISP",
-      "summary": "Details needed to facilitate data requirements of Union Ministry of Statistics and Programme Implementation in preparation of the Index of Service Production, says IRDAI",
-      "score": 1.75,
+      "label": "Zomato · Urban · Company",
+      "title": "Zomato, Urban Company gig workers embrace NPS, contributing up to ₹5,000 weekly: HDFC Pension’s CEO",
+      "summary": "CEO & MD Sriram Iyer says the use of the e-Shram framework enabled the creation of 1.5 lakh PRANs for gig workers in one shot; the company’s AI deployments remain focused on customer engagement",
+      "score": 1.723,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
         "india"
       ],
-      "last_seen": "2026-08-08T13:19:17+00:00",
+      "last_seen": "2026-08-08T13:47:22+00:00",
       "leans": [
         "left"
       ],
@@ -3618,10 +3832,10 @@
           "region": "india",
           "lean": "left",
           "ownership": "private",
-          "title": "IRDAI asks insurers to submit premium, claims, investment data for ISP",
-          "url": "https://www.thehindu.com/business/Economy/irdai-asks-insurers-to-submit-premium-claims-investment-data-for-isp/article71321503.ece",
-          "published": "2026-08-08T13:19:17+00:00",
-          "orig_title": "IRDAI asks insurers to submit premium, claims, investment data for ISP",
+          "title": "Zomato, Urban Company gig workers embrace NPS, contributing up to ₹5,000 weekly: HDFC Pension’s CEO",
+          "url": "https://www.thehindu.com/business/zomato-urban-company-gig-workers-embrace-nps-contributing-up-to-5000-weekly-hdfc-pensions-ceo/article71297701.ece",
+          "published": "2026-08-08T13:47:22+00:00",
+          "orig_title": "Zomato, Urban Company gig workers embrace NPS, contributing up to ₹5,000 weekly: HDFC Pension’s CEO",
           "lang": "en",
           "translated": false,
           "access": "open"
@@ -3629,12 +3843,12 @@
       ]
     },
     {
-      "id": 11,
+      "id": 36,
       "topic": "Sports",
       "label": "Ukrainian · Vucic · Former",
       "title": "Vucic doesn't expect quick end to Ukrainian conflict",
       "summary": "Президент Сербии Александр Вучич выразил сомнения в скором завершении конфликта на Украине после встречи с украинским лидером Владимиром Зеленским. Его слова прозвучали на совместной пресс-конференции",
-      "score": 3.966,
+      "score": 3.896,
       "n_outlets": 3,
       "n_articles": 3,
       "regions": [
@@ -3690,12 +3904,58 @@
       ]
     },
     {
-      "id": 207,
+      "id": 24,
+      "topic": "Sports",
+      "label": "HSV · Goalkeeper · Jonathan",
+      "title": "HSV worried about midfielder prospect Grönbaek",
+      "summary": "Der HSV feiert ein achtbares 2:2 gegen Lille – doch die Laune kippt, als sich Neuzugang Albert Grönbaek verletzt und als Schlüsselspieler plötzlich auszufallen droht.",
+      "score": 2.924,
+      "n_outlets": 2,
+      "n_articles": 2,
+      "regions": [
+        "europe"
+      ],
+      "last_seen": "2026-08-08T16:44:22+00:00",
+      "leans": [
+        "left",
+        "right"
+      ],
+      "sources": [
+        {
+          "outlet": "Der Spiegel",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Goalkeeper Jonathan Klinsmann discusses serious cervical spine injury",
+          "url": "https://www.spiegel.de/sport/fussball/jonathan-klinsmann-torwart-spricht-nach-halswirbelbruch-ueber-schwere-verletzung-a-524c6990-f493-41ed-abc2-bd3fc78294a0#ref=rss",
+          "published": "2026-08-08T12:01:00+00:00",
+          "orig_title": "Jonathan Klinsmann: Torwart spricht nach Halswirbelbruch über schwere Verletzung",
+          "lang": "de",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
+          "outlet": "Die Welt",
+          "region": "europe",
+          "lean": "right",
+          "ownership": "private",
+          "title": "HSV worried about midfielder prospect Grönbaek",
+          "url": "https://www.welt.de/regionales/hamburg/article6a775b3d3a0d7c37752ea391/remis-im-testspiel-der-hsv-bangt-um-mittelfeldhoffnung-groenbaek.html",
+          "published": "2026-08-08T16:44:22+00:00",
+          "orig_title": "Der HSV bangt um Mittelfeldhoffnung Grönbaek",
+          "lang": "de",
+          "translated": true,
+          "access": "unknown"
+        }
+      ]
+    },
+    {
+      "id": 225,
       "topic": "Sports",
       "label": "Korean · Soccer · Association",
       "title": "Korean Soccer Association allegedly provided sexual favors to foreign referees, report says Japanese included",
       "summary": "Korean Soccer Association allegedly provided sexual favors to foreign referees, report says Japanese included",
-      "score": 2.567,
+      "score": 2.526,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -3737,12 +3997,12 @@
       ]
     },
     {
-      "id": 444,
+      "id": 452,
       "topic": "Sports",
       "label": "Russian · European · Championships",
       "title": "Russian rhythmic gymnastics team leaders denied visas for European Championships",
       "summary": "Олимпийские чемпионки по спортивной гимнастике Ангелина Мельникова и Виктория Листунова пока не получили визы для участия в чемпионате Европы в Загребе. Об этом сообщила пресс-служба Федерации гимнаст",
-      "score": 2.147,
+      "score": 2.137,
       "n_outlets": 2,
       "n_articles": 3,
       "regions": [
@@ -3798,14 +4058,125 @@
       ]
     },
     {
-      "id": 65,
+      "id": 38,
       "topic": "Sports",
-      "label": "India · Sudharsan · Sarfaraz",
+      "label": "Bangladesh · Australia · Coach",
+      "title": "Bangladesh crash to 54 against CA XI: Coach Simmons admits 'it wasn't nice'",
+      "summary": "Bangladesh’s batting order faced a severe setback in a recent practice match held in Darwin, where the team crumbled to a mere 54 runs due to Campbell Thompson's exceptional bowling performance, earni",
+      "score": 1.89,
+      "n_outlets": 1,
+      "n_articles": 2,
+      "regions": [
+        "india"
+      ],
+      "last_seen": "2026-08-08T16:17:12+00:00",
+      "leans": [
+        "center"
+      ],
+      "sources": [
+        {
+          "outlet": "Times of India",
+          "region": "india",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Bangladesh crash to 54 against CA XI: Coach Simmons admits 'it wasn't nice'",
+          "url": "https://timesofindia.indiatimes.com/sports/cricket/news/bangladesh-crash-to-54-against-ca-xi-coach-simmons-admits-it-wasnt-nice-ahead-of-australia-tests/articleshow/133048365.cms",
+          "published": "2026-08-08T07:24:21+00:00",
+          "orig_title": "Bangladesh crash to 54 against CA XI: Coach Simmons admits 'it wasn't nice'",
+          "lang": "en",
+          "translated": false,
+          "access": "open",
+          "more": [
+            {
+              "outlet": "Times of India",
+              "region": "india",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Australia pacer takes 8/25 as Bangladesh bowled out for 54, lose match by an innings",
+              "url": "https://timesofindia.indiatimes.com/sports/cricket/news/australia-pacer-takes-8/25-as-bangladesh-bowled-out-for-54-lose-match-by-an-innings/articleshow/133055344.cms",
+              "published": "2026-08-08T16:17:12+00:00",
+              "orig_title": "Australia pacer takes 8/25 as Bangladesh bowled out for 54, lose match by an innings",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "topic": "Sports",
+      "label": "Utah · year-old · sister",
+      "title": "2-year-old sister becomes perfect bone marrow match for Utah girl with aplastic anemia",
+      "summary": "Emma Meline, a young girl diagnosed with severe aplastic anemia right before Christmas, found hope in her little sister Lucy. At only two years old, Lucy bravely became a bone marrow donor, granting E",
+      "score": 1.834,
+      "n_outlets": 1,
+      "n_articles": 1,
+      "regions": [
+        "india"
+      ],
+      "last_seen": "2026-08-08T15:30:20+00:00",
+      "leans": [
+        "center"
+      ],
+      "sources": [
+        {
+          "outlet": "Times of India",
+          "region": "india",
+          "lean": "center",
+          "ownership": "private",
+          "title": "2-year-old sister becomes perfect bone marrow match for Utah girl with aplastic anemia",
+          "url": "https://timesofindia.indiatimes.com/world/us/utah-girl-emma-meline-was-diagnosed-with-severe-aplastic-anemia-days-before-christmas-her-2-year-old-sister-became-her-perfect-bone-marrow-match/articleshow/133055066.cms",
+          "published": "2026-08-08T15:30:20+00:00",
+          "orig_title": "2-year-old sister becomes perfect bone marrow match for Utah girl with aplastic anemia",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "topic": "Sports",
+      "label": "Export · ATF · levy",
+      "title": "Export levy on petrol, diesel and ATF hiked",
+      "summary": "Since the peak of the West Asia conflict late March, the government has undertaken fortnightly reviews of export duty.",
+      "score": 1.815,
+      "n_outlets": 1,
+      "n_articles": 1,
+      "regions": [
+        "india"
+      ],
+      "last_seen": "2026-08-08T15:14:01+00:00",
+      "leans": [
+        "left"
+      ],
+      "sources": [
+        {
+          "outlet": "The Hindu",
+          "region": "india",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Export levy on petrol, diesel and ATF hiked",
+          "url": "https://www.thehindu.com/business/Economy/export-levy-on-petrol-diesel-and-atf-hiked/article71302079.ece",
+          "published": "2026-08-08T15:14:01+00:00",
+          "orig_title": "Export levy on petrol, diesel and ATF hiked",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "topic": "Sports",
+      "label": "India · Sudharsan · Test",
       "title": "Sarfaraz, Rasheed emerge as frontrunners to replace Sudharsan in India Test",
       "summary": "Sai Sudharsan is all but ruled out of India's Sri Lanka Tests due to a foot niggle, with Shaik Rasheed and Sarfaraz Khan emerging as the frontrunners to replace him. Rasheed's recent India A stint and",
-      "score": 1.851,
+      "score": 1.789,
       "n_outlets": 1,
-      "n_articles": 6,
+      "n_articles": 5,
       "regions": [
         "india"
       ],
@@ -3878,31 +4249,18 @@
               "lang": "en",
               "translated": false,
               "access": "open"
-            },
-            {
-              "outlet": "Times of India",
-              "region": "india",
-              "lean": "center",
-              "ownership": "private",
-              "title": "'I may not fit in, but I'll fight': Sarfaraz Khan's cryptic post goes viral",
-              "url": "https://timesofindia.indiatimes.com/sports/cricket/news/sarfaraz-khans-cryptic-post-goes-viral-amid-continued-india-snub-i-may-not-fit-in-but-ill-fight/articleshow/133047712.cms",
-              "published": "2026-08-08T06:25:59+00:00",
-              "orig_title": "'I may not fit in, but I'll fight': Sarfaraz Khan's cryptic post goes viral",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
             }
           ]
         }
       ]
     },
     {
-      "id": 72,
+      "id": 97,
       "topic": "Sports",
       "label": "Yuto · Nagatomo's · J-League",
       "title": "Yuto Nagatomo's continued career: what it means as J-League faces its last remaining challenge",
       "summary": "Yuto Nagatomo's continued career: what it means as J-League faces its last remaining challenge",
-      "score": 1.841,
+      "score": 1.779,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -3929,12 +4287,12 @@
       ]
     },
     {
-      "id": 73,
+      "id": 98,
       "topic": "Sports",
       "label": "Badminton · World · C'ships",
       "title": "Badminton World C'ships: How India's Ayush Shetty can upset World No. 1",
       "summary": "Ayush Shetty faces world No. 1 Shi Yu Qi in his World Championships opener, but coach Sagar Chopda believes the tough draw could favour the Indian. With home support, improved fitness and defence, She",
-      "score": 1.84,
+      "score": 1.779,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -3954,134 +4312,6 @@
           "url": "https://timesofindia.indiatimes.com/sports/badminton/badminton-world-championships-how-indias-ayush-shetty-can-upset-world-no-1-shi-yu-qi/articleshow/133054516.cms",
           "published": "2026-08-08T14:41:20+00:00",
           "orig_title": "Badminton World C'ships: How India's Ayush Shetty can upset World No. 1",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        }
-      ]
-    },
-    {
-      "id": 136,
-      "topic": "Sports",
-      "label": "Kanto · Daiichi · Ishii",
-      "title": "Kanto Daiichi secures victory with solid pitching from Ishii despite defensive lapses",
-      "summary": "Kanto Daiichi secures victory with solid pitching from Ishii despite defensive lapses",
-      "score": 1.712,
-      "n_outlets": 1,
-      "n_articles": 1,
-      "regions": [
-        "japan"
-      ],
-      "last_seen": "2026-08-08T12:42:14+00:00",
-      "leans": [
-        "left"
-      ],
-      "sources": [
-        {
-          "outlet": "Asahi Shimbun",
-          "region": "japan",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Kanto Daiichi secures victory with solid pitching from Ishii despite defensive lapses",
-          "url": "http://www.asahi.com/articles/ASV883V36V88UQIP06KM.html?ref=rss",
-          "published": "2026-08-08T12:42:14+00:00",
-          "orig_title": "英明が少ない好機逃さず勝利 関東第一は石井が好投も守備に乱れ",
-          "lang": "ja",
-          "translated": true,
-          "access": "unknown"
-        }
-      ]
-    },
-    {
-      "id": 137,
-      "topic": "Sports",
-      "label": "Vanguard · Hachinohe · Toyama",
-      "title": "Vanguard Hachinohe wins J2 opener 2-0 against Toyama; Sato nets both goals",
-      "summary": "Vanguard Hachinohe wins J2 opener 2-0 against Toyama; Sato nets both goals",
-      "score": 1.696,
-      "n_outlets": 1,
-      "n_articles": 1,
-      "regions": [
-        "japan"
-      ],
-      "last_seen": "2026-08-08T12:25:26+00:00",
-      "leans": [
-        "left"
-      ],
-      "sources": [
-        {
-          "outlet": "Asahi Shimbun",
-          "region": "japan",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Vanguard Hachinohe wins J2 opener 2-0 against Toyama; Sato nets both goals",
-          "url": "http://www.asahi.com/articles/ASV88413ZV88UBNB009M.html?ref=rss",
-          "published": "2026-08-08T12:25:26+00:00",
-          "orig_title": "ヴァンラーレ八戸、J2初戦で富山に2-0で勝利 佐藤選手2得点",
-          "lang": "ja",
-          "translated": true,
-          "access": "unknown"
-        }
-      ]
-    },
-    {
-      "id": 143,
-      "topic": "Sports",
-      "label": "India's · Gaikwad · England",
-      "title": "India's Gaikwad dethroned! England batter sets new List A record",
-      "summary": "Worcestershire captain Jake Libby has overtaken India’s Ruturaj Gaikwad to record the highest List A batting average ever. His unbeaten 109 against Sussex, his third straight century with the same sco",
-      "score": 1.689,
-      "n_outlets": 1,
-      "n_articles": 1,
-      "regions": [
-        "india"
-      ],
-      "last_seen": "2026-08-08T12:17:50+00:00",
-      "leans": [
-        "center"
-      ],
-      "sources": [
-        {
-          "outlet": "Times of India",
-          "region": "india",
-          "lean": "center",
-          "ownership": "private",
-          "title": "India's Gaikwad dethroned! England batter sets new List A record",
-          "url": "https://timesofindia.indiatimes.com/sports/cricket/news/indias-ruturaj-gaikwad-dethroned-england-batter-sets-new-list-a-batting-average-record/articleshow/133052400.cms",
-          "published": "2026-08-08T12:17:50+00:00",
-          "orig_title": "India's Gaikwad dethroned! England batter sets new List A record",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        }
-      ]
-    },
-    {
-      "id": 147,
-      "topic": "Sports",
-      "label": "NBA · Clarke's · forward",
-      "title": "NBA forward Clarke's death due to effects of drugs",
-      "summary": "Memphis Grizzlies forward Brandon Clarke's death was due to the effects of heroin and cocaine, the Los Angeles medical authority reveals.",
-      "score": 1.676,
-      "n_outlets": 1,
-      "n_articles": 1,
-      "regions": [
-        "europe"
-      ],
-      "last_seen": "2026-08-08T12:05:04+00:00",
-      "leans": [
-        "center"
-      ],
-      "sources": [
-        {
-          "outlet": "BBC News",
-          "region": "europe",
-          "lean": "center",
-          "ownership": "public",
-          "title": "NBA forward Clarke's death due to effects of drugs",
-          "url": "https://www.bbc.co.uk/sport/basketball/articles/czekj4wg41po?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-08T12:05:04+00:00",
-          "orig_title": "NBA forward Clarke's death due to effects of drugs",
           "lang": "en",
           "translated": false,
           "access": "open"
