@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T13:08:13.912175+00:00",
+  "generated_at": "2026-08-09T14:12:36.302171+00:00",
   "topics": [
     "World & Politics",
     "Economics",
@@ -14,28 +14,28 @@
       "name": "United States",
       "lat": 39.0,
       "lng": -98.0,
-      "count": 18
+      "count": 15
     },
     {
       "id": "europe",
       "name": "Europe",
       "lat": 50.0,
       "lng": 10.0,
-      "count": 20
+      "count": 23
     },
     {
       "id": "china",
       "name": "China",
       "lat": 35.0,
       "lng": 105.0,
-      "count": 17
+      "count": 15
     },
     {
       "id": "india",
       "name": "India",
       "lat": 22.0,
       "lng": 79.0,
-      "count": 22
+      "count": 25
     },
     {
       "id": "australia",
@@ -49,21 +49,21 @@
       "name": "South America",
       "lat": -12.0,
       "lng": -58.0,
-      "count": 2
+      "count": 3
     },
     {
       "id": "africa",
       "name": "Africa",
       "lat": 2.0,
       "lng": 21.0,
-      "count": 1
+      "count": 0
     },
     {
       "id": "japan",
       "name": "Japan",
       "lat": 36.5,
       "lng": 139.0,
-      "count": 8
+      "count": 7
     },
     {
       "id": "russia",
@@ -75,14 +75,223 @@
   ],
   "clusters": [
     {
-      "id": 24,
+      "id": 1,
+      "topic": "World & Politics",
+      "label": "Gaza · Netanyahu · Hamas",
+      "title": "Netanyahu rejects plan to disarm Hamas in rare break with Trump",
+      "summary": "Israeli Prime Minister Benjamin Netanyahu on Sunday rejected President Trump’s plans to disarm Hamas and establish a Palestinian government in Gaza. “I have heard people saying: 'You didn't say it.' S",
+      "score": 13.992,
+      "n_outlets": 13,
+      "n_articles": 14,
+      "regions": [
+        "europe",
+        "india",
+        "russia",
+        "us"
+      ],
+      "last_seen": "2026-08-09T14:06:59+00:00",
+      "leans": [
+        "center",
+        "left",
+        "right",
+        "state"
+      ],
+      "sources": [
+        {
+          "outlet": "El Pais",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Netanyahu rejects Trump plan for Hamas disarmament",
+          "url": "https://elpais.com/internacional/2026-08-09/netanyahu-rechaza-el-plan-de-15-puntos-impulsado-por-trump-para-gaza.html",
+          "published": "2026-08-09T13:59:36+00:00",
+          "orig_title": "Netanyahu rechaza el plan de Trump para el desarme de Hamás",
+          "lang": "es",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
+          "outlet": "The Guardian",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Middle East crisis live: Netanyahu rejects Trump’s Gaza plan and vows no withdrawal until Hamas disarms",
+          "url": "https://www.theguardian.com/world/live/2026/aug/09/iran-us-irgc-strait-of-hormuz-israel-netanyahu-trump-gaza-plan-latest-news-updates",
+          "published": "2026-08-09T13:54:33+00:00",
+          "orig_title": "Middle East crisis live: Netanyahu rejects Trump’s Gaza plan and vows no withdrawal until Hamas disarms",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "The Hindu",
+          "region": "india",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Netanyahu rejects U.S. Gaza plan, vows no pullout until Hamas disarms",
+          "url": "https://www.thehindu.com/news/international/netanyahu-rejects-us-gaza-plan-vows-no-pullout-until-hamas-disarms/article71324797.ece",
+          "published": "2026-08-09T13:08:24+00:00",
+          "orig_title": "Netanyahu rejects U.S. Gaza plan, vows no pullout until Hamas disarms",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "The New York Times",
+          "region": "us",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Israel Rejects Trump’s 15-Point Plan to Disarm Hamas",
+          "url": "https://www.nytimes.com/2026/08/09/world/middleeast/israel-netanyahu-trump-15-point-plan-hamas-peace-gaza.html",
+          "published": "2026-08-09T12:57:23+00:00",
+          "orig_title": "Israel Rejects Trump’s 15-Point Plan to Disarm Hamas",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall"
+        },
+        {
+          "outlet": "BBC News",
+          "region": "europe",
+          "lean": "center",
+          "ownership": "public",
+          "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+          "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-09T12:12:10+00:00",
+          "orig_title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "Kommersant",
+          "region": "russia",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Netanyahu rejects Trump's \"Peace Council\" plan for Gaza troop withdrawal",
+          "url": "https://www.kommersant.ru/doc/8875810",
+          "published": "2026-08-09T13:19:35+00:00",
+          "orig_title": "Нетаньяху отверг план «Совета мира» Трампа о выводе войск из Газы",
+          "lang": "ru",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
+          "outlet": "Politico Europe",
+          "region": "europe",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Israel rejects Trump’s peace plan for Gaza",
+          "url": "https://www.politico.eu/article/israel-rejects-us-backed-gaza-peace-plan-hamas-disarmament/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "published": "2026-08-09T14:06:59+00:00",
+          "orig_title": "Israel rejects Trump’s peace plan for Gaza",
+          "lang": "en",
+          "translated": false,
+          "access": "unknown"
+        },
+        {
+          "outlet": "The Hill",
+          "region": "us",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Netanyahu rejects plan to disarm Hamas in rare break with Trump",
+          "url": "https://thehill.com/policy/international/6019047-netanyahu-rejects-trump-gaza-plan/",
+          "published": "2026-08-09T13:57:54+00:00",
+          "orig_title": "Netanyahu rejects plan to disarm Hamas in rare break with Trump",
+          "lang": "en",
+          "translated": false,
+          "access": "unknown"
+        },
+        {
+          "outlet": "Times of India",
+          "region": "india",
+          "lean": "center",
+          "ownership": "private",
+          "title": "‘We know how to stand up to American ideas': Israeli PM Netanyahu rejects Trump's 15-point Gaza plan",
+          "url": "https://timesofindia.indiatimes.com/world/middle-east/we-know-how-to-stand-up-to-american-ideas-israeli-pm-netanyahu-rejects-trumps-15-point-gaza-plan/articleshow/133066764.cms",
+          "published": "2026-08-09T11:44:59+00:00",
+          "orig_title": "‘We know how to stand up to American ideas': Israeli PM Netanyahu rejects Trump's 15-point Gaza plan",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "Die Welt",
+          "region": "europe",
+          "lean": "right",
+          "ownership": "private",
+          "title": "Netanyahu rejects Trump's Gaza plan and Palestinian state",
+          "url": "https://www.welt.de/politik/ausland/article6a78671235268e5027023623/gazastreifen-netanjahu-lehnt-trumps-gaza-plan-und-palaestinenserstaat-ab.html",
+          "published": "2026-08-09T11:58:17+00:00",
+          "orig_title": "Netanjahu lehnt Trumps Gaza-Plan und Palästinenserstaat ab",
+          "lang": "de",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
+          "outlet": "Fox News",
+          "region": "us",
+          "lean": "right",
+          "ownership": "private",
+          "title": "Netanyahu rejects Board of Peace's Gaza plan: No 'withdrawal until Hamas is genuinely disarmed'",
+          "url": "https://www.foxnews.com/world/netanyahu-rejects-board-peace-gaza-plan-no-withdrawal-until-hamas-genuinely-disarmed",
+          "published": "2026-08-09T13:14:25+00:00",
+          "orig_title": "Netanyahu rejects Board of Peace's Gaza plan: No 'withdrawal until Hamas is genuinely disarmed'",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "The Wall Street Journal",
+          "region": "us",
+          "lean": "right",
+          "ownership": "private",
+          "title": "Israel Rejects Trump Plan for Hamas Disarmament",
+          "url": "https://www.wsj.com/world/middle-east/israel-rejects-trump-plan-for-hamas-disarmament-2d1475cb?mod=rss_worldnews",
+          "published": "2026-08-09T14:01:00+00:00",
+          "orig_title": "Israel Rejects Trump Plan for Hamas Disarmament",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall"
+        },
+        {
+          "outlet": "TASS",
+          "region": "russia",
+          "lean": "state",
+          "ownership": "state",
+          "title": "Israel rejects 15-point Gaza document, not to withdraw until Hamas disarms — Netanyahu",
+          "url": "https://tass.com/world/2170691",
+          "published": "2026-08-09T12:25:28+00:00",
+          "orig_title": "Israel rejects 15-point Gaza document, not to withdraw until Hamas disarms — Netanyahu",
+          "lang": "en",
+          "translated": false,
+          "access": "open",
+          "more": [
+            {
+              "outlet": "TASS",
+              "region": "russia",
+              "lean": "state",
+              "ownership": "state",
+              "title": "Israel insists on implementing 5 principles of ending war in Gaza — adviser",
+              "url": "https://tass.com/world/2170699",
+              "published": "2026-08-09T13:37:16+00:00",
+              "orig_title": "Israel insists on implementing 5 principles of ending war in Gaza — adviser",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
       "topic": "World & Politics",
       "label": "Saudi · Houthis · Aramco",
       "title": "Yemen’s Houthis claim responsibility for attack on Saudi oil refinery",
-      "summary": "Drone strike comes after Riyadh signs defence pact and Iran issues tough demands to reopen of strait of Hormuz Middle East crisis live – latest updates Yemen’s Tehran-aligned Houthis have claimed resp",
-      "score": 9.955,
+      "summary": "Drone strike comes after Riyadh signs defence pact and Iran issues tough demands to reopen strait of Hormuz Middle East crisis live – latest updates Yemen’s Tehran-aligned Houthis have claimed respons",
+      "score": 9.959,
       "n_outlets": 9,
-      "n_articles": 13,
+      "n_articles": 11,
       "regions": [
         "china",
         "europe",
@@ -90,10 +299,11 @@
         "russia",
         "us"
       ],
-      "last_seen": "2026-08-09T12:35:21+00:00",
+      "last_seen": "2026-08-09T13:42:39+00:00",
       "leans": [
         "center",
         "left",
+        "right",
         "state"
       ],
       "sources": [
@@ -154,49 +364,23 @@
               "region": "india",
               "lean": "left",
               "ownership": "private",
+              "title": "Pakistan says new defense pact with Saudi and Turkiye is ’purely defensive’ and open to others",
+              "url": "https://www.thehindu.com/news/international/pakistan-says-new-defense-pact-with-saudi-and-turkiye-is-purely-defensive-and-open-to-others/article71324757.ece",
+              "published": "2026-08-09T13:11:32+00:00",
+              "orig_title": "Pakistan says new defense pact with Saudi and Turkiye is ’purely defensive’ and open to others",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            },
+            {
+              "outlet": "The Hindu",
+              "region": "india",
+              "lean": "left",
+              "ownership": "private",
               "title": "Gulf shipping traffic down after Houthis say they attacked Saudi tanker",
               "url": "https://www.thehindu.com/news/international/gulf-shipping-traffic-down-after-houthis-say-they-attacked-saudi-tanker/article71312455.ece",
               "published": "2026-08-08T18:42:20+00:00",
               "orig_title": "Gulf shipping traffic down after Houthis say they attacked Saudi tanker",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
-            },
-            {
-              "outlet": "The Hindu",
-              "region": "india",
-              "lean": "left",
-              "ownership": "private",
-              "title": "Yemen's Houthis say attacked two Saudi oil tankers",
-              "url": "https://www.thehindu.com/news/international/yemens-houthis-say-attacked-two-saudi-oil-tankers/article71311033.ece",
-              "published": "2026-08-08T18:36:17+00:00",
-              "orig_title": "Yemen's Houthis say attacked two Saudi oil tankers",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
-            },
-            {
-              "outlet": "The Hindu",
-              "region": "india",
-              "lean": "left",
-              "ownership": "private",
-              "title": "Houthi attacks kill five in Yemen as rebels target oil-rich Marib",
-              "url": "https://www.thehindu.com/news/international/several-killed-as-houthi-attacks-yemen-rebels-target-oil-rich-marib-updates/article71318726.ece",
-              "published": "2026-08-08T22:03:30+00:00",
-              "orig_title": "Houthi attacks kill five in Yemen as rebels target oil-rich Marib",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
-            },
-            {
-              "outlet": "The Hindu",
-              "region": "india",
-              "lean": "left",
-              "ownership": "private",
-              "title": "Pakistan says new defense pact with Saudi and Turkiye is ’purely defensive’ and open to others",
-              "url": "https://www.thehindu.com/news/international/pakistan-says-new-defense-pact-with-saudi-and-turkiye-is-purely-defensive-and-open-to-others/article71324757.ece",
-              "published": "2026-08-09T12:35:21+00:00",
-              "orig_title": "Pakistan says new defense pact with Saudi and Turkiye is ’purely defensive’ and open to others",
               "lang": "en",
               "translated": false,
               "access": "open"
@@ -243,17 +427,17 @@
           "access": "unknown"
         },
         {
-          "outlet": "Times of India",
-          "region": "india",
-          "lean": "center",
+          "outlet": "Die Welt",
+          "region": "europe",
+          "lean": "right",
           "ownership": "private",
-          "title": "Houthi attack suspected at Saudi gas facility in Jubail; Aramco Jazan fire extinguished",
-          "url": "https://timesofindia.indiatimes.com/world/middle-east/houthi-attack-suspected-at-saudi-gas-facility-in-jubail-aramco-jazan-fire-extinguished/articleshow/133063118.cms",
-          "published": "2026-08-09T06:11:55+00:00",
-          "orig_title": "Houthi attack suspected at Saudi gas facility in Jubail; Aramco Jazan fire extinguished",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
+          "title": "The Mecca Pact - \"We should bring all nations under this umbrella\"",
+          "url": "https://www.welt.de/politik/ausland/article6a787eac0e3689919ec75c94/tuerkei-pakistan-saudi-arabien-der-mekka-pakt.html",
+          "published": "2026-08-09T13:42:39+00:00",
+          "orig_title": "Der Mekka-Pakt – „Wir sollten alle Länder unter diesen Schirm holen“",
+          "lang": "de",
+          "translated": true,
+          "access": "unknown"
         },
         {
           "outlet": "TASS",
@@ -271,12 +455,12 @@
       ]
     },
     {
-      "id": 188,
+      "id": 207,
       "topic": "World & Politics",
       "label": "Infantino · FIFA · UEFA",
       "title": "FIFA hits back at ‘concerted effort’ to undermine Infantino amid fresh allegations",
       "summary": "FIFA has come out in staunch defense of president Gianni Infantino, rebutting fresh allegations and widespread criticism. The organisation has accused unnamed detractors of orchestrating a campaign ai",
-      "score": 8.518,
+      "score": 8.474,
       "n_outlets": 8,
       "n_articles": 10,
       "regions": [
@@ -430,136 +614,20 @@
       ]
     },
     {
-      "id": 0,
+      "id": 5,
       "topic": "World & Politics",
-      "label": "Netanyahu · Gaza · Hamas",
-      "title": "‘We know how to stand up to American ideas': Israeli PM Netanyahu rejects Trump's 15-point Gaza plan",
-      "summary": "Israel has turned down a US proposal regarding the peace process in Gaza, with Prime Minister Netanyahu firmly asserting that Hamas must be completely disarmed before any Israeli forces withdraw. He m",
-      "score": 7.99,
+      "label": "Spain · Ceuta · Europe",
+      "title": "EU’s Internal Borders Start to Harden as Dispute Grows Over Migrants",
+      "summary": "Spain introduced new border checks on arrivals from Italy, as a migration dispute between the countries escalated into a tit-for-tat that is testing the unity of the European Union.",
+      "score": 7.983,
       "n_outlets": 7,
-      "n_articles": 7,
-      "regions": [
-        "europe",
-        "india",
-        "russia",
-        "us"
-      ],
-      "last_seen": "2026-08-09T13:01:15+00:00",
-      "leans": [
-        "center",
-        "left",
-        "right",
-        "state"
-      ],
-      "sources": [
-        {
-          "outlet": "El Pais",
-          "region": "europe",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Netanyahu rejects Trump plan for Hamas disarmament",
-          "url": "https://elpais.com/internacional/2026-08-09/netanyahu-rechaza-el-plan-de-15-puntos-impulsado-por-trump-para-gaza.html",
-          "published": "2026-08-09T13:01:15+00:00",
-          "orig_title": "Netanyahu rechaza el plan de Trump para el desarme de Hamás",
-          "lang": "es",
-          "translated": true,
-          "access": "unknown"
-        },
-        {
-          "outlet": "The Hindu",
-          "region": "india",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Netanyahu rejects U.S. Gaza plan, vows no pullout until Hamas disarms",
-          "url": "https://www.thehindu.com/news/international/netanyahu-rejects-us-gaza-plan-vows-no-pullout-until-hamas-disarms/article71324797.ece",
-          "published": "2026-08-09T12:55:23+00:00",
-          "orig_title": "Netanyahu rejects U.S. Gaza plan, vows no pullout until Hamas disarms",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "The New York Times",
-          "region": "us",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Israel Rejects Trump’s 15-Point Plan to Disarm Hamas",
-          "url": "https://www.nytimes.com/2026/08/09/world/middleeast/israel-netanyahu-trump-15-point-plan-hamas-peace-gaza.html",
-          "published": "2026-08-09T12:57:22+00:00",
-          "orig_title": "Israel Rejects Trump’s 15-Point Plan to Disarm Hamas",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
-        },
-        {
-          "outlet": "BBC News",
-          "region": "europe",
-          "lean": "center",
-          "ownership": "public",
-          "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-          "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-09T12:12:10+00:00",
-          "orig_title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "Times of India",
-          "region": "india",
-          "lean": "center",
-          "ownership": "private",
-          "title": "‘We know how to stand up to American ideas': Israeli PM Netanyahu rejects Trump's 15-point Gaza plan",
-          "url": "https://timesofindia.indiatimes.com/world/middle-east/we-know-how-to-stand-up-to-american-ideas-israeli-pm-netanyahu-rejects-trumps-15-point-gaza-plan/articleshow/133066764.cms",
-          "published": "2026-08-09T11:44:59+00:00",
-          "orig_title": "‘We know how to stand up to American ideas': Israeli PM Netanyahu rejects Trump's 15-point Gaza plan",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "Die Welt",
-          "region": "europe",
-          "lean": "right",
-          "ownership": "private",
-          "title": "Netanyahu rejects Trump's Gaza plan and Palestinian state",
-          "url": "https://www.welt.de/politik/ausland/article6a78671235268e5027023623/gazastreifen-netanjahu-lehnt-trumps-gaza-plan-und-palaestinenserstaat-ab.html",
-          "published": "2026-08-09T11:58:17+00:00",
-          "orig_title": "Netanjahu lehnt Trumps Gaza-Plan und Palästinenserstaat ab",
-          "lang": "de",
-          "translated": true,
-          "access": "unknown"
-        },
-        {
-          "outlet": "TASS",
-          "region": "russia",
-          "lean": "state",
-          "ownership": "state",
-          "title": "Israel rejects 15-point Gaza document, not to withdraw until Hamas disarms — Netanyahu",
-          "url": "https://tass.com/world/2170691",
-          "published": "2026-08-09T12:25:28+00:00",
-          "orig_title": "Israel rejects 15-point Gaza document, not to withdraw until Hamas disarms — Netanyahu",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        }
-      ]
-    },
-    {
-      "id": 9,
-      "topic": "World & Politics",
-      "label": "Spain · Ceuta · Italy",
-      "title": "Spain to start Italy border controls on air and sea travel amid Ceuta migrant row",
-      "summary": "Following Italy’s rejection of its ultimatum to lift the border checks imposed in response to the Ceuta migration crisis, Spain has in turn announced that it will carry out checks on travellers from I",
-      "score": 7.976,
-      "n_outlets": 7,
-      "n_articles": 11,
+      "n_articles": 9,
       "regions": [
         "china",
         "europe",
         "us"
       ],
-      "last_seen": "2026-08-09T12:51:00+00:00",
+      "last_seen": "2026-08-09T14:00:06+00:00",
       "leans": [
         "center",
         "left",
@@ -577,48 +645,7 @@
           "orig_title": "Primer día de control a los viajeros procedentes de Italia: la policía pide la documentación a solo el 5% o 10% de los pasajeros",
           "lang": "es",
           "translated": true,
-          "access": "unknown",
-          "more": [
-            {
-              "outlet": "El Pais",
-              "region": "europe",
-              "lean": "left",
-              "ownership": "private",
-              "title": "Live updates on immigrant arrivals in Ceuta; Italy calls Sánchez's response 'disproportionate' and insists on border protection",
-              "url": "https://elpais.com/espana/2026-08-09/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
-              "published": "2026-08-09T12:19:10+00:00",
-              "orig_title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Italia ve “desproporcionada” la reacción de Sánchez a sus controles e insiste en proteger sus fronteras",
-              "lang": "es",
-              "translated": true,
-              "access": "unknown"
-            },
-            {
-              "outlet": "El Pais",
-              "region": "europe",
-              "lean": "left",
-              "ownership": "private",
-              "title": "Meloni fights fatigue: Italian PM returns to immigration to regain political momentum",
-              "url": "https://elpais.com/internacional/2026-08-09/meloni-contra-el-desgaste-la-primera-ministra-italiana-vuelve-a-la-inmigracion-para-recuperar-la-iniciativa-politica.html",
-              "published": "2026-08-09T03:30:01+00:00",
-              "orig_title": "Meloni contra el desgaste: la primera ministra italiana vuelve a la inmigración para recuperar la iniciativa política",
-              "lang": "es",
-              "translated": true,
-              "access": "unknown"
-            },
-            {
-              "outlet": "El Pais",
-              "region": "europe",
-              "lean": "left",
-              "ownership": "private",
-              "title": "Blue March in Ceuta exposes EU rifts and Moroccan discontent",
-              "url": "https://elpais.com/espana/2026-08-09/la-marcha-azul-de-ceuta-descubre-brechas-en-la-ue-y-malestar-en-marruecos.html",
-              "published": "2026-08-09T03:30:01+00:00",
-              "orig_title": "La Marcha Azul de Ceuta descubre brechas en la UE y malestar en Marruecos",
-              "lang": "es",
-              "translated": true,
-              "access": "unknown"
-            }
-          ]
+          "access": "unknown"
         },
         {
           "outlet": "BBC News",
@@ -629,19 +656,6 @@
           "url": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
           "published": "2026-08-08T14:25:19+00:00",
           "orig_title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "Deutsche Welle",
-          "region": "europe",
-          "lean": "center",
-          "ownership": "public",
-          "title": "Ceuta: Spain sets up border controls on travelers from Italy",
-          "url": "https://www.dw.com/en/ceuta-spain-sets-up-border-controls-on-travelers-from-italy/a-78282840?maca=en-rss-en-world-4025-rdf",
-          "published": "2026-08-08T01:24:00+00:00",
-          "orig_title": "Ceuta: Spain sets up border controls on travelers from Italy",
           "lang": "en",
           "translated": false,
           "access": "open"
@@ -670,7 +684,22 @@
           "orig_title": "Spain to start Italy border controls on air and sea travel amid Ceuta migrant row",
           "lang": "en",
           "translated": false,
-          "access": "open"
+          "access": "open",
+          "more": [
+            {
+              "outlet": "South China Morning Post",
+              "region": "china",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Can Europe stay united in China trade battle? Ceuta migrant crisis offers a warning",
+              "url": "https://www.scmp.com/news/china/diplomacy/article/3363438/can-europe-stay-united-china-trade-battle-ceuta-migrant-crisis-offers-warning?utm_source=rss_feed",
+              "published": "2026-08-09T14:00:06+00:00",
+              "orig_title": "Can Europe stay united in China trade battle? Ceuta migrant crisis offers a warning",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            }
+          ]
         },
         {
           "outlet": "Die Welt",
@@ -684,6 +713,19 @@
           "lang": "de",
           "translated": true,
           "access": "unknown"
+        },
+        {
+          "outlet": "Fox News",
+          "region": "us",
+          "lean": "right",
+          "ownership": "private",
+          "title": "Spain's migrant surge reignites debate over Europe’s Islamist terror threat",
+          "url": "https://www.foxnews.com/world/spains-migrant-surge-reignites-debate-over-europes-islamist-terror-threat",
+          "published": "2026-08-08T13:23:51+00:00",
+          "orig_title": "Spain's migrant surge reignites debate over Europe’s Islamist terror threat",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
         },
         {
           "outlet": "The Wall Street Journal",
@@ -716,12 +758,12 @@
       ]
     },
     {
-      "id": 34,
+      "id": 59,
       "topic": "World & Politics",
       "label": "Iran · Hormuz · Strait",
       "title": "Iran Issues List of Demands, Dampening Hopes of Reopening Strait of Hormuz",
       "summary": "The head of Iran’s Supreme National Security Council said that the Strait of Hormuz would remain closed until the United States met certain conditions.",
-      "score": 7.939,
+      "score": 7.859,
       "n_outlets": 7,
       "n_articles": 8,
       "regions": [
@@ -847,12 +889,12 @@
       ]
     },
     {
-      "id": 18,
+      "id": 44,
       "topic": "World & Politics",
       "label": "Typhoon · Dolphin · China",
       "title": "Typhoon Dolphin makes landfall in China after evacuations, flight cancellations",
       "summary": "Typhoon Dolphin brought heavy rain and strong winds to Japan's Okinawa before reaching China.",
-      "score": 5.962,
+      "score": 5.88,
       "n_outlets": 5,
       "n_articles": 9,
       "regions": [
@@ -991,12 +1033,12 @@
       ]
     },
     {
-      "id": 25,
+      "id": 50,
       "topic": "World & Politics",
       "label": "Belgorod · drone · attack",
       "title": "Thirteen people injured in massive drone attack on Belgorod",
       "summary": "Белгород оказался под массированной атакой украинских беспилотников. Пострадали 13 человек, сообщил врио губернатора Белгородской области Александр Шуваев в Telegram.",
-      "score": 5.953,
+      "score": 5.871,
       "n_outlets": 5,
       "n_articles": 23,
       "regions": [
@@ -1317,157 +1359,12 @@
       ]
     },
     {
-      "id": 272,
-      "topic": "World & Politics",
-      "label": "Hormuz · Iran · Strait",
-      "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
-      "summary": "Both sides suggest progress in talks to agree a new shipping route through the strait, but a breakthrough remains unclear.",
-      "score": 5.37,
-      "n_outlets": 5,
-      "n_articles": 9,
-      "regions": [
-        "europe",
-        "india",
-        "russia",
-        "us"
-      ],
-      "last_seen": "2026-08-09T01:12:14+00:00",
-      "leans": [
-        "center",
-        "left",
-        "state"
-      ],
-      "sources": [
-        {
-          "outlet": "The Hindu",
-          "region": "india",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Iran, Oman reach understanding on coordinates of route through Hormuz, Iran Ministry says",
-          "url": "https://www.thehindu.com/news/international/iran-oman-reach-understanding-on-coordinates-of-route-through-hormuz-iran-ministry-says/article71310750.ece",
-          "published": "2026-08-08T18:31:28+00:00",
-          "orig_title": "Iran, Oman reach understanding on coordinates of route through Hormuz, Iran Ministry says",
-          "lang": "en",
-          "translated": false,
-          "access": "open",
-          "more": [
-            {
-              "outlet": "The Hindu",
-              "region": "india",
-              "lean": "left",
-              "ownership": "private",
-              "title": "Watch: Iran , Oman reach understanding on shipping route through Strait of Hormuz",
-              "url": "https://www.thehindu.com/videos/watch-iran-oman-reach-understanding-on-shipping-route-through-strait-of-hormuz/article71312594.ece",
-              "published": "2026-08-08T18:43:55+00:00",
-              "orig_title": "Watch: Iran , Oman reach understanding on shipping route through Strait of Hormuz",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
-            },
-            {
-              "outlet": "The Hindu",
-              "region": "india",
-              "lean": "left",
-              "ownership": "private",
-              "title": "U.S. expects deal soon on Strait of Hormuz; Sunni powers unite in defence pact",
-              "url": "https://www.thehindu.com/news/international/us-expects-deal-soon-on-strait-of-hormuz-sunni-powers-unite-in-defence-pact/article71320443.ece",
-              "published": "2026-08-09T01:12:14+00:00",
-              "orig_title": "U.S. expects deal soon on Strait of Hormuz; Sunni powers unite in defence pact",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
-            },
-            {
-              "outlet": "The Hindu",
-              "region": "india",
-              "lean": "left",
-              "ownership": "private",
-              "title": "West Asia war updates: Iran says strait won't open until U.S. corrects behaviour",
-              "url": "https://www.thehindu.com/news/international/west-asia-war-us-iran-deal-strait-of-hormuz-yemen-houthis-saudi-arabia-live-updates-august-8-2026/article71320445.ece",
-              "published": "2026-08-09T00:34:41+00:00",
-              "orig_title": "West Asia war updates: Iran says strait won't open until U.S. corrects behaviour",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
-            }
-          ]
-        },
-        {
-          "outlet": "The New York Times",
-          "region": "us",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Yemen Teeters on Civil War as Regional Stability Hangs in the Balance",
-          "url": "https://www.nytimes.com/2026/08/08/world/middleeast/yemen-houthis-regional-stability.html",
-          "published": "2026-08-08T14:57:24+00:00",
-          "orig_title": "Yemen Teeters on Civil War as Regional Stability Hangs in the Balance",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
-        },
-        {
-          "outlet": "BBC News",
-          "region": "europe",
-          "lean": "center",
-          "ownership": "public",
-          "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
-          "url": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-08T19:18:57+00:00",
-          "orig_title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "The Hill",
-          "region": "us",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Sunday shows preview: Iran-Hormuz deal hangs in balance; Trump, Dems look to midterms",
-          "url": "https://thehill.com/homenews/sunday-talk-shows/6018823-sunday-preview-vance-iran-negotiations-progress/",
-          "published": "2026-08-08T21:47:48+00:00",
-          "orig_title": "Sunday shows preview: Iran-Hormuz deal hangs in balance; Trump, Dems look to midterms",
-          "lang": "en",
-          "translated": false,
-          "access": "unknown"
-        },
-        {
-          "outlet": "TASS",
-          "region": "russia",
-          "lean": "state",
-          "ownership": "state",
-          "title": "Oman, Iran continue talks on Strait of Hormuz in positive atmosphere — Foreign Ministry",
-          "url": "https://tass.com/world/2170529",
-          "published": "2026-08-08T17:30:41+00:00",
-          "orig_title": "Oman, Iran continue talks on Strait of Hormuz in positive atmosphere — Foreign Ministry",
-          "lang": "en",
-          "translated": false,
-          "access": "open",
-          "more": [
-            {
-              "outlet": "TASS",
-              "region": "russia",
-              "lean": "state",
-              "ownership": "state",
-              "title": "Strait of Hormuz may remain closed to shipping for up to one year — Iraqi expert",
-              "url": "https://tass.com/world/2170561",
-              "published": "2026-08-08T20:55:00+00:00",
-              "orig_title": "Strait of Hormuz may remain closed to shipping for up to one year — Iraqi expert",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 282,
+      "id": 300,
       "topic": "World & Politics",
       "label": "Russian · Kyiv · Kiev",
       "title": "At least three killed in Russian strikes in Kyiv region, official says",
       "summary": "Three more ‌people were injured ​in the attack",
-      "score": 5.356,
+      "score": 5.325,
       "n_outlets": 5,
       "n_articles": 6,
       "regions": [
@@ -1565,12 +1462,99 @@
       ]
     },
     {
-      "id": 32,
+      "id": 312,
+      "topic": "World & Politics",
+      "label": "Colombia · President · pledges",
+      "title": "US promises $1bn in security aid to Colombia as new rightwing president pledges drugs crackdown",
+      "summary": "Trump ally Abelardo De La ‌Espriella vows to start ‘profound transformation’ of country’s destiny as he is sworn in The ​Trump administration plans to provide $1bn in security assistance to the ⁠gover",
+      "score": 5.305,
+      "n_outlets": 5,
+      "n_articles": 5,
+      "regions": [
+        "europe",
+        "india",
+        "south_america"
+      ],
+      "last_seen": "2026-08-08T23:56:38+00:00",
+      "leans": [
+        "center",
+        "left"
+      ],
+      "sources": [
+        {
+          "outlet": "The Guardian",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "US promises $1bn in security aid to Colombia as new rightwing president pledges drugs crackdown",
+          "url": "https://www.theguardian.com/world/2026/aug/08/us-promises-1bn-in-security-aid-to-colombia-as-new-rightwing-president-pledges-drugs-crackdown",
+          "published": "2026-08-08T04:08:18+00:00",
+          "orig_title": "US promises $1bn in security aid to Colombia as new rightwing president pledges drugs crackdown",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "The Hindu",
+          "region": "india",
+          "lean": "left",
+          "ownership": "private",
+          "title": "New Colombia President pledges robust fight against crime, fiscal austerity in maiden speech",
+          "url": "https://www.thehindu.com/news/international/new-colombia-president-pledges-robust-fight-against-crime-fiscal-austerity-in-maiden-speech/article71320435.ece",
+          "published": "2026-08-08T23:56:38+00:00",
+          "orig_title": "New Colombia President pledges robust fight against crime, fiscal austerity in maiden speech",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "BBC News",
+          "region": "europe",
+          "lean": "center",
+          "ownership": "public",
+          "title": "US offers $1bn to Colombia on new right-wing president's first day of office",
+          "url": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-08T17:58:42+00:00",
+          "orig_title": "US offers $1bn to Colombia on new right-wing president's first day of office",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "Buenos Aires Times",
+          "region": "south_america",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Colombia’s new president joins a right-wing wave facing tough reality",
+          "url": "https://www.batimes.com.ar/news/latin-america/colombias-new-president-joins-a-right-wing-wave-facing-tough-reality.phtml",
+          "published": "2026-08-08T07:59:45+00:00",
+          "orig_title": "Colombia’s new president joins a right-wing wave facing tough reality",
+          "lang": "en",
+          "translated": false,
+          "access": "unknown"
+        },
+        {
+          "outlet": "MercoPress",
+          "region": "south_america",
+          "lean": "center",
+          "ownership": "private",
+          "title": "De la Espriella sworn in before Congress in Cali, delivers first speech to the military",
+          "url": "https://en.mercopress.com/2026/08/08/de-la-espriella-sworn-in-before-congress-in-cali-delivers-first-speech-to-the-military?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+          "published": "2026-08-08T07:52:00+00:00",
+          "orig_title": "De la Espriella sworn in before Congress in Cali, delivers first speech to the military",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 57,
       "topic": "World & Politics",
       "label": "Russian · Ukrainian · Odessa",
       "title": "Russian military strikes Ukrainian electronic warfare supply depot at Odessa port",
       "summary": "Вооруженные силы России нанесли удары по портовой инфраструктуре Украины в портовых городах Одесса и Николаев, а также по акватории Черного моря. Об этом сообщило Министерство обороны РФ.",
-      "score": 4.94,
+      "score": 4.86,
       "n_outlets": 4,
       "n_articles": 10,
       "regions": [
@@ -1722,12 +1706,12 @@
       ]
     },
     {
-      "id": 121,
+      "id": 142,
       "topic": "Economics",
       "label": "Hidden · AI-world · Amazon",
       "title": "Hidden environmental cost of powering growing digital and AI-world",
       "summary": "Despite the astronomical water footprint of data centres, some States, which already have difficulties in meeting their water needs, have announced huge data centre projects.",
-      "score": 2.741,
+      "score": 2.677,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -1768,12 +1752,12 @@
       ]
     },
     {
-      "id": 41,
+      "id": 66,
       "topic": "Economics",
       "label": "How · China · brands",
       "title": "How China’s brands are thriving in the US despite rising geopolitical tensions",
       "summary": "The Cry Me an Ocean plush toys sat as forlornly as their name implied inside the Stoneridge Shopping Centre in the San Francisco suburb of Pleasanton. The Chinese brand Pop Mart had placed a “Robo Sho",
-      "score": 1.91,
+      "score": 1.832,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -1800,12 +1784,12 @@
       ]
     },
     {
-      "id": 109,
+      "id": 130,
       "topic": "Economics",
       "label": "Demand · EVs · Chinese",
       "title": "Demand for affordable EVs will force open US market to Chinese models eventually: analysts",
       "summary": "Consumer demand for affordable electric vehicles is likely to force open the US market to Chinese electric vehicle (EV) brands within the next few years, even though they currently face trade barriers",
-      "score": 1.77,
+      "score": 1.704,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -1832,12 +1816,12 @@
       ]
     },
     {
-      "id": 118,
+      "id": 139,
       "topic": "Economics",
       "label": "UPI · transactions · Pay",
       "title": "UPI stays free for users, vast majority of transactions to remain free for merchants as well, says government",
       "summary": "The government said any future merchant discount rate (MDR), if introduced, would apply only to a limited set of merchant transactions above a specified threshold and at a nominal rate, which would be",
-      "score": 1.759,
+      "score": 1.694,
       "n_outlets": 1,
       "n_articles": 2,
       "regions": [
@@ -1879,12 +1863,12 @@
       ]
     },
     {
-      "id": 144,
+      "id": 162,
       "topic": "Economics",
       "label": "Derelict · Hong · Kong",
       "title": "Derelict cinema on scenic Hong Kong island up for auction with a US$1 million price tag",
       "summary": "Peng Chau Cinema, an Instagrammable spot for tourists on an outlying Hong Kong island, will be auctioned off in mid-August at a valuation 30 per cent below estimation after almost 40 years of abandonm",
-      "score": 1.68,
+      "score": 1.621,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -1911,12 +1895,12 @@
       ]
     },
     {
-      "id": 164,
+      "id": 181,
       "topic": "Economics",
       "label": "Nationalists · abroad · patriots",
       "title": "Nationalists abroad and patriots at home",
       "summary": "Japan is viewed as sophisticated, exotic, economically advanced — a combination that makes it susceptible to reporting that oscillates between admiration and caricature.",
-      "score": 1.608,
+      "score": 1.556,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -1943,12 +1927,12 @@
       ]
     },
     {
-      "id": 168,
+      "id": 184,
       "topic": "Economics",
       "label": "Costa · Rican · diplomat",
       "title": "Costa Rican diplomat emerges as strong contender to be first female head of UN",
       "summary": "Rebeca Grynspan seen as continuity candidate with tacit support from current secretary general, António Guterres A Costa Rican diplomat and former vice-president whose parents were refugees from the H",
-      "score": 1.6,
+      "score": 1.548,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -1975,12 +1959,12 @@
       ]
     },
     {
-      "id": 173,
+      "id": 190,
       "topic": "Economics",
       "label": "Mega-events · Paul · Chan",
-      "title": "Mega-events drive HK$5.8 billion spending in first half of year, Paul Chan says",
-      "summary": "Visitors to major events in Hong Kong have spent HK$5.8 billion (US$739 million) during the first half of the year, averaging HK$3,314 per head, the city’s finance chief has said. In his weekly blog o",
-      "score": 1.585,
+      "title": "Over a quarter of China’s ultra-wealthy concentrated in Beijing and Shanghai: report",
+      "summary": "Chinese megacities are seeing a slight decrease in households with assets of at least 100 million yuan (US$14.8 million), as the country’s private wealth remains concentrated in three places – nationa",
+      "score": 1.535,
       "n_outlets": 1,
       "n_articles": 2,
       "regions": [
@@ -1996,10 +1980,10 @@
           "region": "china",
           "lean": "center",
           "ownership": "private",
-          "title": "Mega-events drive HK$5.8 billion spending in first half of year, Paul Chan says",
-          "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3363432/mega-events-drive-hk58-billion-visitor-spend-first-half-year-paul-chan?utm_source=rss_feed",
-          "published": "2026-08-09T06:42:03+00:00",
-          "orig_title": "Mega-events drive HK$5.8 billion spending in first half of year, Paul Chan says",
+          "title": "Over a quarter of China’s ultra-wealthy concentrated in Beijing and Shanghai: report",
+          "url": "https://www.scmp.com/business/money/wealth/article/3363314/over-quarter-chinas-ultra-wealthy-concentrated-beijing-and-shanghai-report?utm_source=rss_feed",
+          "published": "2026-08-08T06:00:07+00:00",
+          "orig_title": "Over a quarter of China’s ultra-wealthy concentrated in Beijing and Shanghai: report",
           "lang": "en",
           "translated": false,
           "access": "open",
@@ -2009,10 +1993,10 @@
               "region": "china",
               "lean": "center",
               "ownership": "private",
-              "title": "Over a quarter of China’s ultra-wealthy concentrated in Beijing and Shanghai: report",
-              "url": "https://www.scmp.com/business/money/wealth/article/3363314/over-quarter-chinas-ultra-wealthy-concentrated-beijing-and-shanghai-report?utm_source=rss_feed",
-              "published": "2026-08-08T06:00:07+00:00",
-              "orig_title": "Over a quarter of China’s ultra-wealthy concentrated in Beijing and Shanghai: report",
+              "title": "Mega-events drive HK$5.8 billion spending in first half of year, Paul Chan says",
+              "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3363432/mega-events-drive-hk58-billion-visitor-spend-first-half-year-paul-chan?utm_source=rss_feed",
+              "published": "2026-08-09T06:42:03+00:00",
+              "orig_title": "Mega-events drive HK$5.8 billion spending in first half of year, Paul Chan says",
               "lang": "en",
               "translated": false,
               "access": "open"
@@ -2022,12 +2006,12 @@
       ]
     },
     {
-      "id": 255,
+      "id": 273,
       "topic": "Economics",
       "label": "China · Inflation · Cools",
       "title": "China Inflation Cools More Than Expected in July",
       "summary": "China’s consumer and factory-gate price growth both cooled more than expected last month, suggesting tepid domestic demand and reflecting the impact of extreme weather and declining oil costs.",
-      "score": 1.418,
+      "score": 1.382,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -2054,12 +2038,12 @@
       ]
     },
     {
-      "id": 262,
+      "id": 279,
       "topic": "Economics",
       "label": "Climate · Malaysia · crisis",
       "title": "Climate crisis leaves Malaysia with hot-headed youth",
       "summary": "Young Malaysians are reporting worsening illnesses, heat-related health problems and disruptions to basic services as climate change intensifies, raising questions over whether the country’s adaptatio",
-      "score": 1.395,
+      "score": 1.362,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -2086,12 +2070,12 @@
       ]
     },
     {
-      "id": 60,
+      "id": 86,
       "topic": "Trading & Markets",
       "label": "Moore · Threads · Hong",
       "title": "AI push is putting banks at mercy of tech firms, warns Moody’s",
       "summary": "Finance sector will gain from the tech but it will need substantial investment and create risks, says rating agency The rating agency Moody’s has said the race to adopt AI is putting big banks at the ",
-      "score": 3.861,
+      "score": 3.788,
       "n_outlets": 3,
       "n_articles": 4,
       "regions": [
@@ -2161,12 +2145,12 @@
       ]
     },
     {
-      "id": 67,
+      "id": 92,
       "topic": "Trading & Markets",
       "label": "Trump · Iran · Victims",
       "title": "Trump Thought Opening the Strait of Hormuz Was Imminent. Iran Had Other Plans.",
       "summary": "Tehran’s new demands for major concessions come days after the White House had signaled a deal to clear commercial passage was within reach.",
-      "score": 2.849,
+      "score": 2.776,
       "n_outlets": 2,
       "n_articles": 3,
       "regions": [
@@ -2223,12 +2207,12 @@
       ]
     },
     {
-      "id": 99,
+      "id": 120,
       "topic": "Trading & Markets",
       "label": "Moscow · drones · Russia",
       "title": "Nine drones downed near Moscow",
       "summary": "Силы ПВО сбили девять беспилотников, которые летели на Москву. Об этом сообщил мэр столицы Сергей Собянин в Telegram.",
-      "score": 2.784,
+      "score": 2.717,
       "n_outlets": 2,
       "n_articles": 17,
       "regions": [
@@ -2466,12 +2450,108 @@
       ]
     },
     {
-      "id": 2,
+      "id": 4,
+      "topic": "Trading & Markets",
+      "label": "Nasa · hit · slam",
+      "title": "‘You’re hit with a slam of shadow’: Nasa’s air mission to capture rare eclipse data",
+      "summary": "Two aviators will take off from Iceland to take pictures of the sun while flying at high altitude along solar eclipse’s path After lunch on Wednesday, two Nasa aviators will climb into a research plan",
+      "score": 1.983,
+      "n_outlets": 1,
+      "n_articles": 1,
+      "regions": [
+        "europe"
+      ],
+      "last_seen": "2026-08-09T14:00:16+00:00",
+      "leans": [
+        "left"
+      ],
+      "sources": [
+        {
+          "outlet": "The Guardian",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "‘You’re hit with a slam of shadow’: Nasa’s air mission to capture rare eclipse data",
+          "url": "https://www.theguardian.com/science/2026/aug/09/nasa-mission-total-solar-eclipse-iceland-sun-nanoflares",
+          "published": "2026-08-09T14:00:16+00:00",
+          "orig_title": "‘You’re hit with a slam of shadow’: Nasa’s air mission to capture rare eclipse data",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "topic": "Trading & Markets",
+      "label": "Danish · schools · require",
+      "title": "Danish schools to require students defend written assignments orally in AI crackdown",
+      "summary": "Министерство образования Дании ввело правило, в соответствии с которым старшеклассники должны будут устно защищать свои письменные экзаменационные работы. Мера вводится для борьбы с недобросовестным и",
+      "score": 1.978,
+      "n_outlets": 1,
+      "n_articles": 1,
+      "regions": [
+        "russia"
+      ],
+      "last_seen": "2026-08-09T13:56:45+00:00",
+      "leans": [
+        "center"
+      ],
+      "sources": [
+        {
+          "outlet": "Kommersant",
+          "region": "russia",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Danish schools to require students defend written assignments orally in AI crackdown",
+          "url": "https://www.kommersant.ru/doc/8875813",
+          "published": "2026-08-09T13:56:45+00:00",
+          "orig_title": "В рамках борьбы с ИИ датских школьников обяжут устно защищать письменные работы",
+          "lang": "ru",
+          "translated": true,
+          "access": "unknown"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "topic": "Trading & Markets",
+      "label": "Parents · England · baby",
+      "title": "Parents of baby girl killed at nursery fear unsafe sleeping ‘rife’ in sector across England",
+      "summary": "Katie and John Meehan say responses to campaign they launched after death of daughter Genevieve must be ‘wake-up call’ The parents of a nine-month-old girl who died after being placed in an unsafe sle",
+      "score": 1.904,
+      "n_outlets": 1,
+      "n_articles": 1,
+      "regions": [
+        "europe"
+      ],
+      "last_seen": "2026-08-09T13:00:16+00:00",
+      "leans": [
+        "left"
+      ],
+      "sources": [
+        {
+          "outlet": "The Guardian",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Parents of baby girl killed at nursery fear unsafe sleeping ‘rife’ in sector across England",
+          "url": "https://www.theguardian.com/education/2026/aug/09/parents-baby-killed-in-care-poor-practice-rife-nurseries-england",
+          "published": "2026-08-09T13:00:16+00:00",
+          "orig_title": "Parents of baby girl killed at nursery fear unsafe sleeping ‘rife’ in sector across England",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 30,
       "topic": "Trading & Markets",
       "label": "Turbulent · Month · Leaves",
       "title": "Blockbuster Earnings Bolster Stocks’ Record Run",
       "summary": "Results from the U.S.’s largest companies have helped ease worries about AI spending and inflationary pressures.",
-      "score": 1.989,
+      "score": 1.904,
       "n_outlets": 1,
       "n_articles": 2,
       "regions": [
@@ -2513,12 +2593,12 @@
       ]
     },
     {
-      "id": 26,
+      "id": 51,
       "topic": "Trading & Markets",
       "label": "China-Australia · relations · reach",
       "title": "China-Australia relations reach ‘good enough’ baseline, ex-envoy says",
       "summary": "After years of strain, China-Australia ties have reached a “good enough” baseline for Canberra, though still short of Beijing’s broader ambitions, according to a former top Australian diplomat. The re",
-      "score": 1.949,
+      "score": 1.867,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -2545,12 +2625,12 @@
       ]
     },
     {
-      "id": 62,
+      "id": 88,
       "topic": "Trading & Markets",
       "label": "How · Ginter · Nagelsmann",
       "title": "'How that went down...' – Ginter fires back at Nagelsmann",
       "summary": "Viele Experten forderten die WM-Teilnahme von Matthias Ginter. Doch Nagelsmann berief den Verteidiger des SC Freiburg nicht. Jetzt kritisiert Ginter den ehemaligen Bundestrainer. Besonders ein Faktor ",
-      "score": 1.86,
+      "score": 1.786,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -2577,12 +2657,12 @@
       ]
     },
     {
-      "id": 76,
+      "id": 100,
       "topic": "Trading & Markets",
       "label": "Why · Your · Condo",
       "title": "Why Your Condo Association Might Be Raising Your Dues Soon",
       "summary": "Tighter federal mortgage rules will require many condominium associations to set aside more of their budgets into reserve accounts for future repairs.",
-      "score": 1.837,
+      "score": 1.765,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -2609,108 +2689,12 @@
       ]
     },
     {
-      "id": 116,
-      "topic": "Trading & Markets",
-      "label": "Pentagon · pushes · defence",
-      "title": "Pentagon pushes defence companies to boost weapons production after concerns of depleted stocks",
-      "summary": "Deputy Defence Secretary Steve Feinberg wrote to industry leaders, giving them no more than 21 days to submit plans to “drive significantly faster, more aggressive delivery schedules and/or increased ",
-      "score": 1.762,
-      "n_outlets": 1,
-      "n_articles": 1,
-      "regions": [
-        "india"
-      ],
-      "last_seen": "2026-08-09T09:52:12+00:00",
-      "leans": [
-        "left"
-      ],
-      "sources": [
-        {
-          "outlet": "The Hindu",
-          "region": "india",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Pentagon pushes defence companies to boost weapons production after concerns of depleted stocks",
-          "url": "https://www.thehindu.com/news/international/pentagon-pushes-defence-companies-to-boost-weapons-production-after-concerns-of-depleted-stocks/article71324197.ece",
-          "published": "2026-08-09T09:52:12+00:00",
-          "orig_title": "Pentagon pushes defence companies to boost weapons production after concerns of depleted stocks",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        }
-      ]
-    },
-    {
-      "id": 122,
-      "topic": "Trading & Markets",
-      "label": "Get · Car · Crash",
-      "title": "If You Get in a Car Crash, the Risk Is Growing Your Insurance Won’t Pay",
-      "summary": "Auto insurers didn’t pay out on 45% of auto liability and medical claims they resolved last year, according to a Wall Street Journal analysis.",
-      "score": 1.739,
-      "n_outlets": 1,
-      "n_articles": 1,
-      "regions": [
-        "us"
-      ],
-      "last_seen": "2026-08-09T09:30:00+00:00",
-      "leans": [
-        "right"
-      ],
-      "sources": [
-        {
-          "outlet": "The Wall Street Journal",
-          "region": "us",
-          "lean": "right",
-          "ownership": "private",
-          "title": "If You Get in a Car Crash, the Risk Is Growing Your Insurance Won’t Pay",
-          "url": "https://www.wsj.com/finance/if-you-get-in-a-car-crash-the-risk-is-growing-your-insurance-wont-pay-1522236c?mod=rss_markets_main",
-          "published": "2026-08-09T09:30:00+00:00",
-          "orig_title": "If You Get in a Car Crash, the Risk Is Growing Your Insurance Won’t Pay",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
-        }
-      ]
-    },
-    {
-      "id": 123,
-      "topic": "Trading & Markets",
-      "label": "How · Liquid · Private-Credit",
-      "title": "How Liquid Are Private-Credit Funds? It Depends How You Define ‘Liquidity’",
-      "summary": "Private-credit managers report the metric differently, with some using aggressive math to project strength.",
-      "score": 1.739,
-      "n_outlets": 1,
-      "n_articles": 1,
-      "regions": [
-        "us"
-      ],
-      "last_seen": "2026-08-09T09:30:00+00:00",
-      "leans": [
-        "right"
-      ],
-      "sources": [
-        {
-          "outlet": "The Wall Street Journal",
-          "region": "us",
-          "lean": "right",
-          "ownership": "private",
-          "title": "How Liquid Are Private-Credit Funds? It Depends How You Define ‘Liquidity’",
-          "url": "https://www.wsj.com/articles/how-liquid-are-private-credit-funds-it-depends-how-you-define-liquidity-854ebcb0?mod=rss_markets_main",
-          "published": "2026-08-09T09:30:00+00:00",
-          "orig_title": "How Liquid Are Private-Credit Funds? It Depends How You Define ‘Liquidity’",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
-        }
-      ]
-    },
-    {
-      "id": 279,
+      "id": 297,
       "topic": "Science",
       "label": "eclipse · What · solar",
       "title": "Where in the UK will get the best view of the solar eclipse?",
       "summary": "When, where and how to get the optimal view of the first solar eclipse to be visible across the country this century For the first time this century, people across the UK will be able to see an almost",
-      "score": 3.362,
+      "score": 3.331,
       "n_outlets": 3,
       "n_articles": 4,
       "regions": [
@@ -2780,12 +2764,12 @@
       ]
     },
     {
-      "id": 14,
+      "id": 42,
       "topic": "Science",
       "label": "Researchers · Millet · gut",
       "title": "Traditional diets shape unique gut microbes of Indian tribes",
       "summary": "Research on Indian tribal populations shows that traditional diets foster unique gut bacteria distinct from industrialised societies; the findings highlight an urgent need for biobanking to preserve m",
-      "score": 2.967,
+      "score": 2.884,
       "n_outlets": 2,
       "n_articles": 3,
       "regions": [
@@ -2842,12 +2826,12 @@
       ]
     },
     {
-      "id": 127,
+      "id": 147,
       "topic": "Science",
       "label": "Scientists · improve · hurricane",
       "title": "Scientists turn to sharks to improve hurricane predictions",
       "summary": "Sharks may be used to gather data that helps scientists understand the potential intensity of a hurricane before it makes landfall.",
-      "score": 2.712,
+      "score": 2.651,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -2888,12 +2872,12 @@
       ]
     },
     {
-      "id": 377,
+      "id": 393,
       "topic": "Science",
       "label": "India · Transport · pharma",
       "title": "Transport, pharma and biotech as industry become India’s biggest research investors",
       "summary": "The report also shows that industry now employs more researchers than the public sector in core R&amp;D activities, underscoring a broader shift in the country’s innovation landscape.",
-      "score": 2.183,
+      "score": 2.168,
       "n_outlets": 2,
       "n_articles": 3,
       "regions": [
@@ -2950,12 +2934,59 @@
       ]
     },
     {
-      "id": 5,
+      "id": 3,
+      "topic": "Science",
+      "label": "Denmark · River · Skjern",
+      "title": "In 2001, Denmark began turning 19 km of straightened River Skjern into 26 km of bends",
+      "summary": "Denmark's River Skjern is undergoing a restoration project aimed at reversing the environmental impact caused by historical drainage efforts. The river now floods more of its floodplain, but artificia",
+      "score": 1.984,
+      "n_outlets": 1,
+      "n_articles": 2,
+      "regions": [
+        "india"
+      ],
+      "last_seen": "2026-08-09T14:01:04+00:00",
+      "leans": [
+        "center"
+      ],
+      "sources": [
+        {
+          "outlet": "Times of India",
+          "region": "india",
+          "lean": "center",
+          "ownership": "private",
+          "title": "In 2001, Denmark began turning 19 km of straightened River Skjern into 26 km of bends",
+          "url": "https://timesofindia.indiatimes.com/world/rest-of-world/in-2001-denmark-began-turning-19-km-of-straightened-river-skjern-into-26-km-of-bends-researchers-later-found-some-lost-habitats-may-take-centuries-to-return/articleshow/133068300.cms",
+          "published": "2026-08-09T14:01:04+00:00",
+          "orig_title": "In 2001, Denmark began turning 19 km of straightened River Skjern into 26 km of bends",
+          "lang": "en",
+          "translated": false,
+          "access": "open",
+          "more": [
+            {
+              "outlet": "Times of India",
+              "region": "india",
+              "lean": "center",
+              "ownership": "private",
+              "title": "In 2010, Shanghai turned a polluted industrial brownfield into Houtan Park",
+              "url": "https://timesofindia.indiatimes.com/world/rest-of-world/in-2010-shanghai-turned-a-polluted-industrial-brownfield-into-houtan-park-its-wetlands-now-clean-up-to-634000-gallons-of-river-water-a-day/articleshow/133068200.cms",
+              "published": "2026-08-09T13:12:23+00:00",
+              "orig_title": "In 2010, Shanghai turned a polluted industrial brownfield into Houtan Park",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 34,
       "topic": "Science",
       "label": "Hoboken · opened · acre",
       "title": "In 2023, Hoboken opened a 5.4-acre park on a former industrial site; its playgrounds can...",
       "summary": "ResilienCity Park has officially opened in Hoboken, transforming a former industrial zone into a vital green space. This innovative park not only offers recreational facilities but also enhances the c",
-      "score": 1.988,
+      "score": 1.904,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -2982,12 +3013,12 @@
       ]
     },
     {
-      "id": 46,
+      "id": 72,
       "topic": "Science",
       "label": "Defendants · sheep · vaccine",
       "title": "Defendants in sheep vaccine fraud case appeal verdict",
       "summary": "“Ъ” стали известны подробности масштабной аферы, в ходе которой, по данным МВД, было похищено более 200 млн руб., выделенных Минобрнауки на разработку вакцины от заболевания овец. За совершение хищени",
-      "score": 1.905,
+      "score": 1.827,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -3014,12 +3045,12 @@
       ]
     },
     {
-      "id": 57,
+      "id": 83,
       "topic": "Science",
       "label": "satellites · hunting · secret",
       "title": "US satellites hunting secret nuclear tests accidentally detected first gamma-ray burst in 1967",
       "summary": "Gamma-ray bursts are among the most powerful explosions observed in the universe. First accidentally detected by Vela satellites in 1967, they puzzled scientists for decades. Research later showed tha",
-      "score": 1.87,
+      "score": 1.796,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -3046,12 +3077,12 @@
       ]
     },
     {
-      "id": 69,
+      "id": 94,
       "topic": "Science",
       "label": "Longest · serving · volunteer",
       "title": "Longest serving volunteer helps boost bird numbers",
       "summary": "Bird charity's longest serving volunteer helps achieve big success in boosting species recovery.",
-      "score": 1.842,
+      "score": 1.77,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -3078,12 +3109,12 @@
       ]
     },
     {
-      "id": 105,
+      "id": 126,
       "topic": "Science",
       "label": "What · India · FFSC",
       "title": "What is the significance of India’s first privately built FFSC rocket engine? | Explained",
       "summary": "Globally only three commercial companies have successfully developed high thrust FFSC engines, which are SpaceX and Stoke Space, both from the United States of America, and Land Space from China",
-      "score": 1.779,
+      "score": 1.712,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -3110,59 +3141,12 @@
       ]
     },
     {
-      "id": 107,
-      "topic": "Science",
-      "label": "Matter · force · Israeli",
-      "title": "What is a glueball? Chinese-led team finds rare particle made entirely of force",
-      "summary": "In a historic breakthrough, a Chinese-led international team of scientists has confirmed the existence of the glueball – a rare form of matter made entirely of force. The finding was announced by a Ch",
-      "score": 1.776,
-      "n_outlets": 1,
-      "n_articles": 2,
-      "regions": [
-        "china"
-      ],
-      "last_seen": "2026-08-09T10:05:54+00:00",
-      "leans": [
-        "center"
-      ],
-      "sources": [
-        {
-          "outlet": "South China Morning Post",
-          "region": "china",
-          "lean": "center",
-          "ownership": "private",
-          "title": "What is a glueball? Chinese-led team finds rare particle made entirely of force",
-          "url": "https://www.scmp.com/news/china/science/article/3363404/what-glueball-chinese-led-team-finds-rare-particle-made-entirely-force?utm_source=rss_feed",
-          "published": "2026-08-08T13:00:11+00:00",
-          "orig_title": "What is a glueball? Chinese-led team finds rare particle made entirely of force",
-          "lang": "en",
-          "translated": false,
-          "access": "open",
-          "more": [
-            {
-              "outlet": "South China Morning Post",
-              "region": "china",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Matter of pure force: US, Israeli physicists hail China’s glueball discovery as ‘triumph’",
-              "url": "https://www.scmp.com/news/china/science/article/3363444/matter-pure-force-us-israeli-physicists-hail-chinas-glueball-discovery-triumph?utm_source=rss_feed",
-              "published": "2026-08-09T10:05:54+00:00",
-              "orig_title": "Matter of pure force: US, Israeli physicists hail China’s glueball discovery as ‘triumph’",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 145,
+      "id": 163,
       "topic": "Technology",
       "label": "Thailand · school · Thai",
       "title": "Thailand school shooting toll rises to nine after 12-year-old dies, police say",
       "summary": "Teenage girl treated in hospital after Friday’s school shooting has died, police say The death toll from a school shooting in Thailand rose to nine on Saturday, after police said a 12-year-old girl ca",
-      "score": 5.669,
+      "score": 5.612,
       "n_outlets": 5,
       "n_articles": 6,
       "regions": [
@@ -3261,12 +3245,12 @@
       ]
     },
     {
-      "id": 100,
+      "id": 121,
       "topic": "Technology",
       "label": "Census · Australia · Everything",
       "title": "Census 2026 Australia: when is it, can it be completed online and why does it matter? Everything you need to know",
       "summary": "One expert says the survey, to be held on the night of 11 August, could be Australia’s most progressive, with new questions on sexuality and gender. What has changed? Get our breaking news email , fre",
-      "score": 2.782,
+      "score": 2.715,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -3307,12 +3291,12 @@
       ]
     },
     {
-      "id": 258,
+      "id": 275,
       "topic": "Technology",
       "label": "Reactor · Kansai · Electric",
       "title": "Reactor at Kansai Electric’s Oi plant stops after alarm",
       "summary": "While the cause of the incident is under investigation, no leakage of radioactive substances has occurred, according to the firm.",
-      "score": 2.406,
+      "score": 2.371,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -3354,12 +3338,58 @@
       ]
     },
     {
-      "id": 434,
+      "id": 363,
+      "topic": "Technology",
+      "label": "How · Beijing · Lessons",
+      "title": "How Beijing innovates: Lessons from China’s market-state hybrid model",
+      "summary": "Beijing’s innovation model brings together universities, start-ups, industry and the state to turn research into commercially viable technologies by bridging the ‘valley of death’; the ecosystem is dr",
+      "score": 2.216,
+      "n_outlets": 2,
+      "n_articles": 2,
+      "regions": [
+        "europe",
+        "india"
+      ],
+      "last_seen": "2026-08-08T19:48:26+00:00",
+      "leans": [
+        "left"
+      ],
+      "sources": [
+        {
+          "outlet": "Der Spiegel",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Artificial Intelligence: Is AI killing capitalism?",
+          "url": "https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-killt-ki-den-kapitalismus-a-56ab0493-30a5-45e2-a2fc-226357d1de60#ref=rss",
+          "published": "2026-08-08T06:10:00+00:00",
+          "orig_title": "Künstliche Intelligenz: Killt KI den Kapitalismus?",
+          "lang": "de",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
+          "outlet": "The Hindu",
+          "region": "india",
+          "lean": "left",
+          "ownership": "private",
+          "title": "How Beijing innovates: Lessons from China’s market-state hybrid model",
+          "url": "https://www.thehindu.com/news/international/the-beijing-model-of-innovation/article71313438.ece",
+          "published": "2026-08-08T19:48:26+00:00",
+          "orig_title": "How Beijing innovates: Lessons from China’s market-state hybrid model",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 449,
       "topic": "Technology",
       "label": "OpenAI · Interior · Ministry",
-      "title": "Interior Ministry advises using password managers to protect accounts from hacking",
-      "summary": "Взлом аккаунтов в мессенджерах, соцсетях и на «Госуслугах» является одним из этапов мошеннических схем. Для защиты учетных записей МВД рекомендует использовать менеджер паролей, передает ТАСС.",
-      "score": 2.099,
+      "title": "New OpenAI model proves too effective at cyberattacks",
+      "summary": "OpenAI приостановила часть работ с готовящейся к выпуску моделью Astra после предварительных испытаний. Они показали, что система может обладать «критическими» возможностями в сфере кибербезопасности.",
+      "score": 2.091,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -3400,12 +3430,12 @@
       ]
     },
     {
-      "id": 3,
+      "id": 31,
       "topic": "Technology",
       "label": "What · About · Garmin",
       "title": "‘What About Garmin?’ I Tested the Company’s Answer to Whoop",
       "summary": "The Cirqa health tracker, Garmin’s screenless health band, offers lots of data with no distractions.",
-      "score": 1.989,
+      "score": 1.904,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -3432,12 +3462,12 @@
       ]
     },
     {
-      "id": 51,
+      "id": 77,
       "topic": "Technology",
       "label": "Body · NSW · woman",
       "title": "Body of woman found in suitcase by side of road in regional NSW",
       "summary": "Police called to Oallen, about 40km south of Goulburn, on Sunday afternoon after suitcase discovered near Wolgon Road Get our breaking news email , free app or daily news podcast The body of a woman h",
-      "score": 1.893,
+      "score": 1.817,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -3464,12 +3494,12 @@
       ]
     },
     {
-      "id": 83,
+      "id": 107,
       "topic": "Technology",
       "label": "Apple · Tests · Chinese",
       "title": "Apple Tests Chinese Memory Chips as Supply Squeeze Bites",
       "summary": "The iPhone maker has held early talks with China’s CXMT, but any deal would be politically sensitive.",
-      "score": 1.83,
+      "score": 1.759,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -3496,12 +3526,12 @@
       ]
     },
     {
-      "id": 86,
+      "id": 110,
       "topic": "Technology",
       "label": "Hiker · Hong · Kong",
-      "title": "Hiker collapses, dies on Hong Kong trail as city swelters in record-breaking heat",
-      "summary": "A hiker collapsed and died in the Tai Po countryside on Sunday afternoon as Hong Kong endured its hottest temperatures since records began 142 years ago. Police said they received a report at 2.17pm t",
-      "score": 1.824,
+      "title": "Hiker dies on Hong Kong trail as city swelters in record-breaking heat",
+      "summary": "A hiker died on a country trail in Tai Po on Sunday afternoon as Hong Kong endured its hottest temperatures since records began 142 years ago. Police said they received a report at 2.17pm that a man, ",
+      "score": 1.754,
       "n_outlets": 1,
       "n_articles": 2,
       "regions": [
@@ -3517,10 +3547,10 @@
           "region": "china",
           "lean": "center",
           "ownership": "private",
-          "title": "Hiker collapses, dies on Hong Kong trail as city swelters in record-breaking heat",
+          "title": "Hiker dies on Hong Kong trail as city swelters in record-breaking heat",
           "url": "https://www.scmp.com/news/hong-kong/society/article/3363446/hiker-collapses-dies-hong-kong-trail-city-swelters-record-breaking-heat?utm_source=rss_feed",
           "published": "2026-08-09T10:49:16+00:00",
-          "orig_title": "Hiker collapses, dies on Hong Kong trail as city swelters in record-breaking heat",
+          "orig_title": "Hiker dies on Hong Kong trail as city swelters in record-breaking heat",
           "lang": "en",
           "translated": false,
           "access": "open",
@@ -3543,12 +3573,12 @@
       ]
     },
     {
-      "id": 108,
+      "id": 129,
       "topic": "Technology",
       "label": "Therapist · WSJ · Podcast",
       "title": "AI and the Blurring of Reality",
       "summary": "A three-part podcast series about how the rise of AI-generated content is warping our sense of what is real, and the dangers that presents.",
-      "score": 1.774,
+      "score": 1.708,
       "n_outlets": 1,
       "n_articles": 2,
       "regions": [
@@ -3590,44 +3620,12 @@
       ]
     },
     {
-      "id": 156,
-      "topic": "Technology",
-      "label": "How · Hong · Kong",
-      "title": "How are Hong Kong restaurants faring 1 month into the dog-friendly scheme?",
-      "summary": "Restaurateur Ken Chu Ka-chun recorded a 20 per cent boost in business at one of his outlets at Kai Tak Sports Park over the past month, thanks to pet owners dining in under a government scheme allowin",
-      "score": 1.638,
-      "n_outlets": 1,
-      "n_articles": 1,
-      "regions": [
-        "china"
-      ],
-      "last_seen": "2026-08-09T07:44:27+00:00",
-      "leans": [
-        "center"
-      ],
-      "sources": [
-        {
-          "outlet": "South China Morning Post",
-          "region": "china",
-          "lean": "center",
-          "ownership": "private",
-          "title": "How are Hong Kong restaurants faring 1 month into the dog-friendly scheme?",
-          "url": "https://www.scmp.com/news/hong-kong/society/article/3363434/how-are-hong-kong-restaurants-faring-1-month-dog-friendly-scheme?utm_source=rss_feed",
-          "published": "2026-08-09T07:44:27+00:00",
-          "orig_title": "How are Hong Kong restaurants faring 1 month into the dog-friendly scheme?",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        }
-      ]
-    },
-    {
-      "id": 135,
+      "id": 154,
       "topic": "Sports",
       "label": "Messi · Lionel · Jorge",
       "title": "Devastating blow for Lionel Messi as father Jorge dies after illness",
       "summary": "Death of Argentina captain's father comes just weeks after Lionel Messi led Albiceleste into 2026 World Cup, ending a lifelong partnership that shaped one of football's greatest careers. Leer más",
-      "score": 5.706,
+      "score": 5.645,
       "n_outlets": 5,
       "n_articles": 8,
       "regions": [
@@ -3755,18 +3753,18 @@
       ]
     },
     {
-      "id": 192,
+      "id": 10,
       "topic": "Sports",
-      "label": "Toronto · Sabalenka · tournament",
-      "title": "Alexandrova defeats world’s No.1 Sabalenka during Toronto tournament",
-      "summary": "In the quarterfinal match, the Russian player will face Elina Svitolina of Ukraine",
-      "score": 2.508,
+      "label": "Toronto · Sabalenka · Alexandrova",
+      "title": "Alexandrova defeats Sabalenka to reach Toronto tournament quarterfinals",
+      "summary": "Для Екатерины Александровой нынешний сезон до «тысячника» в Торонто складывался крайне неудачно. Потерпев 18 поражений в 27 матчах, в том числе 11 — в стартовых раундах, российская теннисистка, замкну",
+      "score": 2.967,
       "n_outlets": 2,
-      "n_articles": 3,
+      "n_articles": 6,
       "regions": [
         "russia"
       ],
-      "last_seen": "2026-08-09T05:00:51+00:00",
+      "last_seen": "2026-08-09T13:48:08+00:00",
       "leans": [
         "center",
         "state"
@@ -3777,13 +3775,54 @@
           "region": "russia",
           "lean": "center",
           "ownership": "private",
-          "title": "Aleksandrova defeats world number one Sabalenka at Toronto tournament",
-          "url": "https://www.kommersant.ru/doc/8875643",
-          "published": "2026-08-09T02:00:12+00:00",
-          "orig_title": "Александрова обыграла первую ракетку мира Соболенко на турнире в Торонто",
+          "title": "Alexandrova defeats Sabalenka to reach Toronto tournament quarterfinals",
+          "url": "https://www.kommersant.ru/doc/8875822",
+          "published": "2026-08-09T13:48:08+00:00",
+          "orig_title": "Александрова обыграла Соболенко и вышла в 1/4 финала турнира в Торонто",
           "lang": "ru",
           "translated": true,
-          "access": "unknown"
+          "access": "unknown",
+          "more": [
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Aleksandrova defeats world number one Sabalenka at Toronto tournament",
+              "url": "https://www.kommersant.ru/doc/8875643",
+              "published": "2026-08-09T02:00:12+00:00",
+              "orig_title": "Александрова обыграла первую ракетку мира Соболенко на турнире в Торонто",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Lokomotiv draws with Akron in third round of Russian Premier League",
+              "url": "https://www.kommersant.ru/doc/8875618",
+              "published": "2026-08-08T17:13:23+00:00",
+              "orig_title": "«Локомотив» сыграл вничью с «Акроном» в третьем туре РПЛ",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "CSKA draws with Rostov in third round of Russian Premier League",
+              "url": "https://www.kommersant.ru/doc/8875628",
+              "published": "2026-08-08T19:28:54+00:00",
+              "orig_title": "ЦСКА сыграл вничью с «Ростовом» в третьем туре РПЛ",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            }
+          ]
         },
         {
           "outlet": "TASS",
@@ -3816,14 +3855,78 @@
       ]
     },
     {
-      "id": 28,
+      "id": 14,
       "topic": "Sports",
-      "label": "El-Sayed · Live · Ocasio-Cortez",
-      "title": "Live updates: El-Sayed, Ocasio-Cortez set for Sunday show appearances",
-      "summary": "Fresh off his primary victory earlier this week, Michigan Senate candidate Abdul El-Sayed is set to appear on two news programs Sunday as he looks ahead to the November general election against former",
-      "score": 1.947,
+      "label": "Ebola · Congo · cases",
+      "title": "No Ebola cases found on quarantined river boat, Congo authorities say",
+      "summary": "More than 200 boat passengers were placed in quarantine on August 6 in the port of Maluku, 65 kilometres (40 miles) from Kinshasa, after one traveller who was previously aboard the boat died with symp",
+      "score": 1.949,
       "n_outlets": 1,
-      "n_articles": 3,
+      "n_articles": 1,
+      "regions": [
+        "india"
+      ],
+      "last_seen": "2026-08-09T13:34:57+00:00",
+      "leans": [
+        "left"
+      ],
+      "sources": [
+        {
+          "outlet": "The Hindu",
+          "region": "india",
+          "lean": "left",
+          "ownership": "private",
+          "title": "No Ebola cases found on quarantined river boat, Congo authorities say",
+          "url": "https://www.thehindu.com/news/international/no-ebola-cases-found-on-quarantined-river-boat-congo-authorities-say/article71324985.ece",
+          "published": "2026-08-09T13:34:57+00:00",
+          "orig_title": "No Ebola cases found on quarantined river boat, Congo authorities say",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "topic": "Sports",
+      "label": "Cristiano · Ronaldo · Al-Nassr",
+      "title": "Is Cristiano Ronaldo returning to Al-Nassr or getting married first?",
+      "summary": "Cristiano Ronaldo has been given extra time off by Al-Nassr following Portugal’s World Cup exit, with his return reportedly delayed until August 21. His extended absence has fuelled wedding rumours in",
+      "score": 1.891,
+      "n_outlets": 1,
+      "n_articles": 1,
+      "regions": [
+        "india"
+      ],
+      "last_seen": "2026-08-09T12:49:51+00:00",
+      "leans": [
+        "center"
+      ],
+      "sources": [
+        {
+          "outlet": "Times of India",
+          "region": "india",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Is Cristiano Ronaldo returning to Al-Nassr or getting married first?",
+          "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/is-cristiano-ronaldo-returning-to-al-nassr-or-getting-married-first/articleshow/133067525.cms",
+          "published": "2026-08-09T12:49:51+00:00",
+          "orig_title": "Is Cristiano Ronaldo returning to Al-Nassr or getting married first?",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "topic": "Sports",
+      "label": "Live · El-Sayed · Ocasio-Cortez",
+      "title": "Case fends off challenge from his left in Hawaii Democratic House primary",
+      "summary": "Rep. Ed Case (D-Hawaii) was projected to win his Democratic primary on Saturday, fending off a a progressive challenger, according to Decision Desk HQ. Case, one of the most conservative Democrats in ",
+      "score": 1.866,
+      "n_outlets": 1,
+      "n_articles": 2,
       "regions": [
         "us"
       ],
@@ -3837,10 +3940,10 @@
           "region": "us",
           "lean": "center",
           "ownership": "private",
-          "title": "Live updates: El-Sayed, Ocasio-Cortez set for Sunday show appearances",
-          "url": "https://thehill.com/homenews/administration/6018822-live-updates-el-sayed-aoc-trump-birthright-citizenship-fauci-contempt/",
-          "published": "2026-08-09T12:29:08+00:00",
-          "orig_title": "Live updates: El-Sayed, Ocasio-Cortez set for Sunday show appearances",
+          "title": "Case fends off challenge from his left in Hawaii Democratic House primary",
+          "url": "https://thehill.com/homenews/campaign/6017601-case-wins-hawaii-house-primary/",
+          "published": "2026-08-09T10:12:25+00:00",
+          "orig_title": "Case fends off challenge from his left in Hawaii Democratic House primary",
           "lang": "en",
           "translated": false,
           "access": "unknown",
@@ -3850,23 +3953,10 @@
               "region": "us",
               "lean": "center",
               "ownership": "private",
-              "title": "El-Sayed faces 'risky bet' with Michigan's Black voters",
-              "url": "https://thehill.com/homenews/campaign/6017875-el-sayed-michigan-senate-black-voters/",
-              "published": "2026-08-08T21:00:00+00:00",
-              "orig_title": "El-Sayed faces 'risky bet' with Michigan's Black voters",
-              "lang": "en",
-              "translated": false,
-              "access": "unknown"
-            },
-            {
-              "outlet": "The Hill",
-              "region": "us",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Case fends off challenge from his left in Hawaii Democratic House primary",
-              "url": "https://thehill.com/homenews/campaign/6017601-case-wins-hawaii-house-primary/",
-              "published": "2026-08-09T10:12:25+00:00",
-              "orig_title": "Case fends off challenge from his left in Hawaii Democratic House primary",
+              "title": "Live updates: El-Sayed, Ocasio-Cortez set for Sunday show appearances",
+              "url": "https://thehill.com/homenews/administration/6018822-live-updates-el-sayed-aoc-trump-birthright-citizenship-fauci-contempt/",
+              "published": "2026-08-09T12:29:08+00:00",
+              "orig_title": "Live updates: El-Sayed, Ocasio-Cortez set for Sunday show appearances",
               "lang": "en",
               "translated": false,
               "access": "unknown"
@@ -3876,14 +3966,14 @@
       ]
     },
     {
-      "id": 29,
+      "id": 54,
       "topic": "Sports",
       "label": "India · Jaiswal · Captain",
-      "title": "India tick boxes in warm-up: Captain Gill fit, Jaiswal finds rhythm, Brar impresses",
-      "summary": "Shubman Gill's return to the middle, Yashasvi Jaiswal's fluent knock and Gurnoor Brar's impressive outing gave India plenty of positives in their Colombo warm-up, while a surprise visit from Sri Lanka",
-      "score": 1.945,
+      "title": "'I’m tearing it up': Rahane's shocking revelation that saved Jaiswal from ban",
+      "summary": "Ajinkya Rahane discussed his intervention during a 2022 Duleep Trophy final match. He prevented Yashasvi Jaiswal from receiving a four-match ban from the match referee. Rahane sensed the situation was",
+      "score": 1.864,
       "n_outlets": 1,
-      "n_articles": 5,
+      "n_articles": 4,
       "regions": [
         "india"
       ],
@@ -3897,10 +3987,10 @@
           "region": "india",
           "lean": "center",
           "ownership": "private",
-          "title": "India tick boxes in warm-up: Captain Gill fit, Jaiswal finds rhythm, Brar impresses",
-          "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/india-tick-boxes-in-warm-up-captain-shubman-gill-fit-yashasvi-jaiswal-finds-rhythm-gurnoor-brar-impresses/articleshow/133067373.cms",
-          "published": "2026-08-09T12:27:32+00:00",
-          "orig_title": "India tick boxes in warm-up: Captain Gill fit, Jaiswal finds rhythm, Brar impresses",
+          "title": "'I’m tearing it up': Rahane's shocking revelation that saved Jaiswal from ban",
+          "url": "https://timesofindia.indiatimes.com/sports/cricket/news/im-tearing-it-up-ajinkya-rahanes-shocking-revelation-that-saved-yashasvi-jaiswal-from-4-match-ban/articleshow/133067362.cms",
+          "published": "2026-08-09T12:16:25+00:00",
+          "orig_title": "'I’m tearing it up': Rahane's shocking revelation that saved Jaiswal from ban",
           "lang": "en",
           "translated": false,
           "access": "open",
@@ -3910,36 +4000,23 @@
               "region": "india",
               "lean": "center",
               "ownership": "private",
+              "title": "India tick boxes in warm-up: Captain Gill fit, Jaiswal finds rhythm, Brar impresses",
+              "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/india-tick-boxes-in-warm-up-captain-shubman-gill-fit-yashasvi-jaiswal-finds-rhythm-gurnoor-brar-impresses/articleshow/133067373.cms",
+              "published": "2026-08-09T12:27:32+00:00",
+              "orig_title": "India tick boxes in warm-up: Captain Gill fit, Jaiswal finds rhythm, Brar impresses",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            },
+            {
+              "outlet": "Times of India",
+              "region": "india",
+              "lean": "center",
+              "ownership": "private",
               "title": "Gary Kirsten keeps close eye on India as Sri Lanka set visitors 207-run chase",
               "url": "https://timesofindia.indiatimes.com/sports/cricket/news/gary-kirsten-keeps-close-eye-on-india-as-sri-lanka-set-visitors-207-run-chase-in-warm-up/articleshow/133064617.cms",
               "published": "2026-08-09T09:04:20+00:00",
               "orig_title": "Gary Kirsten keeps close eye on India as Sri Lanka set visitors 207-run chase",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
-            },
-            {
-              "outlet": "Times of India",
-              "region": "india",
-              "lean": "center",
-              "ownership": "private",
-              "title": "'I’m tearing it up': Rahane's shocking revelation that saved Jaiswal from ban",
-              "url": "https://timesofindia.indiatimes.com/sports/cricket/news/im-tearing-it-up-ajinkya-rahanes-shocking-revelation-that-saved-yashasvi-jaiswal-from-4-match-ban/articleshow/133067362.cms",
-              "published": "2026-08-09T12:16:25+00:00",
-              "orig_title": "'I’m tearing it up': Rahane's shocking revelation that saved Jaiswal from ban",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
-            },
-            {
-              "outlet": "Times of India",
-              "region": "india",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Ravindra Jadeja’s Kuldeep Yadav imitation leaves Gautam Gambhir in splits - Watch",
-              "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/ravindra-jadejas-kuldeep-yadav-imitation-leaves-gautam-gambhir-in-splits-watch/articleshow/133056454.cms",
-              "published": "2026-08-08T23:30:00+00:00",
-              "orig_title": "Ravindra Jadeja’s Kuldeep Yadav imitation leaves Gautam Gambhir in splits - Watch",
               "lang": "en",
               "translated": false,
               "access": "open"
@@ -3962,12 +4039,44 @@
       ]
     },
     {
-      "id": 73,
+      "id": 62,
+      "topic": "Sports",
+      "label": "Chaliha · Indian · Korea",
+      "title": "'I’m hungry for more': Chaliha after becoming first Indian to win Korea Masters",
+      "summary": "Ashmita Chaliha won her maiden BWF World Tour title at the Korea Masters, defeating China’s Han Qian Xi in a three-game comeback. The 26-year-old became the first Indian to win the tournament and is s",
+      "score": 1.847,
+      "n_outlets": 1,
+      "n_articles": 1,
+      "regions": [
+        "india"
+      ],
+      "last_seen": "2026-08-09T12:13:24+00:00",
+      "leans": [
+        "center"
+      ],
+      "sources": [
+        {
+          "outlet": "Times of India",
+          "region": "india",
+          "lean": "center",
+          "ownership": "private",
+          "title": "'I’m hungry for more': Chaliha after becoming first Indian to win Korea Masters",
+          "url": "https://timesofindia.indiatimes.com/sports/badminton/im-hungry-for-more-ashmita-chaliha-after-becoming-first-indian-to-win-the-korea-masters/articleshow/133067440.cms",
+          "published": "2026-08-09T12:13:24+00:00",
+          "orig_title": "'I’m hungry for more': Chaliha after becoming first Indian to win Korea Masters",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 97,
       "topic": "Sports",
       "label": "Press · Luigi · Mangione",
       "title": "Press access spat adds to fears of circus around Luigi Mangione murder trial",
       "summary": "Lawyers for man accused of killing healthcare CEO Brian Thompson raise red flags about limits on reporters Weeks before Luigi Mangione faces a jury over the killing of the UnitedHealthcare executive B",
-      "score": 1.837,
+      "score": 1.766,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -3994,12 +4103,12 @@
       ]
     },
     {
-      "id": 75,
+      "id": 99,
       "topic": "Sports",
       "label": "Inside · Hongkongers · paper",
       "title": "Inside a paper coffin: how Hongkongers can prepare for the end of life",
       "summary": "In the final instalment of a five-part Health Matters wellness series on ageing in Hong Kong, Emily Hung looks at how living funerals, advance directives and family mediation are helping older residen",
-      "score": 1.837,
+      "score": 1.765,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -4026,44 +4135,12 @@
       ]
     },
     {
-      "id": 87,
-      "topic": "Sports",
-      "label": "Naruto · Whirlpool · Hachioji",
-      "title": "Naruto Whirlpool wins in extras with walk-off victory as Hachioji Jissenn ties in ninth with two outs",
-      "summary": "Naruto Whirlpool wins in extras with walk-off victory as Hachioji Jissenn ties in ninth with two outs",
-      "score": 1.811,
-      "n_outlets": 1,
-      "n_articles": 1,
-      "regions": [
-        "japan"
-      ],
-      "last_seen": "2026-08-09T10:37:02+00:00",
-      "leans": [
-        "left"
-      ],
-      "sources": [
-        {
-          "outlet": "Asahi Shimbun",
-          "region": "japan",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Naruto Whirlpool wins in extras with walk-off victory as Hachioji Jissenn ties in ninth with two outs",
-          "url": "http://www.asahi.com/articles/ASV892W3GV89UQIP010M.html?ref=rss",
-          "published": "2026-08-09T10:37:02+00:00",
-          "orig_title": "鳴門渦潮が延長戦制しサヨナラ勝ち 八王子実践は九回2死で追いつく",
-          "lang": "ja",
-          "translated": true,
-          "access": "unknown"
-        }
-      ]
-    },
-    {
-      "id": 90,
+      "id": 112,
       "topic": "Sports",
       "label": "VVS · Virat · Kohli",
       "title": "VVS hails Virat Kohli as a 'great role model', praises his professionalism",
       "summary": "VVS Laxman praised Virat Kohli for being a model of professionalism and integrity in the cricketing world. Kohli has not only set high standards but consistently meets them, showcasing an impressive r",
-      "score": 1.806,
+      "score": 1.737,
       "n_outlets": 1,
       "n_articles": 2,
       "regions": [
@@ -4101,70 +4178,6 @@
               "access": "open"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": 148,
-      "topic": "Sports",
-      "label": "MFM · Louis · Edem",
-      "title": "MFM win inaugural Louis Edem West Africa Women’s Basketball Championship",
-      "summary": "The final, played on Saturday at the Indoor Sports Hall of the National Stadium in Surulere, Lagos, was a competitive contest. The post MFM win inaugural Louis Edem West Africa Women&#8217;s Basketbal",
-      "score": 1.658,
-      "n_outlets": 1,
-      "n_articles": 1,
-      "regions": [
-        "africa"
-      ],
-      "last_seen": "2026-08-09T08:07:06+00:00",
-      "leans": [
-        "center"
-      ],
-      "sources": [
-        {
-          "outlet": "Premium Times",
-          "region": "africa",
-          "lean": "center",
-          "ownership": "private",
-          "title": "MFM win inaugural Louis Edem West Africa Women’s Basketball Championship",
-          "url": "https://www.premiumtimesng.com/sports/nigeria-sports-news/901621-mfm-win-inaugural-louis-edem-west-africa-womens-basketball-championship.html",
-          "published": "2026-08-09T08:07:06+00:00",
-          "orig_title": "MFM win inaugural Louis Edem West Africa Women’s Basketball Championship",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        }
-      ]
-    },
-    {
-      "id": 153,
-      "topic": "Sports",
-      "label": "West · Indies · World",
-      "title": "West Indies suffer major blow, miss direct qualification for 2027 World Cup",
-      "summary": "West Indies and Ireland are set to clash in the qualifiers for the 2027 Cricket World Cup after Afghanistan's recent victory guaranteed their place in the tournament. This will be the third straight W",
-      "score": 1.644,
-      "n_outlets": 1,
-      "n_articles": 1,
-      "regions": [
-        "india"
-      ],
-      "last_seen": "2026-08-09T07:51:23+00:00",
-      "leans": [
-        "center"
-      ],
-      "sources": [
-        {
-          "outlet": "Times of India",
-          "region": "india",
-          "lean": "center",
-          "ownership": "private",
-          "title": "West Indies suffer major blow, miss direct qualification for 2027 World Cup",
-          "url": "https://timesofindia.indiatimes.com/sports/cricket/news/west-indies-suffer-major-odi-world-cup-blow-miss-direct-qualification-for-2027-showpiece/articleshow/133064003.cms",
-          "published": "2026-08-09T07:51:23+00:00",
-          "orig_title": "West Indies suffer major blow, miss direct qualification for 2027 World Cup",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
         }
       ]
     }
