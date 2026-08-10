@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T04:18:52.376345+00:00",
+  "generated_at": "2026-08-10T06:01:43.915382+00:00",
   "topics": [
     "World & Politics",
     "Economics",
@@ -14,35 +14,35 @@
       "name": "United States",
       "lat": 39.0,
       "lng": -98.0,
-      "count": 21
+      "count": 22
     },
     {
       "id": "europe",
       "name": "Europe",
       "lat": 50.0,
       "lng": 10.0,
-      "count": 22
+      "count": 27
     },
     {
       "id": "china",
       "name": "China",
       "lat": 35.0,
       "lng": 105.0,
-      "count": 17
+      "count": 20
     },
     {
       "id": "india",
       "name": "India",
       "lat": 22.0,
       "lng": 79.0,
-      "count": 24
+      "count": 23
     },
     {
       "id": "australia",
       "name": "Australia",
       "lat": -25.0,
       "lng": 134.0,
-      "count": 2
+      "count": 3
     },
     {
       "id": "south_america",
@@ -56,31 +56,31 @@
       "name": "Africa",
       "lat": 2.0,
       "lng": 21.0,
-      "count": 1
+      "count": 0
     },
     {
       "id": "japan",
       "name": "Japan",
       "lat": 36.5,
       "lng": 139.0,
-      "count": 12
+      "count": 9
     },
     {
       "id": "russia",
       "name": "Russia",
       "lat": 61.0,
       "lng": 90.0,
-      "count": 18
+      "count": 15
     }
   ],
   "clusters": [
     {
-      "id": 94,
+      "id": 147,
       "topic": "World & Politics",
       "label": "Gaza · Netanyahu · Israel",
       "title": "Netanyahu rejects US-led 15-point Gaza peace plan in rare public break with Trump",
       "summary": "Israeli PM says IDF will not withdraw until Hamas is disarmed and rebukes US pressure to end wars without his country’s buy-in Israel’s prime minister, Benjamin Netanyahu, has rejected a US-backed 15-",
-      "score": 13.854,
+      "score": 13.74,
       "n_outlets": 13,
       "n_articles": 17,
       "regions": [
@@ -329,12 +329,12 @@
       ]
     },
     {
-      "id": 64,
+      "id": 117,
       "topic": "World & Politics",
       "label": "Hormuz · Iran · Strait",
       "title": "Iran issues tough demands to reopen strait of Hormuz as deal still out of reach",
       "summary": "Tehran urges US to ‘correct its behaviour’ as UAE says one of its ships targeted by Iranian missile Iran has issued tough new demands for reopening the strait of Hormuz, while the United Arab Emirates",
-      "score": 10.926,
+      "score": 10.803,
       "n_outlets": 10,
       "n_articles": 15,
       "regions": [
@@ -555,14 +555,187 @@
       ]
     },
     {
-      "id": 25,
+      "id": 44,
+      "topic": "World & Politics",
+      "label": "Canada · British · Columbia",
+      "title": "Canadian government steps in as ‘out of control’ wildfires force thousands to flee",
+      "summary": "British Columbia battling 102 fires day and night across province, as breakneck speed hampers firefighters’ efforts Canada’s federal government has announced it will provide urgent assistance to Briti",
+      "score": 7.917,
+      "n_outlets": 7,
+      "n_articles": 11,
+      "regions": [
+        "china",
+        "europe",
+        "india",
+        "russia",
+        "us"
+      ],
+      "last_seen": "2026-08-10T04:59:24+00:00",
+      "leans": [
+        "center",
+        "left"
+      ],
+      "sources": [
+        {
+          "outlet": "NPR",
+          "region": "us",
+          "lean": "left",
+          "ownership": "public",
+          "title": "Crews battle wildfires in western U.S. and Canada",
+          "url": "https://www.npr.org/2026/08/09/nx-s1-5926463/western-us-wildfires-canada-utah",
+          "published": "2026-08-09T22:03:09+00:00",
+          "orig_title": "Crews battle wildfires in western U.S. and Canada",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "The Guardian",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Canadian government steps in as ‘out of control’ wildfires force thousands to flee",
+          "url": "https://www.theguardian.com/world/2026/aug/09/canada-british-columbia-government-wildfires",
+          "published": "2026-08-09T18:20:25+00:00",
+          "orig_title": "Canadian government steps in as ‘out of control’ wildfires force thousands to flee",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "The Hindu",
+          "region": "india",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Wildfire forces 20,000 evacuations in western Canada",
+          "url": "https://www.thehindu.com/news/international/wildfire-forces-20000-evacuations-in-western-canada/article71325530.ece",
+          "published": "2026-08-09T15:27:31+00:00",
+          "orig_title": "Wildfire forces 20,000 evacuations in western Canada",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "The New York Times",
+          "region": "us",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Explosive Wildfire in British Columbia Leaves 1 Dead",
+          "url": "https://www.nytimes.com/2026/08/10/world/canada/western-canada-wildfires-british-columbia-bc.html",
+          "published": "2026-08-10T04:59:24+00:00",
+          "orig_title": "Explosive Wildfire in British Columbia Leaves 1 Dead",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall",
+          "more": [
+            {
+              "outlet": "The New York Times",
+              "region": "us",
+              "lean": "left",
+              "ownership": "private",
+              "title": "Canada Wildfires: What to Know About Fires in British Columbia and Ontario",
+              "url": "https://www.nytimes.com/article/canada-wildfires-2026.html",
+              "published": "2026-08-10T01:55:48+00:00",
+              "orig_title": "Canada Wildfires: What to Know About Fires in British Columbia and Ontario",
+              "lang": "en",
+              "translated": false,
+              "access": "paywall"
+            },
+            {
+              "outlet": "The New York Times",
+              "region": "us",
+              "lean": "left",
+              "ownership": "private",
+              "title": "Bald Range Wildfire Forces Evacuation of 18,000 in British Columbia",
+              "url": "https://www.nytimes.com/2026/08/08/world/canada/canada-summerland-bc-wildfire-bald-range-evacuation.html",
+              "published": "2026-08-09T15:10:49+00:00",
+              "orig_title": "Bald Range Wildfire Forces Evacuation of 18,000 in British Columbia",
+              "lang": "en",
+              "translated": false,
+              "access": "paywall"
+            }
+          ]
+        },
+        {
+          "outlet": "BBC News",
+          "region": "europe",
+          "lean": "center",
+          "ownership": "public",
+          "title": "Residents warned to brace for the worst as Canada wildfire rages out of control",
+          "url": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-10T03:33:51+00:00",
+          "orig_title": "Residents warned to brace for the worst as Canada wildfire rages out of control",
+          "lang": "en",
+          "translated": false,
+          "access": "open",
+          "more": [
+            {
+              "outlet": "BBC News",
+              "region": "europe",
+              "lean": "center",
+              "ownership": "public",
+              "title": "'Not afraid to stay': The Canadians taking fighting wildfires into their own hands",
+              "url": "https://www.bbc.co.uk/news/articles/c20d89jxpqno?at_medium=RSS&at_campaign=rss",
+              "published": "2026-08-09T23:02:39+00:00",
+              "orig_title": "'Not afraid to stay': The Canadians taking fighting wildfires into their own hands",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            }
+          ]
+        },
+        {
+          "outlet": "Kommersant",
+          "region": "russia",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Canadian forest fires force evacuation of 20,000 people",
+          "url": "https://www.kommersant.ru/doc/8875838",
+          "published": "2026-08-09T14:47:14+00:00",
+          "orig_title": "Из-за лесных пожаров в Канаде эвакуировали 20 тыс. человек",
+          "lang": "ru",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
+          "outlet": "South China Morning Post",
+          "region": "china",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Canada’s British Columbia gets federal help as wildfire forces evacuations",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3363470/canadian-province-get-federal-help-wildfire-forces-evacuations?utm_source=rss_feed",
+          "published": "2026-08-09T22:22:44+00:00",
+          "orig_title": "Canada’s British Columbia gets federal help as wildfire forces evacuations",
+          "lang": "en",
+          "translated": false,
+          "access": "open",
+          "more": [
+            {
+              "outlet": "South China Morning Post",
+              "region": "china",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Firefighters battle raging wildfires in parts of France and Spain",
+              "url": "https://www.scmp.com/news/world/europe/article/3363464/over-200-firefighters-battle-blaze-southern-france?utm_source=rss_feed",
+              "published": "2026-08-09T17:13:45+00:00",
+              "orig_title": "Firefighters battle raging wildfires in parts of France and Spain",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 45,
       "topic": "World & Politics",
       "label": "Typhoon · Dolphin · China",
       "title": "Typhoon Dolphin makes landfall in China after evacuations, flight cancellations",
       "summary": "Typhoon Dolphin brought heavy rain and strong winds to Japan's Okinawa before reaching China.",
-      "score": 7.956,
+      "score": 7.912,
       "n_outlets": 7,
-      "n_articles": 10,
+      "n_articles": 11,
       "regions": [
         "china",
         "europe",
@@ -570,7 +743,7 @@
         "japan",
         "russia"
       ],
-      "last_seen": "2026-08-10T03:46:36+00:00",
+      "last_seen": "2026-08-10T04:55:18+00:00",
       "leans": [
         "center",
         "left"
@@ -583,7 +756,7 @@
           "ownership": "private",
           "title": "Typhoon Dolphin: more than a million people evacuated in China as record rainfall dumped on Shanghai",
           "url": "https://www.theguardian.com/world/2026/aug/10/typhoon-dolphin-china-shanghai-flooding-evacuations",
-          "published": "2026-08-10T03:46:36+00:00",
+          "published": "2026-08-10T04:55:18+00:00",
           "orig_title": "Typhoon Dolphin: more than a million people evacuated in China as record rainfall dumped on Shanghai",
           "lang": "en",
           "translated": false,
@@ -676,13 +849,28 @@
           "region": "china",
           "lean": "center",
           "ownership": "private",
-          "title": "Chinese boy, 9, missing after being swept away by wave as Typhoon Dolphin approached coast",
-          "url": "https://www.scmp.com/news/china/article/3363450/chinese-boy-9-missing-after-being-swept-away-wave-typhoon-dolphin-approached-coast?utm_source=rss_feed",
-          "published": "2026-08-09T11:47:14+00:00",
-          "orig_title": "Chinese boy, 9, missing after being swept away by wave as Typhoon Dolphin approached coast",
+          "title": "40% of flights grounded in Shanghai as long-lived Typhoon Dolphin moves north",
+          "url": "https://www.scmp.com/news/china/politics/article/3363486/40-flights-grounded-shanghai-long-lived-typhoon-dolphin-moves-north?utm_source=rss_feed",
+          "published": "2026-08-10T04:29:59+00:00",
+          "orig_title": "40% of flights grounded in Shanghai as long-lived Typhoon Dolphin moves north",
           "lang": "en",
           "translated": false,
-          "access": "open"
+          "access": "open",
+          "more": [
+            {
+              "outlet": "South China Morning Post",
+              "region": "china",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Chinese boy, 9, missing after being swept away by wave as Typhoon Dolphin approached coast",
+              "url": "https://www.scmp.com/news/china/article/3363450/chinese-boy-9-missing-after-being-swept-away-wave-typhoon-dolphin-approached-coast?utm_source=rss_feed",
+              "published": "2026-08-09T11:47:14+00:00",
+              "orig_title": "Chinese boy, 9, missing after being swept away by wave as Typhoon Dolphin approached coast",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            }
+          ]
         },
         {
           "outlet": "The Japan Times",
@@ -713,157 +901,12 @@
       ]
     },
     {
-      "id": 34,
-      "topic": "World & Politics",
-      "label": "Canada · British · Columbia",
-      "title": "Canadian government steps in as ‘out of control’ wildfires force thousands to flee",
-      "summary": "British Columbia battling 102 fires day and night across province, as breakneck speed hampers firefighters’ efforts Canada’s federal government has announced it will provide urgent assistance to Briti",
-      "score": 7.939,
-      "n_outlets": 7,
-      "n_articles": 9,
-      "regions": [
-        "china",
-        "europe",
-        "india",
-        "russia",
-        "us"
-      ],
-      "last_seen": "2026-08-10T03:33:51+00:00",
-      "leans": [
-        "center",
-        "left"
-      ],
-      "sources": [
-        {
-          "outlet": "NPR",
-          "region": "us",
-          "lean": "left",
-          "ownership": "public",
-          "title": "Crews battle wildfires in western U.S. and Canada",
-          "url": "https://www.npr.org/2026/08/09/nx-s1-5926463/western-us-wildfires-canada-utah",
-          "published": "2026-08-09T22:03:09+00:00",
-          "orig_title": "Crews battle wildfires in western U.S. and Canada",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "The Guardian",
-          "region": "europe",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Canadian government steps in as ‘out of control’ wildfires force thousands to flee",
-          "url": "https://www.theguardian.com/world/2026/aug/09/canada-british-columbia-government-wildfires",
-          "published": "2026-08-09T18:20:25+00:00",
-          "orig_title": "Canadian government steps in as ‘out of control’ wildfires force thousands to flee",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "The Hindu",
-          "region": "india",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Wildfire forces 20,000 evacuations in western Canada",
-          "url": "https://www.thehindu.com/news/international/wildfire-forces-20000-evacuations-in-western-canada/article71325530.ece",
-          "published": "2026-08-09T15:27:31+00:00",
-          "orig_title": "Wildfire forces 20,000 evacuations in western Canada",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "The New York Times",
-          "region": "us",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Canada Wildfires: What to Know About Fires in British Columbia and Ontario",
-          "url": "https://www.nytimes.com/article/canada-wildfires-2026.html",
-          "published": "2026-08-10T01:55:48+00:00",
-          "orig_title": "Canada Wildfires: What to Know About Fires in British Columbia and Ontario",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall",
-          "more": [
-            {
-              "outlet": "The New York Times",
-              "region": "us",
-              "lean": "left",
-              "ownership": "private",
-              "title": "Bald Range Wildfire Forces Evacuation of 18,000 in British Columbia",
-              "url": "https://www.nytimes.com/2026/08/08/world/canada/canada-summerland-bc-wildfire-bald-range-evacuation.html",
-              "published": "2026-08-09T15:10:49+00:00",
-              "orig_title": "Bald Range Wildfire Forces Evacuation of 18,000 in British Columbia",
-              "lang": "en",
-              "translated": false,
-              "access": "paywall"
-            }
-          ]
-        },
-        {
-          "outlet": "BBC News",
-          "region": "europe",
-          "lean": "center",
-          "ownership": "public",
-          "title": "Residents warned to brace for the worst as Canada wildfire rages out of control",
-          "url": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-10T03:33:51+00:00",
-          "orig_title": "Residents warned to brace for the worst as Canada wildfire rages out of control",
-          "lang": "en",
-          "translated": false,
-          "access": "open",
-          "more": [
-            {
-              "outlet": "BBC News",
-              "region": "europe",
-              "lean": "center",
-              "ownership": "public",
-              "title": "'Not afraid to stay': The Canadians taking fighting wildfires into their own hands",
-              "url": "https://www.bbc.co.uk/news/articles/c20d89jxpqno?at_medium=RSS&at_campaign=rss",
-              "published": "2026-08-09T23:02:39+00:00",
-              "orig_title": "'Not afraid to stay': The Canadians taking fighting wildfires into their own hands",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
-            }
-          ]
-        },
-        {
-          "outlet": "Kommersant",
-          "region": "russia",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Canadian forest fires force evacuation of 20,000 people",
-          "url": "https://www.kommersant.ru/doc/8875838",
-          "published": "2026-08-09T14:47:14+00:00",
-          "orig_title": "Из-за лесных пожаров в Канаде эвакуировали 20 тыс. человек",
-          "lang": "ru",
-          "translated": true,
-          "access": "unknown"
-        },
-        {
-          "outlet": "South China Morning Post",
-          "region": "china",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Canada’s British Columbia gets federal help as wildfire forces evacuations",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3363470/canadian-province-get-federal-help-wildfire-forces-evacuations?utm_source=rss_feed",
-          "published": "2026-08-09T22:22:44+00:00",
-          "orig_title": "Canada’s British Columbia gets federal help as wildfire forces evacuations",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        }
-      ]
-    },
-    {
-      "id": 151,
+      "id": 197,
       "topic": "World & Politics",
       "label": "Trump · Scharf · White",
       "title": "Trump announces staff secretary Will Scharf will be his new White House counsel",
       "summary": "Mr. Trump said that, beginning September 1, Will Scharf will be replacing David Warrington, who will be leaving the administration to join the private sector",
-      "score": 6.653,
+      "score": 6.566,
       "n_outlets": 6,
       "n_articles": 6,
       "regions": [
@@ -912,10 +955,10 @@
           "region": "china",
           "lean": "center",
           "ownership": "private",
-          "title": "Trump announces staff secretary Will Scharf will be his new White House counsel",
+          "title": "Trump taps loyal aide Scharf as new White House counsel",
           "url": "https://www.scmp.com/news/world/united-states-canada/article/3363471/trump-announces-staff-secretary-will-scharf-will-be-his-new-white-house-counsel?utm_source=rss_feed",
           "published": "2026-08-09T22:52:09+00:00",
-          "orig_title": "Trump announces staff secretary Will Scharf will be his new White House counsel",
+          "orig_title": "Trump taps loyal aide Scharf as new White House counsel",
           "lang": "en",
           "translated": false,
           "access": "open"
@@ -962,12 +1005,12 @@
       ]
     },
     {
-      "id": 201,
+      "id": 243,
       "topic": "World & Politics",
       "label": "Saudi · Houthis · Yemen",
       "title": "Yemen’s Houthis attack Saudi refinery, testing new defence pact",
       "summary": "Yemen’s Iran-aligned Houthis have attacked Saudi Aramco’s Jazan refinery, ⁠they said on Sunday, two days after the kingdom signed a defence pact with Turkey and Pakistan in response to growing regiona",
-      "score": 6.531,
+      "score": 6.46,
       "n_outlets": 6,
       "n_articles": 10,
       "regions": [
@@ -1121,136 +1164,20 @@
       ]
     },
     {
-      "id": 89,
+      "id": 195,
       "topic": "World & Politics",
-      "label": "Ukraine · Zelenskyy · larger",
-      "title": "Ukraine: Chornobyl prepares defenses against Russia's next invasion attempt",
-      "summary": "Zu Beginn der Invasion besetzten Putins Truppen die Atomruine nördlich von Kyjiw. Heute herrscht die ukrainische Armee über das geisterhafte Gebiet. Und bereitet sich darauf vor, dass der Feind zurück",
-      "score": 5.875,
+      "label": "Ukrainian · Russia · Russian",
+      "title": "Over 280 Ukrainian drones taken down over Russian regions during day",
+      "summary": "From 8:00 a.m. to 8:00 p.m. Moscow time, Russian air defense systems intercepted and destroyed 285 Ukrainian fixed-wing unmanned aerial vehicles, the Russian defense ministry said",
+      "score": 5.584,
       "n_outlets": 5,
-      "n_articles": 7,
-      "regions": [
-        "europe",
-        "japan",
-        "russia"
-      ],
-      "last_seen": "2026-08-10T02:42:21+00:00",
-      "leans": [
-        "center",
-        "left",
-        "right"
-      ],
-      "sources": [
-        {
-          "outlet": "Der Spiegel",
-          "region": "europe",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Ukraine: Chornobyl prepares defenses against Russia's next invasion attempt",
-          "url": "https://www.spiegel.de/ausland/ukraine-krieg-wie-sich-tschernobyl-gegen-russlands-naechsten-invasionsversuch-wappnet-a-7dc03c1e-9936-4e9b-9503-6b5cf2e61c23#ref=rss",
-          "published": "2026-08-09T17:58:00+00:00",
-          "orig_title": "Ukraine: Wie sich Tschernobyl gegen Russlands nächsten Invasionsversuch wappnet",
-          "lang": "de",
-          "translated": true,
-          "access": "unknown"
-        },
-        {
-          "outlet": "El Pais",
-          "region": "europe",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Ukraine wants to attack Russian launchers with help from Elon Musk's satellites",
-          "url": "https://elpais.com/internacional/2026-08-09/ucrania-quiere-atacar-las-lanzaderas-en-rusia-con-la-ayuda-de-los-satelites-de-elon-musk.html",
-          "published": "2026-08-09T03:30:01+00:00",
-          "orig_title": "Ucrania quiere atacar las lanzaderas en Rusia con la ayuda de los satélites de Elon Musk",
-          "lang": "es",
-          "translated": true,
-          "access": "unknown"
-        },
-        {
-          "outlet": "Kommersant",
-          "region": "russia",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Finnish defense minister confirms refusal to send air defense missiles to Kyiv",
-          "url": "https://www.kommersant.ru/doc/8875689",
-          "published": "2026-08-09T07:41:32+00:00",
-          "orig_title": "Министр обороны Финляндии сообщил об отказе передать Киеву ракеты ПВО",
-          "lang": "ru",
-          "translated": true,
-          "access": "unknown"
-        },
-        {
-          "outlet": "The Japan Times",
-          "region": "japan",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Ukraine seeking air defense systems from South Korea",
-          "url": "https://www.japantimes.co.jp/news/2026/08/09/asia-pacific/ukraine-zelenskyy-south-korea-air-defense/",
-          "published": "2026-08-09T06:44:00+00:00",
-          "orig_title": "Ukraine seeking air defense systems from South Korea",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
-        },
-        {
-          "outlet": "Die Welt",
-          "region": "europe",
-          "lean": "right",
-          "ownership": "private",
-          "title": "Zelenskyy expects significantly larger North Korean military aid to Russia, up to 50,000 soldiers",
-          "url": "https://www.welt.de/politik/ausland/article6a7935fa0e3689919ec761b9/ukraine-bis-zu-50-000-soldaten-selenskyj-rechnet-mit-deutlich-groesserer-hilfe-nordkoreas-fuer-russland.html",
-          "published": "2026-08-10T02:42:21+00:00",
-          "orig_title": "Bis zu 50.000 Soldaten – Selenskyj rechnet mit deutlich größerer Hilfe Nordkoreas für Russland",
-          "lang": "de",
-          "translated": true,
-          "access": "unknown",
-          "more": [
-            {
-              "outlet": "Die Welt",
-              "region": "europe",
-              "lean": "right",
-              "ownership": "private",
-              "title": "I believe we're at the beginning of a larger war – Vučić fears escalation",
-              "url": "https://www.welt.de/politik/ausland/article6a78923a0e3689919ec75da3/serbiens-staatschef-ich-glaube-dass-wir-am-anfang-eines-groesseren-krieges-stehen-vucic-fuerchtet-eskalation.html",
-              "published": "2026-08-09T15:15:33+00:00",
-              "orig_title": "„Ich glaube, dass wir am Anfang eines größeren Krieges stehen“ – Vučić fürchtet Eskalation",
-              "lang": "de",
-              "translated": true,
-              "access": "unknown"
-            },
-            {
-              "outlet": "Die Welt",
-              "region": "europe",
-              "lean": "right",
-              "ownership": "private",
-              "title": "Phone call with a dead man? What Putin's latest failure reveals about the Ukraine war",
-              "url": "https://www.welt.de/politik/ausland/plus6a784c5735268e502702349f/russland-telefonat-mit-einem-toten-was-putins-juengster-reinfall-ueber-den-ukraine-krieg-verraet.html",
-              "published": "2026-08-09T15:37:46+00:00",
-              "orig_title": "Telefonat mit einem Toten? Was Putins jüngster Reinfall über den Ukraine-Krieg verrät",
-              "lang": "de",
-              "translated": true,
-              "access": "unknown"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 198,
-      "topic": "World & Politics",
-      "label": "Belgorod · drone · attack",
-      "title": "Thirteen people injured in massive drone attack on Belgorod",
-      "summary": "Белгород оказался под массированной атакой украинских беспилотников. Пострадали 13 человек, сообщил врио губернатора Белгородской области Александр Шуваев в Telegram.",
-      "score": 5.536,
-      "n_outlets": 5,
-      "n_articles": 26,
+      "n_articles": 11,
       "regions": [
         "china",
         "india",
         "russia"
       ],
-      "last_seen": "2026-08-09T20:50:00+00:00",
+      "last_seen": "2026-08-09T23:35:02+00:00",
       "leans": [
         "center",
         "left",
@@ -1275,10 +1202,23 @@
               "region": "india",
               "lean": "left",
               "ownership": "private",
-              "title": "Drone enters Bulgaria, explodes near pipeline at Romanian border",
-              "url": "https://www.thehindu.com/news/international/drone-enters-bulgaria-explodes-near-pipeline-at-romanian-border/article71322596.ece",
-              "published": "2026-08-09T04:27:08+00:00",
-              "orig_title": "Drone enters Bulgaria, explodes near pipeline at Romanian border",
+              "title": "At least three killed in Russian strikes in Kyiv region, official says",
+              "url": "https://www.thehindu.com/news/international/russia-strikes-attack-on-ukraine-updates-toll-august-8-2026/article71320452.ece",
+              "published": "2026-08-08T23:13:47+00:00",
+              "orig_title": "At least three killed in Russian strikes in Kyiv region, official says",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            },
+            {
+              "outlet": "The Hindu",
+              "region": "india",
+              "lean": "left",
+              "ownership": "private",
+              "title": "Russia says it captures two villages in eastern Ukraine, Kyiv reports frontline battles",
+              "url": "https://www.thehindu.com/news/international/russia-says-it-captures-two-villages-in-eastern-ukraine-kyiv-reports-frontline-battles/article71326149.ece",
+              "published": "2026-08-09T23:35:02+00:00",
+              "orig_title": "Russia says it captures two villages in eastern Ukraine, Kyiv reports frontline battles",
               "lang": "en",
               "translated": false,
               "access": "open"
@@ -1290,197 +1230,13 @@
           "region": "russia",
           "lean": "center",
           "ownership": "private",
-          "title": "Thirteen people injured in massive drone attack on Belgorod",
-          "url": "https://www.kommersant.ru/doc/8875638",
-          "published": "2026-08-08T23:24:56+00:00",
-          "orig_title": "При массированном налете беспилотников на Белгород пострадали 13 человек",
+          "title": "Russian military destroys Ukrainian drone warehouses in Kharkiv region",
+          "url": "https://www.kommersant.ru/doc/8875673",
+          "published": "2026-08-09T06:33:31+00:00",
+          "orig_title": "Российские военные поразили склады с беспилотниками ВСУ в Харьковской области",
           "lang": "ru",
           "translated": true,
-          "access": "unknown",
-          "more": [
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Three killed, 25 injured in drone attack on Belgorod",
-              "url": "https://www.kommersant.ru/doc/8875692",
-              "published": "2026-08-09T07:39:48+00:00",
-              "orig_title": "Три человека погибли, 25 пострадали при атаке БПЛА на Белгород // Шуваев: в Белгороде при атаке БПЛА погибли три человека и 25 пострадали",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            },
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Death toll rises to five in drone attack on Belgorod",
-              "url": "https://www.kommersant.ru/doc/8875740",
-              "published": "2026-08-09T09:55:21+00:00",
-              "orig_title": "Пять человек погибли при атаке БПЛА на Белгород // Оперштаб: до пяти выросло число погибших при атаке беспилотников в Белгороде",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            },
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Nearly 30 apartment buildings damaged in Belgorod during overnight drone attack",
-              "url": "https://www.kommersant.ru/doc/8875700",
-              "published": "2026-08-09T08:05:11+00:00",
-              "orig_title": "Почти 30 многоквартирных домов повреждены в Белгороде при ночной атаке БПЛА // Оперштаб: в Белгороде при атаке БПЛА повреждены 30 многоэтажек и 33 машины",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            },
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Belgorod Health Ministry reports on condition of drone attack victims",
-              "url": "https://www.kommersant.ru/doc/8875788",
-              "published": "2026-08-09T12:33:14+00:00",
-              "orig_title": "В белгородском Минздраве рассказали о состоянии пострадавших при атаке БПЛА // Минздрав: в Белгороде 12 пострадавших при атаке ВСУ находятся в больницах",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            },
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Two killed and seven wounded in DPR from drone strikes",
-              "url": "https://www.kommersant.ru/doc/8875906",
-              "published": "2026-08-09T19:20:17+00:00",
-              "orig_title": "Два человека погибли и семь пострадали в ДНР при ударах БПЛА",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            },
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Air defense forces shot down 285 drones over Russian regions in one day",
-              "url": "https://www.kommersant.ru/doc/8875896",
-              "published": "2026-08-09T17:52:58+00:00",
-              "orig_title": "Силы ПВО сбили за день над регионами России 285 дронов",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            },
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Two wounded in fresh drone attack on Belgorod",
-              "url": "https://www.kommersant.ru/doc/8875842",
-              "published": "2026-08-09T14:36:32+00:00",
-              "orig_title": "Два человека пострадали при повторной атаке БПЛА на Белгород",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            },
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "One person injured in Novorossiysk during drone attack",
-              "url": "https://www.kommersant.ru/doc/8875736",
-              "published": "2026-08-09T09:41:03+00:00",
-              "orig_title": "Один человек пострадал в Новороссийске во время атаки БПЛА",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            },
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Three injured in drone explosion at Shebekino plant in Belgorod",
-              "url": "https://www.kommersant.ru/doc/8875743",
-              "published": "2026-08-09T10:06:50+00:00",
-              "orig_title": "Три человека пострадали при взрыве БПЛА на предприятии в белгородском Шебекино",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            },
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Drones attack two facilities in Novorossiysk",
-              "url": "https://www.kommersant.ru/doc/8875646",
-              "published": "2026-08-09T02:51:01+00:00",
-              "orig_title": "Беспилотники атаковали два предприятия в Новороссийске",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            },
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Russia shoots down 153 drones overnight",
-              "url": "https://www.kommersant.ru/doc/8875660",
-              "published": "2026-08-09T04:49:46+00:00",
-              "orig_title": "Ночью в России сбили 153 беспилотника",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            },
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Death toll from night attack on Belgorod rises to six",
-              "url": "https://www.kommersant.ru/doc/8875909",
-              "published": "2026-08-09T19:33:04+00:00",
-              "orig_title": "Число погибших при ночной атаке на Белогород выросло до шести",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            },
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Drone hits crane and under-construction building in Ufa industrial attack",
-              "url": "https://www.kommersant.ru/doc/8875697",
-              "published": "2026-08-09T07:55:55+00:00",
-              "orig_title": "При атаке БПЛА на предприятия Уфы дрон задел башенный кран и попал в новостройку",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            },
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Russian Investigative Committee opens terrorism case after drone attack on Belgorod",
-              "url": "https://www.kommersant.ru/doc/8875693",
-              "published": "2026-08-09T07:48:24+00:00",
-              "orig_title": "СКР возбудил дело о теракте после атаки БПЛА на Белгород",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            }
-          ]
+          "access": "unknown"
         },
         {
           "outlet": "South China Morning Post",
@@ -1513,10 +1269,10 @@
           "region": "russia",
           "lean": "state",
           "ownership": "state",
-          "title": "Three killed, 25 injured in overnight Ukrainian drone attack on Belgorod",
-          "url": "https://tass.com/emergencies/2170655",
-          "published": "2026-08-09T08:19:28+00:00",
-          "orig_title": "Three killed, 25 injured in overnight Ukrainian drone attack on Belgorod",
+          "title": "Over 280 Ukrainian drones taken down over Russian regions during day",
+          "url": "https://tass.com/defense/2170729",
+          "published": "2026-08-09T18:07:25+00:00",
+          "orig_title": "Over 280 Ukrainian drones taken down over Russian regions during day",
           "lang": "en",
           "translated": false,
           "access": "open",
@@ -1526,10 +1282,10 @@
               "region": "russia",
               "lean": "state",
               "ownership": "state",
-              "title": "FACTBOX: Mass drone attack on Belgorod leaves 13 injured, damages residential buildings",
-              "url": "https://tass.com/politics/2170621",
-              "published": "2026-08-09T05:34:54+00:00",
-              "orig_title": "FACTBOX: Mass drone attack on Belgorod leaves 13 injured, damages residential buildings",
+              "title": "Russia destroys Ukrainian UAV control post, logistics center in Sumy Region",
+              "url": "https://tass.com/defense/2170675",
+              "published": "2026-08-09T09:53:31+00:00",
+              "orig_title": "Russia destroys Ukrainian UAV control post, logistics center in Sumy Region",
               "lang": "en",
               "translated": false,
               "access": "open"
@@ -1539,49 +1295,10 @@
               "region": "russia",
               "lean": "state",
               "ownership": "state",
-              "title": "Two killed, seven wounded in Ukraine’s drone attacks on DPR during day",
-              "url": "https://tass.com/politics/2170747",
-              "published": "2026-08-09T20:50:00+00:00",
-              "orig_title": "Two killed, seven wounded in Ukraine’s drone attacks on DPR during day",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
-            },
-            {
-              "outlet": "TASS",
-              "region": "russia",
-              "lean": "state",
-              "ownership": "state",
-              "title": "Death toll from overnight Ukrainian drone attack on Belgorod up to six",
-              "url": "https://tass.com/politics/2170741",
-              "published": "2026-08-09T20:03:01+00:00",
-              "orig_title": "Death toll from overnight Ukrainian drone attack on Belgorod up to six",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
-            },
-            {
-              "outlet": "TASS",
-              "region": "russia",
-              "lean": "state",
-              "ownership": "state",
-              "title": "Death toll in overnight Ukrainian drone attack on Belgorod rises to five",
-              "url": "https://tass.com/emergencies/2170687",
-              "published": "2026-08-09T11:28:51+00:00",
-              "orig_title": "Death toll in overnight Ukrainian drone attack on Belgorod rises to five",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
-            },
-            {
-              "outlet": "TASS",
-              "region": "russia",
-              "lean": "state",
-              "ownership": "state",
-              "title": "Over 280 Ukrainian drones taken down over Russian regions during day",
-              "url": "https://tass.com/defense/2170729",
-              "published": "2026-08-09T18:07:25+00:00",
-              "orig_title": "Over 280 Ukrainian drones taken down over Russian regions during day",
+              "title": "Russian forces strike Ukrainian UAV command posts, brigade base in DPR, Kherson Region",
+              "url": "https://tass.com/defense/2170651",
+              "published": "2026-08-09T07:33:33+00:00",
+              "orig_title": "Russian forces strike Ukrainian UAV command posts, brigade base in DPR, Kherson Region",
               "lang": "en",
               "translated": false,
               "access": "open"
@@ -1598,18 +1315,31 @@
               "lang": "en",
               "translated": false,
               "access": "open"
+            },
+            {
+              "outlet": "TASS",
+              "region": "russia",
+              "lean": "state",
+              "ownership": "state",
+              "title": "Air defenses down twelve Ukrainian UAVs over Tatarstan, Bashkortostan this morning",
+              "url": "https://tass.com/defense/2170645",
+              "published": "2026-08-09T06:53:15+00:00",
+              "orig_title": "Air defenses down twelve Ukrainian UAVs over Tatarstan, Bashkortostan this morning",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
             }
           ]
         }
       ]
     },
     {
-      "id": 228,
+      "id": 265,
       "topic": "World & Politics",
       "label": "Syria · Russia · Russian",
       "title": "Russia, Syria agree on transferring facilities in Tartus to Syrian side",
       "summary": "Damascus and Moscow had signed a memorandum envisaging the reorganization of Russian military bases in Syria as centers for joint troops training, the country’s General Authority for Ports and Customs",
-      "score": 5.45,
+      "score": 5.39,
       "n_outlets": 5,
       "n_articles": 6,
       "regions": [
@@ -1707,12 +1437,12 @@
       ]
     },
     {
-      "id": 21,
+      "id": 79,
       "topic": "World & Politics",
       "label": "Iran · Trump · WSJ",
       "title": "Trump: we are negotiating with Iran 'half-heartedly'",
       "summary": "Американский президент Дональд Трамп заявил, что США ведут переговоры с Ираном «вполсилы». Белый дом пока наблюдает за развитием ситуации, сообщил господин Трамп в интервью Axios.",
-      "score": 4.966,
+      "score": 4.837,
       "n_outlets": 4,
       "n_articles": 5,
       "regions": [
@@ -1797,12 +1527,85 @@
       ]
     },
     {
-      "id": 280,
+      "id": 82,
+      "topic": "World & Politics",
+      "label": "Europe · July · Western",
+      "title": "Western Europe records hottest June and July on record",
+      "summary": "Drought is gripping large parts of Europe, with soils unusually dry and major rivers running low. A strengthening El Nino could push global temperatures even higher later this year.",
+      "score": 4.832,
+      "n_outlets": 4,
+      "n_articles": 4,
+      "regions": [
+        "europe",
+        "us"
+      ],
+      "last_seen": "2026-08-10T03:49:00+00:00",
+      "leans": [
+        "center",
+        "left"
+      ],
+      "sources": [
+        {
+          "outlet": "Der Spiegel",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Climate crisis: Western Europe hottest on record in June and July, Copernicus reports",
+          "url": "https://www.spiegel.de/wissenschaft/klimakrise-in-westeuropa-war-es-im-juni-und-juli-so-heiss-wie-noch-nie-meldet-copernicus-a-944b8ea5-2258-41ac-816c-40d8cb83b6e0#ref=rss",
+          "published": "2026-08-10T03:38:00+00:00",
+          "orig_title": "Klimakrise: In Westeuropa war es im Juni und Juli so heiß wie noch nie, meldet Copernicus",
+          "lang": "de",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
+          "outlet": "The Guardian",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "World’s seas have hit hottest temperature on record for July, say scientists",
+          "url": "https://www.theguardian.com/environment/2026/aug/10/global-seas-hottest-temperature-july-scientists",
+          "published": "2026-08-10T02:00:31+00:00",
+          "orig_title": "World’s seas have hit hottest temperature on record for July, say scientists",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "The New York Times",
+          "region": "us",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Europe Braces for Another Heat Wave. Here’s What to Know.",
+          "url": "https://www.nytimes.com/2026/08/09/weather/extreme-heat-wave-uk-france-spain-forecast.html",
+          "published": "2026-08-09T12:23:03+00:00",
+          "orig_title": "Europe Braces for Another Heat Wave. Here’s What to Know.",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall"
+        },
+        {
+          "outlet": "Deutsche Welle",
+          "region": "europe",
+          "lean": "center",
+          "ownership": "public",
+          "title": "Western Europe records hottest June and July on record",
+          "url": "https://www.dw.com/en/western-europe-records-hottest-june-and-july-on-record/a-78298751?maca=en-rss-en-world-4025-rdf",
+          "published": "2026-08-10T03:49:00+00:00",
+          "orig_title": "Western Europe records hottest June and July on record",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 309,
       "topic": "Economics",
       "label": "Chinese · Europe · Demand",
       "title": "Chinese EV sales surge to new high in Europe putting tariffs under scrutiny",
       "summary": "Imports this year now account for 14% of the market amid claims vehicles are being dumped in the EU and UK Chinese electric car sales have risen across Europe to a record high driven by strong demand ",
-      "score": 2.317,
+      "score": 2.275,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -1844,12 +1647,12 @@
       ]
     },
     {
-      "id": 282,
+      "id": 310,
       "topic": "Economics",
       "label": "U.S. · Senate · Russia",
       "title": "U.S. Senate warns of harmful 'hell sanctions' against Russia",
       "summary": "Сенат Конгресса США одобрил законопроект, предусматривающий возможность новых санкций против России. Помимо персональных мер против руководства РФ, законопроект вводит пошлины размером до 100% в отнош",
-      "score": 2.312,
+      "score": 2.271,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -1891,12 +1694,12 @@
       ]
     },
     {
-      "id": 341,
+      "id": 364,
       "topic": "Economics",
       "label": "Hidden · AI-world · Amazon",
       "title": "Hidden environmental cost of powering growing digital and AI-world",
       "summary": "Despite the astronomical water footprint of data centres, some States, which already have difficulties in meeting their water needs, have announced huge data centre projects.",
-      "score": 2.209,
+      "score": 2.181,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -1937,18 +1740,129 @@
       ]
     },
     {
-      "id": 2,
+      "id": 12,
+      "topic": "Economics",
+      "label": "Australia · Two · Albanese",
+      "title": "‘Body’ found in suitcase near Goulburn was actually lifelike doll with ‘bruises and grazes’",
+      "summary": "What was originally reported as a body found in Oallen on Sunday was ‘very realistic in the terms of looking like human remains’, NSW police say Follow our Australia news live blog for latest updates ",
+      "score": 1.96,
+      "n_outlets": 1,
+      "n_articles": 2,
+      "regions": [
+        "europe"
+      ],
+      "last_seen": "2026-08-10T05:32:06+00:00",
+      "leans": [
+        "left"
+      ],
+      "sources": [
+        {
+          "outlet": "The Guardian",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "‘Body’ found in suitcase near Goulburn was actually lifelike doll with ‘bruises and grazes’",
+          "url": "https://www.theguardian.com/australia-news/2026/aug/09/body-woman-found-suitcase-regional-nsw-road-ntwnfb",
+          "published": "2026-08-10T05:18:25+00:00",
+          "orig_title": "‘Body’ found in suitcase near Goulburn was actually lifelike doll with ‘bruises and grazes’",
+          "lang": "en",
+          "translated": false,
+          "access": "open",
+          "more": [
+            {
+              "outlet": "The Guardian",
+              "region": "europe",
+              "lean": "left",
+              "ownership": "private",
+              "title": "Australia news live: Two workers were temporarily stood down over airport near-miss; Albanese confirms Labor will amend gambling legislation",
+              "url": "https://www.theguardian.com/australia-news/live/2026/aug/10/australia-news-live-transport-minister-sydney-airport-air-traffic-control-catherine-king-aukus-public-inquiry-malcolm-turnbull-alan-jones-trial-ntwnfb",
+              "published": "2026-08-10T05:32:06+00:00",
+              "orig_title": "Australia news live: Two workers were temporarily stood down over airport near-miss; Albanese confirms Labor will amend gambling legislation",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "topic": "Economics",
+      "label": "Malaysia · South · Korea",
+      "title": "Malaysia seeks to deepen trade ties with South Korea in chips, AI, halal sector",
+      "summary": "Malaysia is seeking to elevate its economic partnership with South Korea beyond traditional manufacturing and trade by positioning itself as a long-term strategic partner in high-value industries, ran",
+      "score": 1.923,
+      "n_outlets": 1,
+      "n_articles": 1,
+      "regions": [
+        "china"
+      ],
+      "last_seen": "2026-08-10T05:04:15+00:00",
+      "leans": [
+        "center"
+      ],
+      "sources": [
+        {
+          "outlet": "South China Morning Post",
+          "region": "china",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Malaysia seeks to deepen trade ties with South Korea in chips, AI, halal sector",
+          "url": "https://www.scmp.com/news/asia/east-asia/article/3363493/malaysia-seeks-deepen-trade-ties-south-korea-chips-ai-halal-sector?utm_source=rss_feed",
+          "published": "2026-08-10T05:04:15+00:00",
+          "orig_title": "Malaysia seeks to deepen trade ties with South Korea in chips, AI, halal sector",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "topic": "Economics",
+      "label": "Disaster · relief · applications",
+      "title": "Disaster relief applications hit 30-year high in fiscal 2025 as warming climate drives increased heavy rainfall",
+      "summary": "Disaster relief applications hit 30-year high in fiscal 2025 as warming climate drives increased heavy rainfall",
+      "score": 1.918,
+      "n_outlets": 1,
+      "n_articles": 1,
+      "regions": [
+        "japan"
+      ],
+      "last_seen": "2026-08-10T05:00:00+00:00",
+      "leans": [
+        "left"
+      ],
+      "sources": [
+        {
+          "outlet": "Asahi Shimbun",
+          "region": "japan",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Disaster relief applications hit 30-year high in fiscal 2025 as warming climate drives increased heavy rainfall",
+          "url": "http://www.asahi.com/articles/ASV7W2H4JV7WUTIL01XM.html?ref=rss",
+          "published": "2026-08-10T05:00:00+00:00",
+          "orig_title": "救助法適用の災害、25年度は過去30年で最多 温暖化で増える大雨",
+          "lang": "ja",
+          "translated": true,
+          "access": "unknown"
+        }
+      ]
+    },
+    {
+      "id": 64,
       "topic": "Economics",
       "label": "Foreigners · Behaving · Badly",
       "title": "Foreigners Behaving Badly in Vietnam Challenge Its Communist Justice System",
       "summary": "Vietnam is grappling with a surge in visitors, testing its Soviet-style criminal justice system as it tries to supercharge its economy through tourism.",
-      "score": 1.985,
+      "score": 1.854,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
         "us"
       ],
-      "last_seen": "2026-08-10T04:07:54+00:00",
+      "last_seen": "2026-08-10T04:07:55+00:00",
       "leans": [
         "left"
       ],
@@ -1960,7 +1874,7 @@
           "ownership": "private",
           "title": "Foreigners Behaving Badly in Vietnam Challenge Its Communist Justice System",
           "url": "https://www.nytimes.com/2026/08/07/world/asia/vietnam-tourism-foreigners-crime-law.html",
-          "published": "2026-08-10T04:07:54+00:00",
+          "published": "2026-08-10T04:07:55+00:00",
           "orig_title": "Foreigners Behaving Badly in Vietnam Challenge Its Communist Justice System",
           "lang": "en",
           "translated": false,
@@ -1969,59 +1883,59 @@
       ]
     },
     {
-      "id": 7,
+      "id": 78,
       "topic": "Economics",
-      "label": "Australia · body · found",
-      "title": "NSW police say ‘body’ of woman found in suitcase by side of road near Goulburn was not human",
-      "summary": "What was originally reported as a body found in Oallen on Sunday was ‘very realistic in the terms of looking like human remains’, police say Follow our Australia news live blog for latest updates Get ",
-      "score": 1.978,
+      "label": "Mass · Salvador · Judges",
+      "title": "Mass trials without safeguards in El Salvador: \"Judges are afraid, condemning everyone\"",
+      "summary": "Expedientes judiciales y testimonios de abogados revelan cómo la Fiscalía y los tribunales condenan en serie basándose en fichas policiales opacas, denuncias anónimas y en medio de juicios realizados ",
+      "score": 1.844,
       "n_outlets": 1,
       "n_articles": 2,
       "regions": [
         "europe"
       ],
-      "last_seen": "2026-08-10T04:03:05+00:00",
+      "last_seen": "2026-08-10T04:00:00+00:00",
       "leans": [
         "left"
       ],
       "sources": [
         {
-          "outlet": "The Guardian",
+          "outlet": "El Pais",
           "region": "europe",
           "lean": "left",
           "ownership": "private",
-          "title": "NSW police say ‘body’ of woman found in suitcase by side of road near Goulburn was not human",
-          "url": "https://www.theguardian.com/australia-news/2026/aug/09/body-woman-found-suitcase-regional-nsw-road-ntwnfb",
-          "published": "2026-08-10T00:11:05+00:00",
-          "orig_title": "NSW police say ‘body’ of woman found in suitcase by side of road near Goulburn was not human",
-          "lang": "en",
-          "translated": false,
-          "access": "open",
+          "title": "Mass trials without safeguards in El Salvador: \"Judges are afraid, condemning everyone\"",
+          "url": "https://elpais.com/america/2026-08-10/juicios-masivos-sin-garantias-en-el-salvador-los-jueces-tienen-miedo-los-estan-condenando-a-todos.html",
+          "published": "2026-08-10T04:00:00+00:00",
+          "orig_title": "Juicios masivos sin garantías en El Salvador: “Los jueces tienen miedo, los están condenando a todos”",
+          "lang": "es",
+          "translated": true,
+          "access": "unknown",
           "more": [
             {
-              "outlet": "The Guardian",
+              "outlet": "El Pais",
               "region": "europe",
               "lean": "left",
               "ownership": "private",
-              "title": "Australia news live: ‘body’ found in suitcase was lifelike doll with ‘bruises and grazes’; Victorian Liberals promise weekly red bin pickup",
-              "url": "https://www.theguardian.com/australia-news/live/2026/aug/10/australia-news-live-transport-minister-sydney-airport-air-traffic-control-catherine-king-aukus-public-inquiry-malcolm-turnbull-alan-jones-trial-ntwnfb",
-              "published": "2026-08-10T04:03:05+00:00",
-              "orig_title": "Australia news live: ‘body’ found in suitcase was lifelike doll with ‘bruises and grazes’; Victorian Liberals promise weekly red bin pickup",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
+              "title": "Killing live: the murder of a drug cartel influencer in Mexico",
+              "url": "https://elpais.com/opinion/2026-08-10/matar-en-directo-el-asesinato-de-un-influencer-al-servicio-del-narco-en-mexico.html",
+              "published": "2026-08-10T03:30:01+00:00",
+              "orig_title": "Matar en directo: el asesinato de un ‘influencer’ al servicio del narco en México",
+              "lang": "es",
+              "translated": true,
+              "access": "unknown"
             }
           ]
         }
       ]
     },
     {
-      "id": 76,
+      "id": 129,
       "topic": "Economics",
       "label": "Meta · U.S. · soon",
       "title": "Meta will soon face another high-stakes trial in U.S.",
       "summary": "The federal trial, one of the most consequential among a myriad of legal proceedings targeting social networks in the United States, will begin on August 12, 2026 with jury selection at a federal cour",
-      "score": 1.908,
+      "score": 1.788,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -2048,12 +1962,12 @@
       ]
     },
     {
-      "id": 83,
+      "id": 135,
       "topic": "Economics",
       "label": "Germany · Nord · Stream",
       "title": "Germany seeking scapegoat over Nord Stream attack — Russian envoy",
       "summary": "Rodion Miroshnik noted that Nord Stream was a major, long-term and mutually beneficial project, with Russia earning revenue from gas supplies and Europe receiving a steady supply of relatively cheap e",
-      "score": 1.896,
+      "score": 1.777,
       "n_outlets": 1,
       "n_articles": 2,
       "regions": [
@@ -2095,123 +2009,12 @@
       ]
     },
     {
-      "id": 88,
-      "topic": "Economics",
-      "label": "Japan · taps · public-private",
-      "title": "Japan taps public-private funds for shipbuilding, eyeing next-generation vessels",
-      "summary": "As Japan depends on overseas sources for critical goods such as energy and food, its shipbuilding industry is essential to the country's economic security.",
-      "score": 1.877,
-      "n_outlets": 1,
-      "n_articles": 1,
-      "regions": [
-        "japan"
-      ],
-      "last_seen": "2026-08-10T02:44:00+00:00",
-      "leans": [
-        "center"
-      ],
-      "sources": [
-        {
-          "outlet": "The Japan Times",
-          "region": "japan",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Japan taps public-private funds for shipbuilding, eyeing next-generation vessels",
-          "url": "https://www.japantimes.co.jp/business/2026/08/10/companies/japan-public-private-shipbuilding-revive/",
-          "published": "2026-08-10T02:44:00+00:00",
-          "orig_title": "Japan taps public-private funds for shipbuilding, eyeing next-generation vessels",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
-        }
-      ]
-    },
-    {
-      "id": 123,
-      "topic": "Economics",
-      "label": "Republicans · Trump · Downbeat",
-      "title": "Downbeat economic views pose a danger for Republicans ahead of the midterms, leaving President Trump and his allies little time to regain their image as the party better suited to handle the economy",
-      "summary": "Cost-of-living worries are eroding the GOP’s image as economic managers, giving Democrats an advantage.",
-      "score": 1.759,
-      "n_outlets": 1,
-      "n_articles": 2,
-      "regions": [
-        "us"
-      ],
-      "last_seen": "2026-08-10T01:00:00+00:00",
-      "leans": [
-        "right"
-      ],
-      "sources": [
-        {
-          "outlet": "The Wall Street Journal",
-          "region": "us",
-          "lean": "right",
-          "ownership": "private",
-          "title": "Downbeat economic views pose a danger for Republicans ahead of the midterms, leaving President Trump and his allies little time to regain their image as the party better suited to handle the economy",
-          "url": "https://www.wsj.com/politics/elections/the-republican-party-is-losing-its-edge-with-voters-on-the-economy-b2450a14?mod=rss_socialpoliticsfeed",
-          "published": "2026-08-10T01:00:00+00:00",
-          "orig_title": "Downbeat economic views pose a danger for Republicans ahead of the midterms, leaving President Trump and his allies little time to regain their image as the party better suited to handle the economy",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall",
-          "more": [
-            {
-              "outlet": "The Wall Street Journal",
-              "region": "us",
-              "lean": "right",
-              "ownership": "private",
-              "title": "Trump’s Hold on Republicans Tested in Race to Replace Lindsey Graham",
-              "url": "https://www.wsj.com/politics/elections/trumps-hold-on-republicans-tested-in-race-to-replace-lindsey-graham-9d61c8da?mod=rss_socialpoliticsfeed",
-              "published": "2026-08-09T17:00:00+00:00",
-              "orig_title": "Trump’s Hold on Republicans Tested in Race to Replace Lindsey Graham",
-              "lang": "en",
-              "translated": false,
-              "access": "paywall"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 126,
-      "topic": "Economics",
-      "label": "FedEx · Cup · Michael",
-      "title": "FedEx Cup playoff field takes shape as Michael Brennan punches ticket with win",
-      "summary": "There were ramifications up ​and down the ‌leaderboard as golfers jockeyed for position, in need of a top-70 spot in the season standings to advance to the FedEx Cup playoffs.",
-      "score": 1.755,
-      "n_outlets": 1,
-      "n_articles": 1,
-      "regions": [
-        "japan"
-      ],
-      "last_seen": "2026-08-10T00:57:00+00:00",
-      "leans": [
-        "center"
-      ],
-      "sources": [
-        {
-          "outlet": "The Japan Times",
-          "region": "japan",
-          "lean": "center",
-          "ownership": "private",
-          "title": "FedEx Cup playoff field takes shape as Michael Brennan punches ticket with win",
-          "url": "https://www.japantimes.co.jp/sports/2026/08/10/more-sports/brennan-wins-wyndham-championship/",
-          "published": "2026-08-10T00:57:00+00:00",
-          "orig_title": "FedEx Cup playoff field takes shape as Michael Brennan punches ticket with win",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
-        }
-      ]
-    },
-    {
-      "id": 69,
+      "id": 122,
       "topic": "Trading & Markets",
       "label": "Burnham · U.K. · cost-of-living",
-      "title": "UK PM Burnham vows to end ‘subscription traps’ amid cost-of-living crisis",
+      "title": "UK’s Burnham vows to end ‘subscription traps’ amid cost-of-living crisis",
       "summary": "British Prime Minister Andy Burnham has vowed to crack down on hard-to-cancel subscriptions and fake discounts as part of measures to tackle the cost-of-living crisis, Downing Street said on Sunday. T",
-      "score": 3.915,
+      "score": 3.793,
       "n_outlets": 3,
       "n_articles": 3,
       "regions": [
@@ -2243,10 +2046,10 @@
           "region": "china",
           "lean": "center",
           "ownership": "private",
-          "title": "UK PM Burnham vows to end ‘subscription traps’ amid cost-of-living crisis",
+          "title": "UK’s Burnham vows to end ‘subscription traps’ amid cost-of-living crisis",
           "url": "https://www.scmp.com/news/world/europe/article/3363469/uk-pm-burnham-vows-end-subscription-traps-amid-cost-living-crisis?utm_source=rss_feed",
           "published": "2026-08-09T22:08:46+00:00",
-          "orig_title": "UK PM Burnham vows to end ‘subscription traps’ amid cost-of-living crisis",
+          "orig_title": "UK’s Burnham vows to end ‘subscription traps’ amid cost-of-living crisis",
           "lang": "en",
           "translated": false,
           "access": "open"
@@ -2267,12 +2070,59 @@
       ]
     },
     {
-      "id": 167,
+      "id": 42,
+      "topic": "Trading & Markets",
+      "label": "How · China · DRAM",
+      "title": "Apple Tests Chinese Memory Chips as Supply Squeeze Bites",
+      "summary": "The iPhone maker has held early talks with China’s CXMT, but any deal would be politically sensitive.",
+      "score": 2.918,
+      "n_outlets": 2,
+      "n_articles": 2,
+      "regions": [
+        "china",
+        "us"
+      ],
+      "last_seen": "2026-08-10T05:00:21+00:00",
+      "leans": [
+        "center",
+        "right"
+      ],
+      "sources": [
+        {
+          "outlet": "South China Morning Post",
+          "region": "china",
+          "lean": "center",
+          "ownership": "private",
+          "title": "How China DRAM champion CXMT’s MSCI entry could lure fund inflows, cement its top ranking",
+          "url": "https://www.scmp.com/business/china-business/article/3363490/how-china-dram-champion-cxmts-msci-entry-could-lure-fund-inflows-cement-its-top-ranking?utm_source=rss_feed",
+          "published": "2026-08-10T05:00:21+00:00",
+          "orig_title": "How China DRAM champion CXMT’s MSCI entry could lure fund inflows, cement its top ranking",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "The Wall Street Journal",
+          "region": "us",
+          "lean": "right",
+          "ownership": "private",
+          "title": "Apple Tests Chinese Memory Chips as Supply Squeeze Bites",
+          "url": "https://www.wsj.com/tech/apple-tests-chinese-memory-chips-as-supply-squeeze-bites-d292bb97?mod=rss_Technology",
+          "published": "2026-08-09T10:54:00+00:00",
+          "orig_title": "Apple Tests Chinese Memory Chips as Supply Squeeze Bites",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall"
+        }
+      ]
+    },
+    {
+      "id": 212,
       "topic": "Trading & Markets",
       "label": "Former · President · Biden",
       "title": "Former President Joe Biden’s cancer has spread to “his bones and further,” his son Hunter Biden told the BBC, offering a new window into the aging former president’s life",
       "summary": "Joe Biden’s cancer experience has been “painful” and “debilitating,” his son said.",
-      "score": 2.599,
+      "score": 2.519,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -2314,58 +2164,12 @@
       ]
     },
     {
-      "id": 369,
-      "topic": "Trading & Markets",
-      "label": "Air · Ukrainian · UAVs",
-      "title": "Air defense forces shoot down 360 drones over Russia in a day",
-      "summary": "Средства ПВО уничтожили 360 беспилотников вооруженных сил Украины над российской территорией с 8:00 до 20:00 мск. Об этом сообщила пресс-служба Минобороны России.",
-      "score": 2.168,
-      "n_outlets": 2,
-      "n_articles": 2,
-      "regions": [
-        "russia"
-      ],
-      "last_seen": "2026-08-09T06:53:15+00:00",
-      "leans": [
-        "center",
-        "state"
-      ],
-      "sources": [
-        {
-          "outlet": "Kommersant",
-          "region": "russia",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Air defense forces shoot down 360 drones over Russia in a day",
-          "url": "https://www.kommersant.ru/doc/8875623",
-          "published": "2026-08-08T17:59:09+00:00",
-          "orig_title": "Силы ПВО сбили 360 беспилотников над Россией за день",
-          "lang": "ru",
-          "translated": true,
-          "access": "unknown"
-        },
-        {
-          "outlet": "TASS",
-          "region": "russia",
-          "lean": "state",
-          "ownership": "state",
-          "title": "Air defenses down twelve Ukrainian UAVs over Tatarstan, Bashkortostan this morning",
-          "url": "https://tass.com/defense/2170645",
-          "published": "2026-08-09T06:53:15+00:00",
-          "orig_title": "Air defenses down twelve Ukrainian UAVs over Tatarstan, Bashkortostan this morning",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        }
-      ]
-    },
-    {
-      "id": 26,
+      "id": 83,
       "topic": "Trading & Markets",
       "label": "Laxman · Not · Why",
       "title": "‘Not taking up the position’: Why Laxman turned down head coach job after Dravid",
       "summary": "VVS Laxman has revealed why he turned down the India head coach role after Rahul Dravid’s tenure ended in 2024. Approached by the BCCI following India’s T20 World Cup triumph under Dravid, Laxman opte",
-      "score": 1.956,
+      "score": 1.828,
       "n_outlets": 1,
       "n_articles": 2,
       "regions": [
@@ -2407,12 +2211,12 @@
       ]
     },
     {
-      "id": 98,
+      "id": 150,
       "topic": "Trading & Markets",
       "label": "U.S. · Asian · Currencies",
       "title": "Asian Currencies Weaken Ahead of U.S. CPI Data",
       "summary": "Asian currencies weakened against the dollar on possible position adjustments ahead of the U.S. CPI data due on Wednesday.",
-      "score": 1.836,
+      "score": 1.725,
       "n_outlets": 1,
       "n_articles": 2,
       "regions": [
@@ -2454,12 +2258,12 @@
       ]
     },
     {
-      "id": 99,
+      "id": 151,
       "topic": "Trading & Markets",
       "label": "Nichinan · Gakuen · Meikoku",
       "title": "Nichinan Gakuen wins with three-run rally; Meikoku Gijuku falls one hit short of opportunity",
       "summary": "Nichinan Gakuen wins with three-run rally; Meikoku Gijuku falls one hit short of opportunity",
-      "score": 1.83,
+      "score": 1.72,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -2486,12 +2290,12 @@
       ]
     },
     {
-      "id": 121,
+      "id": 171,
       "topic": "Trading & Markets",
       "label": "China · experts · explain",
       "title": "China experts explain why hugging winter melons for cooling in summer can cause explosions",
       "summary": "While many people have embraced the trend of hugging a giant winter melon to sleep as a means of cooling down during summer, some have shared their “painful” experiences, recounting instances where th",
-      "score": 1.759,
+      "score": 1.658,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -2518,12 +2322,12 @@
       ]
     },
     {
-      "id": 122,
+      "id": 172,
       "topic": "Trading & Markets",
       "label": "Private · Credit · Under",
       "title": "Private Credit Is Under Growing Strain, Despite Industry’s Upbeat Tone",
       "summary": "Default rates are hitting recent highs, and internal reviews of loan health point to tougher times ahead, a WSJ analysis shows.",
-      "score": 1.759,
+      "score": 1.658,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -2550,12 +2354,12 @@
       ]
     },
     {
-      "id": 127,
+      "id": 177,
       "topic": "Trading & Markets",
       "label": "Oil · Rises · Growing",
       "title": "Oil Rises Amid Growing Doubts Over Strait of Hormuz’s Reopening",
       "summary": "Oil rose in early Asian trade amid growing doubts over the reopening of the Strait of Hormuz.",
-      "score": 1.742,
+      "score": 1.643,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -2582,12 +2386,12 @@
       ]
     },
     {
-      "id": 139,
+      "id": 187,
       "topic": "Trading & Markets",
       "label": "Owens · Attacks · Erika",
       "title": "Owens Attacks Erika Again: Candace Owens escalates feud; revives disputed allegations",
       "summary": "Candace Owens has reignited her feud with Erika Kirk, accusing Charlie Kirk’s widow of working with people Owens considers hostile to him. Owens specifically criticized Erika for giving an interview t",
-      "score": 1.699,
+      "score": 1.606,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -2614,19 +2418,19 @@
       ]
     },
     {
-      "id": 11,
+      "id": 40,
       "topic": "Science",
-      "label": "Solar · What · Know",
-      "title": "Most of sun to be eclipsed across island of Ireland",
-      "summary": "Skywatchers are set to witness two major celestial events next week, with a deep partial solar eclipse followed by the peak of the Perseid meteor shower.",
-      "score": 4.976,
+      "label": "Solar · eclipse · Starwatch",
+      "title": "What to Know About Europe’s Total Solar Eclipse: Where to See It and How to Watch Safely",
+      "summary": "We’re answering some questions about the solar eclipse on Aug. 12, and providing a place for you to ask more of them.",
+      "score": 4.919,
       "n_outlets": 4,
-      "n_articles": 5,
+      "n_articles": 7,
       "regions": [
         "europe",
         "us"
       ],
-      "last_seen": "2026-08-10T04:01:06+00:00",
+      "last_seen": "2026-08-10T05:00:35+00:00",
       "leans": [
         "center",
         "left"
@@ -2650,13 +2454,28 @@
           "region": "europe",
           "lean": "left",
           "ownership": "private",
-          "title": "Perseid meteor shower set to dazzle northern hemisphere this week",
-          "url": "https://www.theguardian.com/science/2026/aug/09/perseid-meteor-shower",
-          "published": "2026-08-09T18:43:55+00:00",
-          "orig_title": "Perseid meteor shower set to dazzle northern hemisphere this week",
+          "title": "Starwatch: Deep partial solar eclipse in UK to precede the Perseids",
+          "url": "https://www.theguardian.com/science/2026/aug/10/starwatch-deep-partial-solar-eclipse-uk-perseids",
+          "published": "2026-08-10T05:00:35+00:00",
+          "orig_title": "Starwatch: Deep partial solar eclipse in UK to precede the Perseids",
           "lang": "en",
           "translated": false,
-          "access": "open"
+          "access": "open",
+          "more": [
+            {
+              "outlet": "The Guardian",
+              "region": "europe",
+              "lean": "left",
+              "ownership": "private",
+              "title": "Perseid meteor shower set to dazzle northern hemisphere this week",
+              "url": "https://www.theguardian.com/science/2026/aug/09/perseid-meteor-shower",
+              "published": "2026-08-09T18:43:55+00:00",
+              "orig_title": "Perseid meteor shower set to dazzle northern hemisphere this week",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            }
+          ]
         },
         {
           "outlet": "The New York Times",
@@ -2689,6 +2508,19 @@
               "region": "europe",
               "lean": "center",
               "ownership": "public",
+              "title": "When and where to see the solar eclipse in London",
+              "url": "https://www.bbc.co.uk/news/articles/c62x3pyrxrmo?at_medium=RSS&at_campaign=rss",
+              "published": "2026-08-10T04:57:32+00:00",
+              "orig_title": "When and where to see the solar eclipse in London",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            },
+            {
+              "outlet": "BBC News",
+              "region": "europe",
+              "lean": "center",
+              "ownership": "public",
               "title": "1999: Solar eclipse experienced from Alderney",
               "url": "https://www.bbc.co.uk/news/videos/c1e1v0q257jo?at_medium=RSS&at_campaign=rss",
               "published": "2026-08-09T06:30:43+00:00",
@@ -2702,12 +2534,12 @@
       ]
     },
     {
-      "id": 322,
+      "id": 346,
       "topic": "Science",
       "label": "What · glueball · Matter",
       "title": "Matter of pure force: US, Israeli physicists hail China’s glueball discovery as ‘triumph’",
       "summary": "The international physics community has hailed a Chinese-led discovery as a “triumph” after researchers presented the strongest evidence yet for the existence of the “glueball” – a mysterious particle",
-      "score": 2.235,
+      "score": 2.203,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -2749,12 +2581,140 @@
       ]
     },
     {
-      "id": 8,
+      "id": 13,
+      "topic": "Science",
+      "label": "Woman · questions · hosepipe",
+      "title": "Woman questions hosepipe ban while leak not fixed",
+      "summary": "Linda Kirby says she reported the leak in June.",
+      "score": 1.959,
+      "n_outlets": 1,
+      "n_articles": 1,
+      "regions": [
+        "europe"
+      ],
+      "last_seen": "2026-08-10T05:31:47+00:00",
+      "leans": [
+        "center"
+      ],
+      "sources": [
+        {
+          "outlet": "BBC News",
+          "region": "europe",
+          "lean": "center",
+          "ownership": "public",
+          "title": "Woman questions hosepipe ban while leak not fixed",
+          "url": "https://www.bbc.co.uk/news/articles/c235rg3k512o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-10T05:31:47+00:00",
+          "orig_title": "Woman questions hosepipe ban while leak not fixed",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "topic": "Science",
+      "label": "Forest · funding · boost",
+      "title": "Forest funding boost as two million trees planted",
+      "summary": "A tree planting scheme to boost climate resilience receives £8.7m of funding.",
+      "score": 1.937,
+      "n_outlets": 1,
+      "n_articles": 1,
+      "regions": [
+        "europe"
+      ],
+      "last_seen": "2026-08-10T05:14:31+00:00",
+      "leans": [
+        "center"
+      ],
+      "sources": [
+        {
+          "outlet": "BBC News",
+          "region": "europe",
+          "lean": "center",
+          "ownership": "public",
+          "title": "Forest funding boost as two million trees planted",
+          "url": "https://www.bbc.co.uk/news/articles/cq894dq252ko?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-10T05:14:31+00:00",
+          "orig_title": "Forest funding boost as two million trees planted",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "topic": "Science",
+      "label": "Work · National · Trust",
+      "title": "Work at National Trust site to prevent flooding",
+      "summary": "Flood prevention work is taking place, in a bid to use land as a sponge for the River Severn and River Tern.",
+      "score": 1.933,
+      "n_outlets": 1,
+      "n_articles": 1,
+      "regions": [
+        "europe"
+      ],
+      "last_seen": "2026-08-10T05:11:31+00:00",
+      "leans": [
+        "center"
+      ],
+      "sources": [
+        {
+          "outlet": "BBC News",
+          "region": "europe",
+          "lean": "center",
+          "ownership": "public",
+          "title": "Work at National Trust site to prevent flooding",
+          "url": "https://www.bbc.co.uk/news/articles/c0kmez1x2yzo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-10T05:11:31+00:00",
+          "orig_title": "Work at National Trust site to prevent flooding",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "topic": "Science",
+      "label": "Ospreys · hatch · nature",
+      "title": "Ospreys hatch at nature reserve for first time",
+      "summary": "Campfield Marsh, on the shore of Solway Firth in Cumbria, has a platform to attract ospreys.",
+      "score": 1.928,
+      "n_outlets": 1,
+      "n_articles": 1,
+      "regions": [
+        "europe"
+      ],
+      "last_seen": "2026-08-10T05:07:57+00:00",
+      "leans": [
+        "center"
+      ],
+      "sources": [
+        {
+          "outlet": "BBC News",
+          "region": "europe",
+          "lean": "center",
+          "ownership": "public",
+          "title": "Ospreys hatch at nature reserve for first time",
+          "url": "https://www.bbc.co.uk/news/articles/c62e6n1607qo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-10T05:07:57+00:00",
+          "orig_title": "Ospreys hatch at nature reserve for first time",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 68,
       "topic": "Science",
       "label": "Extreme · Heat · Comes",
       "title": "Extreme Heat Comes for the Red Chile Capital of Pakistan",
       "summary": "The traditional ways of cultivating the peppers may not survive the challenges of climate change and soaring costs, so Pakistani farmers are trying to adapt.",
-      "score": 1.976,
+      "score": 1.846,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -2781,12 +2741,12 @@
       ]
     },
     {
-      "id": 14,
+      "id": 73,
       "topic": "Science",
       "label": "China · DNA-screening · Tibet",
       "title": "China releases powerful DNA-screening AI tool for free to help fight rare diseases",
       "summary": "For people navigating rare diseases, which are mostly genetic in origin, the search for answers is a gruelling marathon often called the “diagnostic odyssey”. Patients can spend years visiting special",
-      "score": 1.975,
+      "score": 1.845,
       "n_outlets": 1,
       "n_articles": 2,
       "regions": [
@@ -2828,12 +2788,12 @@
       ]
     },
     {
-      "id": 66,
+      "id": 119,
       "topic": "Science",
       "label": "Mile · invisible · line",
       "title": "Mile 201: The invisible line where fishing becomes environmental poaching",
       "summary": "A postcard of environmental disaster at first sight: hundreds of trawlers with lights blazing navigating at the edge of Argentine waters. This fleet flying the flags of distant countries seeks banks o",
-      "score": 1.92,
+      "score": 1.798,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -2860,12 +2820,12 @@
       ]
     },
     {
-      "id": 185,
+      "id": 229,
       "topic": "Science",
       "label": "Dr. · Maura · Gillison",
       "title": "Dr. Maura L. Gillison, Who Linked Throat Cancers to HPV, Dies at 61",
       "summary": "She challenged the conventional view that a majority of head and neck cancers resulted from cigarette smoking and excessive alcohol consumption.",
-      "score": 1.567,
+      "score": 1.491,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -2892,196 +2852,28 @@
       ]
     },
     {
-      "id": 247,
-      "topic": "Science",
-      "label": "Orlando · constructed · California",
-      "title": "In 1987, Orlando put 1,200 acres of constructed wetlands to work cleaning reclaimed water",
-      "summary": "Orlando's constructed wetlands, established in 1987, treat billions of gallons of reclaimed water annually. Aquatic plants absorb nutrients, but decaying matter creates sediment buildup over time. Per",
-      "score": 1.386,
-      "n_outlets": 1,
-      "n_articles": 3,
-      "regions": [
-        "india"
-      ],
-      "last_seen": "2026-08-09T16:52:36+00:00",
-      "leans": [
-        "center"
-      ],
-      "sources": [
-        {
-          "outlet": "Times of India",
-          "region": "india",
-          "lean": "center",
-          "ownership": "private",
-          "title": "In 1987, Orlando put 1,200 acres of constructed wetlands to work cleaning reclaimed water",
-          "url": "https://timesofindia.indiatimes.com/world/us/in-1987-orlando-put-1200-acres-of-constructed-wetlands-to-work-cleaning-reclaimed-water-the-system-now-polishes-about-5-11-billion-gallons-a-year/articleshow/133070773.cms",
-          "published": "2026-08-09T16:52:36+00:00",
-          "orig_title": "In 1987, Orlando put 1,200 acres of constructed wetlands to work cleaning reclaimed water",
-          "lang": "en",
-          "translated": false,
-          "access": "open",
-          "more": [
-            {
-              "outlet": "Times of India",
-              "region": "india",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Florida drained land for a giant subdivision in the 1960s; 2026 restoration reverses it",
-              "url": "https://timesofindia.indiatimes.com/world/us/in-the-1960s-florida-drained-land-for-a-giant-subdivision-in-2026-restoration-finished-after-removing-260-miles-of-roads-and-plugging-48-miles-of-canals-across-55000-acres/articleshow/133067666.cms",
-              "published": "2026-08-09T14:30:00+00:00",
-              "orig_title": "Florida drained land for a giant subdivision in the 1960s; 2026 restoration reverses it",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
-            },
-            {
-              "outlet": "Times of India",
-              "region": "india",
-              "lean": "center",
-              "ownership": "private",
-              "title": "In 1986, a California city began polishing sewage through constructed marshes",
-              "url": "https://timesofindia.indiatimes.com/world/us/in-1986-a-california-city-began-polishing-sewage-through-constructed-marshes-the-307-acre-system-is-now-a-wildlife-sanctuary-that-has-hosted-over-300-bird-species/articleshow/133069284.cms",
-              "published": "2026-08-09T16:03:40+00:00",
-              "orig_title": "In 1986, a California city began polishing sewage through constructed marshes",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 248,
-      "topic": "Science",
-      "label": "WHO · Ebola · Bundibugyo",
-      "title": "WHO recommends clinical trial of Ebola vaccine against Bundibugyo virus",
-      "summary": "The recommendation followed preliminary animal study data suggesting that the vaccine may provide some cross-protection against the disease, particularly in reducing deaths. The post WHO recommends cl",
-      "score": 1.385,
-      "n_outlets": 1,
-      "n_articles": 1,
-      "regions": [
-        "africa"
-      ],
-      "last_seen": "2026-08-09T16:51:25+00:00",
-      "leans": [
-        "center"
-      ],
-      "sources": [
-        {
-          "outlet": "Premium Times",
-          "region": "africa",
-          "lean": "center",
-          "ownership": "private",
-          "title": "WHO recommends clinical trial of Ebola vaccine against Bundibugyo virus",
-          "url": "https://www.premiumtimesng.com/health/health-news/901719-who-recommends-clinical-trial-of-ebola-vaccine-against-bundibugyo-virus.html",
-          "published": "2026-08-09T16:51:25+00:00",
-          "orig_title": "WHO recommends clinical trial of Ebola vaccine against Bundibugyo virus",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        }
-      ]
-    },
-    {
-      "id": 313,
-      "topic": "Science",
-      "label": "Defendants · sheep · vaccine",
-      "title": "Defendants in sheep vaccine fraud case appeal verdict",
-      "summary": "“Ъ” стали известны подробности масштабной аферы, в ходе которой, по данным МВД, было похищено более 200 млн руб., выделенных Минобрнауки на разработку вакцины от заболевания овец. За совершение хищени",
-      "score": 1.255,
-      "n_outlets": 1,
-      "n_articles": 1,
-      "regions": [
-        "russia"
-      ],
-      "last_seen": "2026-08-09T11:56:10+00:00",
-      "leans": [
-        "center"
-      ],
-      "sources": [
-        {
-          "outlet": "Kommersant",
-          "region": "russia",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Defendants in sheep vaccine fraud case appeal verdict",
-          "url": "https://www.kommersant.ru/doc/8875777",
-          "published": "2026-08-09T11:56:10+00:00",
-          "orig_title": "Фигуранты дела об афере с овечьей вакциной обжаловали приговор",
-          "lang": "ru",
-          "translated": true,
-          "access": "unknown"
-        }
-      ]
-    },
-    {
-      "id": 318,
-      "topic": "Science",
-      "label": "Longest · serving · volunteer",
-      "title": "Longest serving volunteer helps boost bird numbers",
-      "summary": "Bird charity's longest serving volunteer helps achieve big success in boosting species recovery.",
-      "score": 1.238,
-      "n_outlets": 1,
-      "n_articles": 1,
-      "regions": [
-        "europe"
-      ],
-      "last_seen": "2026-08-09T11:04:10+00:00",
-      "leans": [
-        "center"
-      ],
-      "sources": [
-        {
-          "outlet": "BBC News",
-          "region": "europe",
-          "lean": "center",
-          "ownership": "public",
-          "title": "Longest serving volunteer helps boost bird numbers",
-          "url": "https://www.bbc.co.uk/news/articles/cewr8y8e55vo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-09T11:04:10+00:00",
-          "orig_title": "Longest serving volunteer helps boost bird numbers",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        }
-      ]
-    },
-    {
-      "id": 20,
+      "id": 60,
       "topic": "Technology",
-      "label": "Kinahan · Daniel · Ireland",
+      "label": "Kinahan · Alleged · Irish",
       "title": "Alleged Irish crime boss charged in Dublin after extradition from Dubai",
       "summary": "Alleged Irish crime gang boss Daniel Kinahan was charged with directing a criminal organisation by prosecutors in Dublin on Sunday amid tight security at a special court sitting following his extradit",
-      "score": 6.968,
+      "score": 6.873,
       "n_outlets": 6,
       "n_articles": 7,
       "regions": [
         "china",
         "europe",
         "india",
+        "japan",
         "us"
       ],
-      "last_seen": "2026-08-10T03:55:28+00:00",
+      "last_seen": "2026-08-10T04:24:00+00:00",
       "leans": [
         "center",
         "left",
         "right"
       ],
       "sources": [
-        {
-          "outlet": "Der Spiegel",
-          "region": "europe",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Daniel Kinahan back in Ireland: UAE extradites alleged KOCG gang boss",
-          "url": "https://www.spiegel.de/panorama/daniel-kinahan-zurueck-in-irland-emirate-liefern-mutmasslichen-kocg-gangsterboss-aus-a-741ca5fe-7f22-4c3f-806a-913a8dbe24a5#ref=rss",
-          "published": "2026-08-10T00:14:00+00:00",
-          "orig_title": "Daniel Kinahan zurück in Irland: Emirate liefern mutmaßlichen KOCG-Gangsterboss aus",
-          "lang": "de",
-          "translated": true,
-          "access": "unknown"
-        },
         {
           "outlet": "The Hindu",
           "region": "india",
@@ -3150,6 +2942,19 @@
           "access": "open"
         },
         {
+          "outlet": "The Japan Times",
+          "region": "japan",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Alleged Irish crime boss Kinahan charged with directing criminal organization",
+          "url": "https://www.japantimes.co.jp/news/2026/08/10/world/crime-legal/irish-crime-boss-kinahan-charged/",
+          "published": "2026-08-10T04:24:00+00:00",
+          "orig_title": "Alleged Irish crime boss Kinahan charged with directing criminal organization",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall"
+        },
+        {
           "outlet": "The Wall Street Journal",
           "region": "us",
           "lean": "right",
@@ -3165,12 +2970,12 @@
       ]
     },
     {
-      "id": 116,
+      "id": 166,
       "topic": "Technology",
       "label": "Thai · school · Thailand",
       "title": "Thai school shooter had watched violent content online: police",
       "summary": "The Thai teen behind a deadly school shooting outside Bangkok had an air gun confiscated by a teacher last year and had watched violent content online, police said on Sunday, as the government ‌promis",
-      "score": 5.792,
+      "score": 5.687,
       "n_outlets": 5,
       "n_articles": 6,
       "regions": [
@@ -3268,20 +3073,129 @@
       ]
     },
     {
-      "id": 5,
+      "id": 14,
       "topic": "Technology",
-      "label": "Lobbyist · Icac · Liberal",
-      "title": "Virginia Bell rejects suggestion Palestinian group’s counsel ‘hijacked’ commission, inquiry hears",
-      "summary": "Antisemitism royal commissioner defends line of questioning from counsel for Australia Palestine Advocacy Network over context of Opera House protest after 7 October Hamas attack Follow our Australia ",
-      "score": 2.981,
+      "label": "Census · Australia · Everything",
+      "title": "Census 2026 Australia: when is it, can it be completed online and why does it matter? Everything you need to know",
+      "summary": "One expert says the survey, to be held on the night of 11 August, could be Australia’s most progressive, with new questions on sexuality and gender. What has changed? Get our breaking news email , fre",
+      "score": 2.957,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
-        "australia",
-        "europe"
+        "australia"
       ],
-      "last_seen": "2026-08-10T04:04:45+00:00",
+      "last_seen": "2026-08-10T05:30:27+00:00",
       "leans": [
+        "center",
+        "left"
+      ],
+      "sources": [
+        {
+          "outlet": "The Guardian Australia",
+          "region": "australia",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Census 2026 Australia: when is it, can it be completed online and why does it matter? Everything you need to know",
+          "url": "https://www.theguardian.com/australia-news/2026/aug/10/census-australia-2026-form-what-when-date-night-online-abs-compulsory-explained",
+          "published": "2026-08-10T05:30:27+00:00",
+          "orig_title": "Census 2026 Australia: when is it, can it be completed online and why does it matter? Everything you need to know",
+          "lang": "en",
+          "translated": false,
+          "access": "unknown"
+        },
+        {
+          "outlet": "ABC News (Australia)",
+          "region": "australia",
+          "lean": "center",
+          "ownership": "public",
+          "title": "Here are the questions asked in Australia's first complete census",
+          "url": "https://www.abc.net.au/news/2026-08-09/australian-census-world-history/106974682",
+          "published": "2026-08-08T18:42:24+00:00",
+          "orig_title": "Here are the questions asked in Australia's first complete census",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "topic": "Technology",
+      "label": "Analysts · Russian · North",
+      "title": "Analysts project Russian AI market to reach 830 billion rubles by 2030",
+      "summary": "По данным аналитического агентства AIANA, российский ИИ-рынок за 2025 год вырос на 29,7%, до 316,1 млрд руб. При этом за два года его объем удвоился, пишут авторы исследования.",
+      "score": 2.956,
+      "n_outlets": 2,
+      "n_articles": 3,
+      "regions": [
+        "europe",
+        "russia"
+      ],
+      "last_seen": "2026-08-10T05:29:02+00:00",
+      "leans": [
+        "center",
+        "left"
+      ],
+      "sources": [
+        {
+          "outlet": "El Pais",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "No, AI is not intelligent",
+          "url": "https://elpais.com/tecnologia/2026-08-10/no-la-ia-no-es-inteligente.html",
+          "published": "2026-08-10T03:30:01+00:00",
+          "orig_title": "No, la IA no es inteligente",
+          "lang": "es",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
+          "outlet": "Kommersant",
+          "region": "russia",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Analysts project Russian AI market to reach 830 billion rubles by 2030",
+          "url": "https://www.kommersant.ru/doc/8875905",
+          "published": "2026-08-10T05:29:02+00:00",
+          "orig_title": "Аналитики спрогнозировали рост рынка ИИ в РФ до 830 млрд рублей к 2030 году",
+          "lang": "ru",
+          "translated": true,
+          "access": "unknown",
+          "more": [
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "North Korean hackers automate cyberattacks using AI",
+              "url": "https://www.kommersant.ru/doc/8875991",
+              "published": "2026-08-10T05:02:31+00:00",
+              "orig_title": "Хакеры из КНДР автоматизировали кибератаки с помощью ИИ",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "topic": "Technology",
+      "label": "Hackers · manufacturers · face",
+      "title": "Hackers shift tactics and targets in first-half financial sector attacks",
+      "summary": "По итогам первого полугодия этого года доля атак на финансовый сектор с использованием вредоносного программного обеспечения сократилась на 22 процентного пункта (п. п.) относительно аналогичного пери",
+      "score": 2.919,
+      "n_outlets": 2,
+      "n_articles": 2,
+      "regions": [
+        "europe",
+        "russia"
+      ],
+      "last_seen": "2026-08-10T05:00:36+00:00",
+      "leans": [
+        "center",
         "left"
       ],
       "sources": [
@@ -3290,36 +3204,36 @@
           "region": "europe",
           "lean": "left",
           "ownership": "private",
-          "title": "Lobbyist tells Icac there’s not a ‘shred of evidence’ he was involved with conservative Liberal group",
-          "url": "https://www.theguardian.com/australia-news/2026/aug/10/lobbyist-jeremy-greenwood-icac-operation-rosny-ntwnfb",
-          "published": "2026-08-10T04:04:45+00:00",
-          "orig_title": "Lobbyist tells Icac there’s not a ‘shred of evidence’ he was involved with conservative Liberal group",
+          "title": "UK manufacturers face rising hacking risk as survey shows 30% were hit last year",
+          "url": "https://www.theguardian.com/technology/2026/aug/10/uk-companies-cyber-attack-third-jlr",
+          "published": "2026-08-10T05:00:36+00:00",
+          "orig_title": "UK manufacturers face rising hacking risk as survey shows 30% were hit last year",
           "lang": "en",
           "translated": false,
           "access": "open"
         },
         {
-          "outlet": "The Guardian Australia",
-          "region": "australia",
-          "lean": "left",
+          "outlet": "Kommersant",
+          "region": "russia",
+          "lean": "center",
           "ownership": "private",
-          "title": "Virginia Bell rejects suggestion Palestinian group’s counsel ‘hijacked’ commission, inquiry hears",
-          "url": "https://www.theguardian.com/news/2026/aug/05/bell-rejects-suggestion-palestinian-groups-counsel-hijacked-commission-and-condemns-abusive-emails-ntwnfb",
-          "published": "2026-08-10T00:50:33+00:00",
-          "orig_title": "Virginia Bell rejects suggestion Palestinian group’s counsel ‘hijacked’ commission, inquiry hears",
-          "lang": "en",
-          "translated": false,
+          "title": "Hackers shift tactics and targets in first-half financial sector attacks",
+          "url": "https://www.kommersant.ru/doc/8875939",
+          "published": "2026-08-10T00:25:55+00:00",
+          "orig_title": "Хакеры изменили тактику и цели атак на финансовый сектор в первом полугодии",
+          "lang": "ru",
+          "translated": true,
           "access": "unknown"
         }
       ]
     },
     {
-      "id": 184,
+      "id": 228,
       "topic": "Technology",
       "label": "Moscow · Kyiv · Ukraine",
       "title": "How a Drone ‘Hellscape’ Might Stop a Chinese Invasion of Taiwan",
       "summary": "Inspired by Ukraine’s battlefield gains, Taiwan is betting on drones to deter a potential Chinese invasion.",
-      "score": 2.567,
+      "score": 2.491,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -3360,12 +3274,86 @@
       ]
     },
     {
-      "id": 268,
+      "id": 233,
+      "topic": "Technology",
+      "label": "Labor · gambling · Live",
+      "title": "Labor open to ‘sensible amendments’ to gambling laws after inquiry hears alcohol and cocaine offered to punters",
+      "summary": "Sources say Albanese government willing to tighten rules on betting inducements but less likely to budge on TV and online advertisements Follow our Australia news live blog for latest updates Get our ",
+      "score": 2.483,
+      "n_outlets": 2,
+      "n_articles": 4,
+      "regions": [
+        "australia"
+      ],
+      "last_seen": "2026-08-09T21:17:23+00:00",
+      "leans": [
+        "center",
+        "left"
+      ],
+      "sources": [
+        {
+          "outlet": "The Guardian Australia",
+          "region": "australia",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Labor open to ‘sensible amendments’ to gambling laws after inquiry hears alcohol and cocaine offered to punters",
+          "url": "https://www.theguardian.com/australia-news/2026/aug/09/labor-amendments-gambling-laws-inquiry-hears-alcohol-cocaine-offered-punters",
+          "published": "2026-08-09T03:58:42+00:00",
+          "orig_title": "Labor open to ‘sensible amendments’ to gambling laws after inquiry hears alcohol and cocaine offered to punters",
+          "lang": "en",
+          "translated": false,
+          "access": "unknown",
+          "more": [
+            {
+              "outlet": "The Guardian Australia",
+              "region": "australia",
+              "lean": "left",
+              "ownership": "private",
+              "title": "As gambling reforms face pressure from all sides, will Labor hold ’em, fold ’em or walk away? | Josh Butler",
+              "url": "https://www.theguardian.com/australia-news/2026/aug/10/as-gambling-reforms-face-pressure-from-all-sides-will-labor-hold-em-fold-em-or-walk-away",
+              "published": "2026-08-09T15:00:20+00:00",
+              "orig_title": "As gambling reforms face pressure from all sides, will Labor hold ’em, fold ’em or walk away? | Josh Butler",
+              "lang": "en",
+              "translated": false,
+              "access": "unknown"
+            },
+            {
+              "outlet": "The Guardian Australia",
+              "region": "australia",
+              "lean": "left",
+              "ownership": "private",
+              "title": "Labor open to ‘sensible amendments’ on gambling reforms, minister says – as it happened",
+              "url": "https://www.theguardian.com/australia-news/live/2026/aug/09/bird-flu-updates-politics-reactions-sarah-hanson-young-insiders-ntwnfb",
+              "published": "2026-08-09T04:21:03+00:00",
+              "orig_title": "Labor open to ‘sensible amendments’ on gambling reforms, minister says – as it happened",
+              "lang": "en",
+              "translated": false,
+              "access": "unknown"
+            }
+          ]
+        },
+        {
+          "outlet": "ABC News (Australia)",
+          "region": "australia",
+          "lean": "center",
+          "ownership": "public",
+          "title": "Live: PM flags action on inducements to win Coalition support for gambling laws",
+          "url": "https://www.abc.net.au/news/2026-08-10/federal-politics-live-blog-august-10/107015492",
+          "published": "2026-08-09T21:17:23+00:00",
+          "orig_title": "Live: PM flags action on inducements to win Coalition support for gambling laws",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 297,
       "topic": "Technology",
       "label": "China · Melbourne · Inside",
       "title": "China expresses ‘grave concern’ as internal documents reveal suicide warning before death in Melbourne immigration detention",
       "summary": "Exclusive: Serious questions raised about whether Chinese citizen was properly monitored at centre run by US prison giant Follow our Australia news live blog for latest updates Get our breaking news e",
-      "score": 2.33,
+      "score": 2.286,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -3407,12 +3395,12 @@
       ]
     },
     {
-      "id": 277,
+      "id": 306,
       "topic": "Technology",
       "label": "Opinion · Banning · Chinese",
       "title": "China’s AI models spooked Wall Street. But they may turbocharge industry growth",
       "summary": "Breakthroughs in cheap Chinese open-weight artificial intelligence models have spooked US investors, but analysts argue plummeting model costs will benefit the AI industry in the long run by superchar",
-      "score": 2.322,
+      "score": 2.279,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -3454,183 +3442,46 @@
       ]
     },
     {
-      "id": 74,
+      "id": 31,
       "topic": "Technology",
-      "label": "North · Korean · hacking",
-      "title": "North Korean hacking group builds AI tools for cyberattacks, report says",
-      "summary": "The group reportedly collected software that could help automate cyberattacks, analyze stolen material and produce better phishing campaigns.",
-      "score": 1.914,
+      "label": "Eight · Queensland · teenagers",
+      "title": "Eight teenagers charged with murder over alleged attack after Queensland party",
+      "summary": "Man, 21, dies six days after being taken to hospital in critical condition after alleged attack in Bahrs Scrub, Logan Follow our Australia news live blog for latest updates Get our breaking news email",
+      "score": 1.927,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
-        "japan"
+        "europe"
       ],
-      "last_seen": "2026-08-10T03:14:00+00:00",
-      "leans": [
-        "center"
-      ],
-      "sources": [
-        {
-          "outlet": "The Japan Times",
-          "region": "japan",
-          "lean": "center",
-          "ownership": "private",
-          "title": "North Korean hacking group builds AI tools for cyberattacks, report says",
-          "url": "https://www.japantimes.co.jp/news/2026/08/10/asia-pacific/north-korea-hacking-ai-tools/",
-          "published": "2026-08-10T03:14:00+00:00",
-          "orig_title": "North Korean hacking group builds AI tools for cyberattacks, report says",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
-        }
-      ]
-    },
-    {
-      "id": 81,
-      "topic": "Technology",
-      "label": "Sony · TSMC · Japan",
-      "title": "Sony and TSMC to invest ¥1 trillion in joint chip plant in Japan",
-      "summary": "The Japanese company's chip arm Sony Semiconductor Solutions and TSMC are partnering on next-generation image sensors for robots and cars.",
-      "score": 1.902,
-      "n_outlets": 1,
-      "n_articles": 1,
-      "regions": [
-        "japan"
-      ],
-      "last_seen": "2026-08-10T03:05:00+00:00",
-      "leans": [
-        "center"
-      ],
-      "sources": [
-        {
-          "outlet": "The Japan Times",
-          "region": "japan",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Sony and TSMC to invest ¥1 trillion in joint chip plant in Japan",
-          "url": "https://www.japantimes.co.jp/business/2026/08/10/companies/sony-tsmc-joint-chip-plant-japan/",
-          "published": "2026-08-10T03:05:00+00:00",
-          "orig_title": "Sony and TSMC to invest ¥1 trillion in joint chip plant in Japan",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
-        }
-      ]
-    },
-    {
-      "id": 107,
-      "topic": "Technology",
-      "label": "Sheep-herding · Ekka · Royal",
-      "title": "Sheep-herding robot dogs put to the test at the Ekka Royal Queensland show — video",
-      "summary": "The University of the Sunshine Coast student project is trialling the use of robotic dogs to herd sheep, with public demonstrations of the units at the Brisbane Showgrounds. Dr David Alonso-Caneiro, a",
-      "score": 1.815,
-      "n_outlets": 1,
-      "n_articles": 1,
-      "regions": [
-        "australia"
-      ],
-      "last_seen": "2026-08-10T01:51:35+00:00",
+      "last_seen": "2026-08-10T05:07:12+00:00",
       "leans": [
         "left"
       ],
       "sources": [
         {
-          "outlet": "The Guardian Australia",
-          "region": "australia",
+          "outlet": "The Guardian",
+          "region": "europe",
           "lean": "left",
           "ownership": "private",
-          "title": "Sheep-herding robot dogs put to the test at the Ekka Royal Queensland show — video",
-          "url": "https://www.theguardian.com/technology/video/2026/aug/10/sheep-herding-robot-dogs-put-to-the-test-at-the-ekka-royal-queensland-show-video",
-          "published": "2026-08-10T01:51:35+00:00",
-          "orig_title": "Sheep-herding robot dogs put to the test at the Ekka Royal Queensland show — video",
+          "title": "Eight teenagers charged with murder over alleged attack after Queensland party",
+          "url": "https://www.theguardian.com/australia-news/2026/aug/10/teenagers-charged-murder-bahrs-scrub-logan-queensland-party-ntwnfb",
+          "published": "2026-08-10T05:07:12+00:00",
+          "orig_title": "Eight teenagers charged with murder over alleged attack after Queensland party",
           "lang": "en",
           "translated": false,
-          "access": "unknown"
+          "access": "open"
         }
       ]
     },
     {
-      "id": 120,
-      "topic": "Technology",
-      "label": "India · Test · Sarfaraz",
-      "title": "Sarfaraz Khan's first reaction after India call-up for Sri Lanka Test series",
-      "summary": "Sarfaraz Khan has been added to India's Test squad for the Sri Lanka series. He replaces Sai Sudharsan, who is recovering from a toe injury. This marks a significant moment for the batter after a long",
-      "score": 1.768,
-      "n_outlets": 1,
-      "n_articles": 4,
-      "regions": [
-        "india"
-      ],
-      "last_seen": "2026-08-10T01:09:10+00:00",
-      "leans": [
-        "center"
-      ],
-      "sources": [
-        {
-          "outlet": "Times of India",
-          "region": "india",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Sarfaraz Khan's first reaction after India call-up for Sri Lanka Test series",
-          "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/sarfaraz-khans-first-reaction-after-india-call-up-for-sri-lanka-test-series/articleshow/133077111.cms",
-          "published": "2026-08-10T01:09:10+00:00",
-          "orig_title": "Sarfaraz Khan's first reaction after India call-up for Sri Lanka Test series",
-          "lang": "en",
-          "translated": false,
-          "access": "open",
-          "more": [
-            {
-              "outlet": "Times of India",
-              "region": "india",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Sarfaraz Khan replaces Sai Sudharsan in India squad for Sri Lanka Tests",
-              "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/sarfaraz-khan-replaces-sai-sudharsan-in-india-squad-for-sri-lanka-tests/articleshow/133069271.cms",
-              "published": "2026-08-09T14:34:29+00:00",
-              "orig_title": "Sarfaraz Khan replaces Sai Sudharsan in India squad for Sri Lanka Tests",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
-            },
-            {
-              "outlet": "Times of India",
-              "region": "india",
-              "lean": "center",
-              "ownership": "private",
-              "title": "England get big Emilio Gay boost ahead of their first Test against Pakistan",
-              "url": "https://timesofindia.indiatimes.com/sports/cricket/news/england-get-big-emilio-gay-boost-ahead-of-their-first-test-against-pakistan/articleshow/133068602.cms",
-              "published": "2026-08-09T13:51:08+00:00",
-              "orig_title": "England get big Emilio Gay boost ahead of their first Test against Pakistan",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
-            },
-            {
-              "outlet": "Times of India",
-              "region": "india",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Will Kuldeep Yadav play? India coach reveals big selection headache ahead of Galle Test",
-              "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/will-kuldeep-yadav-play-india-coach-reveals-big-selection-headache-ahead-of-galle-test/articleshow/133070219.cms",
-              "published": "2026-08-09T15:38:09+00:00",
-              "orig_title": "Will Kuldeep Yadav play? India coach reveals big selection headache ahead of Galle Test",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 163,
+      "id": 208,
       "topic": "Sports",
       "label": "Messi · Jorge · Lionel",
-      "title": "Devastating blow for Lionel Messi as father Jorge dies after illness",
-      "summary": "Death of Argentina captain's father comes just weeks after Lionel Messi led Albiceleste into 2026 World Cup, ending a lifelong partnership that shaped one of football's greatest careers. Leer más",
-      "score": 4.606,
+      "title": "Lionel Messi arrives in Rosario to mourn his late father Jorge",
+      "summary": "Footballer lands in Rosario late Saturday night following the death of father; Funeral to take place on Sunday at cemetery in nearby Pérez. Leer más",
+      "score": 4.525,
       "n_outlets": 4,
-      "n_articles": 6,
+      "n_articles": 5,
       "regions": [
         "europe",
         "india",
@@ -3674,27 +3525,14 @@
           "region": "south_america",
           "lean": "center",
           "ownership": "private",
-          "title": "Devastating blow for Lionel Messi as father Jorge dies after illness",
-          "url": "https://www.batimes.com.ar/news/sports/devastating-blow-for-lionel-messi-as-father-jorge-dies-from-cancer.phtml",
-          "published": "2026-08-08T16:33:00+00:00",
-          "orig_title": "Devastating blow for Lionel Messi as father Jorge dies after illness",
+          "title": "Lionel Messi arrives in Rosario to mourn his late father Jorge",
+          "url": "https://www.batimes.com.ar/news/argentina/lionel-messi-arrives-in-rosario-to-mourn-his-late-father-jorge.phtml",
+          "published": "2026-08-09T08:57:19+00:00",
+          "orig_title": "Lionel Messi arrives in Rosario to mourn his late father Jorge",
           "lang": "en",
           "translated": false,
           "access": "unknown",
           "more": [
-            {
-              "outlet": "Buenos Aires Times",
-              "region": "south_america",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Lionel Messi arrives in Rosario to mourn his late father Jorge",
-              "url": "https://www.batimes.com.ar/news/argentina/lionel-messi-arrives-in-rosario-to-mourn-his-late-father-jorge.phtml",
-              "published": "2026-08-09T08:57:19+00:00",
-              "orig_title": "Lionel Messi arrives in Rosario to mourn his late father Jorge",
-              "lang": "en",
-              "translated": false,
-              "access": "unknown"
-            },
             {
               "outlet": "Buenos Aires Times",
               "region": "south_america",
@@ -3726,12 +3564,12 @@
       ]
     },
     {
-      "id": 22,
+      "id": 80,
       "topic": "Sports",
       "label": "Tupac · Shakur · years",
       "title": "Tupac Shakur murder trial begins in Las Vegas nearly 30 years after killing",
       "summary": "Er war einer der einflussreichsten Hip-Hop-Stars der Neunzigerjahre – über Jahrzehnte blieb der Mord an Tupac Shakur ein Cold Case. Nun könnte ein Gerichtsverfahren den Fall zumindest teilweise aufklä",
-      "score": 3.962,
+      "score": 3.834,
       "n_outlets": 3,
       "n_articles": 3,
       "regions": [
@@ -3786,12 +3624,12 @@
       ]
     },
     {
-      "id": 30,
+      "id": 86,
       "topic": "Sports",
       "label": "Australia · U.S.-Iran · conflict",
       "title": "Australia studies building first refinery in six decades to cushion impact of U.S.-Iran conflict",
       "summary": "El conflicto en Oriente Próximo expone la dependencia de un país que ha dejado en manos de las importaciones casi el 80% de su suministro energético",
-      "score": 3.954,
+      "score": 3.827,
       "n_outlets": 3,
       "n_articles": 3,
       "regions": [
@@ -3846,12 +3684,12 @@
       ]
     },
     {
-      "id": 111,
+      "id": 161,
       "topic": "Sports",
       "label": "NBA · Don · Nelson",
       "title": "Hall of Fame NBA coach Don Nelson dies at 86",
       "summary": "Nelson's family announced the passing of the five-time champion ⁠as a player but didn't divulge a manner of death.",
-      "score": 3.805,
+      "score": 3.698,
       "n_outlets": 3,
       "n_articles": 3,
       "regions": [
@@ -3907,148 +3745,21 @@
       ]
     },
     {
-      "id": 190,
+      "id": 4,
       "topic": "Sports",
-      "label": "Toronto · Russian · Sabalenka",
-      "title": "Alexandrova defeats Sabalenka to reach Toronto tournament quarterfinals",
-      "summary": "Для Екатерины Александровой нынешний сезон до «тысячника» в Торонто складывался крайне неудачно. Потерпев 18 поражений в 27 матчах, в том числе 11 — в стартовых раундах, российская теннисистка, замкну",
-      "score": 2.547,
-      "n_outlets": 2,
-      "n_articles": 8,
-      "regions": [
-        "russia"
-      ],
-      "last_seen": "2026-08-09T21:04:20+00:00",
-      "leans": [
-        "center",
-        "state"
-      ],
-      "sources": [
-        {
-          "outlet": "Kommersant",
-          "region": "russia",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Alexandrova defeats Sabalenka to reach Toronto tournament quarterfinals",
-          "url": "https://www.kommersant.ru/doc/8875822",
-          "published": "2026-08-09T13:48:08+00:00",
-          "orig_title": "Александрова обыграла Соболенко и вышла в 1/4 финала турнира в Торонто",
-          "lang": "ru",
-          "translated": true,
-          "access": "unknown",
-          "more": [
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Aleksandrova defeats world number one Sabalenka at Toronto tournament",
-              "url": "https://www.kommersant.ru/doc/8875643",
-              "published": "2026-08-09T02:00:12+00:00",
-              "orig_title": "Александрова обыграла первую ракетку мира Соболенко на турнире в Торонто",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            },
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Lokomotiv draws with Akron in third round of Russian Premier League",
-              "url": "https://www.kommersant.ru/doc/8875618",
-              "published": "2026-08-08T17:13:23+00:00",
-              "orig_title": "«Локомотив» сыграл вничью с «Акроном» в третьем туре РПЛ",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            },
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "CSKA draws with Rostov in third round of Russian Premier League",
-              "url": "https://www.kommersant.ru/doc/8875628",
-              "published": "2026-08-08T19:28:54+00:00",
-              "orig_title": "ЦСКА сыграл вничью с «Ростовом» в третьем туре РПЛ",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            },
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Zenit loses to RPL debutant Rodina 1-2",
-              "url": "https://www.kommersant.ru/doc/8875891",
-              "published": "2026-08-09T17:13:34+00:00",
-              "orig_title": "«Зенит» проиграл дебютанту РПЛ «Родине» со счетом 1:2 // «Зенит» проиграл первый матч против «Родины» в своей истории",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            },
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Dynamo Moscow claim first victory of RPL season",
-              "url": "https://www.kommersant.ru/doc/8875835",
-              "published": "2026-08-09T14:15:33+00:00",
-              "orig_title": "Футболисты московского «Динамо» одержали первую победу в сезоне РПЛ",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            },
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Russian Samsonova fails to reach WTA Toronto quarterfinals",
-              "url": "https://www.kommersant.ru/doc/8875916",
-              "published": "2026-08-09T21:04:20+00:00",
-              "orig_title": "Россиянка Самсонова не смогла выйти в 1/4 финала турнира WTA в Торонто",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            }
-          ]
-        },
-        {
-          "outlet": "TASS",
-          "region": "russia",
-          "lean": "state",
-          "ownership": "state",
-          "title": "Alexandrova defeats world’s No.1 Sabalenka during Toronto tournament",
-          "url": "https://tass.com/sports/2170617",
-          "published": "2026-08-09T05:00:51+00:00",
-          "orig_title": "Alexandrova defeats world’s No.1 Sabalenka during Toronto tournament",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        }
-      ]
-    },
-    {
-      "id": 239,
-      "topic": "Sports",
-      "label": "Two · NBA · WNBA",
-      "title": "WNBA: Sophie Cunningham fouled hard, ejected opponent decries 'White Privilege'",
-      "summary": "Basketballstar Sophie Cunningham wurde von ihrer Gegnerin DiJonai Carrington mit einem Schlag an den Hals zu Boden gebracht. Carrington musste vom Platz und sorgte mit einem Social-Media-Beitrag für A",
-      "score": 2.405,
+      "label": "German · European · Handball",
+      "title": "Handball: German junior team wins European championship under Elvis Kretzschmar",
+      "summary": "Der DHB holt den nächsten Junioren-Titel: Deutschlands U18 gewann das EM-Finale souverän – vor den Augen von Ikone Stefan Kretzschmar, der für seinen Sohn Elvis 1200 Kilometer mit dem Auto angereist w",
+      "score": 2.985,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
-        "europe",
-        "russia"
+        "europe"
       ],
-      "last_seen": "2026-08-09T17:27:20+00:00",
+      "last_seen": "2026-08-10T05:51:00+00:00",
       "leans": [
-        "center",
-        "left"
+        "left",
+        "right"
       ],
       "sources": [
         {
@@ -4056,36 +3767,82 @@
           "region": "europe",
           "lean": "left",
           "ownership": "private",
-          "title": "WNBA: Sophie Cunningham fouled hard, ejected opponent decries 'White Privilege'",
-          "url": "https://www.spiegel.de/sport/basketball/wnba-sophie-cunningham-wird-hart-gefoult-vom-platz-gestellte-gegnerin-beklagt-white-privilege-a-ad3c51b1-9d15-44ab-b4af-d7295b759a17#ref=rss",
-          "published": "2026-08-09T14:41:00+00:00",
-          "orig_title": "WNBA: Sophie Cunningham wird hart gefoult, vom Platz gestellte Gegnerin beklagt »White Privilege«",
+          "title": "Handball: German junior team wins European championship under Elvis Kretzschmar",
+          "url": "https://www.spiegel.de/sport/fussball/handball-dhb-junioren-um-elvis-kretzschmar-sind-europameister-a-983449cb-41ff-415e-9f34-ee05c31728eb#ref=rss",
+          "published": "2026-08-10T05:51:00+00:00",
+          "orig_title": "Handball: DHB-Junioren um Elvis Kretzschmar sind Europameister",
           "lang": "de",
           "translated": true,
           "access": "unknown"
         },
         {
-          "outlet": "Kommersant",
-          "region": "russia",
-          "lean": "center",
+          "outlet": "Die Welt",
+          "region": "europe",
+          "lean": "right",
           "ownership": "private",
-          "title": "Two former NBA players plan to compete in women's league",
-          "url": "https://www.kommersant.ru/doc/8875892",
-          "published": "2026-08-09T17:27:20+00:00",
-          "orig_title": "Два бывших игрока НБА намерены выступать в женской лиге",
-          "lang": "ru",
+          "title": "Impressive German winning streak—youth handball team crowned European champions",
+          "url": "https://www.welt.de/sport/handball/article6a791b0835268e5027023c6d/handball-beeindruckende-deutsche-erfolgsserie-nachwuchs-kroent-sich-zum-europameister.html",
+          "published": "2026-08-10T00:58:28+00:00",
+          "orig_title": "Beeindruckende deutsche Erfolgsserie – Nachwuchs-Handballer krönen sich zum Europameister",
+          "lang": "de",
           "translated": true,
           "access": "unknown"
         }
       ]
     },
     {
-      "id": 265,
+      "id": 47,
+      "topic": "Sports",
+      "label": "Former · Australia's · China",
+      "title": "China-Australia relations reach ‘good enough’ baseline, ex-envoy says",
+      "summary": "After years of strain, China-Australia ties have reached a “good enough” baseline for Canberra, though still short of Beijing’s broader ambitions, according to a former top Australian diplomat. The re",
+      "score": 2.901,
+      "n_outlets": 2,
+      "n_articles": 2,
+      "regions": [
+        "australia",
+        "china"
+      ],
+      "last_seen": "2026-08-10T04:47:04+00:00",
+      "leans": [
+        "center"
+      ],
+      "sources": [
+        {
+          "outlet": "ABC News (Australia)",
+          "region": "australia",
+          "lean": "center",
+          "ownership": "public",
+          "title": "Former ambassador warns Australia's ties with China could spiral again",
+          "url": "https://www.abc.net.au/news/2026-08-10/former-ambassador-warns-china-relationship-vulnerable/107016922",
+          "published": "2026-08-10T04:47:04+00:00",
+          "orig_title": "Former ambassador warns Australia's ties with China could spiral again",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "South China Morning Post",
+          "region": "china",
+          "lean": "center",
+          "ownership": "private",
+          "title": "China-Australia relations reach ‘good enough’ baseline, ex-envoy says",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3363442/china-australia-relations-reach-good-enough-baseline-ex-envoy-says?utm_source=rss_feed",
+          "published": "2026-08-09T12:30:12+00:00",
+          "orig_title": "China-Australia relations reach ‘good enough’ baseline, ex-envoy says",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 295,
       "topic": "Sports",
       "label": "European · Russians · Aquatics",
       "title": "European Aquatics ready to let Russians compete with flag, anthem if hosts agree",
       "summary": "A number of European governments do not allow Russian and Belarusian athletes to participate unless they remain neutral",
-      "score": 2.337,
+      "score": 2.292,
       "n_outlets": 2,
       "n_articles": 4,
       "regions": [
@@ -4154,65 +3911,78 @@
       ]
     },
     {
-      "id": 50,
+      "id": 5,
       "topic": "Sports",
-      "label": "European · World · Luca",
-      "title": "Luca Hoek: \"Spain's record is secondary; I'm going for the maximum\"",
-      "summary": "El nadador de 18 años afronta los Europeos de natación tras batir las plusmarcas nacionales en 50, 100 y 200 metros libre. Este lunes disputa el 4x200 masculino",
-      "score": 1.934,
+      "label": "India · Brar · More",
+      "title": "India tick boxes in warm-up: Captain Gill fit, Jaiswal finds rhythm, Brar impresses",
+      "summary": "Shubman Gill's return to the middle, Yashasvi Jaiswal's fluent knock and Gurnoor Brar's impressive outing gave India plenty of positives in their Colombo warm-up, while a surprise visit from Sri Lanka",
+      "score": 1.979,
       "n_outlets": 1,
-      "n_articles": 2,
+      "n_articles": 3,
       "regions": [
-        "europe"
+        "india"
       ],
-      "last_seen": "2026-08-10T03:30:01+00:00",
+      "last_seen": "2026-08-10T05:46:09+00:00",
       "leans": [
-        "left"
+        "center"
       ],
       "sources": [
         {
-          "outlet": "El Pais",
-          "region": "europe",
-          "lean": "left",
+          "outlet": "Times of India",
+          "region": "india",
+          "lean": "center",
           "ownership": "private",
-          "title": "Luca Hoek: \"Spain's record is secondary; I'm going for the maximum\"",
-          "url": "https://elpais.com/deportes/2026-08-10/luca-hoek-el-record-de-espana-es-algo-secundario-yo-voy-a-lo-maximo.html",
-          "published": "2026-08-10T03:30:01+00:00",
-          "orig_title": "Luca Hoek: “El récord de España es algo secundario; yo voy a lo máximo”",
-          "lang": "es",
-          "translated": true,
-          "access": "unknown",
+          "title": "India tick boxes in warm-up: Captain Gill fit, Jaiswal finds rhythm, Brar impresses",
+          "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/india-tick-boxes-in-warm-up-captain-shubman-gill-fit-yashasvi-jaiswal-finds-rhythm-gurnoor-brar-impresses/articleshow/133067373.cms",
+          "published": "2026-08-09T12:27:32+00:00",
+          "orig_title": "India tick boxes in warm-up: Captain Gill fit, Jaiswal finds rhythm, Brar impresses",
+          "lang": "en",
+          "translated": false,
+          "access": "open",
           "more": [
             {
-              "outlet": "El Pais",
-              "region": "europe",
-              "lean": "left",
+              "outlet": "Times of India",
+              "region": "india",
+              "lean": "center",
               "ownership": "private",
-              "title": "European athletics championships that are almost a World Championships",
-              "url": "https://elpais.com/deportes/2026-08-10/unos-europeos-de-atletismo-que-son-casi-unos-mundiales.html",
-              "published": "2026-08-10T03:30:01+00:00",
-              "orig_title": "Unos Europeos de atletismo que son casi unos Mundiales",
-              "lang": "es",
-              "translated": true,
-              "access": "unknown"
+              "title": "‘More practice wouldn’t be as good’: Kotak’s bold claim after India’s warm-up win",
+              "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/more-practice-days-wouldnt-be-as-good-sitanshu-kotaks-bold-claim-after-indias-warm-up-win/articleshow/133086265.cms",
+              "published": "2026-08-10T05:46:09+00:00",
+              "orig_title": "‘More practice wouldn’t be as good’: Kotak’s bold claim after India’s warm-up win",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            },
+            {
+              "outlet": "Times of India",
+              "region": "india",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Gurnoor Brar is an exciting player... expect a lot from him: Zaheer Khan | Exclusive",
+              "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/gurnoor-brar-is-an-exciting-player-expect-a-lot-from-him-zaheer-khan-exclusive/articleshow/133077454.cms",
+              "published": "2026-08-10T02:18:52+00:00",
+              "orig_title": "Gurnoor Brar is an exciting player... expect a lot from him: Zaheer Khan | Exclusive",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
             }
           ]
         }
       ]
     },
     {
-      "id": 87,
+      "id": 16,
       "topic": "Sports",
-      "label": "I'll · Bhuvneshwar · Kumar",
-      "title": "I'll continue playing, rest is selectors' call: Bhuvneshwar Kumar",
-      "summary": "The 36-year-old, one of Uttar Pradesh’s most experienced cricketers, continues to remain a key figure in Indian domestic cricket. He last played for India in 2022, featuring in both ODI and T20I forma",
-      "score": 1.881,
+      "label": "Kuldeep · Yadav · Why",
+      "title": "Will Kuldeep Yadav play? India coach reveals big selection headache ahead of Galle Test",
+      "summary": "India's spin bowling coach addressed worries about Kuldeep Yadav's fitness after the warm-up match, highlighting that Kuldeep bowled almost twenty overs before taking a precautionary break to evaluate",
+      "score": 1.957,
       "n_outlets": 1,
-      "n_articles": 1,
+      "n_articles": 2,
       "regions": [
         "india"
       ],
-      "last_seen": "2026-08-10T02:47:20+00:00",
+      "last_seen": "2026-08-10T05:29:46+00:00",
       "leans": [
         "center"
       ],
@@ -4222,29 +3992,44 @@
           "region": "india",
           "lean": "center",
           "ownership": "private",
-          "title": "I'll continue playing, rest is selectors' call: Bhuvneshwar Kumar",
-          "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ill-continue-playing-rest-is-selectors-call-bhuvneshwar-kumar/articleshow/133078356.cms",
-          "published": "2026-08-10T02:47:20+00:00",
-          "orig_title": "I'll continue playing, rest is selectors' call: Bhuvneshwar Kumar",
+          "title": "Will Kuldeep Yadav play? India coach reveals big selection headache ahead of Galle Test",
+          "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/will-kuldeep-yadav-play-india-coach-reveals-big-selection-headache-ahead-of-galle-test/articleshow/133070219.cms",
+          "published": "2026-08-09T15:38:09+00:00",
+          "orig_title": "Will Kuldeep Yadav play? India coach reveals big selection headache ahead of Galle Test",
           "lang": "en",
           "translated": false,
-          "access": "open"
+          "access": "open",
+          "more": [
+            {
+              "outlet": "Times of India",
+              "region": "india",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Why Kuldeep Yadav did not bowl in second innings vs Sri Lanka?",
+              "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/why-kuldeep-yadav-did-not-bowl-in-second-innings-vs-sri-lanka-india-coach-explains/articleshow/133085681.cms",
+              "published": "2026-08-10T05:29:46+00:00",
+              "orig_title": "Why Kuldeep Yadav did not bowl in second innings vs Sri Lanka?",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            }
+          ]
         }
       ]
     },
     {
-      "id": 90,
+      "id": 28,
       "topic": "Sports",
-      "label": "Hezly · Biles · becomes",
-      "title": "Hezly becomes first US woman after Biles to win back-to-back gymnastics titles",
-      "summary": "Hezly Rivera secured her second consecutive US women's gymnastics title. She overcame an earlier fall on the uneven bars to achieve this victory. Rivera's performance secured her a two-day total of 11",
-      "score": 1.866,
+      "label": "Modi · CWG · Watch",
+      "title": "‘From every drop of tears, gold medals drip’: PM Modi hails CWG heroes - Watch",
+      "summary": "Prime Minister Narendra Modi hosted India's Commonwealth Games medal winners at his residence. He emotionally acknowledged the sacrifices and struggles behind their impressive Glasgow performances. At",
+      "score": 1.932,
       "n_outlets": 1,
-      "n_articles": 1,
+      "n_articles": 2,
       "regions": [
         "india"
       ],
-      "last_seen": "2026-08-10T02:35:19+00:00",
+      "last_seen": "2026-08-10T05:11:20+00:00",
       "leans": [
         "center"
       ],
@@ -4254,13 +4039,28 @@
           "region": "india",
           "lean": "center",
           "ownership": "private",
-          "title": "Hezly becomes first US woman after Biles to win back-to-back gymnastics titles",
-          "url": "https://timesofindia.indiatimes.com/sports/more-sports/others/hezly-rivera-becomes-first-us-woman-after-simone-biles-to-win-back-to-back-gymnastics-titles-since-2012/articleshow/133077901.cms",
-          "published": "2026-08-10T02:35:19+00:00",
-          "orig_title": "Hezly becomes first US woman after Biles to win back-to-back gymnastics titles",
+          "title": "‘From every drop of tears, gold medals drip’: PM Modi hails CWG heroes - Watch",
+          "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/from-every-drop-of-tears-gold-medals-are-dripping-pm-modis-heartfelt-message-to-cwg-heroes-watch/articleshow/133085077.cms",
+          "published": "2026-08-10T05:11:20+00:00",
+          "orig_title": "‘From every drop of tears, gold medals drip’: PM Modi hails CWG heroes - Watch",
           "lang": "en",
           "translated": false,
-          "access": "open"
+          "access": "open",
+          "more": [
+            {
+              "outlet": "Times of India",
+              "region": "india",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Watch: PM Modi meets CWG medallists, says ‘Jo khelega, woh khilega’",
+              "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/watch-pm-modi-meets-cwg-medallists-says-jo-khelega-woh-khilega/articleshow/133070255.cms",
+              "published": "2026-08-09T15:56:24+00:00",
+              "orig_title": "Watch: PM Modi meets CWG medallists, says ‘Jo khelega, woh khilega’",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            }
+          ]
         }
       ]
     }
