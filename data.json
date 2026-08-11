@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T02:13:06.159124+00:00",
+  "generated_at": "2026-08-11T04:07:02.195345+00:00",
   "topics": [
     "World & Politics",
     "Economics",
@@ -14,56 +14,56 @@
       "name": "United States",
       "lat": 39.0,
       "lng": -98.0,
-      "count": 28
+      "count": 26
     },
     {
       "id": "europe",
       "name": "Europe",
       "lat": 50.0,
       "lng": 10.0,
-      "count": 35
+      "count": 32
     },
     {
       "id": "china",
       "name": "China",
       "lat": 35.0,
       "lng": 105.0,
-      "count": 12
+      "count": 16
     },
     {
       "id": "india",
       "name": "India",
       "lat": 22.0,
       "lng": 79.0,
-      "count": 13
+      "count": 18
     },
     {
       "id": "australia",
       "name": "Australia",
       "lat": -25.0,
       "lng": 134.0,
-      "count": 3
+      "count": 2
     },
     {
       "id": "south_america",
       "name": "South America",
       "lat": -12.0,
       "lng": -58.0,
-      "count": 3
+      "count": 4
     },
     {
       "id": "africa",
       "name": "Africa",
       "lat": 2.0,
       "lng": 21.0,
-      "count": 3
+      "count": 2
     },
     {
       "id": "japan",
       "name": "Japan",
       "lat": 36.5,
       "lng": 139.0,
-      "count": 6
+      "count": 8
     },
     {
       "id": "russia",
@@ -75,15 +75,16 @@
   ],
   "clusters": [
     {
-      "id": 7,
+      "id": 0,
       "topic": "World & Politics",
-      "label": "Colombia · earthquake · killed",
-      "title": "At least 111 dead in Colombia after magnitude 7.4 earthquake",
-      "summary": "A powerful magnitude 7.4 earthquake struck western Colombia on Monday, killing at least 111 people, injuring 87 and damaging hundreds of buildings, President Abelardo de la Espriella said. The preside",
-      "score": 15.982,
-      "n_outlets": 15,
-      "n_articles": 23,
+      "label": "Colombia · earthquake · least",
+      "title": "Colombia earthquake: Death toll rises to over 100",
+      "summary": "A powerful earthquake, measured at magnitude 7.4, has struck Colombia, killing dozens of people and trapping many under rubble. Cities including Cali, Pereira and Manizales were among the hardest-hit.",
+      "score": 17.0,
+      "n_outlets": 16,
+      "n_articles": 32,
       "regions": [
+        "africa",
         "australia",
         "china",
         "europe",
@@ -93,7 +94,7 @@
         "south_america",
         "us"
       ],
-      "last_seen": "2026-08-11T01:59:40+00:00",
+      "last_seen": "2026-08-11T08:51:00+00:00",
       "leans": [
         "center",
         "left",
@@ -121,12 +122,25 @@
           "ownership": "private",
           "title": "Colombia earthquake live updates: At least 132 dead, 570 injured in 7.4 magnitude quake",
           "url": "https://elpais.com/america-colombia/2026-08-10/ultima-hora-del-terremoto-en-colombia-en-directo.html",
-          "published": "2026-08-11T01:13:39+00:00",
+          "published": "2026-08-11T02:07:24+00:00",
           "orig_title": "Última hora del terremoto en Colombia, en directo | Al menos 132 muertos y 570 heridos por el terremoto de magnitud 7,4 en Colombia",
           "lang": "es",
           "translated": true,
           "access": "unknown",
           "more": [
+            {
+              "outlet": "El Pais",
+              "region": "europe",
+              "lean": "left",
+              "ownership": "private",
+              "title": "Video: Devastation in Cali after earthquake seen from above",
+              "url": "https://elpais.com/america-colombia/2026-08-10/video-la-devastacion-en-cali-tras-el-terremoto-vista-desde-el-aire.html",
+              "published": "2026-08-10T18:51:05+00:00",
+              "orig_title": "Video | La devastación en Cali tras el terremoto vista desde el aire",
+              "lang": "es",
+              "translated": true,
+              "access": "unknown"
+            },
             {
               "outlet": "El Pais",
               "region": "europe",
@@ -143,17 +157,45 @@
           ]
         },
         {
+          "outlet": "NPR",
+          "region": "us",
+          "lean": "left",
+          "ownership": "public",
+          "title": "Magnitude 7.4 quake rocks western Colombia, killing at least 111 people",
+          "url": "https://www.npr.org/2026/08/10/nx-s1-5927515/earthquake-western-colombia",
+          "published": "2026-08-11T03:39:40+00:00",
+          "orig_title": "Magnitude 7.4 quake rocks western Colombia, killing at least 111 people",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
           "outlet": "The Guardian",
           "region": "europe",
           "lean": "left",
           "ownership": "private",
-          "title": "Colombia earthquake live updates: rescuers race to free people from building rubble after more than 110 killed",
-          "url": "https://www.theguardian.com/world/live/2026/aug/10/74-magnitude-earthquake-shakes-colombia-causing-serious-damage-latest-news",
-          "published": "2026-08-11T01:46:28+00:00",
-          "orig_title": "Colombia earthquake live updates: rescuers race to free people from building rubble after more than 110 killed",
+          "title": "Scores dead in Colombia after powerful earthquake strikes west of country",
+          "url": "https://www.theguardian.com/world/2026/aug/10/colombia-earthquake-cali-pereira-choco",
+          "published": "2026-08-11T02:14:32+00:00",
+          "orig_title": "Scores dead in Colombia after powerful earthquake strikes west of country",
           "lang": "en",
           "translated": false,
-          "access": "open"
+          "access": "open",
+          "more": [
+            {
+              "outlet": "The Guardian",
+              "region": "europe",
+              "lean": "left",
+              "ownership": "private",
+              "title": "Colombia earthquake live updates: rescuers race to free people from building rubble after more than 110 killed",
+              "url": "https://www.theguardian.com/world/live/2026/aug/10/74-magnitude-earthquake-shakes-colombia-causing-serious-damage-latest-news",
+              "published": "2026-08-11T03:36:33+00:00",
+              "orig_title": "Colombia earthquake live updates: rescuers race to free people from building rubble after more than 110 killed",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            }
+          ]
         },
         {
           "outlet": "The Guardian Australia",
@@ -199,10 +241,10 @@
               "region": "us",
               "lean": "left",
               "ownership": "private",
-              "title": "Major Quake Hits Colombia, Killing at Least 111",
-              "url": "https://www.nytimes.com/2026/08/10/world/americas/earthquake-colombia-cali.html",
-              "published": "2026-08-11T00:14:45+00:00",
-              "orig_title": "Major Quake Hits Colombia, Killing at Least 111",
+              "title": "Here’s the latest.",
+              "url": "https://www.nytimes.com/live/2026/08/10/world/colombia-earthquake-bogota-cali/colombia-earthquake",
+              "published": "2026-08-10T19:07:04+00:00",
+              "orig_title": "Here’s the latest.",
               "lang": "en",
               "translated": false,
               "access": "paywall"
@@ -225,10 +267,10 @@
               "region": "us",
               "lean": "left",
               "ownership": "private",
-              "title": "Colombia’s Earthquake Puts Abelardo De La Espriella, Its New President, to the Test",
-              "url": "https://www.nytimes.com/2026/08/10/world/americas/colombia-earthquake-de-la-espriella.html",
-              "published": "2026-08-10T23:36:44+00:00",
-              "orig_title": "Colombia’s Earthquake Puts Abelardo De La Espriella, Its New President, to the Test",
+              "title": "Major Quake Hits Colombia, Killing at Least 111",
+              "url": "https://www.nytimes.com/2026/08/10/world/americas/earthquake-colombia-cali.html",
+              "published": "2026-08-11T00:14:45+00:00",
+              "orig_title": "Major Quake Hits Colombia, Killing at Least 111",
               "lang": "en",
               "translated": false,
               "access": "paywall"
@@ -253,13 +295,28 @@
           "region": "europe",
           "lean": "center",
           "ownership": "public",
-          "title": "At least 132 killed in Colombia's largest earthquake in years",
-          "url": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-11T01:59:40+00:00",
-          "orig_title": "At least 132 killed in Colombia's largest earthquake in years",
+          "title": "Watch: Moment powerful earthquake shakes Colombia and crumbles buildings",
+          "url": "https://www.bbc.co.uk/news/videos/cz6473llqpwo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-10T20:55:34+00:00",
+          "orig_title": "Watch: Moment powerful earthquake shakes Colombia and crumbles buildings",
           "lang": "en",
           "translated": false,
-          "access": "open"
+          "access": "open",
+          "more": [
+            {
+              "outlet": "BBC News",
+              "region": "europe",
+              "lean": "center",
+              "ownership": "public",
+              "title": "At least 132 killed in Colombia's largest earthquake in years",
+              "url": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
+              "published": "2026-08-11T01:59:40+00:00",
+              "orig_title": "At least 132 killed in Colombia's largest earthquake in years",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            }
+          ]
         },
         {
           "outlet": "Deutsche Welle",
@@ -279,11 +336,65 @@
           "region": "russia",
           "lean": "center",
           "ownership": "private",
-          "title": "Colombia earthquake death toll rises to 132",
-          "url": "https://www.kommersant.ru/doc/8876776",
-          "published": "2026-08-11T00:50:49+00:00",
-          "orig_title": "До 132 выросло число погибших при землетрясении в Колумбии",
+          "title": "7.4 magnitude earthquake strikes western Colombia",
+          "url": "https://www.kommersant.ru/doc/8876522",
+          "published": "2026-08-10T14:01:01+00:00",
+          "orig_title": "На западе Колумбии произошло землетрясение магнитудой 7,4",
           "lang": "ru",
+          "translated": true,
+          "access": "unknown",
+          "more": [
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Colombia earthquake death toll reaches 24",
+              "url": "https://www.kommersant.ru/doc/8876613",
+              "published": "2026-08-10T15:42:53+00:00",
+              "orig_title": "При землетрясении в Колумбии погибли 24 человека",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "BluRadio: death toll from Colombia earthquake exceeds 70",
+              "url": "https://www.kommersant.ru/doc/8876660",
+              "published": "2026-08-10T17:16:43+00:00",
+              "orig_title": "BluRadio: число погибших при землетрясении в Колумбии превысило 70 человек",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Colombia earthquake death toll rises to 132",
+              "url": "https://www.kommersant.ru/doc/8876776",
+              "published": "2026-08-11T00:50:49+00:00",
+              "orig_title": "До 132 выросло число погибших при землетрясении в Колумбии",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            }
+          ]
+        },
+        {
+          "outlet": "Le Matin",
+          "region": "africa",
+          "lean": "center",
+          "ownership": "private",
+          "title": "7.4 magnitude earthquake in Colombia: at least 18 dead in Pereira",
+          "url": "https://lematin.ma/monde/seisme-de-magnitude-74-en-colombie-au-moins-18-morts-a-pereira/360339",
+          "published": "2026-08-10T14:50:00+00:00",
+          "orig_title": "Séisme de magnitude 7,4 en Colombie : au moins 18 morts à Pereira",
+          "lang": "fr",
           "translated": true,
           "access": "unknown"
         },
@@ -292,10 +403,10 @@
           "region": "south_america",
           "lean": "center",
           "ownership": "private",
-          "title": "At least 111 dead in the magnitude 7.4 earthquake that struck western Colombia",
-          "url": "https://en.mercopress.com/2026/08/10/at-least-111-dead-in-the-magnitude-7.4-earthquake-that-struck-western-colombia?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
-          "published": "2026-08-10T19:51:00+00:00",
-          "orig_title": "At least 111 dead in the magnitude 7.4 earthquake that struck western Colombia",
+          "title": "At least 132 dead in the magnitude 7.4 earthquake that struck western Colombia",
+          "url": "https://en.mercopress.com/2026/08/11/at-least-132-dead-in-the-magnitude-7.4-earthquake-that-struck-western-colombia?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+          "published": "2026-08-11T08:51:00+00:00",
+          "orig_title": "At least 132 dead in the magnitude 7.4 earthquake that struck western Colombia",
           "lang": "en",
           "translated": false,
           "access": "open",
@@ -305,10 +416,10 @@
               "region": "south_america",
               "lean": "center",
               "ownership": "private",
-              "title": "De la Espriella gives the first earthquake toll and entrusts Colombia to Jesus Christ",
-              "url": "https://en.mercopress.com/2026/08/10/de-la-espriella-gives-the-first-earthquake-toll-and-entrusts-colombia-to-jesus-christ?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
-              "published": "2026-08-10T19:16:00+00:00",
-              "orig_title": "De la Espriella gives the first earthquake toll and entrusts Colombia to Jesus Christ",
+              "title": "Colombia records its strongest earthquake in a decade, geological service says",
+              "url": "https://en.mercopress.com/2026/08/10/colombia-records-its-strongest-earthquake-in-a-decade-geological-service-says?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+              "published": "2026-08-10T14:29:00+00:00",
+              "orig_title": "Colombia records its strongest earthquake in a decade, geological service says",
               "lang": "en",
               "translated": false,
               "access": "open"
@@ -320,26 +431,13 @@
           "region": "china",
           "lean": "center",
           "ownership": "private",
-          "title": "At least 111 dead in Colombia after magnitude 7.4 earthquake",
+          "title": "Colombia hunts for survivors after earthquake kills at least 111",
           "url": "https://www.scmp.com/news/world/americas/article/3363568/colombia-ecuador-hit-74-magnitude-earthquake?utm_source=rss_feed",
           "published": "2026-08-10T14:09:43+00:00",
-          "orig_title": "At least 111 dead in Colombia after magnitude 7.4 earthquake",
+          "orig_title": "Colombia hunts for survivors after earthquake kills at least 111",
           "lang": "en",
           "translated": false,
           "access": "open"
-        },
-        {
-          "outlet": "The Japan Times",
-          "region": "japan",
-          "lean": "center",
-          "ownership": "private",
-          "title": "More than 100 killed after strongest quake this century hits western Colombia",
-          "url": "https://www.japantimes.co.jp/news/2026/08/11/world/colombia-earthquake/",
-          "published": "2026-08-10T15:04:00+00:00",
-          "orig_title": "More than 100 killed after strongest quake this century hits western Colombia",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
         },
         {
           "outlet": "Times of India",
@@ -355,31 +453,44 @@
           "access": "open"
         },
         {
-          "outlet": "The Wall Street Journal",
+          "outlet": "Fox News",
           "region": "us",
           "lean": "right",
           "ownership": "private",
-          "title": "Earthquake Hits Colombia Days After New President Takes Reins",
-          "url": "https://www.wsj.com/world/americas/colombia-earthquake-president-espriella-e901bc97?mod=rss_worldnews",
-          "published": "2026-08-10T21:27:00+00:00",
-          "orig_title": "Earthquake Hits Colombia Days After New President Takes Reins",
+          "title": "Colombia building collapses on camera as earthquake brings death, destruction",
+          "url": "https://www.foxnews.com/world/colombia-building-collapses-camera-earthquake-brings-death-destruction",
+          "published": "2026-08-10T17:28:09+00:00",
+          "orig_title": "Colombia building collapses on camera as earthquake brings death, destruction",
           "lang": "en",
           "translated": false,
-          "access": "paywall"
+          "access": "open"
         },
         {
           "outlet": "TASS",
           "region": "russia",
           "lean": "state",
           "ownership": "state",
-          "title": "Death toll from earthquake in Colombia climbs to 111 — president",
-          "url": "https://tass.com/emergencies/2171107",
-          "published": "2026-08-10T22:59:48+00:00",
-          "orig_title": "Death toll from earthquake in Colombia climbs to 111 — president",
+          "title": "Colombia earthquake reaches magnitude 7.4 — geological service",
+          "url": "https://tass.com/world/2171021",
+          "published": "2026-08-10T14:56:09+00:00",
+          "orig_title": "Colombia earthquake reaches magnitude 7.4 — geological service",
           "lang": "en",
           "translated": false,
           "access": "open",
           "more": [
+            {
+              "outlet": "TASS",
+              "region": "russia",
+              "lean": "state",
+              "ownership": "state",
+              "title": "IN BRIEF: Colombian earthquake: casualties and damage",
+              "url": "https://tass.com/world/2171041",
+              "published": "2026-08-10T15:39:04+00:00",
+              "orig_title": "IN BRIEF: Colombian earthquake: casualties and damage",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            },
             {
               "outlet": "TASS",
               "region": "russia",
@@ -398,225 +509,23 @@
               "region": "russia",
               "lean": "state",
               "ownership": "state",
-              "title": "Nationwide state of emergency declared in Colombia following earthquake",
-              "url": "https://tass.com/world/2171117",
-              "published": "2026-08-10T19:29:42+00:00",
-              "orig_title": "Nationwide state of emergency declared in Colombia following earthquake",
+              "title": "Colombia registers strongest quake nation has seen in decade — Geological Survey",
+              "url": "https://tass.com/world/2171063",
+              "published": "2026-08-10T16:49:03+00:00",
+              "orig_title": "Colombia registers strongest quake nation has seen in decade — Geological Survey",
               "lang": "en",
               "translated": false,
               "access": "open"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 24,
-      "topic": "World & Politics",
-      "label": "Trump · Iran · demands",
-      "title": "Trump demands Iran pay compensation as hopes fade for Hormuz agreement",
-      "summary": "US President Donald Trump on Monday demanded that Iran compensate the victims of attacks, conflicts and domestic repression he blamed on Tehran, adding a new condition to negotiations over reopening t",
-      "score": 10.941,
-      "n_outlets": 10,
-      "n_articles": 14,
-      "regions": [
-        "china",
-        "europe",
-        "india",
-        "japan",
-        "russia",
-        "us"
-      ],
-      "last_seen": "2026-08-11T01:29:20+00:00",
-      "leans": [
-        "center",
-        "left",
-        "right",
-        "state"
-      ],
-      "sources": [
-        {
-          "outlet": "El Pais",
-          "region": "europe",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Iran and US move away from agreement prospects over mutual demands for economic reparations",
-          "url": "https://elpais.com/internacional/2026-08-10/iran-pide-que-ee-uu-corrija-su-comportamiento-y-le-indemnice-para-reabrir-el-estrecho-de-ormuz.html",
-          "published": "2026-08-10T13:33:14+00:00",
-          "orig_title": "Irán y EE UU alejan la perspectiva de un acuerdo con la exigencia mutua de reparaciones económicas",
-          "lang": "es",
-          "translated": true,
-          "access": "unknown"
-        },
-        {
-          "outlet": "The Guardian",
-          "region": "europe",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Trump demands Iran pay compensation for decades of US soldier deaths",
-          "url": "https://www.theguardian.com/world/2026/aug/10/trump-demands-iran-pay-compensation-for-decades-of-us-soldier-deaths",
-          "published": "2026-08-10T20:45:52+00:00",
-          "orig_title": "Trump demands Iran pay compensation for decades of US soldier deaths",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "The Hindu",
-          "region": "india",
-          "lean": "left",
-          "ownership": "private",
-          "title": "West Asia war LIVE: Trump says will demand conflict compensation from Iran",
-          "url": "https://www.thehindu.com/news/international/iran-us-war-live-updates-august-11-2026-hormuz-strait-reopen-us-iran-talks/article71330825.ece",
-          "published": "2026-08-11T01:29:20+00:00",
-          "orig_title": "West Asia war LIVE: Trump says will demand conflict compensation from Iran",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "Kommersant",
-          "region": "russia",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Trump demands Iran compensate for casualties in military operations",
-          "url": "https://www.kommersant.ru/doc/8876664",
-          "published": "2026-08-10T17:31:51+00:00",
-          "orig_title": "Трамп потребовал от властей Ирана компенсаций за жертвы во время боевых действий",
-          "lang": "ru",
-          "translated": true,
-          "access": "unknown",
-          "more": [
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Trump rejects idea of compensating Iran for damage from US strikes",
-              "url": "https://www.kommersant.ru/doc/8876739",
-              "published": "2026-08-10T19:57:30+00:00",
-              "orig_title": "Трамп отверг идею выплаты компенсаций Ирану за ущерб от атак США",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            }
-          ]
-        },
-        {
-          "outlet": "South China Morning Post",
-          "region": "china",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Trump demands Iran pay compensation as hopes fade for Hormuz agreement",
-          "url": "https://www.scmp.com/news/us/diplomacy/article/3363579/trump-demands-iran-pay-compensation-hopes-fade-hormuz-agreement?utm_source=rss_feed",
-          "published": "2026-08-10T19:25:31+00:00",
-          "orig_title": "Trump demands Iran pay compensation as hopes fade for Hormuz agreement",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "The Hill",
-          "region": "us",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Trump struggles to gain leverage with Iran",
-          "url": "https://thehill.com/newsletters/defense-national-security/6021434-trump-struggles-to-gain-leverage-with-iran/",
-          "published": "2026-08-10T22:22:47+00:00",
-          "orig_title": "Trump struggles to gain leverage with Iran",
-          "lang": "en",
-          "translated": false,
-          "access": "unknown"
-        },
-        {
-          "outlet": "The Japan Times",
-          "region": "japan",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Trump makes sweeping new demands on Iran as deal hopes dim",
-          "url": "https://www.japantimes.co.jp/news/2026/08/11/world/politics/trump-demands-iran-deal-hopes/",
-          "published": "2026-08-11T01:18:00+00:00",
-          "orig_title": "Trump makes sweeping new demands on Iran as deal hopes dim",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
-        },
-        {
-          "outlet": "Fox News",
-          "region": "us",
-          "lean": "right",
-          "ownership": "private",
-          "title": "Trump bets economic pressure can squeeze Iran as regime’s own failures deepen the pain",
-          "url": "https://www.foxnews.com/world/trump-bets-economic-pressure-can-squeeze-iran-regimes-own-failures-deepen-pain",
-          "published": "2026-08-10T18:45:20+00:00",
-          "orig_title": "Trump bets economic pressure can squeeze Iran as regime’s own failures deepen the pain",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "The Wall Street Journal",
-          "region": "us",
-          "lean": "right",
-          "ownership": "private",
-          "title": "Trump Shifts to Economic Pressure, Again, As Iran Won’t Meet His Demands",
-          "url": "https://www.wsj.com/world/middle-east/trump-shifts-to-economic-pressure-again-as-iran-wont-meet-his-demands-4445c840?mod=rss_worldnews",
-          "published": "2026-08-10T22:20:00+00:00",
-          "orig_title": "Trump Shifts to Economic Pressure, Again, As Iran Won’t Meet His Demands",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall",
-          "more": [
-            {
-              "outlet": "The Wall Street Journal",
-              "region": "us",
-              "lean": "right",
-              "ownership": "private",
-              "title": "Opinion | Trump’s Blockade Keeps the Economic Pressure on Iran",
-              "url": "https://www.wsj.com/opinion/donald-trump-iran-regime-deal-blockade-81d54ad2?mod=rss_worldnews",
-              "published": "2026-08-10T22:01:00+00:00",
-              "orig_title": "Opinion | Trump’s Blockade Keeps the Economic Pressure on Iran",
-              "lang": "en",
-              "translated": false,
-              "access": "paywall"
             },
-            {
-              "outlet": "The Wall Street Journal",
-              "region": "us",
-              "lean": "right",
-              "ownership": "private",
-              "title": "Iranian Demands Disrupt Trump’s Plan to End the War",
-              "url": "https://www.wsj.com/finance/iranian-demands-disrupt-trumps-plan-to-end-the-war-4ca53b85?mod=rss_markets_main",
-              "published": "2026-08-09T15:56:00+00:00",
-              "orig_title": "Iranian Demands Disrupt Trump’s Plan to End the War",
-              "lang": "en",
-              "translated": false,
-              "access": "paywall"
-            }
-          ]
-        },
-        {
-          "outlet": "TASS",
-          "region": "russia",
-          "lean": "state",
-          "ownership": "state",
-          "title": "Trump vows to get compensation from Iran for deaths of US troops",
-          "url": "https://tass.com/world/2171105",
-          "published": "2026-08-10T18:55:13+00:00",
-          "orig_title": "Trump vows to get compensation from Iran for deaths of US troops",
-          "lang": "en",
-          "translated": false,
-          "access": "open",
-          "more": [
             {
               "outlet": "TASS",
               "region": "russia",
               "lean": "state",
               "ownership": "state",
-              "title": "US retains potential for escalation in conflict with Iran — Trump",
-              "url": "https://tass.com/world/2171137",
-              "published": "2026-08-10T20:30:35+00:00",
-              "orig_title": "US retains potential for escalation in conflict with Iran — Trump",
+              "title": "Colombia earthquake destroys buildings, search for people underway",
+              "url": "https://tass.com/world/2171011",
+              "published": "2026-08-10T14:31:02+00:00",
+              "orig_title": "Colombia earthquake destroys buildings, search for people underway",
               "lang": "en",
               "translated": false,
               "access": "open"
@@ -626,14 +535,14 @@
       ]
     },
     {
-      "id": 74,
+      "id": 108,
       "topic": "World & Politics",
-      "label": "Yabloko · Russia · party",
+      "label": "Yabloko · Supreme · Court",
       "title": "Russia’s Supreme Court removes nation’s only antiwar party from upcoming parliamentary race",
       "summary": "Russia’s Supreme Court has removed the Yabloko party from the race for the State Duma, the lower house of parliament. The ruling came after Judge Vyacheslav Kirillov granted a lawsuit filed by lawyers",
-      "score": 9.719,
+      "score": 9.614,
       "n_outlets": 9,
-      "n_articles": 19,
+      "n_articles": 22,
       "regions": [
         "china",
         "europe",
@@ -663,6 +572,19 @@
           "access": "unknown"
         },
         {
+          "outlet": "Novaya Gazeta Europe",
+          "region": "russia",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Supreme Court removes Yabloko from Duma elections",
+          "url": "https://novayagazeta.eu/articles/2026/08/10/verkhovnyi-sud-snial-iabloko-s-vyborov-v-gosduma-news",
+          "published": "2026-08-10T16:48:45+00:00",
+          "orig_title": "Верховный суд снял «Яблоко» с выборов в Госдуму",
+          "lang": "ru",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
           "outlet": "The New York Times",
           "region": "us",
           "lean": "left",
@@ -676,27 +598,14 @@
           "access": "paywall"
         },
         {
-          "outlet": "BBC News",
-          "region": "europe",
-          "lean": "center",
-          "ownership": "public",
-          "title": "Russian court bars only anti-war party from standing in parliamentary elections",
-          "url": "https://www.bbc.co.uk/news/articles/cy9w1l5jr7lo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-10T18:19:41+00:00",
-          "orig_title": "Russian court bars only anti-war party from standing in parliamentary elections",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
           "outlet": "Kommersant",
           "region": "russia",
           "lean": "center",
           "ownership": "private",
-          "title": "Yabloko rejects Rodina's lawsuit to remove party from State Duma election",
-          "url": "https://www.kommersant.ru/doc/8876195",
-          "published": "2026-08-10T08:52:51+00:00",
-          "orig_title": "«Яблоко» не признало иск «Родины» о снятии с выборов в Госдуму",
+          "title": "Supreme Court removes Yabloko party from Duma elections",
+          "url": "https://www.kommersant.ru/doc/8876602",
+          "published": "2026-08-10T16:47:51+00:00",
+          "orig_title": "Верховный суд снял партию «Яблоко» с выборов в Госдуму",
           "lang": "ru",
           "translated": true,
           "access": "unknown",
@@ -706,10 +615,49 @@
               "region": "russia",
               "lean": "center",
               "ownership": "private",
+              "title": "Yabloko to appeal Supreme Court ruling removing party from Duma elections",
+              "url": "https://www.kommersant.ru/doc/8876674",
+              "published": "2026-08-10T17:52:53+00:00",
+              "orig_title": "«Яблоко» обжалует решение Верховного суда о снятии партии с выборов в Госдуму",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Yabloko rejects Rodina's lawsuit to remove party from State Duma election",
+              "url": "https://www.kommersant.ru/doc/8876195",
+              "published": "2026-08-10T08:52:51+00:00",
+              "orig_title": "«Яблоко» не признало иск «Родины» о снятии с выборов в Госдуму",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
               "title": "Yabloko party removed from State Duma election over copyright violation",
               "url": "https://www.kommersant.ru/doc/8876742",
               "published": "2026-08-10T19:59:54+00:00",
               "orig_title": "Партию «Яблоко» сняли с выборов в Госдуму за нарушение авторского права",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Rodina representative lists grounds for removing Yabloko from election ballot in court",
+              "url": "https://www.kommersant.ru/doc/8876210",
+              "published": "2026-08-10T09:01:49+00:00",
+              "orig_title": "Представитель «Родины» в суде перечислил основания для снятия «Яблока» с выборов",
               "lang": "ru",
               "translated": true,
               "access": "unknown"
@@ -903,12 +851,12 @@
       ]
     },
     {
-      "id": 37,
+      "id": 71,
       "topic": "World & Politics",
       "label": "Hormuz · Iran · Strait",
       "title": "Iran’s steep demands for US over Strait of Hormuz threaten to derail reopening",
       "summary": "A deal between Iran and Oman to reopen the Strait of Hormuz is teetering over steep demands from Tehran for the United States and vice versa. Iran on Sunday said the agreement to set up new shipping l",
-      "score": 8.872,
+      "score": 8.744,
       "n_outlets": 8,
       "n_articles": 14,
       "regions": [
@@ -971,10 +919,10 @@
           "region": "us",
           "lean": "left",
           "ownership": "private",
-          "title": "Iran, Holding Firm to Hormuz, Pushes for Return to June MOU",
-          "url": "https://www.nytimes.com/2026/08/09/world/europe/iran-strait-hormuz-trump-deal.html",
-          "published": "2026-08-09T17:58:22+00:00",
-          "orig_title": "Iran, Holding Firm to Hormuz, Pushes for Return to June MOU",
+          "title": "Iran Insists Strait of Hormuz Will Stay Closed Until Trump Agrees to Demands",
+          "url": "https://www.nytimes.com/2026/08/10/world/middleeast/iran-strait-of-hormuz-us-oman-talks.html",
+          "published": "2026-08-10T15:18:29+00:00",
+          "orig_title": "Iran Insists Strait of Hormuz Will Stay Closed Until Trump Agrees to Demands",
           "lang": "en",
           "translated": false,
           "access": "paywall",
@@ -984,10 +932,10 @@
               "region": "us",
               "lean": "left",
               "ownership": "private",
-              "title": "Iran Insists Strait of Hormuz Will Stay Closed Until Trump Agrees to Demands",
-              "url": "https://www.nytimes.com/2026/08/10/world/middleeast/iran-strait-of-hormuz-us-oman-talks.html",
-              "published": "2026-08-10T15:18:29+00:00",
-              "orig_title": "Iran Insists Strait of Hormuz Will Stay Closed Until Trump Agrees to Demands",
+              "title": "Iran, Holding Firm to Hormuz, Pushes for Return to June MOU",
+              "url": "https://www.nytimes.com/2026/08/09/world/europe/iran-strait-hormuz-trump-deal.html",
+              "published": "2026-08-09T17:58:22+00:00",
+              "orig_title": "Iran, Holding Firm to Hormuz, Pushes for Return to June MOU",
               "lang": "en",
               "translated": false,
               "access": "paywall"
@@ -1005,7 +953,22 @@
           "orig_title": "МИД Ирана: соглашение с Оманом не откроет Ормузский пролив автоматически",
           "lang": "ru",
           "translated": true,
-          "access": "unknown"
+          "access": "unknown",
+          "more": [
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Reuters: U.S. to lift Iran port blockade following Strait of Hormuz deal",
+              "url": "https://www.kommersant.ru/doc/8876097",
+              "published": "2026-08-10T07:23:04+00:00",
+              "orig_title": "Reuters: США снимут блокаду с портов Ирана после сделки по Ормузскому проливу",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            }
+          ]
         },
         {
           "outlet": "The Hill",
@@ -1097,33 +1060,20 @@
               "lang": "en",
               "translated": false,
               "access": "paywall"
-            },
-            {
-              "outlet": "The Wall Street Journal",
-              "region": "us",
-              "lean": "right",
-              "ownership": "private",
-              "title": "The U.S. and Israeli militaries have pounded Iran hard for more than five months, but Iran is using the Strait of Hormuz as its final point of leverage. Read more in today’s WSJ Politics Newsletter:",
-              "url": "https://www.wsj.com/politics/elections/why-is-iran-acting-like-it-is-holding-all-the-cards-in-hormuz-talks-904df972?mod=rss_socialpoliticsfeed",
-              "published": "2026-08-10T11:10:00+00:00",
-              "orig_title": "The U.S. and Israeli militaries have pounded Iran hard for more than five months, but Iran is using the Strait of Hormuz as its final point of leverage. Read more in today’s WSJ Politics Newsletter:",
-              "lang": "en",
-              "translated": false,
-              "access": "paywall"
             }
           ]
         }
       ]
     },
     {
-      "id": 139,
+      "id": 172,
       "topic": "World & Politics",
       "label": "Ukraine · Russia · Ukrainian",
       "title": "Russia says 13 killed in Ukraine drone attack on oil-refining city 900km from Moscow",
       "summary": "At least 13 people were killed, including a child, and 39 injured in a Ukrainian drone attack on industrial and ‌civilian targets in the Russian city of Nizhnekamsk, authorities said on Monday, one of",
-      "score": 8.599,
+      "score": 8.511,
       "n_outlets": 8,
-      "n_articles": 18,
+      "n_articles": 16,
       "regions": [
         "china",
         "europe",
@@ -1171,28 +1121,13 @@
           "region": "india",
           "lean": "left",
           "ownership": "private",
-          "title": "Russia, Ukraine exchange overnight strikes that leave 7 dead, many injured",
-          "url": "https://www.thehindu.com/news/international/russia-ukraine-exchange-overnight-strikes-that-leave-several-killed-many-injured/article71325620.ece",
-          "published": "2026-08-09T15:46:19+00:00",
-          "orig_title": "Russia, Ukraine exchange overnight strikes that leave 7 dead, many injured",
+          "title": "Ukrainian drone attack on Russian city of Nizhnekamsk kills 13, authorities say",
+          "url": "https://www.thehindu.com/news/international/ukrainian-drone-attack-on-the-russian-city-of-nizhnekamsk-kills-13-authorities-say/article71328013.ece",
+          "published": "2026-08-10T11:48:29+00:00",
+          "orig_title": "Ukrainian drone attack on Russian city of Nizhnekamsk kills 13, authorities say",
           "lang": "en",
           "translated": false,
-          "access": "open",
-          "more": [
-            {
-              "outlet": "The Hindu",
-              "region": "india",
-              "lean": "left",
-              "ownership": "private",
-              "title": "Ukrainian drone attack on Russian city of Nizhnekamsk kills 13, authorities say",
-              "url": "https://www.thehindu.com/news/international/ukrainian-drone-attack-on-the-russian-city-of-nizhnekamsk-kills-13-authorities-say/article71328013.ece",
-              "published": "2026-08-10T11:48:29+00:00",
-              "orig_title": "Ukrainian drone attack on Russian city of Nizhnekamsk kills 13, authorities say",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
-            }
-          ]
+          "access": "open"
         },
         {
           "outlet": "The New York Times",
@@ -1320,27 +1255,14 @@
           "region": "russia",
           "lean": "state",
           "ownership": "state",
-          "title": "Over 210 Ukrainian drones taken down over Russian regions during day",
-          "url": "https://tass.com/politics/2171101",
-          "published": "2026-08-10T18:27:51+00:00",
-          "orig_title": "Over 210 Ukrainian drones taken down over Russian regions during day",
+          "title": "One dies, two wounded after Ukraine’s drone attacks on Belgorod Region",
+          "url": "https://tass.com/emergencies/2170989",
+          "published": "2026-08-10T13:33:26+00:00",
+          "orig_title": "One dies, two wounded after Ukraine’s drone attacks on Belgorod Region",
           "lang": "en",
           "translated": false,
           "access": "open",
           "more": [
-            {
-              "outlet": "TASS",
-              "region": "russia",
-              "lean": "state",
-              "ownership": "state",
-              "title": "One dies, two wounded after Ukraine’s drone attacks on Belgorod Region",
-              "url": "https://tass.com/emergencies/2170989",
-              "published": "2026-08-10T13:33:26+00:00",
-              "orig_title": "One dies, two wounded after Ukraine’s drone attacks on Belgorod Region",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
-            },
             {
               "outlet": "TASS",
               "region": "russia",
@@ -1385,12 +1307,128 @@
       ]
     },
     {
-      "id": 80,
+      "id": 13,
+      "topic": "World & Politics",
+      "label": "Trump · Turkey · How",
+      "title": "Hidden in catering container—what Trump's escape from Ankara reveals about Iranian threat",
+      "summary": "In einer spektakulären Operation soll der US-Präsident für seine Abreise vom Nato-Gipfel aus der Türkei aus der Air Force One geschmuggelt worden sein. Wegen einer „glaubhaften Bedrohung“ durch den Ir",
+      "score": 7.952,
+      "n_outlets": 7,
+      "n_articles": 7,
+      "regions": [
+        "china",
+        "europe",
+        "india",
+        "russia"
+      ],
+      "last_seen": "2026-08-11T03:31:34+00:00",
+      "leans": [
+        "center",
+        "left",
+        "right",
+        "state"
+      ],
+      "sources": [
+        {
+          "outlet": "Der Spiegel",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "U.S. cleared mines across entire Strait of Hormuz, Trump says",
+          "url": "https://www.spiegel.de/ausland/usa-haben-laut-trump-in-gesamter-strasse-von-hormus-minen-geraeumt-a-ac35aa73-d3d8-4dce-9186-996ea9dca464#ref=rss",
+          "published": "2026-08-10T23:44:00+00:00",
+          "orig_title": "USA haben laut Trump in gesamter Straße von Hormus Minen geräumt",
+          "lang": "de",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
+          "outlet": "The Guardian",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Trump hid in catering cart to board secret flight in Turkey amid Iran threat – reports",
+          "url": "https://www.theguardian.com/us-news/2026/aug/10/trump-secret-flight-nato-return",
+          "published": "2026-08-11T02:29:56+00:00",
+          "orig_title": "Trump hid in catering cart to board secret flight in Turkey amid Iran threat – reports",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "Kommersant",
+          "region": "russia",
+          "lean": "center",
+          "ownership": "private",
+          "title": "WP: Trump secretly evacuated from NATO summit in Ankara on military transport plane",
+          "url": "https://www.kommersant.ru/doc/8876781",
+          "published": "2026-08-11T03:00:52+00:00",
+          "orig_title": "WP: Трампа тайно эвакуировали с саммита НАТО в Анкаре на военно-транспортном самолете",
+          "lang": "ru",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
+          "outlet": "South China Morning Post",
+          "region": "china",
+          "lean": "center",
+          "ownership": "private",
+          "title": "How US staged Air Force One departure to hide Trump’s secret exit from Turkey",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3363600/how-us-staged-air-force-one-departure-hide-trumps-secret-exit-turkey?utm_source=rss_feed",
+          "published": "2026-08-11T03:31:34+00:00",
+          "orig_title": "How US staged Air Force One departure to hide Trump’s secret exit from Turkey",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "Times of India",
+          "region": "india",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Catering cart &amp; military aircraft: How Trump was moved out of Turkey amid Iran threat",
+          "url": "https://timesofindia.indiatimes.com/world/us/catering-cart-military-aircraft-how-trump-secretly-fled-turkey-amid-iran-assassination-threat/articleshow/133140307.cms",
+          "published": "2026-08-11T02:10:46+00:00",
+          "orig_title": "Catering cart &amp; military aircraft: How Trump was moved out of Turkey amid Iran threat",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "Die Welt",
+          "region": "europe",
+          "lean": "right",
+          "ownership": "private",
+          "title": "Hidden in catering container—what Trump's escape from Ankara reveals about Iranian threat",
+          "url": "https://www.welt.de/politik/ausland/article6a7a90210e3689919ec7735a/geheim-aktion-im-catering-container-versteckt-was-trumps-flucht-aus-ankara-ueber-die-iranische-bedrohung-aussagt.html",
+          "published": "2026-08-11T03:27:40+00:00",
+          "orig_title": "Im Catering-Container versteckt – Was Trumps Flucht aus Ankara über die iranische Bedrohung aussagt",
+          "lang": "de",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
+          "outlet": "TASS",
+          "region": "russia",
+          "lean": "state",
+          "ownership": "state",
+          "title": "Trump claims Strait of Hormuz completely cleared of mines",
+          "url": "https://tass.com/world/2171141",
+          "published": "2026-08-10T20:41:46+00:00",
+          "orig_title": "Trump claims Strait of Hormuz completely cleared of mines",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 114,
       "topic": "World & Politics",
       "label": "Gaza · Netanyahu · Trump",
       "title": "Netanyahu rejects US-led 15-point Gaza peace plan in rare public break with Trump",
       "summary": "Israeli PM says IDF will not withdraw until Hamas is disarmed and rebukes US pressure to end wars without his country’s buy-in Israel’s prime minister, Benjamin Netanyahu, has rejected a US-backed 15-",
-      "score": 7.704,
+      "score": 7.601,
       "n_outlets": 7,
       "n_articles": 11,
       "regions": [
@@ -1555,12 +1593,159 @@
       ]
     },
     {
-      "id": 17,
+      "id": 85,
+      "topic": "World & Politics",
+      "label": "Colombia · Espriella · Earthquake",
+      "title": "Earthquake Hits Colombia Days After New President Takes Reins",
+      "summary": "The powerful quake has killed 111 people and injured dozens more, marking the first major crisis for President Abelardo de la Espriella days after taking office.",
+      "score": 6.687,
+      "n_outlets": 6,
+      "n_articles": 9,
+      "regions": [
+        "europe",
+        "japan",
+        "russia",
+        "south_america",
+        "us"
+      ],
+      "last_seen": "2026-08-10T23:36:44+00:00",
+      "leans": [
+        "center",
+        "left",
+        "right",
+        "state"
+      ],
+      "sources": [
+        {
+          "outlet": "El Pais",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Abelardo de la Espriella's first 48 hours: three cities replace seventy decrees",
+          "url": "https://elpais.com/america-colombia/2026-08-10/las-primeras-48-horas-de-abelardo-de-la-espriella-tres-ciudades-reemplazan-a-setenta-decretos.html",
+          "published": "2026-08-10T03:30:00+00:00",
+          "orig_title": "Las primeras 48 horas de Abelardo de la Espriella: tres ciudades reemplazan a setenta decretos",
+          "lang": "es",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
+          "outlet": "The New York Times",
+          "region": "us",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Colombia’s Earthquake Puts Abelardo De La Espriella, Its New President, to the Test",
+          "url": "https://www.nytimes.com/2026/08/10/world/americas/colombia-earthquake-de-la-espriella.html",
+          "published": "2026-08-10T23:36:44+00:00",
+          "orig_title": "Colombia’s Earthquake Puts Abelardo De La Espriella, Its New President, to the Test",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall"
+        },
+        {
+          "outlet": "MercoPress",
+          "region": "south_america",
+          "lean": "center",
+          "ownership": "private",
+          "title": "De la Espriella gives the first earthquake toll and entrusts Colombia to Jesus Christ",
+          "url": "https://en.mercopress.com/2026/08/10/de-la-espriella-gives-the-first-earthquake-toll-and-entrusts-colombia-to-jesus-christ?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+          "published": "2026-08-10T19:16:00+00:00",
+          "orig_title": "De la Espriella gives the first earthquake toll and entrusts Colombia to Jesus Christ",
+          "lang": "en",
+          "translated": false,
+          "access": "open",
+          "more": [
+            {
+              "outlet": "MercoPress",
+              "region": "south_america",
+              "lean": "center",
+              "ownership": "private",
+              "title": "De la Espriella sets ten armed group leaders as his target for his first 90 days",
+              "url": "https://en.mercopress.com/2026/08/10/de-la-espriella-sets-ten-armed-group-leaders-as-his-target-for-his-first-90-days?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+              "published": "2026-08-10T08:32:00+00:00",
+              "orig_title": "De la Espriella sets ten armed group leaders as his target for his first 90 days",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            },
+            {
+              "outlet": "MercoPress",
+              "region": "south_america",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Machado congratulates De la Espriella and says Venezuela will soon follow suit",
+              "url": "https://en.mercopress.com/2026/08/09/machado-congratulates-de-la-espriella-and-says-venezuela-will-soon-follow-suit?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+              "published": "2026-08-09T20:05:00+00:00",
+              "orig_title": "Machado congratulates De la Espriella and says Venezuela will soon follow suit",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            }
+          ]
+        },
+        {
+          "outlet": "The Japan Times",
+          "region": "japan",
+          "lean": "center",
+          "ownership": "private",
+          "title": "More than 100 killed after strongest quake this century hits western Colombia",
+          "url": "https://www.japantimes.co.jp/news/2026/08/11/world/colombia-earthquake/",
+          "published": "2026-08-10T15:04:00+00:00",
+          "orig_title": "More than 100 killed after strongest quake this century hits western Colombia",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall"
+        },
+        {
+          "outlet": "The Wall Street Journal",
+          "region": "us",
+          "lean": "right",
+          "ownership": "private",
+          "title": "Earthquake Hits Colombia Days After New President Takes Reins",
+          "url": "https://www.wsj.com/world/americas/colombia-earthquake-president-espriella-e901bc97?mod=rss_worldnews",
+          "published": "2026-08-10T21:27:00+00:00",
+          "orig_title": "Earthquake Hits Colombia Days After New President Takes Reins",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall"
+        },
+        {
+          "outlet": "TASS",
+          "region": "russia",
+          "lean": "state",
+          "ownership": "state",
+          "title": "Death toll from earthquake in Colombia climbs to 111 — president",
+          "url": "https://tass.com/emergencies/2171107",
+          "published": "2026-08-10T22:59:48+00:00",
+          "orig_title": "Death toll from earthquake in Colombia climbs to 111 — president",
+          "lang": "en",
+          "translated": false,
+          "access": "open",
+          "more": [
+            {
+              "outlet": "TASS",
+              "region": "russia",
+              "lean": "state",
+              "ownership": "state",
+              "title": "Nationwide state of emergency declared in Colombia following earthquake",
+              "url": "https://tass.com/world/2171117",
+              "published": "2026-08-10T19:29:42+00:00",
+              "orig_title": "Nationwide state of emergency declared in Colombia following earthquake",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 53,
       "topic": "World & Politics",
       "label": "Russia · Moldova · Foreign",
       "title": "Moldova's foreign ministry recalls ambassador from Russia after drone incident",
       "summary": "Министерство иностранных дел Молдавии объявило об отзыве для консультаций посла из России. Поводом послужило падение и взрыв БПЛА на территории республики.",
-      "score": 5.96,
+      "score": 5.82,
       "n_outlets": 5,
       "n_articles": 9,
       "regions": [
@@ -1697,21 +1882,19 @@
       ]
     },
     {
-      "id": 88,
+      "id": 70,
       "topic": "World & Politics",
-      "label": "Colombia · earthquake · Quake",
-      "title": "Scores dead in Colombia after powerful earthquake strikes west of country",
-      "summary": "Quake of 7.4 magnitude collapses and severely damages buildings in several major cities, including Cali and Pereira Colombia earthquake live – latest updates More than 100 people have died after a pow",
-      "score": 5.691,
+      "label": "Nizhnekamsk · attack · drone",
+      "title": "Foreigners killed in drone attack on Nizhnekamsk",
+      "summary": "В числе жертв атаки БПЛА в Нижнекамске есть граждане Узбекистана и Таджикистана, сообщила пресс-служба главы Татарстана. В региональном Минздраве рассказали, что погибший при атаке ребенок — девочка, ",
+      "score": 5.748,
       "n_outlets": 5,
-      "n_articles": 8,
+      "n_articles": 39,
       "regions": [
         "europe",
-        "russia",
-        "south_america",
-        "us"
+        "russia"
       ],
-      "last_seen": "2026-08-10T21:47:14+00:00",
+      "last_seen": "2026-08-11T00:37:55+00:00",
       "leans": [
         "center",
         "left",
@@ -1720,14 +1903,549 @@
       ],
       "sources": [
         {
-          "outlet": "The Guardian",
+          "outlet": "El Pais",
           "region": "europe",
           "lean": "left",
           "ownership": "private",
-          "title": "Scores dead in Colombia after powerful earthquake strikes west of country",
-          "url": "https://www.theguardian.com/world/2026/aug/10/colombia-earthquake-cali-pereira-choco",
-          "published": "2026-08-10T18:11:06+00:00",
-          "orig_title": "Scores dead in Colombia after powerful earthquake strikes west of country",
+          "title": "At least 13 dead in Ukrainian drone attack on Russian region of Tatarstan",
+          "url": "https://elpais.com/internacional/2026-08-10/varios-muertos-en-un-ataque-ucranio-con-drones-en-la-region-rusa-de-tartaristan.html",
+          "published": "2026-08-10T08:03:09+00:00",
+          "orig_title": "Al menos 13 muertos en un ataque ucranio con drones en la región rusa de Tartaristán",
+          "lang": "es",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
+          "outlet": "Novaya Gazeta Europe",
+          "region": "russia",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Ukrainian drones attack Nizhnekamsk with casualties; Tatarstan declares mourning",
+          "url": "https://novayagazeta.eu/articles/2026/08/10/bespilotniki-vsu-atakovali-nizhnekamsk-est-pogibshie-v-tatarstane-obiavlen-traur-news",
+          "published": "2026-08-10T06:51:06+00:00",
+          "orig_title": "Беспилотники ВСУ атаковали Нижнекамск, есть погибшие. В Татарстане объявлен траур",
+          "lang": "ru",
+          "translated": true,
+          "access": "unknown",
+          "more": [
+            {
+              "outlet": "Novaya Gazeta Europe",
+              "region": "russia",
+              "lean": "left",
+              "ownership": "private",
+              "title": "Russia sees surge in arrests for filming military graves",
+              "url": "https://novayagazeta.eu/articles/2026/08/10/v-rossii-uchastilis-sluchai-zaderzhanii-za-semku-mogil-voennykh-news",
+              "published": "2026-08-10T18:56:25+00:00",
+              "orig_title": "В России участились случаи задержаний за съемку могил военных",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            }
+          ]
+        },
+        {
+          "outlet": "Kommersant",
+          "region": "russia",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Foreigners killed in drone attack on Nizhnekamsk",
+          "url": "https://www.kommersant.ru/doc/8876282",
+          "published": "2026-08-10T10:31:12+00:00",
+          "orig_title": "Иностранцы погибли при атаке БПЛА на Нижнекамск",
+          "lang": "ru",
+          "translated": true,
+          "access": "unknown",
+          "more": [
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Drone attack on Nizhnekamsk kills 13",
+              "url": "https://www.kommersant.ru/doc/8876662",
+              "published": "2026-08-10T17:08:19+00:00",
+              "orig_title": "В результате атаки БПЛА в Нижнекамске погибли 13 человек",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "24 drones shot down on approach to Moscow since start of day",
+              "url": "https://www.kommersant.ru/doc/8876249",
+              "published": "2026-08-10T09:44:04+00:00",
+              "orig_title": "С начала суток на подлете к Москве сбили 24 БПЛА",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Nine killed in Nizhnekamsk hostel in morning drone attack",
+              "url": "https://www.kommersant.ru/doc/8876564",
+              "published": "2026-08-10T14:38:53+00:00",
+              "orig_title": "В Нижнекамске девять человек погибли в хостеле при утренней атаке БПЛА",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Seven drones shot down approaching Moscow",
+              "url": "https://www.kommersant.ru/doc/8876763",
+              "published": "2026-08-10T22:48:33+00:00",
+              "orig_title": "На подлете к Москве были сбиты семь БПЛА",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Nижнекамск drone attack casualties rise to 48",
+              "url": "https://www.kommersant.ru/doc/8876240",
+              "published": "2026-08-10T09:38:20+00:00",
+              "orig_title": "Число пострадавших при атаке БПЛА на Нижнекамск выросло до 48",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "One killed, two wounded in drone attack in Belgorod region",
+              "url": "https://www.kommersant.ru/doc/8876490",
+              "published": "2026-08-10T13:16:54+00:00",
+              "orig_title": "Один человек погиб и двое ранены при атаке БПЛА в Белгородской области",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Drone attack on Nizhnekamsk kills 12, wounds 39",
+              "url": "https://www.kommersant.ru/doc/8876081",
+              "published": "2026-08-10T06:55:01+00:00",
+              "orig_title": "При атаке БПЛА на Нижнекамск погибли 12 человек, пострадали 39 // Глава Татарстана: в Нижнекамске при атаке БПЛА погибли 12 человек и 39 ранены",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Two killed and seven wounded in DPR from drone strikes",
+              "url": "https://www.kommersant.ru/doc/8875906",
+              "published": "2026-08-09T19:20:17+00:00",
+              "orig_title": "Два человека погибли и семь пострадали в ДНР при ударах БПЛА",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "13 drones shot down approaching Moscow",
+              "url": "https://www.kommersant.ru/doc/8875942",
+              "published": "2026-08-10T01:05:57+00:00",
+              "orig_title": "На подлете к Москве сбили 13 беспилотников",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Air defense forces shot down 285 drones over Russian regions in one day",
+              "url": "https://www.kommersant.ru/doc/8875896",
+              "published": "2026-08-09T17:52:58+00:00",
+              "orig_title": "Силы ПВО сбили за день над регионами России 285 дронов",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Drones downed en route to Moscow reach 13",
+              "url": "https://www.kommersant.ru/doc/8876775",
+              "published": "2026-08-11T00:37:55+00:00",
+              "orig_title": "Число сбитых на пути к Москве БПЛА выросло до 13",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Drone attack on Nizhnekamsk kills 13 including child",
+              "url": "https://www.kommersant.ru/doc/8876139",
+              "published": "2026-08-10T07:56:04+00:00",
+              "orig_title": "При атаке БПЛА на Нижнекамск погибли 13 человек, включая ребенка // Власти Татарстана: число погибших при атаке БПЛА на Нижнекамск выросло до 13",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Russian Defense Ministry: 456 Ukrainian drones shot down over Russian regions overnight",
+              "url": "https://www.kommersant.ru/doc/8876006",
+              "published": "2026-08-10T05:19:32+00:00",
+              "orig_title": "Минобороны России: за ночь над регионами РФ сбиты 456 беспилотников ВСУ",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Deaths reported in drone attack on industrial facilities in Nizhnekamsk",
+              "url": "https://www.kommersant.ru/doc/8876019",
+              "published": "2026-08-10T05:39:31+00:00",
+              "orig_title": "Люди погибли при атаке БПЛА на производственные объекты в Нижнекамске",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Sobyanin: Air defense systems shot down 18 drones approaching Moscow overnight",
+              "url": "https://www.kommersant.ru/doc/8876015",
+              "published": "2026-08-10T05:33:54+00:00",
+              "orig_title": "Собянин: с начала суток на подлете к Москве средства ПВО сбили 18 БПЛА",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "28 injured brought to Nizhnekamsk hospitals after drone attack",
+              "url": "https://www.kommersant.ru/doc/8876111",
+              "published": "2026-08-10T07:32:26+00:00",
+              "orig_title": "В больницы Нижнекамска доставили 28 пострадавших при атаке БПЛА",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Nizhnekamsk drone attack casualty count rises to 75",
+              "url": "https://www.kommersant.ru/doc/8876276",
+              "published": "2026-08-10T10:09:44+00:00",
+              "orig_title": "Число пострадавших при атаке БПЛА на Нижнекамск выросло до 75",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Additional medical teams dispatched to Nizhnekamsk after drone attack",
+              "url": "https://www.kommersant.ru/doc/8876041",
+              "published": "2026-08-10T06:11:09+00:00",
+              "orig_title": "Дополнительные бригады медиков направили в Нижнекамск после атаки БПЛА",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Tatarstan authorities to assist victims of drone attack",
+              "url": "https://www.kommersant.ru/doc/8876266",
+              "published": "2026-08-10T09:56:19+00:00",
+              "orig_title": "Власти Татарстана окажут помощь пострадавшим при атаке БПЛА",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Woman killed in drone attack on Belgorod region",
+              "url": "https://www.kommersant.ru/doc/8875989",
+              "published": "2026-08-10T04:57:11+00:00",
+              "orig_title": "В Белгородской области при атаке БПЛА погибла женщина",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Drone attack casualties in Nizhnekamsk rise to 78",
+              "url": "https://www.kommersant.ru/doc/8876607",
+              "published": "2026-08-10T15:34:01+00:00",
+              "orig_title": "Число пострадавших при атаке БПЛА в Нижнекамске возросло до 78 человек",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Tatarstan declares mourning after drone attack on Nizhnekamsk industrial zone",
+              "url": "https://www.kommersant.ru/doc/8876029",
+              "published": "2026-08-10T05:53:37+00:00",
+              "orig_title": "Траур объявили в Татарстане после атаки БПЛА на промзону Нижнекамска",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Russia downs 215 drones in a day",
+              "url": "https://www.kommersant.ru/doc/8876683",
+              "published": "2026-08-10T17:48:41+00:00",
+              "orig_title": "За день над Россией сбили 215 беспилотников",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Windows shattered in several homes during Nижнекамск drone attack",
+              "url": "https://www.kommersant.ru/doc/8876230",
+              "published": "2026-08-10T09:23:33+00:00",
+              "orig_title": "В Нижнекамске при атаке БПЛА в нескольких домах выбило окна",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Tatneft expresses condolences to families of victims from drone attack in Nizhnekamsk",
+              "url": "https://www.kommersant.ru/doc/8876317",
+              "published": "2026-08-10T10:36:15+00:00",
+              "orig_title": "«Татнефть» выразила соболезнования семьям погибших при атаке БПЛА в Нижнекамске",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Investigative Committee opens terrorism case following drone attack on Nижнекамск",
+              "url": "https://www.kommersant.ru/doc/8876156",
+              "published": "2026-08-10T08:09:20+00:00",
+              "orig_title": "СКР возбудил дело о теракте после атаки БПЛА на Нижнекамск",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Over 100 evacuated from Sevastopol campsite after drone shot down",
+              "url": "https://www.kommersant.ru/doc/8876324",
+              "published": "2026-08-10T11:20:20+00:00",
+              "orig_title": "В Севастополе из кемпинга эвакуировали более ста отдыхающих из-за сбитого БПЛА",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Families of Nizhnikamsk drone attack victims to receive 2 million rubles each",
+              "url": "https://www.kommersant.ru/doc/8876361",
+              "published": "2026-08-10T11:20:13+00:00",
+              "orig_title": "Семьям погибших при атаке БПЛА в Нижнекамске выплатят по 2 млн рублей",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "No air pollution detected in Nижнекамск after drone attack",
+              "url": "https://www.kommersant.ru/doc/8876229",
+              "published": "2026-08-10T09:21:01+00:00",
+              "orig_title": "В Нижнекамске не зафиксировали загрязнения воздуха после атаки БПЛА",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Sevastopol evacuates campground after drone debris falls",
+              "url": "https://www.kommersant.ru/doc/8875953",
+              "published": "2026-08-10T03:24:51+00:00",
+              "orig_title": "В Севастополе эвакуируют людей из кемпинга из-за упавших обломков БПЛА",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Investigative Committee opens terrorism case following drone strikes on Nижнекамск",
+              "url": "https://www.kommersant.ru/doc/8876239",
+              "published": "2026-08-10T09:34:34+00:00",
+              "orig_title": "СКР возбудил дело о теракте после ударов БПЛА по Нижнекамску",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Five killed, three injured in crash on Yalta-Kremnevka highway in DNR",
+              "url": "https://www.kommersant.ru/doc/8875911",
+              "published": "2026-08-09T19:46:31+00:00",
+              "orig_title": "Пять человек погибли и трое пострадали в ДТП на трассе Ялта — Кремневка в ДНР",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Investigation completed into terrorist plot against Metropolitan Tikhon",
+              "url": "https://www.kommersant.ru/doc/8876650",
+              "published": "2026-08-10T16:45:49+00:00",
+              "orig_title": "Завершено расследование подготовки теракта против митрополита Тихона",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            }
+          ]
+        },
+        {
+          "outlet": "Die Welt",
+          "region": "europe",
+          "lean": "right",
+          "ownership": "private",
+          "title": "Sweden foils Russian intelligence operation and releases photos",
+          "url": "https://www.welt.de/politik/ausland/article6a7a33200e3689919ec7720e/schweden-vereitelt-russische-geheimdienst-operation-und-veroeffentlicht-fotos.html",
+          "published": "2026-08-10T20:55:38+00:00",
+          "orig_title": "Schweden vereitelt russische Geheimdienst-Operation – und veröffentlicht Fotos",
+          "lang": "de",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
+          "outlet": "TASS",
+          "region": "russia",
+          "lean": "state",
+          "ownership": "state",
+          "title": "Over 210 Ukrainian drones taken down over Russian regions during day",
+          "url": "https://tass.com/politics/2171101",
+          "published": "2026-08-10T18:27:51+00:00",
+          "orig_title": "Over 210 Ukrainian drones taken down over Russian regions during day",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 221,
+      "topic": "World & Politics",
+      "label": "Iran · appointed · Ali",
+      "title": "Iran’s supreme leader appoints Ali Abdollahi to lead armed forces",
+      "summary": "Kiyumars Heidari, who previously served as the commander of the Iranian Army's Ground Forces, will become his deputy",
+      "score": 5.434,
+      "n_outlets": 5,
+      "n_articles": 8,
+      "regions": [
+        "india",
+        "japan",
+        "russia",
+        "us"
+      ],
+      "last_seen": "2026-08-10T18:05:57+00:00",
+      "leans": [
+        "center",
+        "left",
+        "state"
+      ],
+      "sources": [
+        {
+          "outlet": "The Hindu",
+          "region": "india",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Mohsen Rezaei appointed as secretary of Iran's top security body",
+          "url": "https://www.thehindu.com/news/international/mohsen-rezaei-appointed-as-secretary-of-irans-top-security-body/article71329753.ece",
+          "published": "2026-08-10T17:14:52+00:00",
+          "orig_title": "Mohsen Rezaei appointed as secretary of Iran's top security body",
           "lang": "en",
           "translated": false,
           "access": "open"
@@ -1737,64 +2455,64 @@
           "region": "us",
           "lean": "left",
           "ownership": "private",
-          "title": "Here’s the latest.",
-          "url": "https://www.nytimes.com/live/2026/08/10/world/colombia-earthquake-bogota-cali/colombia-earthquake",
-          "published": "2026-08-10T19:07:04+00:00",
-          "orig_title": "Here’s the latest.",
+          "title": "Iran Taps Longtime I.R.G.C. Commander Mohsen Rezaei to Top Security Post",
+          "url": "https://www.nytimes.com/2026/08/09/world/middleeast/iran-security-council-guards-commander.html",
+          "published": "2026-08-10T11:37:23+00:00",
+          "orig_title": "Iran Taps Longtime I.R.G.C. Commander Mohsen Rezaei to Top Security Post",
           "lang": "en",
           "translated": false,
-          "access": "paywall",
+          "access": "paywall"
+        },
+        {
+          "outlet": "Kommersant",
+          "region": "russia",
+          "lean": "center",
+          "ownership": "private",
+          "title": "IRGC General Ali Abdollahi appointed head of Iranian Armed Forces General Staff",
+          "url": "https://www.kommersant.ru/doc/8876652",
+          "published": "2026-08-10T16:55:16+00:00",
+          "orig_title": "Генерал КСИР Али Абдоллахи возглавил Генштаб вооруженных сил Ирана",
+          "lang": "ru",
+          "translated": true,
+          "access": "unknown",
           "more": [
             {
-              "outlet": "The New York Times",
-              "region": "us",
-              "lean": "left",
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
               "ownership": "private",
-              "title": "Colombia Quake Chases Teenage Venezuelan Brothers From Their New Home",
-              "url": "https://www.nytimes.com/2026/08/10/world/americas/colombia-earthquake-venezuela-brothers.html",
-              "published": "2026-08-10T21:47:14+00:00",
-              "orig_title": "Colombia Quake Chases Teenage Venezuelan Brothers From Their New Home",
-              "lang": "en",
-              "translated": false,
-              "access": "paywall"
+              "title": "Khamenei adviser appointed as secretary of Iran's Supreme National Security Council",
+              "url": "https://www.kommersant.ru/doc/8875914",
+              "published": "2026-08-09T20:40:16+00:00",
+              "orig_title": "Советника Хаменеи назначили секретарем Высшего совета нацбезопасности Ирана",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
             }
           ]
         },
         {
-          "outlet": "MercoPress",
-          "region": "south_america",
+          "outlet": "The Japan Times",
+          "region": "japan",
           "lean": "center",
           "ownership": "private",
-          "title": "Colombia records its strongest earthquake in a decade, geological service says",
-          "url": "https://en.mercopress.com/2026/08/10/colombia-records-its-strongest-earthquake-in-a-decade-geological-service-says?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
-          "published": "2026-08-10T14:29:00+00:00",
-          "orig_title": "Colombia records its strongest earthquake in a decade, geological service says",
+          "title": "Iran shakes up security team after saying Oman deal ‘very close’",
+          "url": "https://www.japantimes.co.jp/news/2026/08/10/world/politics/iran-security-team-oman-deal/",
+          "published": "2026-08-10T08:11:00+00:00",
+          "orig_title": "Iran shakes up security team after saying Oman deal ‘very close’",
           "lang": "en",
           "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "Fox News",
-          "region": "us",
-          "lean": "right",
-          "ownership": "private",
-          "title": "Colombia building collapses on camera as earthquake brings death, destruction",
-          "url": "https://www.foxnews.com/world/colombia-building-collapses-camera-earthquake-brings-death-destruction",
-          "published": "2026-08-10T17:28:09+00:00",
-          "orig_title": "Colombia building collapses on camera as earthquake brings death, destruction",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
+          "access": "paywall"
         },
         {
           "outlet": "TASS",
           "region": "russia",
           "lean": "state",
           "ownership": "state",
-          "title": "Colombia earthquake reaches magnitude 7.4 — geological service",
-          "url": "https://tass.com/world/2171021",
-          "published": "2026-08-10T14:56:09+00:00",
-          "orig_title": "Colombia earthquake reaches magnitude 7.4 — geological service",
+          "title": "Iran’s supreme leader appoints Ali Abdollahi to lead armed forces",
+          "url": "https://tass.com/world/2171075",
+          "published": "2026-08-10T17:23:12+00:00",
+          "orig_title": "Iran’s supreme leader appoints Ali Abdollahi to lead armed forces",
           "lang": "en",
           "translated": false,
           "access": "open",
@@ -1804,10 +2522,10 @@
               "region": "russia",
               "lean": "state",
               "ownership": "state",
-              "title": "Colombia registers strongest quake nation has seen in decade — Geological Survey",
-              "url": "https://tass.com/world/2171063",
-              "published": "2026-08-10T16:49:03+00:00",
-              "orig_title": "Colombia registers strongest quake nation has seen in decade — Geological Survey",
+              "title": "Iran’s supreme leader appoints Ahmad Vahidi to head Islamic Revolutionary Guard Corps",
+              "url": "https://tass.com/world/2171087",
+              "published": "2026-08-10T18:05:19+00:00",
+              "orig_title": "Iran’s supreme leader appoints Ahmad Vahidi to head Islamic Revolutionary Guard Corps",
               "lang": "en",
               "translated": false,
               "access": "open"
@@ -1817,10 +2535,10 @@
               "region": "russia",
               "lean": "state",
               "ownership": "state",
-              "title": "Colombia earthquake destroys buildings, search for people underway",
-              "url": "https://tass.com/world/2171011",
-              "published": "2026-08-10T14:31:02+00:00",
-              "orig_title": "Colombia earthquake destroys buildings, search for people underway",
+              "title": "Hossein Taeb appointed head of Iran’s Basij paramilitary force",
+              "url": "https://tass.com/world/2171089",
+              "published": "2026-08-10T18:05:57+00:00",
+              "orig_title": "Hossein Taeb appointed head of Iran’s Basij paramilitary force",
               "lang": "en",
               "translated": false,
               "access": "open"
@@ -1830,20 +2548,66 @@
       ]
     },
     {
-      "id": 119,
-      "topic": "World & Politics",
-      "label": "July · Europe · June",
-      "title": "Western Europe records hottest June and July on record",
-      "summary": "Drought is gripping large parts of Europe, with soils unusually dry and major rivers running low. A strengthening El Nino could push global temperatures even higher later this year.",
-      "score": 5.638,
-      "n_outlets": 5,
-      "n_articles": 5,
+      "id": 6,
+      "topic": "Economics",
+      "label": "UPI · Argentina · RIGI",
+      "title": "UPI and the cost of policy reversal",
+      "summary": "The government’s proposal to allow an MDR of 0.25–0.5% on UPI transactions above ₹2,000 reverses a decade-long policy; taxing the payment rail could weaken incentives for banks and fintechs to invest ",
+      "score": 2.984,
+      "n_outlets": 2,
+      "n_articles": 2,
       "regions": [
-        "europe",
-        "russia",
-        "us"
+        "india",
+        "south_america"
       ],
-      "last_seen": "2026-08-10T20:48:59+00:00",
+      "last_seen": "2026-08-11T03:55:46+00:00",
+      "leans": [
+        "left",
+        "right"
+      ],
+      "sources": [
+        {
+          "outlet": "The Hindu",
+          "region": "india",
+          "lean": "left",
+          "ownership": "private",
+          "title": "UPI and the cost of policy reversal",
+          "url": "https://www.thehindu.com/business/Economy/upi-and-the-cost-of-policy-reversal/article71328209.ece",
+          "published": "2026-08-11T03:55:46+00:00",
+          "orig_title": "UPI and the cost of policy reversal",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "The Rio Times",
+          "region": "south_america",
+          "lean": "right",
+          "ownership": "private",
+          "title": "Argentina RIGI: BCRA Eases FX Access for Insurers",
+          "url": "https://www.riotimesonline.com/argentina-rigi-bcra-eases-fx-access-for-insurers/",
+          "published": "2026-08-10T21:01:25+00:00",
+          "orig_title": "Argentina RIGI: BCRA Eases FX Access for Insurers",
+          "lang": "en",
+          "translated": false,
+          "access": "unknown"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "topic": "Economics",
+      "label": "flu · Bird · vulnerable",
+      "title": "Native birds in captivity to be vaccinated against H5 bird flu as Australia prepares for more mass mortalities",
+      "summary": "Federal government also hopes to vaccinate some wild birds but admits catching them once, let alone twice for both doses, is ‘difficult’ Get our breaking news email , free app or daily news podcast Va",
+      "score": 2.956,
+      "n_outlets": 2,
+      "n_articles": 3,
+      "regions": [
+        "australia",
+        "europe"
+      ],
+      "last_seen": "2026-08-11T03:34:55+00:00",
       "leans": [
         "center",
         "left"
@@ -1854,180 +2618,72 @@
           "region": "europe",
           "lean": "left",
           "ownership": "private",
-          "title": "Weather tracker: Europe breaks more heat records as temperatures soar",
-          "url": "https://www.theguardian.com/environment/2026/aug/10/weather-tracker-europe-break-heat-records-temperatures-drought-wildfires",
-          "published": "2026-08-10T09:32:54+00:00",
-          "orig_title": "Weather tracker: Europe breaks more heat records as temperatures soar",
+          "title": "Native birds in captivity to be vaccinated against H5 bird flu as Australia prepares for more mass mortalities",
+          "url": "https://www.theguardian.com/world/2026/aug/11/bird-flu-h5-vaccine-native-birds-australia",
+          "published": "2026-08-11T02:13:01+00:00",
+          "orig_title": "Native birds in captivity to be vaccinated against H5 bird flu as Australia prepares for more mass mortalities",
           "lang": "en",
           "translated": false,
           "access": "open"
         },
         {
-          "outlet": "BBC News",
-          "region": "europe",
+          "outlet": "ABC News (Australia)",
+          "region": "australia",
           "lean": "center",
           "ownership": "public",
-          "title": "World's oceans hit record-high July temperatures",
-          "url": "https://www.bbc.co.uk/news/articles/cpvw8vmmgrwo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-10T10:24:46+00:00",
-          "orig_title": "World's oceans hit record-high July temperatures",
+          "title": "Bird flu vaccine to be rolled out to vulnerable species in captivity",
+          "url": "https://www.abc.net.au/news/2026-08-11/federal-politics-agriculture-minister-bird-flu-vaccine-rollout/107023868",
+          "published": "2026-08-11T03:34:55+00:00",
+          "orig_title": "Bird flu vaccine to be rolled out to vulnerable species in captivity",
           "lang": "en",
           "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "Deutsche Welle",
-          "region": "europe",
-          "lean": "center",
-          "ownership": "public",
-          "title": "Western Europe records hottest June and July on record",
-          "url": "https://www.dw.com/en/western-europe-records-hottest-june-and-july-on-record/a-78298751?maca=en-rss-en-world-4025-rdf",
-          "published": "2026-08-10T03:49:00+00:00",
-          "orig_title": "Western Europe records hottest June and July on record",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
+          "access": "open",
+          "more": [
+            {
+              "outlet": "ABC News (Australia)",
+              "region": "australia",
+              "lean": "center",
+              "ownership": "public",
+              "title": "Live: Government targets vulnerable species for bird flu vaccines",
+              "url": "https://www.abc.net.au/news/2026-08-11/federal-politics-live-blog-august-11/107022468",
+              "published": "2026-08-10T21:09:49+00:00",
+              "orig_title": "Live: Government targets vulnerable species for bird flu vaccines",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "topic": "Economics",
+      "label": "Iran · Russia · friendly",
+      "title": "Iran readies for friendly football match against Russia — Iranian federation",
+      "summary": "President of the federation Mehdi Taj says that the Iranian team will also play \"two European teams and one Asian team that also participated in the World Cup\"",
+      "score": 2.885,
+      "n_outlets": 2,
+      "n_articles": 2,
+      "regions": [
+        "russia"
+      ],
+      "last_seen": "2026-08-11T02:39:14+00:00",
+      "leans": [
+        "center",
+        "state"
+      ],
+      "sources": [
         {
           "outlet": "Kommersant",
           "region": "russia",
           "lean": "center",
           "ownership": "private",
-          "title": "Copernicus: Europe broke temperature records in June and July",
-          "url": "https://www.kommersant.ru/doc/8876498",
-          "published": "2026-08-10T13:36:32+00:00",
-          "orig_title": "Copernicus: в июне и июле в Европе были побиты температурные рекорды",
+          "title": "Iran national football team to play friendly match against Russia",
+          "url": "https://www.kommersant.ru/doc/8876760",
+          "published": "2026-08-10T22:14:57+00:00",
+          "orig_title": "Сборная Ирана по футболу проведет товарищеский матч с Россией",
           "lang": "ru",
-          "translated": true,
-          "access": "unknown"
-        },
-        {
-          "outlet": "The Hill",
-          "region": "us",
-          "lean": "center",
-          "ownership": "private",
-          "title": "July was hottest month on record in contiguous US: NOAA",
-          "url": "https://thehill.com/policy/energy-environment/6020840-july-hottest-month-noaa/",
-          "published": "2026-08-10T20:48:59+00:00",
-          "orig_title": "July was hottest month on record in contiguous US: NOAA",
-          "lang": "en",
-          "translated": false,
-          "access": "unknown"
-        }
-      ]
-    },
-    {
-      "id": 120,
-      "topic": "World & Politics",
-      "label": "earthquake · Colombia · Colombian",
-      "title": "Colombia: severe earthquake—reports of deaths, injuries and damage",
-      "summary": "Ein Erdbeben der Stärke 7,4 erschüttert Kolumbien. Mehr als hundert Menschen seien getötet worden, die Lage sei »kritisch«, Menschen verschüttet, heißt es. Auswirkungen werden weit über das Epizentrum",
-      "score": 5.633,
-      "n_outlets": 5,
-      "n_articles": 8,
-      "regions": [
-        "africa",
-        "europe",
-        "russia"
-      ],
-      "last_seen": "2026-08-10T20:44:23+00:00",
-      "leans": [
-        "center",
-        "left",
-        "right",
-        "state"
-      ],
-      "sources": [
-        {
-          "outlet": "Der Spiegel",
-          "region": "europe",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Colombia: severe earthquake—reports of deaths, injuries and damage",
-          "url": "https://www.spiegel.de/ausland/kolumbien-schweres-erdbeben-berichte-ueber-tote-verletzte-und-schaeden-a-3e10b010-0332-4588-98ba-8ec7c3740356#ref=rss",
-          "published": "2026-08-10T17:25:00+00:00",
-          "orig_title": "Kolumbien: Schweres Erdbeben – Berichte über Tote, Verletzte und Schäden",
-          "lang": "de",
-          "translated": true,
-          "access": "unknown"
-        },
-        {
-          "outlet": "El Pais",
-          "region": "europe",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Video: Devastation in Cali after earthquake seen from above",
-          "url": "https://elpais.com/america-colombia/2026-08-10/video-la-devastacion-en-cali-tras-el-terremoto-vista-desde-el-aire.html",
-          "published": "2026-08-10T18:51:05+00:00",
-          "orig_title": "Video | La devastación en Cali tras el terremoto vista desde el aire",
-          "lang": "es",
-          "translated": true,
-          "access": "unknown",
-          "more": [
-            {
-              "outlet": "El Pais",
-              "region": "europe",
-              "lean": "left",
-              "ownership": "private",
-              "title": "Maps and graphics of Colombia's devastating earthquake",
-              "url": "https://elpais.com/internacional/2026-08-10/mapas-y-graficos-del-devastador-terremoto-en-colombia.html",
-              "published": "2026-08-10T18:42:29+00:00",
-              "orig_title": "Mapas y gráficos del devastador terremoto en Colombia",
-              "lang": "es",
-              "translated": true,
-              "access": "unknown"
-            },
-            {
-              "outlet": "El Pais",
-              "region": "europe",
-              "lean": "left",
-              "ownership": "private",
-              "title": "Cali searches through earthquake rubble: 'I couldn't leave and abandon my patients'",
-              "url": "https://elpais.com/america-colombia/2026-08-10/cali-escarba-entre-los-escombros-del-terremoto-no-podia-salir-y-dejar-tirados-a-mis-pacientes.html",
-              "published": "2026-08-10T20:28:12+00:00",
-              "orig_title": "Cali escarba entre los escombros del terremoto: “No podía salir y dejar tirados a mis pacientes”",
-              "lang": "es",
-              "translated": true,
-              "access": "unknown"
-            },
-            {
-              "outlet": "El Pais",
-              "region": "europe",
-              "lean": "left",
-              "ownership": "private",
-              "title": "Colombian geologist Rodrigo León warns of aftershocks: citizens must prepare",
-              "url": "https://elpais.com/america-colombia/2026-08-10/rodrigo-leon-geologo-colombiano-experto-en-terremotos-habra-replicas-la-ciudadania-tiene-que-prepararse.html",
-              "published": "2026-08-10T20:44:23+00:00",
-              "orig_title": "Rodrigo León, geólogo colombiano experto en terremotos: “Habrá réplicas, la ciudadanía tiene que prepararse”",
-              "lang": "es",
-              "translated": true,
-              "access": "unknown"
-            }
-          ]
-        },
-        {
-          "outlet": "Le Matin",
-          "region": "africa",
-          "lean": "center",
-          "ownership": "private",
-          "title": "7.4 magnitude earthquake in Colombia: at least 18 dead in Pereira",
-          "url": "https://lematin.ma/monde/seisme-de-magnitude-74-en-colombie-au-moins-18-morts-a-pereira/360339",
-          "published": "2026-08-10T14:50:00+00:00",
-          "orig_title": "Séisme de magnitude 7,4 en Colombie : au moins 18 morts à Pereira",
-          "lang": "fr",
-          "translated": true,
-          "access": "unknown"
-        },
-        {
-          "outlet": "Die Welt",
-          "region": "europe",
-          "lean": "right",
-          "ownership": "private",
-          "title": "Severe earthquake rocks Colombia—at least 47 dead",
-          "url": "https://www.welt.de/videos/video6a79ff060e3689919ec76ffe/staerke-von-7-4-schweres-erdbeben-erschuettert-kolumbien-mindestens-47-tote.html",
-          "published": "2026-08-10T16:52:03+00:00",
-          "orig_title": "Schweres Erdbeben erschüttert Kolumbien – mindestens 47 Tote",
-          "lang": "de",
           "translated": true,
           "access": "unknown"
         },
@@ -2036,10 +2692,10 @@
           "region": "russia",
           "lean": "state",
           "ownership": "state",
-          "title": "IN BRIEF: Colombian earthquake: casualties and damage",
-          "url": "https://tass.com/world/2171041",
-          "published": "2026-08-10T15:39:04+00:00",
-          "orig_title": "IN BRIEF: Colombian earthquake: casualties and damage",
+          "title": "Iran readies for friendly football match against Russia — Iranian federation",
+          "url": "https://tass.com/sports/2171169",
+          "published": "2026-08-11T02:39:14+00:00",
+          "orig_title": "Iran readies for friendly football match against Russia — Iranian federation",
           "lang": "en",
           "translated": false,
           "access": "open"
@@ -2047,73 +2703,74 @@
       ]
     },
     {
-      "id": 28,
+      "id": 101,
       "topic": "Economics",
-      "label": "Trump · Media · Truth",
-      "title": "Trump’s media company, which also owns Truth Social, reports $238m loss",
-      "summary": "Company also announced a paid service for early access to president’s posts on policies to the social media site Donald Trump’s media company – which owns the Truth Social platform favored by the US p",
-      "score": 3.919,
-      "n_outlets": 3,
+      "label": "Billions · Ministries · Siegmund",
+      "title": "German economy minister: far-right AfD rise harms investments",
+      "summary": "Министр экономики и энергетики Германии Катерина Райхе заявила, что рост популярности крайне правой партии «Альтернатива для Германии» (АдГ) может негативно сказаться на инвестициях в страну. Она сказ",
+      "score": 2.636,
+      "n_outlets": 2,
       "n_articles": 3,
       "regions": [
         "europe",
-        "us"
+        "russia"
       ],
-      "last_seen": "2026-08-11T01:12:11+00:00",
+      "last_seen": "2026-08-10T22:41:30+00:00",
       "leans": [
         "center",
-        "left",
         "right"
       ],
       "sources": [
         {
-          "outlet": "The Guardian",
-          "region": "europe",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Trump’s media company, which also owns Truth Social, reports $238m loss",
-          "url": "https://www.theguardian.com/us-news/2026/aug/10/trump-media-company-loss",
-          "published": "2026-08-11T00:54:00+00:00",
-          "orig_title": "Trump’s media company, which also owns Truth Social, reports $238m loss",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "BBC News",
-          "region": "europe",
+          "outlet": "Kommersant",
+          "region": "russia",
           "lean": "center",
-          "ownership": "public",
-          "title": "Trump Media reports $238m loss as crypto falls",
-          "url": "https://www.bbc.co.uk/news/articles/ce3q5nxpgk1o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-11T01:12:11+00:00",
-          "orig_title": "Trump Media reports $238m loss as crypto falls",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
+          "ownership": "private",
+          "title": "German economy minister: far-right AfD rise harms investments",
+          "url": "https://www.kommersant.ru/doc/8876278",
+          "published": "2026-08-10T10:15:08+00:00",
+          "orig_title": "Министр экономики ФРГ: подъем крайне правой АдГ вредит инвестициям",
+          "lang": "ru",
+          "translated": true,
+          "access": "unknown"
         },
         {
-          "outlet": "The Wall Street Journal",
-          "region": "us",
+          "outlet": "Die Welt",
+          "region": "europe",
           "lean": "right",
           "ownership": "private",
-          "title": "Trump Media Reports More Than 10 Sign-Ups to Real-Time Truth Social Feed",
-          "url": "https://www.wsj.com/business/media/trump-media-djt-2q-2026-earnings-report-stock-8118ee37?mod=rss_markets_main",
-          "published": "2026-08-10T23:30:00+00:00",
-          "orig_title": "Trump Media Reports More Than 10 Sign-Ups to Real-Time Truth Social Feed",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
+          "title": "Billions in euros in citizen benefits to foreigners? Ministries contradict Siegmund without citing figures",
+          "url": "https://www.welt.de/politik/deutschland/article6a7a48080e3689919ec77282/sachsen-anhalt-milliarden-euro-buergergeld-an-auslaender-ministerien-widersprechen-siegmund-ohne-summe-zu-nennen.html",
+          "published": "2026-08-10T22:41:30+00:00",
+          "orig_title": "Milliarden Euro Bürgergeld an Ausländer? Ministerien widersprechen Siegmund, ohne Summe zu nennen",
+          "lang": "de",
+          "translated": true,
+          "access": "unknown",
+          "more": [
+            {
+              "outlet": "Die Welt",
+              "region": "europe",
+              "lean": "right",
+              "ownership": "private",
+              "title": "Creeping tax increase—How government falls short on inflation relief",
+              "url": "https://www.welt.de/wirtschaft/plus6a79b7b597ee93b7ce854c7d/kalte-progression-schleichende-steuererhoehung-so-wenig-gleicht-die-regierung-die-inflation-aus.html",
+              "published": "2026-08-10T17:45:41+00:00",
+              "orig_title": "Schleichende Steuererhöhung – So wenig gleicht die Regierung die Inflation aus",
+              "lang": "de",
+              "translated": true,
+              "access": "unknown"
+            }
+          ]
         }
       ]
     },
     {
-      "id": 94,
+      "id": 128,
       "topic": "Economics",
       "label": "Councils · more · powers",
       "title": "Councils to get more powers to stop vape and betting shops, PM announces",
       "summary": "Prime Minister Andy Burnham said town centres had been \"hollowed out\" by decades of decline.",
-      "score": 2.679,
+      "score": 2.579,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -2154,12 +2811,12 @@
       ]
     },
     {
-      "id": 106,
+      "id": 139,
       "topic": "Economics",
       "label": "Chile · Unemployment · Steady",
       "title": "Marginal increase in unemployment rate April-June quarter: PLFS",
       "summary": "The rural unemployment rate was 4.8% in the April-June quarter, as against 4.3% in the January-March quarter, while the urban rate edged up to 6.7% from 6.6%.",
-      "score": 2.649,
+      "score": 2.554,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -2201,58 +2858,12 @@
       ]
     },
     {
-      "id": 132,
-      "topic": "Economics",
-      "label": "China's · Opinion · Banning",
-      "title": "China's courts side with workers displaced by AI but employees remain anxious",
-      "summary": "China's workers are vulnerable as the push to adopt AI comes from top leaders amid a sluggish economy.",
-      "score": 2.607,
-      "n_outlets": 2,
-      "n_articles": 2,
-      "regions": [
-        "us"
-      ],
-      "last_seen": "2026-08-10T20:14:06+00:00",
-      "leans": [
-        "left",
-        "right"
-      ],
-      "sources": [
-        {
-          "outlet": "NPR",
-          "region": "us",
-          "lean": "left",
-          "ownership": "public",
-          "title": "China's courts side with workers displaced by AI but employees remain anxious",
-          "url": "https://www.npr.org/2026/08/10/nx-s1-5822592/chinas-courts-side-with-workers-displaced-by-ai-but-employees-remain-anxious",
-          "published": "2026-08-10T20:14:06+00:00",
-          "orig_title": "China's courts side with workers displaced by AI but employees remain anxious",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "The Wall Street Journal",
-          "region": "us",
-          "lean": "right",
-          "ownership": "private",
-          "title": "Opinion | Banning Chinese AI Models Is Complicated",
-          "url": "https://www.wsj.com/opinion/banning-chinese-ai-models-is-complicated-3d8b298f?mod=rss_Technology",
-          "published": "2026-08-09T14:42:00+00:00",
-          "orig_title": "Opinion | Banning Chinese AI Models Is Complicated",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
-        }
-      ]
-    },
-    {
-      "id": 189,
+      "id": 219,
       "topic": "Economics",
       "label": "Trump · GOP · midterms",
       "title": "Downbeat economic views pose a danger for Republicans ahead of the midterms, leaving President Trump and his allies little time to regain their image as the party better suited to handle the economy",
       "summary": "Cost-of-living worries are eroding the GOP’s image as economic managers, giving Democrats an advantage.",
-      "score": 2.511,
+      "score": 2.436,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -2294,58 +2905,12 @@
       ]
     },
     {
-      "id": 202,
-      "topic": "Economics",
-      "label": "Creeping · How · Rhine",
-      "title": "Creeping tax increase—How government falls short on inflation relief",
-      "summary": "Seit Anfang Juli ist klar, dass die versprochene Reform der Einkommenssteuer ausfällt: Jetzt zeigt sich, dass die schwarz-rote Koalition nicht mal den Kaufkraftverlust vieler Bürger ausgleichen wird. ",
-      "score": 2.494,
-      "n_outlets": 2,
-      "n_articles": 2,
-      "regions": [
-        "europe"
-      ],
-      "last_seen": "2026-08-10T17:45:41+00:00",
-      "leans": [
-        "left",
-        "right"
-      ],
-      "sources": [
-        {
-          "outlet": "Der Spiegel",
-          "region": "europe",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Rhine: Low water paralyzes companies and drives prices up",
-          "url": "https://www.spiegel.de/wirtschaft/unternehmen/rhein-wie-das-niedrigwasser-unternehmen-laehmt-und-die-preise-treibt-a-f9d1dcdc-f94c-47a2-9950-9415f777205d#ref=rss",
-          "published": "2026-08-10T17:38:00+00:00",
-          "orig_title": "Rhein: Wie das Niedrigwasser Unternehmen lähmt und die Preise treibt",
-          "lang": "de",
-          "translated": true,
-          "access": "unknown"
-        },
-        {
-          "outlet": "Die Welt",
-          "region": "europe",
-          "lean": "right",
-          "ownership": "private",
-          "title": "Creeping tax increase—How government falls short on inflation relief",
-          "url": "https://www.welt.de/wirtschaft/plus6a79b7b597ee93b7ce854c7d/kalte-progression-schleichende-steuererhoehung-so-wenig-gleicht-die-regierung-die-inflation-aus.html",
-          "published": "2026-08-10T17:45:41+00:00",
-          "orig_title": "Schleichende Steuererhöhung – So wenig gleicht die Regierung die Inflation aus",
-          "lang": "de",
-          "translated": true,
-          "access": "unknown"
-        }
-      ]
-    },
-    {
-      "id": 240,
+      "id": 267,
       "topic": "Economics",
       "label": "Europe · summer · How",
       "title": "How the hard reality of climate change hit Europe’s economy this summer",
       "summary": "Record heat and droughts this summer have wreaked havoc in power production, shipping and public health systems.",
-      "score": 2.423,
+      "score": 2.361,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -2386,12 +2951,12 @@
       ]
     },
     {
-      "id": 244,
+      "id": 270,
       "topic": "Economics",
       "label": "PCB · Central · Bank",
       "title": "PCB keeps central contracts list under wraps amid new format-based system",
       "summary": "The PCB usually announces its list of centrally contracted players by the first week of August. The contracts normally run from June to July every fiscal year.",
-      "score": 2.419,
+      "score": 2.358,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -2432,12 +2997,12 @@
       ]
     },
     {
-      "id": 274,
+      "id": 300,
       "topic": "Economics",
       "label": "Thames · Water · finance",
       "title": "Thames Water gave finance boss a £1m signing-on fee",
       "summary": "The seven-figure payment was given to Steve Buck as part of package to persuade him to join the troubled utility company.",
-      "score": 2.387,
+      "score": 2.33,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -2478,59 +3043,12 @@
       ]
     },
     {
-      "id": 520,
-      "topic": "Economics",
-      "label": "China · Hong · Kong",
-      "title": "This Billionaire Became China’s Charles Schwab. Then Beijing Cracked Down.",
-      "summary": "Leaf Li’s brokerage has become a central target in Beijing’s push to control the flow of Chinese money offshore.",
-      "score": 2.133,
-      "n_outlets": 2,
-      "n_articles": 2,
-      "regions": [
-        "china",
-        "us"
-      ],
-      "last_seen": "2026-08-10T02:00:19+00:00",
-      "leans": [
-        "center",
-        "right"
-      ],
-      "sources": [
-        {
-          "outlet": "South China Morning Post",
-          "region": "china",
-          "lean": "center",
-          "ownership": "private",
-          "title": "As mainland China tightens its tax rules, can Hong Kong remain a magnet for billionaires?",
-          "url": "https://www.scmp.com/business/banking-finance/article/3363352/china-tightens-its-tax-rules-can-hong-kong-remain-magnet-billionaires?utm_source=rss_feed",
-          "published": "2026-08-10T02:00:19+00:00",
-          "orig_title": "As mainland China tightens its tax rules, can Hong Kong remain a magnet for billionaires?",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "The Wall Street Journal",
-          "region": "us",
-          "lean": "right",
-          "ownership": "private",
-          "title": "This Billionaire Became China’s Charles Schwab. Then Beijing Cracked Down.",
-          "url": "https://www.wsj.com/world/china/this-billionaire-became-chinas-charles-schwab-then-beijing-cracked-down-6d7f8ef3?mod=rss_worldnews",
-          "published": "2026-08-09T23:00:00+00:00",
-          "orig_title": "This Billionaire Became China’s Charles Schwab. Then Beijing Cracked Down.",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
-        }
-      ]
-    },
-    {
-      "id": 69,
+      "id": 104,
       "topic": "Trading & Markets",
       "label": "Nvidia · Wall · Street",
       "title": "Nvidia to team with Wall Street on US$500 billion package for AI infrastructure projects",
       "summary": "A group of US investment giants are partnering with Nvidia on US$500 billion in funding for AI infrastructure projects, the Financial Times reported. Apollo Global Management, Blackstone, BlackRock’s ",
-      "score": 4.735,
+      "score": 4.628,
       "n_outlets": 4,
       "n_articles": 4,
       "regions": [
@@ -2600,72 +3118,12 @@
       ]
     },
     {
-      "id": 14,
-      "topic": "Trading & Markets",
-      "label": "bird · flu · Australia",
-      "title": "Australia politics live: bird flu vaccine to begin rolling out to ‘priority species’; Victoria’s new premier pauses right to work from home bill",
-      "summary": "H5 vaccine to be given to native birds in capacity as first step of bird flu countermeasures. Follow today’s news live Get our breaking news email , free app or daily news podcast Ted O’Brien says tha",
-      "score": 3.964,
-      "n_outlets": 3,
-      "n_articles": 3,
-      "regions": [
-        "australia",
-        "europe"
-      ],
-      "last_seen": "2026-08-11T01:46:45+00:00",
-      "leans": [
-        "center",
-        "left"
-      ],
-      "sources": [
-        {
-          "outlet": "The Guardian",
-          "region": "europe",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Australia politics live: bird flu vaccine to begin rolling out to ‘priority species’; Victoria’s new premier pauses right to work from home bill",
-          "url": "https://www.theguardian.com/australia-news/live/2026/aug/11/australia-politics-live-rba-interest-rates-question-time-anthony-albanese-angus-taylor-one-nation-pauline-hanson-ndis-gambling-ads-ntwnfb",
-          "published": "2026-08-11T01:46:45+00:00",
-          "orig_title": "Australia politics live: bird flu vaccine to begin rolling out to ‘priority species’; Victoria’s new premier pauses right to work from home bill",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "The Guardian Australia",
-          "region": "australia",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Jean hoped bird flu wouldn’t come to Australia. Then it arrived – and she saw a tern ‘trembling and swaying’",
-          "url": "https://www.theguardian.com/world/2026/aug/11/south-australian-volunteers-help-sick-birds-avian-flu",
-          "published": "2026-08-10T15:00:48+00:00",
-          "orig_title": "Jean hoped bird flu wouldn’t come to Australia. Then it arrived – and she saw a tern ‘trembling and swaying’",
-          "lang": "en",
-          "translated": false,
-          "access": "unknown"
-        },
-        {
-          "outlet": "ABC News (Australia)",
-          "region": "australia",
-          "lean": "center",
-          "ownership": "public",
-          "title": "Live: Government targets vulnerable species for bird flu vaccines",
-          "url": "https://www.abc.net.au/news/2026-08-11/federal-politics-live-blog-august-11/107022468",
-          "published": "2026-08-10T21:09:49+00:00",
-          "orig_title": "Live: Government targets vulnerable species for bird flu vaccines",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        }
-      ]
-    },
-    {
-      "id": 77,
+      "id": 110,
       "topic": "Trading & Markets",
       "label": "Trump · Jones · Act",
       "title": "Trump again waives shipping rules to bring prices down",
       "summary": "{beacon} Energy &#038; Environment Energy &#038; Environment &#8202; The Big Story Trump again waives shipping rules to bring prices down The Trump administration is once again waiving U.S. shipping r",
-      "score": 2.71,
+      "score": 2.606,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -2706,12 +3164,12 @@
       ]
     },
     {
-      "id": 78,
+      "id": 111,
       "topic": "Trading & Markets",
       "label": "Oman · Sanctioned · Russian",
       "title": "Sanctioned Russian tanker leaks oil off Oman after mystery explosion",
       "summary": "The tanker Caroline Bezengi, part of Russia’s “shadow fleet,” leaked oil after running aground off the coast of Oman. The resulting slick, covering roughly 390 square kilometers (about 150 square mile",
-      "score": 2.709,
+      "score": 2.605,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -2751,58 +3209,12 @@
       ]
     },
     {
-      "id": 171,
-      "topic": "Trading & Markets",
-      "label": "Taiwan · Fight · China",
-      "title": "Will Taiwan Fight China? Just Ask Its People",
-      "summary": "Five Taiwanese discuss their future under the shadow of Beijing.",
-      "score": 2.534,
-      "n_outlets": 2,
-      "n_articles": 2,
-      "regions": [
-        "us"
-      ],
-      "last_seen": "2026-08-10T18:41:00+00:00",
-      "leans": [
-        "left",
-        "right"
-      ],
-      "sources": [
-        {
-          "outlet": "The New York Times",
-          "region": "us",
-          "lean": "left",
-          "ownership": "private",
-          "title": "How a Drone ‘Hellscape’ Might Stop a Chinese Invasion of Taiwan",
-          "url": "https://www.nytimes.com/2026/08/09/world/asia/taiwan-drone-china-invasion.html",
-          "published": "2026-08-09T15:55:31+00:00",
-          "orig_title": "How a Drone ‘Hellscape’ Might Stop a Chinese Invasion of Taiwan",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
-        },
-        {
-          "outlet": "The Wall Street Journal",
-          "region": "us",
-          "lean": "right",
-          "ownership": "private",
-          "title": "Will Taiwan Fight China? Just Ask Its People",
-          "url": "https://www.wsj.com/world/asia/will-taiwan-fight-china-just-ask-its-people-a6e358eb?mod=rss_worldnews",
-          "published": "2026-08-10T18:41:00+00:00",
-          "orig_title": "Will Taiwan Fight China? Just Ask Its People",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
-        }
-      ]
-    },
-    {
-      "id": 192,
+      "id": 222,
       "topic": "Trading & Markets",
       "label": "Meta · Unveils · Open",
       "title": "Meta Unveils an Open Version of Its Most Powerful A.I. Model",
       "summary": "The release of Muse Glimmer, a model that can be freely downloaded and modified, is likely to intensify a debate over whether A.I. should be restricted.",
-      "score": 2.505,
+      "score": 2.431,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -2843,12 +3255,12 @@
       ]
     },
     {
-      "id": 384,
+      "id": 404,
       "topic": "Trading & Markets",
       "label": "Kamchatka · Braces · Near-Total",
       "title": "Kamchatka to lose internet for several days",
       "summary": "В ночь на 12 августа из-за ремонта подводной волоконно-оптической линии связи (ПВОЛС) жители Камчатского края останутся без интернета, сообщили «Ъ» в Минцифры региона. По данным властей, при «благопри",
-      "score": 2.272,
+      "score": 2.232,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -2888,12 +3300,123 @@
       ]
     },
     {
-      "id": 19,
+      "id": 16,
+      "topic": "Trading & Markets",
+      "label": "Malaysia · Hong · SCMP",
+      "title": "SCMP signs 3 MOUs in Malaysia to deepen Hong Kong-Asean regional cooperation",
+      "summary": "The South China Morning Post has signed three memorandums of understanding (MOUs) in Kuala Lumpur aimed at deepening regional cooperation and serving as a bridge between Hong Kong, Malaysia and the wi",
+      "score": 1.945,
+      "n_outlets": 1,
+      "n_articles": 2,
+      "regions": [
+        "china"
+      ],
+      "last_seen": "2026-08-11T03:26:37+00:00",
+      "leans": [
+        "center"
+      ],
+      "sources": [
+        {
+          "outlet": "South China Morning Post",
+          "region": "china",
+          "lean": "center",
+          "ownership": "private",
+          "title": "SCMP signs 3 MOUs in Malaysia to deepen Hong Kong-Asean regional cooperation",
+          "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3363599/scmp-signs-3-mous-malaysia-deepen-hong-kong-asean-regional-cooperation?utm_source=rss_feed",
+          "published": "2026-08-11T03:26:37+00:00",
+          "orig_title": "SCMP signs 3 MOUs in Malaysia to deepen Hong Kong-Asean regional cooperation",
+          "lang": "en",
+          "translated": false,
+          "access": "open",
+          "more": [
+            {
+              "outlet": "South China Morning Post",
+              "region": "china",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Hong Kong, Malaysia set for ‘deeper ties in semiconductor making, other sectors’",
+              "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3363569/hong-kong-malaysia-set-deeper-ties-semiconductor-making-other-sectors?utm_source=rss_feed",
+              "published": "2026-08-10T14:23:08+00:00",
+              "orig_title": "Hong Kong, Malaysia set for ‘deeper ties in semiconductor making, other sectors’",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "topic": "Trading & Markets",
+      "label": "Judge · Mamdani · deals",
+      "title": "Judge deals blow to Mamdani plan to tax second homes",
+      "summary": "A judge in Staten Island, N.Y., temporarily blocked New York City Zohran Mamdani’s (D) rollout of a new tax on second homes worth more than $5 million, according to multiple reports. The ruling from J",
+      "score": 1.879,
+      "n_outlets": 1,
+      "n_articles": 1,
+      "regions": [
+        "us"
+      ],
+      "last_seen": "2026-08-11T02:33:58+00:00",
+      "leans": [
+        "center"
+      ],
+      "sources": [
+        {
+          "outlet": "The Hill",
+          "region": "us",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Judge deals blow to Mamdani plan to tax second homes",
+          "url": "https://thehill.com/regulation/court-battles/6021611-judge-blocks-nyc-pied-a-terre-tax/",
+          "published": "2026-08-11T02:33:58+00:00",
+          "orig_title": "Judge deals blow to Mamdani plan to tax second homes",
+          "lang": "en",
+          "translated": false,
+          "access": "unknown"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "topic": "Trading & Markets",
+      "label": "Hong · Kong · index",
+      "title": "Hong Kong index compiler proposes adding 20 more stocks to main technology tracker",
+      "summary": "Hang Seng Indexes Company plans to expand the Hang Seng Tech Index (HSTECH) to 50 constituents and introduce “sales growth” as a criterion for selection to strengthen market representation, according ",
+      "score": 1.85,
+      "n_outlets": 1,
+      "n_articles": 1,
+      "regions": [
+        "china"
+      ],
+      "last_seen": "2026-08-11T02:09:55+00:00",
+      "leans": [
+        "center"
+      ],
+      "sources": [
+        {
+          "outlet": "South China Morning Post",
+          "region": "china",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Hong Kong index compiler proposes adding 20 more stocks to main technology tracker",
+          "url": "https://www.scmp.com/business/markets/article/3363591/hong-kong-index-compiler-proposes-adding-20-more-stocks-main-technology-tracker?utm_source=rss_feed",
+          "published": "2026-08-11T02:09:55+00:00",
+          "orig_title": "Hong Kong index compiler proposes adding 20 more stocks to main technology tracker",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 56,
       "topic": "Trading & Markets",
       "label": "Japan · Japanese · shares",
       "title": "Japanese officials battling misinformation on social media",
       "summary": "A ministry official highlighted a benefit of sharing information under individual names, saying that officials \"can post (information) smoothly without complicated procedures.\"",
-      "score": 1.95,
+      "score": 1.811,
       "n_outlets": 1,
       "n_articles": 2,
       "regions": [
@@ -2935,12 +3458,12 @@
       ]
     },
     {
-      "id": 33,
+      "id": 68,
       "topic": "Trading & Markets",
       "label": "Trump · State · claims",
       "title": "Trump claims hundreds of thousands of noncitizens are illegally registered to vote. State election officials are asking for proof. The standoff could come crashing down on the midterm elections.",
       "summary": "States under pressure to prevent noncitizens from voting fear that even small errors will undermine the midterm elections.",
-      "score": 1.903,
+      "score": 1.771,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -2967,68 +3490,21 @@
       ]
     },
     {
-      "id": 38,
-      "topic": "Trading & Markets",
-      "label": "Complete · Covestro · Three",
-      "title": "'Complete transport shutdown looms' – Covestro and others cut production",
-      "summary": "Erste Unternehmen fahren aufgrund des anhaltenden Niedrigwassers die Produktion herunter. Der Chemiekonzern Covestro meldet Einschränkungen. Eine Verlagerung auf die Straße ist kaum möglich. Und der P",
-      "score": 1.869,
-      "n_outlets": 1,
-      "n_articles": 2,
-      "regions": [
-        "europe"
-      ],
-      "last_seen": "2026-08-11T00:31:41+00:00",
-      "leans": [
-        "right"
-      ],
-      "sources": [
-        {
-          "outlet": "Die Welt",
-          "region": "europe",
-          "lean": "right",
-          "ownership": "private",
-          "title": "'Complete transport shutdown looms' – Covestro and others cut production",
-          "url": "https://www.welt.de/wirtschaft/article6a7a682635268e5027024eb0/rhein-niedrigwasser-komplettes-abschneiden-der-transportwege-droht-covestro-co-drosseln-produktion.html",
-          "published": "2026-08-11T00:31:41+00:00",
-          "orig_title": "„Komplettes Abschneiden der Transportwege droht“ – Covestro & Co. drosseln Produktion",
-          "lang": "de",
-          "translated": true,
-          "access": "unknown",
-          "more": [
-            {
-              "outlet": "Die Welt",
-              "region": "europe",
-              "lean": "right",
-              "ownership": "private",
-              "title": "Three more German states suspend truck driving bans",
-              "url": "https://www.welt.de/wirtschaft/article6a7a25680e3689919ec77167/niedrigwasser-drei-weitere-bundeslaender-setzen-lkw-fahrverbote-aus.html",
-              "published": "2026-08-10T19:38:49+00:00",
-              "orig_title": "Drei weitere Bundesländer setzen Lkw-Fahrverbote aus",
-              "lang": "de",
-              "translated": true,
-              "access": "unknown"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 15,
+      "id": 24,
       "topic": "Science",
       "label": "Trump · order · vaccines",
       "title": "Trump signs order to revamp childhood vaccines, against medical groups’ guidance",
       "summary": "US President Donald Trump on Monday signed an executive order calling for revamped childhood vaccine recommendations that promote his long-held but discredited theory that childhood vaccines should be",
-      "score": 9.962,
-      "n_outlets": 9,
-      "n_articles": 13,
+      "score": 8.904,
+      "n_outlets": 8,
+      "n_articles": 12,
       "regions": [
         "china",
         "europe",
         "russia",
         "us"
       ],
-      "last_seen": "2026-08-11T01:45:19+00:00",
+      "last_seen": "2026-08-11T02:54:02+00:00",
       "leans": [
         "center",
         "left"
@@ -3074,41 +3550,13 @@
           "access": "open"
         },
         {
-          "outlet": "The Guardian",
-          "region": "europe",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Trump signs order attempting to override CDC vaccine schedule and break up MMR shots",
-          "url": "https://www.theguardian.com/us-news/2026/aug/10/trump-vaccines-executive-order-measles",
-          "published": "2026-08-10T22:28:20+00:00",
-          "orig_title": "Trump signs order attempting to override CDC vaccine schedule and break up MMR shots",
-          "lang": "en",
-          "translated": false,
-          "access": "open",
-          "more": [
-            {
-              "outlet": "The Guardian",
-              "region": "europe",
-              "lean": "left",
-              "ownership": "private",
-              "title": "Doctors and lawmakers condemn Trump order calling for sweeping changes to childhood vaccines – live",
-              "url": "https://www.theguardian.com/us-news/live/2026/aug/10/ohio-republicans-max-miller-domestic-abuse-allegations-us-politics-live-latest-news",
-              "published": "2026-08-11T01:45:19+00:00",
-              "orig_title": "Doctors and lawmakers condemn Trump order calling for sweeping changes to childhood vaccines – live",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
-            }
-          ]
-        },
-        {
           "outlet": "BBC News",
           "region": "europe",
           "lean": "center",
           "ownership": "public",
           "title": "Trump signs order to limit childhood vaccines and split MMR shots",
           "url": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-10T23:03:52+00:00",
+          "published": "2026-08-11T02:43:01+00:00",
           "orig_title": "Trump signs order to limit childhood vaccines and split MMR shots",
           "lang": "en",
           "translated": false,
@@ -3184,6 +3632,19 @@
               "region": "us",
               "lean": "center",
               "ownership": "private",
+              "title": "American Medical Association criticizes Trump executive order on childhood vaccine schedule",
+              "url": "https://thehill.com/policy/healthcare/6021625-ama-warns-childhood-immunization-risks/",
+              "published": "2026-08-11T02:54:02+00:00",
+              "orig_title": "American Medical Association criticizes Trump executive order on childhood vaccine schedule",
+              "lang": "en",
+              "translated": false,
+              "access": "unknown"
+            },
+            {
+              "outlet": "The Hill",
+              "region": "us",
+              "lean": "center",
+              "ownership": "private",
               "title": "Cassidy blasts vaccine order, saying Trump has no 'expertise to make these changes'",
               "url": "https://thehill.com/homenews/senate/6021261-cassidy-trump-mmr-vaccine-order/",
               "published": "2026-08-10T20:50:00+00:00",
@@ -3210,12 +3671,12 @@
       ]
     },
     {
-      "id": 57,
+      "id": 91,
       "topic": "Science",
       "label": "Jackie · California · Nest",
       "title": "Jackie, the famous California bald eagle, dies after weeks of intensive care",
       "summary": "Jackie and her partner, Shadow, had been watched by millions of people over the years through the Big Bear Eagle Nest Cam.",
-      "score": 3.781,
+      "score": 3.667,
       "n_outlets": 3,
       "n_articles": 3,
       "regions": [
@@ -3270,12 +3731,12 @@
       ]
     },
     {
-      "id": 181,
+      "id": 212,
       "topic": "Science",
       "label": "eclipse · see · solar",
       "title": "Solar eclipse: Where and when you can see it across North West England",
       "summary": "The partial eclipse is expected to be the most extensive since 1999, astronomers say.",
-      "score": 3.518,
+      "score": 3.443,
       "n_outlets": 3,
       "n_articles": 6,
       "regions": [
@@ -3371,12 +3832,12 @@
       ]
     },
     {
-      "id": 266,
+      "id": 293,
       "topic": "Science",
       "label": "Dogs · sad · brain",
       "title": "Dogs can distinguish between fearful and angry or sad human faces, brain scans suggest",
       "summary": "Researchers analysed activity in regions of brain when dogs were shown images of different facial expressions While dogs are known to turn the puppy eyes on their owners , it seems our pets are keepin",
-      "score": 3.393,
+      "score": 3.336,
       "n_outlets": 3,
       "n_articles": 3,
       "regions": [
@@ -3430,12 +3891,59 @@
       ]
     },
     {
-      "id": 8,
+      "id": 42,
+      "topic": "Science",
+      "label": "Doctors · Trump · Democratic",
+      "title": "Doctors and lawmakers condemn Trump order calling for sweeping changes to childhood vaccines – as it happened",
+      "summary": "This live blog is now closed. Sign up for the Breaking News US email Wisconsin is not the only state with high stakes primary races on 11 August. We’ll also be bringing you the latest on a number of p",
+      "score": 2.839,
+      "n_outlets": 2,
+      "n_articles": 2,
+      "regions": [
+        "europe",
+        "us"
+      ],
+      "last_seen": "2026-08-11T02:00:22+00:00",
+      "leans": [
+        "left",
+        "right"
+      ],
+      "sources": [
+        {
+          "outlet": "The Guardian",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Doctors and lawmakers condemn Trump order calling for sweeping changes to childhood vaccines – as it happened",
+          "url": "https://www.theguardian.com/us-news/live/2026/aug/10/ohio-republicans-max-miller-domestic-abuse-allegations-us-politics-live-latest-news",
+          "published": "2026-08-11T02:00:22+00:00",
+          "orig_title": "Doctors and lawmakers condemn Trump order calling for sweeping changes to childhood vaccines – as it happened",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "The Wall Street Journal",
+          "region": "us",
+          "lean": "right",
+          "ownership": "private",
+          "title": "Democratic Socialist Francesca Hong’s Wisconsin primary lead has alarmed establishment Democrats, and party insiders worry Hong would lose the general election for governor in November",
+          "url": "https://www.wsj.com/politics/elections/democratic-socialist-francesca-hongs-wisconsin-primary-lead-alarms-establishment-democrats-e3b9a1ce?mod=rss_socialpoliticsfeed",
+          "published": "2026-08-11T01:00:00+00:00",
+          "orig_title": "Democratic Socialist Francesca Hong’s Wisconsin primary lead has alarmed establishment Democrats, and party insiders worry Hong would lose the general election for governor in November",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall"
+        }
+      ]
+    },
+    {
+      "id": 46,
       "topic": "Science",
       "label": "Perseid · meteor · shower",
       "title": "Perseid meteor shower reaches peak: When and where to catch a glimpse",
       "summary": "On Wednesday night the Perseids will peak offering the best chance of seeing a 'shooting star'.",
-      "score": 2.981,
+      "score": 2.838,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -3476,12 +3984,12 @@
       ]
     },
     {
-      "id": 128,
+      "id": 160,
       "topic": "Science",
       "label": "Ancient · Sicily · Roman",
       "title": "Roman shipwreck with 500 amphorae found off coast of Sicily",
       "summary": "Discovery of 2,100-year-old vessel hailed as ‘one of the most important underwater archaeological discoveries of recent years’ A 2,100-year-old Roman shipwreck carrying about 500 amphorae has been dis",
-      "score": 2.612,
+      "score": 2.522,
       "n_outlets": 2,
       "n_articles": 3,
       "regions": [
@@ -3537,12 +4045,44 @@
       ]
     },
     {
-      "id": 42,
+      "id": 4,
+      "topic": "Science",
+      "label": "Tougher · China · than",
+      "title": "Tougher than armour, hard as diamond: China’s unbreakable crystal breakthrough",
+      "summary": "Chinese scientists have created a diamond with no Achilles’ heel – one that cannot be broken, even by a hard knock with a hammer – according to a paper published in the peer-reviewed journal Nature Sy",
+      "score": 1.99,
+      "n_outlets": 1,
+      "n_articles": 1,
+      "regions": [
+        "china"
+      ],
+      "last_seen": "2026-08-11T04:00:09+00:00",
+      "leans": [
+        "center"
+      ],
+      "sources": [
+        {
+          "outlet": "South China Morning Post",
+          "region": "china",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Tougher than armour, hard as diamond: China’s unbreakable crystal breakthrough",
+          "url": "https://www.scmp.com/news/china/science/article/3362770/tougher-armour-hard-diamond-chinas-unbreakable-crystal-breakthrough?utm_source=rss_feed",
+          "published": "2026-08-11T04:00:09+00:00",
+          "orig_title": "Tougher than armour, hard as diamond: China’s unbreakable crystal breakthrough",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 76,
       "topic": "Science",
       "label": "Disabled · We're · heatwave",
       "title": "Disabled in a heatwave: 'We're talking about survival'",
       "summary": "Disabled campaigners say the official advice for staying safe in a heatwave can put them in more danger.",
-      "score": 1.853,
+      "score": 1.728,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -3569,12 +4109,12 @@
       ]
     },
     {
-      "id": 55,
+      "id": 89,
       "topic": "Science",
       "label": "What · Michael · Sheen",
       "title": "What he told me made my blood run cold - Michael Sheen investigates Wales' toxic legacy",
       "summary": "Michael Sheen investigates claims cancer-causing chemicals were dumped across Wales.",
-      "score": 1.792,
+      "score": 1.676,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -3601,76 +4141,12 @@
       ]
     },
     {
-      "id": 141,
-      "topic": "Science",
-      "label": "Opinion · Environmental · Law",
-      "title": "Opinion | The Environmental Law Institute’s Defense",
-      "summary": "The organization behind the Climate Judiciary Project refutes claims of ties to China and partisan judicial influence.",
-      "score": 1.596,
-      "n_outlets": 1,
-      "n_articles": 1,
-      "regions": [
-        "us"
-      ],
-      "last_seen": "2026-08-10T20:01:00+00:00",
-      "leans": [
-        "right"
-      ],
-      "sources": [
-        {
-          "outlet": "The Wall Street Journal",
-          "region": "us",
-          "lean": "right",
-          "ownership": "private",
-          "title": "Opinion | The Environmental Law Institute’s Defense",
-          "url": "https://www.wsj.com/opinion/the-environmental-law-institutes-defense-3508a24a?mod=rss_worldnews",
-          "published": "2026-08-10T20:01:00+00:00",
-          "orig_title": "Opinion | The Environmental Law Institute’s Defense",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
-        }
-      ]
-    },
-    {
-      "id": 167,
-      "topic": "Science",
-      "label": "Blaze · tackled · suspected",
-      "title": "Blaze tackled at suspected illegal waste dump",
-      "summary": "A fire broke out at a suspected illegal waste site near Carrington Spur in Trafford, Greater Manchester.",
-      "score": 1.544,
-      "n_outlets": 1,
-      "n_articles": 1,
-      "regions": [
-        "europe"
-      ],
-      "last_seen": "2026-08-10T18:54:26+00:00",
-      "leans": [
-        "center"
-      ],
-      "sources": [
-        {
-          "outlet": "BBC News",
-          "region": "europe",
-          "lean": "center",
-          "ownership": "public",
-          "title": "Blaze tackled at suspected illegal waste dump",
-          "url": "https://www.bbc.co.uk/news/articles/cd69l026j7po?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-10T18:54:26+00:00",
-          "orig_title": "Blaze tackled at suspected illegal waste dump",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        }
-      ]
-    },
-    {
-      "id": 178,
+      "id": 209,
       "topic": "Technology",
       "label": "Kinahan · Daniel · Irish",
       "title": "Alleged Irish Crime Boss Extradited From U.A.E., Ending Yearslong Hunt",
       "summary": "Daniel Kinahan, one of the world’s most wanted criminals, lived in Dubai for a decade before his arrest earlier this year.",
-      "score": 6.522,
+      "score": 6.445,
       "n_outlets": 6,
       "n_articles": 7,
       "regions": [
@@ -3782,12 +4258,12 @@
       ]
     },
     {
-      "id": 73,
+      "id": 107,
       "topic": "Technology",
       "label": "Opinion · Next · Lab",
       "title": "AI access to data on nuclear weapons could turn against humanity — lawmaker",
       "summary": "Andrey Svintsov recalled that AI agents have repeatedly escaped human control. In particular, companies Anthropic and OpenAI reported cases of their AI agents escaping beyond the space designated for ",
-      "score": 3.72,
+      "score": 3.615,
       "n_outlets": 3,
       "n_articles": 4,
       "regions": [
@@ -3858,12 +4334,12 @@
       ]
     },
     {
-      "id": 299,
+      "id": 324,
       "topic": "Technology",
       "label": "Zuckerberg · Five · Things",
       "title": "Mark Zuckerberg Lays Out New AI Vision in 6,500-Word Essay",
       "summary": "The Meta CEO has a new game plan for winning over hearts and minds to his company’s artificial-intelligence efforts.",
-      "score": 3.362,
+      "score": 3.309,
       "n_outlets": 3,
       "n_articles": 4,
       "regions": [
@@ -3934,19 +4410,19 @@
       ]
     },
     {
-      "id": 0,
+      "id": 35,
       "topic": "Technology",
       "label": "IPO · Anthropic · Tries",
       "title": "Unitree IPO frenzy leaves Chinese retail investors with 1-in-5,500 odds",
       "summary": "While Unitree Robotics’ early backers are poised for a windfall in one of China’s most closely watched technology initial public offerings (IPOs), retail investors are scrambling for a tiny chance of ",
-      "score": 2.992,
+      "score": 2.874,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
         "china",
         "us"
       ],
-      "last_seen": "2026-08-11T02:07:00+00:00",
+      "last_seen": "2026-08-11T02:30:00+00:00",
       "leans": [
         "center",
         "right"
@@ -3971,8 +4447,8 @@
           "lean": "right",
           "ownership": "private",
           "title": "Anthropic Tries to Shore Up Investor Confidence Ahead of Blockbuster IPO",
-          "url": "https://www.wsj.com/tech/ai/anthropic-tries-to-shore-up-investor-confidence-ahead-of-blockbuster-ipo-3aeecca0?mod=rss_Technology",
-          "published": "2026-08-11T02:07:00+00:00",
+          "url": "https://www.wsj.com/tech/ai/anthropic-tries-to-shore-up-investor-confidence-ahead-of-blockbuster-ipo-0ff736ad?mod=rss_Technology",
+          "published": "2026-08-11T02:30:00+00:00",
           "orig_title": "Anthropic Tries to Shore Up Investor Confidence Ahead of Blockbuster IPO",
           "lang": "en",
           "translated": false,
@@ -3981,12 +4457,12 @@
       ]
     },
     {
-      "id": 67,
+      "id": 102,
       "topic": "Technology",
       "label": "Trump · China · wades",
       "title": "Trump wades into data center debate amid political battle",
       "summary": "{beacon} Technology Technology &#8202; The Big Story Trump backs data centers as Texas sets new standards President Trump is touting the benefits of AI data centers after Texas moved to more strictly ",
-      "score": 2.741,
+      "score": 2.633,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -4027,12 +4503,12 @@
       ]
     },
     {
-      "id": 229,
+      "id": 256,
       "topic": "Technology",
       "label": "China · global · humanoid",
       "title": "AgiBot overtakes Unitree as top global humanoid robot vendor in first half amid IPO push",
       "summary": "China’s AgiBot has surpassed its domestic rival Unitree Robotics to become the world’s largest humanoid robot vendor in the first half of 2026, according to new research, as both industry heavyweights",
-      "score": 2.433,
+      "score": 2.369,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -4074,132 +4550,12 @@
       ]
     },
     {
-      "id": 236,
-      "topic": "Technology",
-      "label": "rubles · Soviet · Musician",
-      "title": "Soviet anthem, AI image, and 16,900 rubles from abroad",
-      "summary": "10 августа Верховный суд рассматривает иск о снятии с выборов в Госдуму «Яблока» — единственной партии, которая зарегистрирована в ЦИКе и выступает за немедленное прекращение огня в Украине и заключен",
-      "score": 2.425,
-      "n_outlets": 2,
-      "n_articles": 4,
-      "regions": [
-        "russia"
-      ],
-      "last_seen": "2026-08-10T15:57:14+00:00",
-      "leans": [
-        "center",
-        "left"
-      ],
-      "sources": [
-        {
-          "outlet": "Novaya Gazeta Europe",
-          "region": "russia",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Soviet anthem, AI image, and 16,900 rubles from abroad",
-          "url": "https://novayagazeta.eu/articles/2026/08/10/pust-vsegda-budet-solntse-ii-kartinka-i-16900-rublei-iz-za-granitsy",
-          "published": "2026-08-10T15:57:14+00:00",
-          "orig_title": "«Пусть всегда будет солнце», ИИ-картинка и 16900 рублей из-за границы",
-          "lang": "ru",
-          "translated": true,
-          "access": "unknown"
-        },
-        {
-          "outlet": "Kommersant",
-          "region": "russia",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Vedomosti: 10 billion rubles allocated for railway agricultural export support",
-          "url": "https://www.kommersant.ru/doc/8876148",
-          "published": "2026-08-10T08:08:43+00:00",
-          "orig_title": "«Ведомости»: на поддержку ж/д экспорта сельхозпродукции выделят 10 млрд рублей",
-          "lang": "ru",
-          "translated": true,
-          "access": "unknown",
-          "more": [
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Analysts project Russian AI market to reach 830 billion rubles by 2030",
-              "url": "https://www.kommersant.ru/doc/8875905",
-              "published": "2026-08-10T05:29:02+00:00",
-              "orig_title": "Аналитики спрогнозировали рост рынка ИИ в РФ до 830 млрд рублей к 2030 году",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            },
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Musician MiyaGi seeks 900,000 rubles from Yandex Music",
-              "url": "https://www.kommersant.ru/doc/8876550",
-              "published": "2026-08-10T14:27:41+00:00",
-              "orig_title": "Музыкант MiyaGi намерен взыскать 900 тыс. руб. с «Яндекс Музыки»",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 267,
-      "topic": "Technology",
-      "label": "Max · Fiona · heart",
-      "title": "Fiona’s 14-year-old son Max was bright and gave enormous bear hugs. She lost him in an instant when his heart suddenly stopped",
-      "summary": "The Sydney mother wants Canberra politicians to hear people who have lost children to sudden cardiac death, saying ‘we need answers’ Get our breaking news email , free app or daily news podcast Fiona ",
-      "score": 2.393,
-      "n_outlets": 2,
-      "n_articles": 2,
-      "regions": [
-        "australia",
-        "europe"
-      ],
-      "last_seen": "2026-08-10T15:00:47+00:00",
-      "leans": [
-        "left"
-      ],
-      "sources": [
-        {
-          "outlet": "The Guardian",
-          "region": "europe",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Max’s heart stopped while playing basketball. It was a case of 'sudden cardiac arrest' – video",
-          "url": "https://www.theguardian.com/australia-news/video/2026/aug/10/maxs-heart-stopped-while-playing-basketball-it-was-a-case-of-sudden-cardiac-arrest-video",
-          "published": "2026-08-10T07:48:51+00:00",
-          "orig_title": "Max’s heart stopped while playing basketball. It was a case of 'sudden cardiac arrest' – video",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "The Guardian Australia",
-          "region": "australia",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Fiona’s 14-year-old son Max was bright and gave enormous bear hugs. She lost him in an instant when his heart suddenly stopped",
-          "url": "https://www.theguardian.com/australia-news/2026/aug/11/sudden-cardiac-death-children-australia-fiona-connolly-son-max",
-          "published": "2026-08-10T15:00:47+00:00",
-          "orig_title": "Fiona’s 14-year-old son Max was bright and gave enormous bear hugs. She lost him in an instant when his heart suddenly stopped",
-          "lang": "en",
-          "translated": false,
-          "access": "unknown"
-        }
-      ]
-    },
-    {
-      "id": 293,
+      "id": 318,
       "topic": "Technology",
       "label": "United · Arab · Emirates",
       "title": "United Arab Emirates: cyber attacks on strategic sectors thwarted",
       "summary": "Ces attaques ont fait l’objet d’une réponse quot;proactive et immédiatequot;, permettant de contenir les tentatives d’intrusion avant que leurs auteurs ne puissent atteindre leur...",
-      "score": 2.368,
+      "score": 2.314,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -4240,12 +4596,12 @@
       ]
     },
     {
-      "id": 389,
+      "id": 406,
       "topic": "Technology",
       "label": "Thai · Former · local",
       "title": "Thai ex-lawmaker shoots local official dead over loan",
       "summary": "A former lawmaker confessed to shooting a senior official at a government office over a money dispute, police have said. The incident came just days after Thailand's deadliest shooting in nearly four ",
-      "score": 2.267,
+      "score": 2.228,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -4287,50 +4643,332 @@
       ]
     },
     {
-      "id": 249,
+      "id": 441,
+      "topic": "Technology",
+      "label": "A.I.-Driven · Chip · Crunch",
+      "title": "A.I.-Driven Chip Crunch Leads to New Rush of Lobbying in Washington",
+      "summary": "As data centers gobble up memory chips, other industries that need the components, including electronics companies like Apple and medical device makers, are asking for government help.",
+      "score": 2.204,
+      "n_outlets": 2,
+      "n_articles": 2,
+      "regions": [
+        "us"
+      ],
+      "last_seen": "2026-08-10T09:02:19+00:00",
+      "leans": [
+        "left",
+        "right"
+      ],
+      "sources": [
+        {
+          "outlet": "The New York Times",
+          "region": "us",
+          "lean": "left",
+          "ownership": "private",
+          "title": "A.I.-Driven Chip Crunch Leads to New Rush of Lobbying in Washington",
+          "url": "https://www.nytimes.com/2026/08/10/technology/memory-chip-shortage-ai.html",
+          "published": "2026-08-10T09:02:19+00:00",
+          "orig_title": "A.I.-Driven Chip Crunch Leads to New Rush of Lobbying in Washington",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall"
+        },
+        {
+          "outlet": "The Wall Street Journal",
+          "region": "us",
+          "lean": "right",
+          "ownership": "private",
+          "title": "Opinion | China Presses a Weakness in America’s Tech Policy",
+          "url": "https://www.wsj.com/opinion/china-presses-a-weakness-in-americas-tech-policy-2391ed0e?mod=rss_worldnews",
+          "published": "2026-08-09T21:41:00+00:00",
+          "orig_title": "Opinion | China Presses a Weakness in America’s Tech Policy",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "topic": "Technology",
+      "label": "Sarfaraz · Khan's · Test",
+      "title": "Sarfaraz Khan's return: A 17kg weight loss, relentless fight and a Test recall",
+      "summary": "On Friday, Sarfaraz Khan posted a photo on Instagram from the 2019 Telugu film ‘Jersey’ with a caption that read: “I may not fit in, but I’ll fight with everything I’ve got.” Just 48 hours later, the ",
+      "score": 1.925,
+      "n_outlets": 1,
+      "n_articles": 3,
+      "regions": [
+        "india"
+      ],
+      "last_seen": "2026-08-11T03:11:05+00:00",
+      "leans": [
+        "center"
+      ],
+      "sources": [
+        {
+          "outlet": "Times of India",
+          "region": "india",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Sarfaraz Khan's return: A 17kg weight loss, relentless fight and a Test recall",
+          "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/sarfaraz-khans-return-a-17kg-weight-loss-relentless-fight-and-a-test-recall/articleshow/133141043.cms",
+          "published": "2026-08-11T03:11:05+00:00",
+          "orig_title": "Sarfaraz Khan's return: A 17kg weight loss, relentless fight and a Test recall",
+          "lang": "en",
+          "translated": false,
+          "access": "open",
+          "more": [
+            {
+              "outlet": "Times of India",
+              "region": "india",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Trial by spin with a hint of reverse: Inside India's final net session in Colombo",
+              "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/trial-by-spin-with-a-hint-of-reverse-inside-indias-final-net-session-in-colombo/articleshow/133105855.cms",
+              "published": "2026-08-10T13:18:45+00:00",
+              "orig_title": "Trial by spin with a hint of reverse: Inside India's final net session in Colombo",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            },
+            {
+              "outlet": "Times of India",
+              "region": "india",
+              "lean": "center",
+              "ownership": "private",
+              "title": "19-yo Dhamne gets maiden call-up as India name Davis Cup squad for South Korea clash",
+              "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/19-year-old-manas-dhamne-gets-maiden-call-up-as-india-name-davis-cup-squad-for-south-korea-clash/articleshow/133108863.cms",
+              "published": "2026-08-10T13:23:27+00:00",
+              "orig_title": "19-yo Dhamne gets maiden call-up as India name Davis Cup squad for South Korea clash",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17,
       "topic": "Sports",
-      "label": "UEFA · FIFA · World",
-      "title": "UEFA, CONCACAF and AFC call for independent investigation into Infantino's actions",
-      "summary": "Союз европейских футбольных ассоциаций (UEFA), Конфедерация футбола Северной и Центральной Америки и стран Карибского бассейна (CONCACAF) и Азиатская футбольная конфедерация (AFC) опубликовали совмест",
-      "score": 4.41,
-      "n_outlets": 4,
-      "n_articles": 5,
+      "label": "Iran · Trump · compensation",
+      "title": "Trump demands Iran pay compensation for decades of US soldier deaths",
+      "summary": "US president’s statement is latest sign that negotations to end war and reopen strait of Hormuz have stalled Donald Trump has said he will demand that Iran pay compensation for the deaths of thousands",
+      "score": 8.942,
+      "n_outlets": 8,
+      "n_articles": 11,
+      "regions": [
+        "china",
+        "europe",
+        "india",
+        "japan",
+        "russia",
+        "us"
+      ],
+      "last_seen": "2026-08-11T03:23:51+00:00",
+      "leans": [
+        "center",
+        "left",
+        "right",
+        "state"
+      ],
+      "sources": [
+        {
+          "outlet": "The Guardian",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Trump demands Iran pay compensation for decades of US soldier deaths",
+          "url": "https://www.theguardian.com/world/2026/aug/10/trump-demands-iran-pay-compensation-for-decades-of-us-soldier-deaths",
+          "published": "2026-08-10T20:45:52+00:00",
+          "orig_title": "Trump demands Iran pay compensation for decades of US soldier deaths",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "The Hindu",
+          "region": "india",
+          "lean": "left",
+          "ownership": "private",
+          "title": "West Asia war LIVE: Trump says will demand conflict compensation from Iran",
+          "url": "https://www.thehindu.com/news/international/iran-us-war-live-updates-august-11-2026-hormuz-strait-reopen-us-iran-talks/article71330825.ece",
+          "published": "2026-08-11T03:23:51+00:00",
+          "orig_title": "West Asia war LIVE: Trump says will demand conflict compensation from Iran",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "South China Morning Post",
+          "region": "china",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Trump demands Iran pay compensation as hopes fade for Hormuz agreement",
+          "url": "https://www.scmp.com/news/us/diplomacy/article/3363579/trump-demands-iran-pay-compensation-hopes-fade-hormuz-agreement?utm_source=rss_feed",
+          "published": "2026-08-10T19:25:31+00:00",
+          "orig_title": "Trump demands Iran pay compensation as hopes fade for Hormuz agreement",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "The Hill",
+          "region": "us",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Trump struggles to gain leverage with Iran",
+          "url": "https://thehill.com/newsletters/defense-national-security/6021434-trump-struggles-to-gain-leverage-with-iran/",
+          "published": "2026-08-10T22:22:47+00:00",
+          "orig_title": "Trump struggles to gain leverage with Iran",
+          "lang": "en",
+          "translated": false,
+          "access": "unknown"
+        },
+        {
+          "outlet": "The Japan Times",
+          "region": "japan",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Trump makes sweeping new demands on Iran as deal hopes dim",
+          "url": "https://www.japantimes.co.jp/news/2026/08/11/world/politics/trump-demands-iran-deal-hopes/",
+          "published": "2026-08-11T01:18:00+00:00",
+          "orig_title": "Trump makes sweeping new demands on Iran as deal hopes dim",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall"
+        },
+        {
+          "outlet": "Fox News",
+          "region": "us",
+          "lean": "right",
+          "ownership": "private",
+          "title": "Trump bets economic pressure can squeeze Iran as regime’s own failures deepen the pain",
+          "url": "https://www.foxnews.com/world/trump-bets-economic-pressure-can-squeeze-iran-regimes-own-failures-deepen-pain",
+          "published": "2026-08-10T18:45:20+00:00",
+          "orig_title": "Trump bets economic pressure can squeeze Iran as regime’s own failures deepen the pain",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "The Wall Street Journal",
+          "region": "us",
+          "lean": "right",
+          "ownership": "private",
+          "title": "Trump Shifts to Economic Pressure, Again, As Iran Won’t Meet His Demands",
+          "url": "https://www.wsj.com/world/middle-east/trump-shifts-to-economic-pressure-again-as-iran-wont-meet-his-demands-4445c840?mod=rss_worldnews",
+          "published": "2026-08-10T22:20:00+00:00",
+          "orig_title": "Trump Shifts to Economic Pressure, Again, As Iran Won’t Meet His Demands",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall",
+          "more": [
+            {
+              "outlet": "The Wall Street Journal",
+              "region": "us",
+              "lean": "right",
+              "ownership": "private",
+              "title": "Opinion | Trump’s Blockade Keeps the Economic Pressure on Iran",
+              "url": "https://www.wsj.com/opinion/donald-trump-iran-regime-deal-blockade-81d54ad2?mod=rss_worldnews",
+              "published": "2026-08-10T22:01:00+00:00",
+              "orig_title": "Opinion | Trump’s Blockade Keeps the Economic Pressure on Iran",
+              "lang": "en",
+              "translated": false,
+              "access": "paywall"
+            },
+            {
+              "outlet": "The Wall Street Journal",
+              "region": "us",
+              "lean": "right",
+              "ownership": "private",
+              "title": "The U.S. and Israeli militaries have pounded Iran hard for more than five months, but Iran is using the Strait of Hormuz as its final point of leverage. Read more in today’s WSJ Politics Newsletter:",
+              "url": "https://www.wsj.com/politics/elections/why-is-iran-acting-like-it-is-holding-all-the-cards-in-hormuz-talks-904df972?mod=rss_socialpoliticsfeed",
+              "published": "2026-08-10T11:10:00+00:00",
+              "orig_title": "The U.S. and Israeli militaries have pounded Iran hard for more than five months, but Iran is using the Strait of Hormuz as its final point of leverage. Read more in today’s WSJ Politics Newsletter:",
+              "lang": "en",
+              "translated": false,
+              "access": "paywall"
+            }
+          ]
+        },
+        {
+          "outlet": "TASS",
+          "region": "russia",
+          "lean": "state",
+          "ownership": "state",
+          "title": "Trump vows to get compensation from Iran for deaths of US troops",
+          "url": "https://tass.com/world/2171105",
+          "published": "2026-08-10T18:55:13+00:00",
+          "orig_title": "Trump vows to get compensation from Iran for deaths of US troops",
+          "lang": "en",
+          "translated": false,
+          "access": "open",
+          "more": [
+            {
+              "outlet": "TASS",
+              "region": "russia",
+              "lean": "state",
+              "ownership": "state",
+              "title": "US retains potential for escalation in conflict with Iran — Trump",
+              "url": "https://tass.com/world/2171137",
+              "published": "2026-08-10T20:30:35+00:00",
+              "orig_title": "US retains potential for escalation in conflict with Iran — Trump",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "topic": "Sports",
+      "label": "Infantino · FIFA · UEFA",
+      "title": "‘Breach of trust’: UEFA, CONCACAF, AFC launch scathing attack on Infantino",
+      "summary": "UEFA, CONCACAF, and AFC have attacked FIFA president Gianni Infantino. They accuse him of a fundamental breach of trust over World Cup sale plans. The confederations believe this is a failure of judgm",
+      "score": 3.982,
+      "n_outlets": 3,
+      "n_articles": 6,
       "regions": [
         "europe",
         "india",
         "russia"
       ],
-      "last_seen": "2026-08-10T15:31:02+00:00",
+      "last_seen": "2026-08-11T03:53:57+00:00",
       "leans": [
         "center",
         "left"
       ],
       "sources": [
         {
-          "outlet": "Der Spiegel",
-          "region": "europe",
-          "lean": "left",
-          "ownership": "private",
-          "title": "World Cup boycott: UEFA reportedly in talks about rival tournaments to FIFA competitions",
-          "url": "https://www.spiegel.de/sport/fussball/wm-boykott-uefa-fuehrt-offenbar-gespraeche-ueber-konkurrenzturniere-zum-fifa-wettbewerben-a-758b5800-8442-4f05-9fd2-3a668fcca08b#ref=rss",
-          "published": "2026-08-10T12:06:00+00:00",
-          "orig_title": "WM-Boykott: Uefa führt offenbar Gespräche über Konkurrenzturniere zum Fifa-Wettbewerben",
-          "lang": "de",
-          "translated": true,
-          "access": "unknown"
-        },
-        {
           "outlet": "El Pais",
           "region": "europe",
           "lean": "left",
           "ownership": "private",
-          "title": "Vox will vote for Sumar's proposal to exclude Morocco from 2030 World Cup hosting with Spain and Portugal",
-          "url": "https://elpais.com/espana/2026-08-10/vox-votara-a-favor-de-la-propuesta-de-sumar-de-excluir-a-marruecos-de-la-organizacion-del-mundial-2030-junto-a-espana-y-portugal.html",
-          "published": "2026-08-10T12:30:42+00:00",
-          "orig_title": "Vox votará a favor de la propuesta de Sumar de excluir a Marruecos de la organización del Mundial 2030 junto a España y Portugal",
+          "title": "Football world increases pressure on Infantino",
+          "url": "https://elpais.com/deportes/futbol/2026-08-10/la-asociacion-transparencia-y-democracia-en-el-deporte-de-miguel-galan-denuncia-a-infantino-ante-la-comision-de-etica-de-la-fifa.html",
+          "published": "2026-08-10T16:50:03+00:00",
+          "orig_title": "El mundo del fútbol estrecha la presión sobre Infantino",
           "lang": "es",
           "translated": true,
-          "access": "unknown"
+          "access": "unknown",
+          "more": [
+            {
+              "outlet": "El Pais",
+              "region": "europe",
+              "lean": "left",
+              "ownership": "private",
+              "title": "Vox will vote for Sumar's proposal to exclude Morocco from 2030 World Cup hosting with Spain and Portugal",
+              "url": "https://elpais.com/espana/2026-08-10/vox-votara-a-favor-de-la-propuesta-de-sumar-de-excluir-a-marruecos-de-la-organizacion-del-mundial-2030-junto-a-espana-y-portugal.html",
+              "published": "2026-08-10T12:30:42+00:00",
+              "orig_title": "Vox votará a favor de la propuesta de Sumar de excluir a Marruecos de la organización del Mundial 2030 junto a España y Portugal",
+              "lang": "es",
+              "translated": true,
+              "access": "unknown"
+            }
+          ]
         },
         {
           "outlet": "Kommersant",
@@ -4371,17 +5009,32 @@
           "orig_title": "‘Breach of trust’: UEFA, CONCACAF, AFC launch scathing attack on Infantino",
           "lang": "en",
           "translated": false,
-          "access": "open"
+          "access": "open",
+          "more": [
+            {
+              "outlet": "Times of India",
+              "region": "india",
+              "lean": "center",
+              "ownership": "private",
+              "title": "‘A terrible mistake’: Donald Trump warns FIFA against replacing Infantino",
+              "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/a-terrible-mistake-trump-warns-fifa-against-replacing-infantino-amid-growing-revolt/articleshow/133141490.cms",
+              "published": "2026-08-11T03:53:57+00:00",
+              "orig_title": "‘A terrible mistake’: Donald Trump warns FIFA against replacing Infantino",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            }
+          ]
         }
       ]
     },
     {
-      "id": 498,
+      "id": 504,
       "topic": "Sports",
       "label": "Australia · U.S.-Iran · conflict",
       "title": "Australia studies building first refinery in six decades to cushion impact of U.S.-Iran conflict",
       "summary": "El conflicto en Oriente Próximo expone la dependencia de un país que ha dejado en manos de las importaciones casi el 80% de su suministro energético",
-      "score": 3.154,
+      "score": 3.131,
       "n_outlets": 3,
       "n_articles": 3,
       "regions": [
@@ -4436,14 +5089,14 @@
       ]
     },
     {
-      "id": 130,
+      "id": 162,
       "topic": "Sports",
       "label": "European · Russian · Borodin",
       "title": "Ilya Borodin wins European Championship gold in 400m individual medley",
       "summary": "Российский пловец Илья Бородин стал победителем чемпионата Европы на дистанции 400 м комплексным плаванием. Он показал время 4 минуты 8,17 секунды и установил рекорд турнира.",
-      "score": 2.61,
+      "score": 2.521,
       "n_outlets": 2,
-      "n_articles": 5,
+      "n_articles": 4,
       "regions": [
         "russia"
       ],
@@ -4484,19 +5137,6 @@
               "region": "russia",
               "lean": "center",
               "ownership": "private",
-              "title": "Russians win silver in European five-sport relay championship",
-              "url": "https://www.kommersant.ru/doc/8875853",
-              "published": "2026-08-09T15:16:17+00:00",
-              "orig_title": "Россияне взяли серебро на чемпионате Европы по пятиборью в смешанной эстафете",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            },
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
               "title": "Egor Korneev sets European Championship record in 50m butterfly",
               "url": "https://www.kommersant.ru/doc/8876657",
               "published": "2026-08-10T16:55:08+00:00",
@@ -4523,14 +5163,14 @@
       ]
     },
     {
-      "id": 422,
+      "id": 436,
       "topic": "Sports",
-      "label": "NBA · Don · Nelson",
-      "title": "Five-time NBA champion and Hall of Famer Don Nelson dies at 86",
-      "summary": "Пятикратный чемпион Национальной баскетбольной ассоциации (NBA) и бывший главный тренер сборной США Дон Нельсон умер на 87-м году жизни. Об этом сообщил в X спортивный журналист Марк Стейн со ссылкой ",
-      "score": 2.243,
+      "label": "Don · Nelson · NBA",
+      "title": "Don Nelson Dies – Second-Winningest Coach in NBA History",
+      "summary": "El influyente técnico estadounidense, cinco veces campeón como jugador con los Celtics, falleció el domingo a los 86 años",
+      "score": 2.208,
       "n_outlets": 2,
-      "n_articles": 3,
+      "n_articles": 2,
       "regions": [
         "europe",
         "russia"
@@ -4565,32 +5205,145 @@
           "orig_title": "Пятикратный чемпион NBA и член Зала славы Дон Нельсон умер в возрасте 86 лет",
           "lang": "ru",
           "translated": true,
-          "access": "unknown",
-          "more": [
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Two former NBA players plan to compete in women's league",
-              "url": "https://www.kommersant.ru/doc/8875892",
-              "published": "2026-08-09T17:27:20+00:00",
-              "orig_title": "Два бывших игрока НБА намерены выступать в женской лиге",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            }
-          ]
+          "access": "unknown"
         }
       ]
     },
     {
-      "id": 12,
+      "id": 23,
+      "topic": "Sports",
+      "label": "Non-negotiable · Dilip · Virat",
+      "title": "‘Non-negotiable’: T Dilip reveals what still sets Virat Kohli apart in the field",
+      "summary": "Former fielding coach T Dilip praised Virat Kohli's consistent on-field intensity. Kohli's dedication during practice mirrored his match-day performance, inspiring others. Dilip's most cherished momen",
+      "score": 1.911,
+      "n_outlets": 1,
+      "n_articles": 1,
+      "regions": [
+        "india"
+      ],
+      "last_seen": "2026-08-11T03:00:09+00:00",
+      "leans": [
+        "center"
+      ],
+      "sources": [
+        {
+          "outlet": "Times of India",
+          "region": "india",
+          "lean": "center",
+          "ownership": "private",
+          "title": "‘Non-negotiable’: T Dilip reveals what still sets Virat Kohli apart in the field",
+          "url": "https://timesofindia.indiatimes.com/sports/cricket/news/intensity-is-non-negotiable-t-dilip-reveals-what-still-sets-virat-kohli-apart-in-the-field/articleshow/133140940.cms",
+          "published": "2026-08-11T03:00:09+00:00",
+          "orig_title": "‘Non-negotiable’: T Dilip reveals what still sets Virat Kohli apart in the field",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "topic": "Sports",
+      "label": "Meri · Harbhajan · Singh",
+      "title": "'Meri galti nahi thi': Harbhajan Singh reveals why he was expelled from NCA",
+      "summary": "Harbhajan Singh went on to become one of India's most successful spinners. He represented India from 1998 to 2016 and finished his international career with more than 700 wickets across formats. He pl",
+      "score": 1.883,
+      "n_outlets": 1,
+      "n_articles": 1,
+      "regions": [
+        "india"
+      ],
+      "last_seen": "2026-08-11T02:37:18+00:00",
+      "leans": [
+        "center"
+      ],
+      "sources": [
+        {
+          "outlet": "Times of India",
+          "region": "india",
+          "lean": "center",
+          "ownership": "private",
+          "title": "'Meri galti nahi thi': Harbhajan Singh reveals why he was expelled from NCA",
+          "url": "https://timesofindia.indiatimes.com/sports/cricket/news/meri-galti-nahi-thi-harbhajan-singh-reveals-why-he-was-expelled-from-nca/articleshow/133140539.cms",
+          "published": "2026-08-11T02:37:18+00:00",
+          "orig_title": "'Meri galti nahi thi': Harbhajan Singh reveals why he was expelled from NCA",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "topic": "Sports",
+      "label": "Why · South · Korean",
+      "title": "Why are South Korean football fans choosing European clubs over the K League?",
+      "summary": "Yoon Jin-woo had never gone to Seoul World Cup Stadium to watch FC Seoul, the city’s team and the club that calls South Korean football’s symbolic home its own. But on Sunday night, he made the pilgri",
+      "score": 1.874,
+      "n_outlets": 1,
+      "n_articles": 1,
+      "regions": [
+        "china"
+      ],
+      "last_seen": "2026-08-11T02:30:09+00:00",
+      "leans": [
+        "center"
+      ],
+      "sources": [
+        {
+          "outlet": "South China Morning Post",
+          "region": "china",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Why are South Korean football fans choosing European clubs over the K League?",
+          "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3363567/why-are-south-korean-football-fans-choosing-european-clubs-over-k-league?utm_source=rss_feed",
+          "published": "2026-08-11T02:30:09+00:00",
+          "orig_title": "Why are South Korean football fans choosing European clubs over the K League?",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "topic": "Sports",
+      "label": "Rajasthan · Manipur · How",
+      "title": "Rajasthan stuck in 2012, Manipur in 2023: How actively are states with CWG medals promoting sports?",
+      "summary": "India’s states celebrated 39 Commonwealth Games medals, but how much are their sports departments actually promoting those achievements? This investigation tracks the social-media activity of state sp",
+      "score": 1.874,
+      "n_outlets": 1,
+      "n_articles": 1,
+      "regions": [
+        "india"
+      ],
+      "last_seen": "2026-08-11T02:30:00+00:00",
+      "leans": [
+        "center"
+      ],
+      "sources": [
+        {
+          "outlet": "Times of India",
+          "region": "india",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Rajasthan stuck in 2012, Manipur in 2023: How actively are states with CWG medals promoting sports?",
+          "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/rajasthan-stuck-in-2012-manipur-in-2023-how-actively-are-states-with-cwg-medals-promoting-sports/articleshow/133122092.cms",
+          "published": "2026-08-11T02:30:00+00:00",
+          "orig_title": "Rajasthan stuck in 2012, Manipur in 2023: How actively are states with CWG medals promoting sports?",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 50,
       "topic": "Sports",
       "label": "Afghanistan · ODI · World",
       "title": "Afghanistan qualify for 2027 ODI World Cup",
       "summary": "Afghanistan entered the third ODI knowing that a win would be enough to seal their place in the 2027 ODI World Cup. They had already beaten Ireland by 92 runs in the second ODI, while the opening matc",
-      "score": 1.97,
+      "score": 1.828,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -4613,181 +5366,6 @@
           "lang": "en",
           "translated": false,
           "access": "open"
-        }
-      ]
-    },
-    {
-      "id": 25,
-      "topic": "Sports",
-      "label": "Sourav · Ganguly · Kolkata",
-      "title": "Sourav Ganguly receives death threats; Kolkata Police begin probe",
-      "summary": "Former India captain Sourav Ganguly has reported receiving threatening letters to the police. His manager filed a complaint after two letters arrived with explicit threats. The police are now investig",
-      "score": 1.932,
-      "n_outlets": 1,
-      "n_articles": 1,
-      "regions": [
-        "india"
-      ],
-      "last_seen": "2026-08-11T01:22:43+00:00",
-      "leans": [
-        "center"
-      ],
-      "sources": [
-        {
-          "outlet": "Times of India",
-          "region": "india",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Sourav Ganguly receives death threats; Kolkata Police begin probe",
-          "url": "https://timesofindia.indiatimes.com/sports/cricket/news/sourav-ganguly-wife-dona-receive-death-threats-kolkata-police-begin-probe/articleshow/133140045.cms",
-          "published": "2026-08-11T01:22:43+00:00",
-          "orig_title": "Sourav Ganguly receives death threats; Kolkata Police begin probe",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        }
-      ]
-    },
-    {
-      "id": 54,
-      "topic": "Sports",
-      "label": "Babar · Azam · England",
-      "title": "Babar Azam advised to stay away from media on England tour",
-      "summary": "Latif believes Babar could come under scrutiny from the English media and has suggested that former Pakistan captain Shan Masood should handle more of the team’s media interactions during the series.",
-      "score": 1.797,
-      "n_outlets": 1,
-      "n_articles": 1,
-      "regions": [
-        "india"
-      ],
-      "last_seen": "2026-08-10T23:30:00+00:00",
-      "leans": [
-        "center"
-      ],
-      "sources": [
-        {
-          "outlet": "Times of India",
-          "region": "india",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Babar Azam advised to stay away from media on England tour",
-          "url": "https://timesofindia.indiatimes.com/sports/cricket/news/difficult-assignment-pcb-advised-to-keep-away-babar-azam-from-english-media-on-england-tour/articleshow/133117830.cms",
-          "published": "2026-08-10T23:30:00+00:00",
-          "orig_title": "Babar Azam advised to stay away from media on England tour",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        }
-      ]
-    },
-    {
-      "id": 75,
-      "topic": "Sports",
-      "label": "Iran · Russia · national",
-      "title": "Iran national football team to play friendly match against Russia",
-      "summary": "Президент Федерации футбола Ирана Мехди Тадж сообщил о планах провести товарищеский матч со сборной России, а также еще с двумя командами. Об этом сообщает агентство Tasnim.",
-      "score": 1.718,
-      "n_outlets": 1,
-      "n_articles": 1,
-      "regions": [
-        "russia"
-      ],
-      "last_seen": "2026-08-10T22:14:57+00:00",
-      "leans": [
-        "center"
-      ],
-      "sources": [
-        {
-          "outlet": "Kommersant",
-          "region": "russia",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Iran national football team to play friendly match against Russia",
-          "url": "https://www.kommersant.ru/doc/8876760",
-          "published": "2026-08-10T22:14:57+00:00",
-          "orig_title": "Сборная Ирана по футболу проведет товарищеский матч с Россией",
-          "lang": "ru",
-          "translated": true,
-          "access": "unknown"
-        }
-      ]
-    },
-    {
-      "id": 136,
-      "topic": "Sports",
-      "label": "Dimbo · Atiya · Plateau",
-      "title": "Dimbo Atiya: Plateau creative community mourns filmmaker, to preserve his legacy",
-      "summary": "Mr Atiya's death has prompted colleagues and institutions to call for the preservation of his creative works and the recognition of the opportunities he created for younger practitioners during his ca",
-      "score": 1.6,
-      "n_outlets": 1,
-      "n_articles": 1,
-      "regions": [
-        "africa"
-      ],
-      "last_seen": "2026-08-10T20:04:58+00:00",
-      "leans": [
-        "center"
-      ],
-      "sources": [
-        {
-          "outlet": "Premium Times",
-          "region": "africa",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Dimbo Atiya: Plateau creative community mourns filmmaker, to preserve his legacy",
-          "url": "https://www.premiumtimesng.com/entertainment/901941-dimbo-atiya-plateau-creative-community-mourns-filmmaker-to-preserve-his-legacy.html",
-          "published": "2026-08-10T20:04:58+00:00",
-          "orig_title": "Dimbo Atiya: Plateau creative community mourns filmmaker, to preserve his legacy",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        }
-      ]
-    },
-    {
-      "id": 157,
-      "topic": "Sports",
-      "label": "Leonid · Slutsky · Russia's",
-      "title": "Leonid Slutsky appointed head of Russia's media football team",
-      "summary": "Леонид Слуцкий стал главным тренером сборной России по медиафутболу. Об этом сообщила пресс-служба Медиалиги в Telegram.",
-      "score": 1.562,
-      "n_outlets": 1,
-      "n_articles": 2,
-      "regions": [
-        "russia"
-      ],
-      "last_seen": "2026-08-10T19:18:22+00:00",
-      "leans": [
-        "center"
-      ],
-      "sources": [
-        {
-          "outlet": "Kommersant",
-          "region": "russia",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Leonid Slutsky appointed head of Russia's media football team",
-          "url": "https://www.kommersant.ru/doc/8876727",
-          "published": "2026-08-10T19:18:22+00:00",
-          "orig_title": "Леонид Слуцкий возглавил сборную России по медиафутболу",
-          "lang": "ru",
-          "translated": true,
-          "access": "unknown",
-          "more": [
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Trump appoints new White House counsel",
-              "url": "https://www.kommersant.ru/doc/8876151",
-              "published": "2026-08-10T08:08:19+00:00",
-              "orig_title": "Трамп назначил нового юрисконсульта Белого дома",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            }
-          ]
         }
       ]
     }
