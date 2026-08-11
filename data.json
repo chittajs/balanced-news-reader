@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T21:28:48.127301+00:00",
+  "generated_at": "2026-08-11T22:26:00.438767+00:00",
   "topics": [
     "World & Politics",
     "Economics",
@@ -14,7 +14,7 @@
       "name": "United States",
       "lat": 39.0,
       "lng": -98.0,
-      "count": 33
+      "count": 35
     },
     {
       "id": "europe",
@@ -35,7 +35,7 @@
       "name": "India",
       "lat": 22.0,
       "lng": 79.0,
-      "count": 16
+      "count": 14
     },
     {
       "id": "australia",
@@ -63,24 +63,24 @@
       "name": "Japan",
       "lat": 36.5,
       "lng": 139.0,
-      "count": 9
+      "count": 10
     },
     {
       "id": "russia",
       "name": "Russia",
       "lat": 61.0,
       "lng": 90.0,
-      "count": 19
+      "count": 20
     }
   ],
   "clusters": [
     {
-      "id": 195,
+      "id": 213,
       "topic": "World & Politics",
       "label": "Syrian · Bashar · death",
       "title": "Syrian court sentences Bashar al-Assad to death in absentia for crimes against humanity",
       "summary": "A criminal court in Damascus sentenced former Syrian president Bashar al-Assad to death in absentia on Tuesday for premeditated murder, torture, arbitrary detention and crimes against humanity. Assad ",
-      "score": 13.624,
+      "score": 13.577,
       "n_outlets": 13,
       "n_articles": 14,
       "regions": [
@@ -286,39 +286,38 @@
       ]
     },
     {
-      "id": 1,
+      "id": 18,
       "topic": "World & Politics",
-      "label": "Colombia · earthquake · toll",
-      "title": "Death toll from earthquake in Colombia up to 224",
-      "summary": "A magnitude 7.4 earthquake earlier struck near the city of San Jose del Palmar",
-      "score": 12.988,
-      "n_outlets": 12,
-      "n_articles": 22,
+      "label": "Trump · Turkey · Air",
+      "title": "President Trump was secretly flown out of Turkey last month on a military jet after the U.S. government was told of an Iranian threat against the president and Air Force One",
+      "summary": "The move was made after the U.S. government was told of an Iranian threat against the president and Air Force One.",
+      "score": 11.947,
+      "n_outlets": 11,
+      "n_articles": 12,
       "regions": [
+        "africa",
         "europe",
         "india",
         "japan",
-        "russia",
         "us"
       ],
-      "last_seen": "2026-08-11T21:19:57+00:00",
+      "last_seen": "2026-08-11T21:46:34+00:00",
       "leans": [
         "center",
         "left",
-        "right",
-        "state"
+        "right"
       ],
       "sources": [
         {
-          "outlet": "Der Spiegel",
-          "region": "europe",
+          "outlet": "Asahi Shimbun",
+          "region": "japan",
           "lean": "left",
           "ownership": "private",
-          "title": "Colombia earthquake: hundreds dead, thousands missing",
-          "url": "https://www.spiegel.de/panorama/erdbeben-in-kolumbien-mindestens-169-tote-tausende-vermisste-a-24bcc962-683a-4838-b09e-339385ab0043#ref=rss",
-          "published": "2026-08-11T18:34:00+00:00",
-          "orig_title": "Erdbeben in Kolumbien: Hunderte Tote, Tausende Vermisste",
-          "lang": "de",
+          "title": "Trump allegedly switched aircraft mid-flight during overseas trip, US report says",
+          "url": "http://www.asahi.com/articles/ASV8C1217V8CBQBQ2PXM.html?ref=rss",
+          "published": "2026-08-11T09:00:00+00:00",
+          "orig_title": "トランプ大統領、外遊でひそかに専用機から別機体に移動か 米紙報道",
+          "lang": "ja",
           "translated": true,
           "access": "unknown"
         },
@@ -327,291 +326,155 @@
           "region": "europe",
           "lean": "left",
           "ownership": "private",
-          "title": "Colombia mobilizes rescue efforts for earthquake survivors: 'Don't waste time here, the only sign of life is on the other side'",
-          "url": "https://elpais.com/america-colombia/2026-08-11/colombia-se-vuelca-en-el-rescate-de-los-supervivientes-del-terremoto-no-se-desgasten-aqui-la-unica-senal-de-vida-es-en-el-otro-lado.html",
-          "published": "2026-08-11T20:13:27+00:00",
-          "orig_title": "Colombia se vuelca en el rescate de los supervivientes del terremoto: “No se desgasten aquí, la única señal de vida es en el otro lado”",
+          "title": "Trump secretly changed planes after NATO summit in Turkey, hidden in catering container due to Iranian threat",
+          "url": "https://elpais.com/internacional/2026-08-11/trump-cambio-de-avion-tras-la-cumbre-de-la-otan-en-turquia-oculto-en-un-camion-de-catering-por-una-amenaza-de-iran.html",
+          "published": "2026-08-11T10:58:29+00:00",
+          "orig_title": "Trump cambió de avión en secreto tras la cumbre de la OTAN en Turquía escondido en un contenedor de ‘catering’ por una amenaza de Irán",
           "lang": "es",
           "translated": true,
           "access": "unknown"
-        },
-        {
-          "outlet": "NPR",
-          "region": "us",
-          "lean": "left",
-          "ownership": "public",
-          "title": "1 year in, National Guard became a part of D.C. life. And, deadly quake hits Colombia",
-          "url": "https://www.npr.org/2026/08/11/g-s1-138174/up-first-newsletter-national-guard-primaries-wisconsin-colombia-earthquake-childhood-vaccines",
-          "published": "2026-08-11T11:11:14+00:00",
-          "orig_title": "1 year in, National Guard became a part of D.C. life. And, deadly quake hits Colombia",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
         },
         {
           "outlet": "The Guardian",
           "region": "europe",
           "lean": "left",
           "ownership": "private",
-          "title": "Colombia quake leaves more than 110 dead – as it happened",
-          "url": "https://www.theguardian.com/world/live/2026/aug/10/74-magnitude-earthquake-shakes-colombia-causing-serious-damage-latest-news",
-          "published": "2026-08-11T05:32:08+00:00",
-          "orig_title": "Colombia quake leaves more than 110 dead – as it happened",
+          "title": "Trump reportedly hid in catering container to board secret flight in Turkey amid Iran threat",
+          "url": "https://www.theguardian.com/us-news/2026/aug/10/trump-secret-flight-nato-return",
+          "published": "2026-08-11T06:46:56+00:00",
+          "orig_title": "Trump reportedly hid in catering container to board secret flight in Turkey amid Iran threat",
           "lang": "en",
           "translated": false,
-          "access": "open"
+          "access": "open",
+          "more": [
+            {
+              "outlet": "The Guardian",
+              "region": "europe",
+              "lean": "left",
+              "ownership": "private",
+              "title": "Trump’s Air Force One deception faces scrutiny over ‘decoy’ passengers",
+              "url": "https://www.theguardian.com/us-news/2026/aug/11/trump-air-force-one-deception-democrats",
+              "published": "2026-08-11T21:46:34+00:00",
+              "orig_title": "Trump’s Air Force One deception faces scrutiny over ‘decoy’ passengers",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            }
+          ]
         },
         {
           "outlet": "The Hindu",
           "region": "india",
           "lean": "left",
           "ownership": "private",
-          "title": "Colombia quake kills over 100 as rescue teams race to find missing | In pictures",
-          "url": "https://www.thehindu.com/news/international/colombia-earthquake-several-dead-epicentre-choco-cali-quibdo-pereira-in-pictures/article71331298.ece",
-          "published": "2026-08-11T08:36:54+00:00",
-          "orig_title": "Colombia quake kills over 100 as rescue teams race to find missing | In pictures",
+          "title": "Trump secretly flew out of Turkiye after NATO summit because of Iran threat: report",
+          "url": "https://www.thehindu.com/news/international/trump-secretly-flew-out-of-turkiye-after-nato-summit-because-of-iran-threat-report/article71331472.ece",
+          "published": "2026-08-11T09:10:02+00:00",
+          "orig_title": "Trump secretly flew out of Turkiye after NATO summit because of Iran threat: report",
           "lang": "en",
           "translated": false,
-          "access": "open",
-          "more": [
-            {
-              "outlet": "The Hindu",
-              "region": "india",
-              "lean": "left",
-              "ownership": "private",
-              "title": "Colombia earthquake death toll tops 200 as rescuers race to find survivors",
-              "url": "https://www.thehindu.com/news/international/colombia-earthquake-death-toll-tops-200-as-rescuers-race-to-find-survivors/article71333827.ece",
-              "published": "2026-08-11T17:47:10+00:00",
-              "orig_title": "Colombia earthquake death toll tops 200 as rescuers race to find survivors",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
-            }
-          ]
+          "access": "open"
         },
         {
           "outlet": "The New York Times",
           "region": "us",
           "lean": "left",
           "ownership": "private",
-          "title": "What We Know About the Earthquake in Colombia",
-          "url": "https://www.nytimes.com/2026/08/11/world/americas/colombia-earthquake-cali-medellin-deaths.html",
-          "published": "2026-08-11T19:05:14+00:00",
-          "orig_title": "What We Know About the Earthquake in Colombia",
+          "title": "Before Trump’s Catering Container Ruse, Other Presidents Obscured Risky Travel Plans",
+          "url": "https://www.nytimes.com/2026/08/11/world/americas/presidents-secret-flights-trump-turkey.html",
+          "published": "2026-08-11T16:03:08+00:00",
+          "orig_title": "Before Trump’s Catering Container Ruse, Other Presidents Obscured Risky Travel Plans",
           "lang": "en",
           "translated": false,
-          "access": "paywall",
-          "more": [
-            {
-              "outlet": "The New York Times",
-              "region": "us",
-              "lean": "left",
-              "ownership": "private",
-              "title": "As Death Toll From Colombia Earthquake Rises to at Least 181, Rescuers Hunt for Survivors",
-              "url": "https://www.nytimes.com/2026/08/11/world/americas/colombia-earthquake-survivors-search.html",
-              "published": "2026-08-11T20:11:24+00:00",
-              "orig_title": "As Death Toll From Colombia Earthquake Rises to at Least 181, Rescuers Hunt for Survivors",
-              "lang": "en",
-              "translated": false,
-              "access": "paywall"
-            },
-            {
-              "outlet": "The New York Times",
-              "region": "us",
-              "lean": "left",
-              "ownership": "private",
-              "title": "Images From Colombia, Battered by Quakes",
-              "url": "https://www.nytimes.com/2026/08/10/world/americas/colombia-earthquake-photos.html",
-              "published": "2026-08-11T21:13:19+00:00",
-              "orig_title": "Images From Colombia, Battered by Quakes",
-              "lang": "en",
-              "translated": false,
-              "access": "paywall"
-            },
-            {
-              "outlet": "The New York Times",
-              "region": "us",
-              "lean": "left",
-              "ownership": "private",
-              "title": "Searching for Survivors After Colombia’s Earthquake",
-              "url": "https://www.nytimes.com/video/world/americas/100000011085349/searching-for-survivors-after-colombias-earthquake.html",
-              "published": "2026-08-11T21:19:57+00:00",
-              "orig_title": "Searching for Survivors After Colombia’s Earthquake",
-              "lang": "en",
-              "translated": false,
-              "access": "paywall"
-            },
-            {
-              "outlet": "The New York Times",
-              "region": "us",
-              "lean": "left",
-              "ownership": "private",
-              "title": "Here Is Where Colombia’s Quake Hit Hardest",
-              "url": "https://www.nytimes.com/2026/08/10/world/americas/colombia-quake-maps.html",
-              "published": "2026-08-11T11:58:43+00:00",
-              "orig_title": "Here Is Where Colombia’s Quake Hit Hardest",
-              "lang": "en",
-              "translated": false,
-              "access": "paywall"
-            },
-            {
-              "outlet": "The New York Times",
-              "region": "us",
-              "lean": "left",
-              "ownership": "private",
-              "title": "Colombia Quake Chases Teenage Venezuelan Brothers From Their New Home",
-              "url": "https://www.nytimes.com/2026/08/10/world/americas/colombia-earthquake-venezuela-brothers.html",
-              "published": "2026-08-10T21:47:14+00:00",
-              "orig_title": "Colombia Quake Chases Teenage Venezuelan Brothers From Their New Home",
-              "lang": "en",
-              "translated": false,
-              "access": "paywall"
-            }
-          ]
+          "access": "paywall"
         },
         {
           "outlet": "BBC News",
           "region": "europe",
           "lean": "center",
           "ownership": "public",
-          "title": "Rescuers scramble for survivors with 180 dead in Colombia earthquake",
-          "url": "https://www.bbc.co.uk/news/articles/c20dqd9qwq4o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-11T19:09:52+00:00",
-          "orig_title": "Rescuers scramble for survivors with 180 dead in Colombia earthquake",
+          "title": "Watch: Was Trump smuggled out of Air Force One in a catering truck?",
+          "url": "https://www.bbc.co.uk/news/videos/cj3672ljgzro?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-11T15:53:53+00:00",
+          "orig_title": "Watch: Was Trump smuggled out of Air Force One in a catering truck?",
           "lang": "en",
           "translated": false,
           "access": "open"
         },
         {
-          "outlet": "Kommersant",
-          "region": "russia",
+          "outlet": "Premium Times",
+          "region": "africa",
           "lean": "center",
           "ownership": "private",
-          "title": "Death toll from Colombia earthquake rises to 169",
-          "url": "https://www.kommersant.ru/doc/8877233",
-          "published": "2026-08-11T12:02:31+00:00",
-          "orig_title": "Число жертв землетрясения в Колумбии выросло до 169",
-          "lang": "ru",
-          "translated": true,
-          "access": "unknown",
-          "more": [
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Colombia earthquake death toll reaches 224",
-              "url": "https://www.kommersant.ru/doc/8877292",
-              "published": "2026-08-11T13:01:18+00:00",
-              "orig_title": "Число погибших при землетрясении в Колумбии достигло 224",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            },
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Colombia earthquake death toll rises to 132",
-              "url": "https://www.kommersant.ru/doc/8876776",
-              "published": "2026-08-11T00:50:49+00:00",
-              "orig_title": "До 132 выросло число погибших при землетрясении в Колумбии",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            }
-          ]
-        },
-        {
-          "outlet": "The Japan Times",
-          "region": "japan",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Colombia quake death toll climbs as civilians aid in rescue",
-          "url": "https://www.japantimes.co.jp/news/2026/08/11/world/colombia-earthquake/",
-          "published": "2026-08-11T09:32:00+00:00",
-          "orig_title": "Colombia quake death toll climbs as civilians aid in rescue",
+          "title": "Trump secretly switched planes in Turkey over Iranian threat – Report",
+          "url": "https://www.premiumtimesng.com/foreign/902224-trump-secretly-switched-planes-in-turkey-over-iranian-threat-report.html",
+          "published": "2026-08-11T19:59:55+00:00",
+          "orig_title": "Trump secretly switched planes in Turkey over Iranian threat – Report",
           "lang": "en",
           "translated": false,
-          "access": "paywall"
+          "access": "open"
         },
         {
-          "outlet": "Fox News",
+          "outlet": "The Hill",
           "region": "us",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Air Force One swap calls into question Trump's safety abroad",
+          "url": "https://thehill.com/homenews/administration/6023425-trump-air-force-one-turkey-secret-service-ruse/",
+          "published": "2026-08-11T21:21:24+00:00",
+          "orig_title": "Air Force One swap calls into question Trump's safety abroad",
+          "lang": "en",
+          "translated": false,
+          "access": "unknown"
+        },
+        {
+          "outlet": "Die Welt",
+          "region": "europe",
           "lean": "right",
           "ownership": "private",
-          "title": "More than 3,000 missing after Colombia earthquake as Trump administration provides $15.5 million in relief",
-          "url": "https://www.foxnews.com/world/more-than-3000-missing-colombia-earthquake-trump-administration-provides-15-5-million-relief",
-          "published": "2026-08-11T17:07:34+00:00",
-          "orig_title": "More than 3,000 missing after Colombia earthquake as Trump administration provides $15.5 million in relief",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
+          "title": "Wherever the US president is, there are always escape routes",
+          "url": "https://www.welt.de/politik/ausland/video6a7b636e0e3689919ec7838f/trump-heimlich-ausgeflogen-wo-auch-immer-sich-der-us-praesident-befindet-gibt-es-irgendwelche-rettungswege.html",
+          "published": "2026-08-11T18:08:00+00:00",
+          "orig_title": "„Wo auch immer sich der US-Präsident befindet, gibt es irgendwelche Rettungswege“",
+          "lang": "de",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
+          "outlet": "Le Figaro",
+          "region": "europe",
+          "lean": "right",
+          "ownership": "private",
+          "title": "Secret mission, catering truck and decoy plane: inside Trump's mysterious extraction from Turkey",
+          "url": "https://www.lefigaro.fr/international/mission-clandestine-camion-de-restauration-et-avion-leurre-les-coulisses-de-la-mysterieuse-exfiltration-de-donald-trump-pour-quitter-la-turquie-20260811",
+          "published": "2026-08-11T12:56:53+00:00",
+          "orig_title": "«Mission clandestine», camion de restauration et «avion-leurre» : les coulisses de la mystérieuse exfiltration de Donald Trump pour quitter la Turquie",
+          "lang": "fr",
+          "translated": true,
+          "access": "unknown"
         },
         {
           "outlet": "The Wall Street Journal",
           "region": "us",
           "lean": "right",
           "ownership": "private",
-          "title": "Rescue Teams in Colombia Dig Through Rubble to Pull Out Quake Victims",
-          "url": "https://www.wsj.com/world/americas/rescue-teams-in-colombia-dig-through-rubble-to-pull-out-quake-victims-ca1f1211?mod=rss_worldnews",
-          "published": "2026-08-11T19:33:00+00:00",
-          "orig_title": "Rescue Teams in Colombia Dig Through Rubble to Pull Out Quake Victims",
+          "title": "President Trump was secretly flown out of Turkey last month on a military jet after the U.S. government was told of an Iranian threat against the president and Air Force One",
+          "url": "https://www.wsj.com/politics/national-security/trump-was-secretly-transferred-to-military-jet-amid-threats-to-air-force-one-26900d0c?mod=rss_socialpoliticsfeed",
+          "published": "2026-08-11T20:24:00+00:00",
+          "orig_title": "President Trump was secretly flown out of Turkey last month on a military jet after the U.S. government was told of an Iranian threat against the president and Air Force One",
           "lang": "en",
           "translated": false,
           "access": "paywall"
-        },
-        {
-          "outlet": "TASS",
-          "region": "russia",
-          "lean": "state",
-          "ownership": "state",
-          "title": "Death toll from earthquake in Colombia up to 224",
-          "url": "https://tass.com/emergencies/2171431",
-          "published": "2026-08-11T13:04:28+00:00",
-          "orig_title": "Death toll from earthquake in Colombia up to 224",
-          "lang": "en",
-          "translated": false,
-          "access": "open",
-          "more": [
-            {
-              "outlet": "TASS",
-              "region": "russia",
-              "lean": "state",
-              "ownership": "state",
-              "title": "Colombia earthquake death toll rises to 169 — radio",
-              "url": "https://tass.com/society/2171401",
-              "published": "2026-08-11T11:52:47+00:00",
-              "orig_title": "Colombia earthquake death toll rises to 169 — radio",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
-            },
-            {
-              "outlet": "TASS",
-              "region": "russia",
-              "lean": "state",
-              "ownership": "state",
-              "title": "At least 239 people still trapped under rubble in Colombia’s Cali — mayor",
-              "url": "https://tass.com/emergencies/2171453",
-              "published": "2026-08-11T13:47:37+00:00",
-              "orig_title": "At least 239 people still trapped under rubble in Colombia’s Cali — mayor",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
-            }
-          ]
         }
       ]
     },
     {
-      "id": 11,
+      "id": 39,
       "topic": "World & Politics",
       "label": "Russia · Gilman · Robert",
       "title": "Russia frees ailing ex-US marine after Putin’s ‘goodwill’ pardon",
       "summary": "Moscow on ⁠Tuesday freed a former US marine jailed in Russia ⁠since 2022 after Russian President Vladimir Putin approved a pardon for the ailing American based on humanitarian reasons, US officials sa",
-      "score": 11.974,
+      "score": 11.899,
       "n_outlets": 11,
       "n_articles": 22,
       "regions": [
@@ -921,50 +784,37 @@
       ]
     },
     {
-      "id": 46,
+      "id": 27,
       "topic": "World & Politics",
-      "label": "Trump · Turkey · Iranian",
-      "title": "President Trump was secretly flown out of Turkey last month on a military jet after the U.S. government was told of an Iranian threat against the president and Air Force One",
-      "summary": "The move was made after the U.S. government was told of an Iranian threat against the president and Air Force One.",
-      "score": 11.914,
-      "n_outlets": 11,
-      "n_articles": 11,
+      "label": "Colombia · earthquake · Earthquake",
+      "title": "As Death Toll From Colombia Earthquake Rises to at Least 181, Rescuers Hunt for Survivors",
+      "summary": "“We heard them screaming,” said one rescuer in Cali, where emergency workers and volunteers are racing against time to find the living trapped in the rubble.",
+      "score": 10.932,
+      "n_outlets": 10,
+      "n_articles": 20,
       "regions": [
-        "africa",
         "europe",
         "india",
-        "japan",
+        "russia",
         "us"
       ],
-      "last_seen": "2026-08-11T20:24:00+00:00",
+      "last_seen": "2026-08-11T21:34:55+00:00",
       "leans": [
         "center",
         "left",
-        "right"
+        "right",
+        "state"
       ],
       "sources": [
-        {
-          "outlet": "Asahi Shimbun",
-          "region": "japan",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Trump allegedly switched aircraft mid-flight during overseas trip, US report says",
-          "url": "http://www.asahi.com/articles/ASV8C1217V8CBQBQ2PXM.html?ref=rss",
-          "published": "2026-08-11T09:00:00+00:00",
-          "orig_title": "トランプ大統領、外遊でひそかに専用機から別機体に移動か 米紙報道",
-          "lang": "ja",
-          "translated": true,
-          "access": "unknown"
-        },
         {
           "outlet": "Der Spiegel",
           "region": "europe",
           "lean": "left",
           "ownership": "private",
-          "title": "Donald Trump: How Middle East exposes US president's powerlessness",
-          "url": "https://www.spiegel.de/ausland/donald-trump-wie-der-nahe-osten-die-ohnmacht-des-us-praesidenten-blossstellt-a-7a78beb0-60a3-4b38-adf6-88e6c4b8cab1#ref=rss",
-          "published": "2026-08-11T17:16:00+00:00",
-          "orig_title": "Donald Trump: Wie der Nahe Osten die Ohnmacht des US-Präsidenten bloßstellt",
+          "title": "Colombia earthquake: hundreds dead, thousands missing",
+          "url": "https://www.spiegel.de/panorama/erdbeben-in-kolumbien-mindestens-169-tote-tausende-vermisste-a-24bcc962-683a-4838-b09e-339385ab0043#ref=rss",
+          "published": "2026-08-11T18:34:00+00:00",
+          "orig_title": "Erdbeben in Kolumbien: Hunderte Tote, Tausende Vermisste",
           "lang": "de",
           "translated": true,
           "access": "unknown"
@@ -974,23 +824,23 @@
           "region": "europe",
           "lean": "left",
           "ownership": "private",
-          "title": "Trump secretly changed planes after NATO summit in Turkey, hidden in catering container due to Iranian threat",
-          "url": "https://elpais.com/internacional/2026-08-11/trump-cambio-de-avion-tras-la-cumbre-de-la-otan-en-turquia-oculto-en-un-camion-de-catering-por-una-amenaza-de-iran.html",
-          "published": "2026-08-11T10:58:29+00:00",
-          "orig_title": "Trump cambió de avión en secreto tras la cumbre de la OTAN en Turquía escondido en un contenedor de ‘catering’ por una amenaza de Irán",
+          "title": "Colombia mobilizes rescue efforts for earthquake survivors: 'Don't waste time here, the only sign of life is on the other side'",
+          "url": "https://elpais.com/america-colombia/2026-08-11/colombia-se-vuelca-en-el-rescate-de-los-supervivientes-del-terremoto-no-se-desgasten-aqui-la-unica-senal-de-vida-es-en-el-otro-lado.html",
+          "published": "2026-08-11T20:13:27+00:00",
+          "orig_title": "Colombia se vuelca en el rescate de los supervivientes del terremoto: “No se desgasten aquí, la única señal de vida es en el otro lado”",
           "lang": "es",
           "translated": true,
           "access": "unknown"
         },
         {
-          "outlet": "The Guardian",
-          "region": "europe",
+          "outlet": "NPR",
+          "region": "us",
           "lean": "left",
-          "ownership": "private",
-          "title": "Trump reportedly hid in catering container to board secret flight in Turkey amid Iran threat",
-          "url": "https://www.theguardian.com/us-news/2026/aug/10/trump-secret-flight-nato-return",
-          "published": "2026-08-11T06:46:56+00:00",
-          "orig_title": "Trump reportedly hid in catering container to board secret flight in Turkey amid Iran threat",
+          "ownership": "public",
+          "title": "1 year in, National Guard became a part of D.C. life. And, deadly quake hits Colombia",
+          "url": "https://www.npr.org/2026/08/11/g-s1-138174/up-first-newsletter-national-guard-primaries-wisconsin-colombia-earthquake-childhood-vaccines",
+          "published": "2026-08-11T11:11:14+00:00",
+          "orig_title": "1 year in, National Guard became a part of D.C. life. And, deadly quake hits Colombia",
           "lang": "en",
           "translated": false,
           "access": "open"
@@ -1000,108 +850,249 @@
           "region": "india",
           "lean": "left",
           "ownership": "private",
-          "title": "Trump secretly flew out of Turkiye after NATO summit because of Iran threat: report",
-          "url": "https://www.thehindu.com/news/international/trump-secretly-flew-out-of-turkiye-after-nato-summit-because-of-iran-threat-report/article71331472.ece",
-          "published": "2026-08-11T09:10:02+00:00",
-          "orig_title": "Trump secretly flew out of Turkiye after NATO summit because of Iran threat: report",
+          "title": "Colombia quake kills over 100 as rescue teams race to find missing | In pictures",
+          "url": "https://www.thehindu.com/news/international/colombia-earthquake-several-dead-epicentre-choco-cali-quibdo-pereira-in-pictures/article71331298.ece",
+          "published": "2026-08-11T08:36:54+00:00",
+          "orig_title": "Colombia quake kills over 100 as rescue teams race to find missing | In pictures",
           "lang": "en",
           "translated": false,
-          "access": "open"
+          "access": "open",
+          "more": [
+            {
+              "outlet": "The Hindu",
+              "region": "india",
+              "lean": "left",
+              "ownership": "private",
+              "title": "Colombia earthquake death toll tops 200 as rescuers race to find survivors",
+              "url": "https://www.thehindu.com/news/international/colombia-earthquake-death-toll-tops-200-as-rescuers-race-to-find-survivors/article71333827.ece",
+              "published": "2026-08-11T17:47:10+00:00",
+              "orig_title": "Colombia earthquake death toll tops 200 as rescuers race to find survivors",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            }
+          ]
         },
         {
           "outlet": "The New York Times",
           "region": "us",
           "lean": "left",
           "ownership": "private",
-          "title": "Before Trump’s Catering Container Ruse, Other Presidents Obscured Risky Travel Plans",
-          "url": "https://www.nytimes.com/2026/08/11/world/americas/presidents-secret-flights-trump-turkey.html",
-          "published": "2026-08-11T16:03:08+00:00",
-          "orig_title": "Before Trump’s Catering Container Ruse, Other Presidents Obscured Risky Travel Plans",
+          "title": "As Death Toll From Colombia Earthquake Rises to at Least 181, Rescuers Hunt for Survivors",
+          "url": "https://www.nytimes.com/2026/08/11/world/americas/colombia-earthquake-survivors-search.html",
+          "published": "2026-08-11T20:11:24+00:00",
+          "orig_title": "As Death Toll From Colombia Earthquake Rises to at Least 181, Rescuers Hunt for Survivors",
           "lang": "en",
           "translated": false,
-          "access": "paywall"
+          "access": "paywall",
+          "more": [
+            {
+              "outlet": "The New York Times",
+              "region": "us",
+              "lean": "left",
+              "ownership": "private",
+              "title": "What We Know About the Earthquake in Colombia",
+              "url": "https://www.nytimes.com/2026/08/11/world/americas/colombia-earthquake-cali-medellin-deaths.html",
+              "published": "2026-08-11T19:05:14+00:00",
+              "orig_title": "What We Know About the Earthquake in Colombia",
+              "lang": "en",
+              "translated": false,
+              "access": "paywall"
+            },
+            {
+              "outlet": "The New York Times",
+              "region": "us",
+              "lean": "left",
+              "ownership": "private",
+              "title": "Searching for Survivors After Colombia’s Earthquake",
+              "url": "https://www.nytimes.com/video/world/americas/100000011085349/searching-for-survivors-after-colombias-earthquake.html",
+              "published": "2026-08-11T21:19:57+00:00",
+              "orig_title": "Searching for Survivors After Colombia’s Earthquake",
+              "lang": "en",
+              "translated": false,
+              "access": "paywall"
+            },
+            {
+              "outlet": "The New York Times",
+              "region": "us",
+              "lean": "left",
+              "ownership": "private",
+              "title": "Images From Colombia, Battered by Quakes",
+              "url": "https://www.nytimes.com/2026/08/10/world/americas/colombia-earthquake-photos.html",
+              "published": "2026-08-11T21:13:19+00:00",
+              "orig_title": "Images From Colombia, Battered by Quakes",
+              "lang": "en",
+              "translated": false,
+              "access": "paywall"
+            },
+            {
+              "outlet": "The New York Times",
+              "region": "us",
+              "lean": "left",
+              "ownership": "private",
+              "title": "Here Is Where Colombia’s Quake Hit Hardest",
+              "url": "https://www.nytimes.com/2026/08/10/world/americas/colombia-quake-maps.html",
+              "published": "2026-08-11T11:58:43+00:00",
+              "orig_title": "Here Is Where Colombia’s Quake Hit Hardest",
+              "lang": "en",
+              "translated": false,
+              "access": "paywall"
+            },
+            {
+              "outlet": "The New York Times",
+              "region": "us",
+              "lean": "left",
+              "ownership": "private",
+              "title": "Colombia Quake Chases Teenage Venezuelan Brothers From Their New Home",
+              "url": "https://www.nytimes.com/2026/08/10/world/americas/colombia-earthquake-venezuela-brothers.html",
+              "published": "2026-08-10T21:47:14+00:00",
+              "orig_title": "Colombia Quake Chases Teenage Venezuelan Brothers From Their New Home",
+              "lang": "en",
+              "translated": false,
+              "access": "paywall"
+            }
+          ]
         },
         {
           "outlet": "BBC News",
           "region": "europe",
           "lean": "center",
           "ownership": "public",
-          "title": "Watch: Was Trump smuggled out of Air Force One in a catering truck?",
-          "url": "https://www.bbc.co.uk/news/videos/cj3672ljgzro?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-11T15:53:53+00:00",
-          "orig_title": "Watch: Was Trump smuggled out of Air Force One in a catering truck?",
+          "title": "Rescuers scramble for survivors with 180 dead in Colombia earthquake",
+          "url": "https://www.bbc.co.uk/news/articles/c20dqd9qwq4o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-11T19:09:52+00:00",
+          "orig_title": "Rescuers scramble for survivors with 180 dead in Colombia earthquake",
           "lang": "en",
           "translated": false,
-          "access": "open"
+          "access": "open",
+          "more": [
+            {
+              "outlet": "BBC News",
+              "region": "europe",
+              "lean": "center",
+              "ownership": "public",
+              "title": "Anguish of Colombian brother at rubble of building being searched for earthquake survivors",
+              "url": "https://www.bbc.co.uk/news/articles/czxerlglgw5o?at_medium=RSS&at_campaign=rss",
+              "published": "2026-08-11T21:34:55+00:00",
+              "orig_title": "Anguish of Colombian brother at rubble of building being searched for earthquake survivors",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            }
+          ]
         },
         {
-          "outlet": "Premium Times",
-          "region": "africa",
+          "outlet": "Kommersant",
+          "region": "russia",
           "lean": "center",
           "ownership": "private",
-          "title": "Trump secretly switched planes in Turkey over Iranian threat – Report",
-          "url": "https://www.premiumtimesng.com/foreign/902224-trump-secretly-switched-planes-in-turkey-over-iranian-threat-report.html",
-          "published": "2026-08-11T19:59:55+00:00",
-          "orig_title": "Trump secretly switched planes in Turkey over Iranian threat – Report",
+          "title": "Death toll from Colombia earthquake rises to 169",
+          "url": "https://www.kommersant.ru/doc/8877233",
+          "published": "2026-08-11T12:02:31+00:00",
+          "orig_title": "Число жертв землетрясения в Колумбии выросло до 169",
+          "lang": "ru",
+          "translated": true,
+          "access": "unknown",
+          "more": [
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Colombia earthquake death toll reaches 224",
+              "url": "https://www.kommersant.ru/doc/8877292",
+              "published": "2026-08-11T13:01:18+00:00",
+              "orig_title": "Число погибших при землетрясении в Колумбии достигло 224",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            }
+          ]
+        },
+        {
+          "outlet": "Fox News",
+          "region": "us",
+          "lean": "right",
+          "ownership": "private",
+          "title": "More than 3,000 missing after Colombia earthquake as Trump administration provides $15.5 million in relief",
+          "url": "https://www.foxnews.com/world/more-than-3000-missing-colombia-earthquake-trump-administration-provides-15-5-million-relief",
+          "published": "2026-08-11T17:07:34+00:00",
+          "orig_title": "More than 3,000 missing after Colombia earthquake as Trump administration provides $15.5 million in relief",
           "lang": "en",
           "translated": false,
           "access": "open"
-        },
-        {
-          "outlet": "Die Welt",
-          "region": "europe",
-          "lean": "right",
-          "ownership": "private",
-          "title": "Wherever the US president is, there are always escape routes",
-          "url": "https://www.welt.de/politik/ausland/video6a7b636e0e3689919ec7838f/trump-heimlich-ausgeflogen-wo-auch-immer-sich-der-us-praesident-befindet-gibt-es-irgendwelche-rettungswege.html",
-          "published": "2026-08-11T18:08:00+00:00",
-          "orig_title": "„Wo auch immer sich der US-Präsident befindet, gibt es irgendwelche Rettungswege“",
-          "lang": "de",
-          "translated": true,
-          "access": "unknown"
-        },
-        {
-          "outlet": "Le Figaro",
-          "region": "europe",
-          "lean": "right",
-          "ownership": "private",
-          "title": "Secret mission, catering truck and decoy plane: inside Trump's mysterious extraction from Turkey",
-          "url": "https://www.lefigaro.fr/international/mission-clandestine-camion-de-restauration-et-avion-leurre-les-coulisses-de-la-mysterieuse-exfiltration-de-donald-trump-pour-quitter-la-turquie-20260811",
-          "published": "2026-08-11T12:56:53+00:00",
-          "orig_title": "«Mission clandestine», camion de restauration et «avion-leurre» : les coulisses de la mystérieuse exfiltration de Donald Trump pour quitter la Turquie",
-          "lang": "fr",
-          "translated": true,
-          "access": "unknown"
         },
         {
           "outlet": "The Wall Street Journal",
           "region": "us",
           "lean": "right",
           "ownership": "private",
-          "title": "President Trump was secretly flown out of Turkey last month on a military jet after the U.S. government was told of an Iranian threat against the president and Air Force One",
-          "url": "https://www.wsj.com/politics/national-security/trump-was-secretly-transferred-to-military-jet-amid-threats-to-air-force-one-26900d0c?mod=rss_socialpoliticsfeed",
-          "published": "2026-08-11T20:24:00+00:00",
-          "orig_title": "President Trump was secretly flown out of Turkey last month on a military jet after the U.S. government was told of an Iranian threat against the president and Air Force One",
+          "title": "Rescue Teams in Colombia Dig Through Rubble to Pull Out Quake Victims",
+          "url": "https://www.wsj.com/world/americas/rescue-teams-in-colombia-dig-through-rubble-to-pull-out-quake-victims-ca1f1211?mod=rss_worldnews",
+          "published": "2026-08-11T19:33:00+00:00",
+          "orig_title": "Rescue Teams in Colombia Dig Through Rubble to Pull Out Quake Victims",
           "lang": "en",
           "translated": false,
           "access": "paywall"
+        },
+        {
+          "outlet": "TASS",
+          "region": "russia",
+          "lean": "state",
+          "ownership": "state",
+          "title": "Death toll from earthquake in Colombia up to 224",
+          "url": "https://tass.com/emergencies/2171431",
+          "published": "2026-08-11T13:04:28+00:00",
+          "orig_title": "Death toll from earthquake in Colombia up to 224",
+          "lang": "en",
+          "translated": false,
+          "access": "open",
+          "more": [
+            {
+              "outlet": "TASS",
+              "region": "russia",
+              "lean": "state",
+              "ownership": "state",
+              "title": "Colombia earthquake death toll rises to 169 — radio",
+              "url": "https://tass.com/society/2171401",
+              "published": "2026-08-11T11:52:47+00:00",
+              "orig_title": "Colombia earthquake death toll rises to 169 — radio",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            },
+            {
+              "outlet": "TASS",
+              "region": "russia",
+              "lean": "state",
+              "ownership": "state",
+              "title": "At least 239 people still trapped under rubble in Colombia’s Cali — mayor",
+              "url": "https://tass.com/emergencies/2171453",
+              "published": "2026-08-11T13:47:37+00:00",
+              "orig_title": "At least 239 people still trapped under rubble in Colombia’s Cali — mayor",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            }
+          ]
         }
       ]
     },
     {
-      "id": 298,
+      "id": 314,
       "topic": "World & Politics",
       "label": "Colombia · earthquake · dead",
       "title": "Scores dead in Colombia after powerful earthquake strikes west of country",
       "summary": "Quake of 7.4 magnitude collapses and severely damages buildings in several major cities, including Cali and Pereira More than 100 people died after a powerful earthquake struck western Colombia, colla",
-      "score": 8.466,
-      "n_outlets": 8,
-      "n_articles": 14,
+      "score": 10.431,
+      "n_outlets": 10,
+      "n_articles": 17,
       "regions": [
         "africa",
         "europe",
         "india",
         "japan",
+        "russia",
         "south_america",
         "us"
       ],
@@ -1136,7 +1127,22 @@
           "orig_title": "Scores dead in Colombia after powerful earthquake strikes west of country",
           "lang": "en",
           "translated": false,
-          "access": "open"
+          "access": "open",
+          "more": [
+            {
+              "outlet": "The Guardian",
+              "region": "europe",
+              "lean": "left",
+              "ownership": "private",
+              "title": "Colombia quake leaves more than 110 dead – as it happened",
+              "url": "https://www.theguardian.com/world/live/2026/aug/10/74-magnitude-earthquake-shakes-colombia-causing-serious-damage-latest-news",
+              "published": "2026-08-11T05:32:08+00:00",
+              "orig_title": "Colombia quake leaves more than 110 dead – as it happened",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            }
+          ]
         },
         {
           "outlet": "The Hindu",
@@ -1221,6 +1227,19 @@
           "access": "open"
         },
         {
+          "outlet": "Kommersant",
+          "region": "russia",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Colombia earthquake death toll rises to 132",
+          "url": "https://www.kommersant.ru/doc/8876776",
+          "published": "2026-08-11T00:50:49+00:00",
+          "orig_title": "До 132 выросло число погибших при землетрясении в Колумбии",
+          "lang": "ru",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
           "outlet": "Le Matin",
           "region": "africa",
           "lean": "center",
@@ -1290,6 +1309,19 @@
           ]
         },
         {
+          "outlet": "The Japan Times",
+          "region": "japan",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Colombia quake death toll climbs as civilians aid in rescue",
+          "url": "https://www.japantimes.co.jp/news/2026/08/11/world/colombia-earthquake/",
+          "published": "2026-08-11T09:32:00+00:00",
+          "orig_title": "Colombia quake death toll climbs as civilians aid in rescue",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall"
+        },
+        {
           "outlet": "Fox News",
           "region": "us",
           "lean": "right",
@@ -1305,12 +1337,12 @@
       ]
     },
     {
-      "id": 4,
+      "id": 35,
       "topic": "World & Politics",
       "label": "Iran · blockade · ship",
       "title": "U.S. Fires on Ship Breaking Its Blockade of Iran",
       "summary": "A U.S. military helicopter fired Hellfire missiles at a Panama-flagged vessel after its crew ignored warnings to abide by the blockade of Iranian ports.",
-      "score": 6.981,
+      "score": 6.906,
       "n_outlets": 6,
       "n_articles": 7,
       "regions": [
@@ -1423,12 +1455,12 @@
       ]
     },
     {
-      "id": 14,
+      "id": 42,
       "topic": "World & Politics",
       "label": "Lebanon · Arab · death",
       "title": "Lebanon becomes first Arab nation to abolish death penalty; Hezbollah votes against",
       "summary": "Als erstes arabisches Land streicht der Libanon die Todesstrafe aus seinem Strafrecht. Eine Mehrheit der 128 Abgeordneten stimmte für die Gesetzesänderung. Die Hisbollah-Fraktion votierte gegen die Ab",
-      "score": 6.965,
+      "score": 6.892,
       "n_outlets": 6,
       "n_articles": 6,
       "regions": [
@@ -1525,12 +1557,12 @@
       ]
     },
     {
-      "id": 26,
+      "id": 54,
       "topic": "World & Politics",
       "label": "president · Former · Hungary's",
       "title": "Hungary's parliament elects Orban critic as new president",
       "summary": "Hungary's parliament has overwhelmingly confirmed Andras Baka, formerly the head of the Supreme Court, to the largely ceremonial role of president. New Prime Minister Peter Magyar controversially remo",
-      "score": 6.961,
+      "score": 6.887,
       "n_outlets": 6,
       "n_articles": 8,
       "regions": [
@@ -1654,156 +1686,128 @@
       ]
     },
     {
-      "id": 127,
+      "id": 262,
       "topic": "World & Politics",
-      "label": "Hormuz · Iran · Strait",
-      "title": "Middle East standoff: Why Gulf states may accept that Iran will control the Strait of Hormuz",
-      "summary": "Gulf energy producers have acknowledged Iran's assertion of control over the critical Strait of Hormuz. This development occurs amidst attempts to resume passage through this essential route, which ar",
-      "score": 6.737,
+      "label": "Ukraine · Russia · Russian",
+      "title": "Ukraine drone strike on oil refinery deep inside Russia kills at least 13",
+      "summary": "Attack hundreds of miles from border would be among deadliest of war as Kyiv aims to strangle Russian economy A Ukrainian drone strike on an industrial city deep inside Russia has killed at least 13 p",
+      "score": 6.508,
       "n_outlets": 6,
-      "n_articles": 9,
+      "n_articles": 7,
       "regions": [
-        "china",
+        "europe",
         "india",
         "russia",
         "us"
       ],
-      "last_seen": "2026-08-11T17:49:16+00:00",
+      "last_seen": "2026-08-11T14:18:05+00:00",
       "leans": [
         "center",
-        "left",
-        "right",
-        "state"
+        "left"
       ],
       "sources": [
+        {
+          "outlet": "The Guardian",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Ukraine drone strike on oil refinery deep inside Russia kills at least 13",
+          "url": "https://www.theguardian.com/world/2026/aug/10/ukraine-drone-strike-on-oil-refinery-russia",
+          "published": "2026-08-10T16:25:30+00:00",
+          "orig_title": "Ukraine drone strike on oil refinery deep inside Russia kills at least 13",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "The Hindu",
+          "region": "india",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Ukrainian drone attack on Russian city of Nizhnekamsk kills 13, authorities say",
+          "url": "https://www.thehindu.com/news/international/ukrainian-drone-attack-on-the-russian-city-of-nizhnekamsk-kills-13-authorities-say/article71328013.ece",
+          "published": "2026-08-10T11:48:29+00:00",
+          "orig_title": "Ukrainian drone attack on Russian city of Nizhnekamsk kills 13, authorities say",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
         {
           "outlet": "The New York Times",
           "region": "us",
           "lean": "left",
           "ownership": "private",
-          "title": "Iran Insists Strait of Hormuz Will Stay Closed Until Trump Agrees to Demands",
-          "url": "https://www.nytimes.com/2026/08/10/world/middleeast/iran-strait-of-hormuz-us-oman-talks.html",
-          "published": "2026-08-10T15:18:29+00:00",
-          "orig_title": "Iran Insists Strait of Hormuz Will Stay Closed Until Trump Agrees to Demands",
+          "title": "Ukraine Drone Attack on Industrial City in Russia Kills at Least 13",
+          "url": "https://www.nytimes.com/2026/08/10/world/europe/ukraine-drone-attack-russia.html",
+          "published": "2026-08-10T15:17:41+00:00",
+          "orig_title": "Ukraine Drone Attack on Industrial City in Russia Kills at Least 13",
           "lang": "en",
           "translated": false,
           "access": "paywall"
         },
         {
-          "outlet": "Kommersant",
-          "region": "russia",
+          "outlet": "Deutsche Welle",
+          "region": "europe",
           "lean": "center",
-          "ownership": "private",
-          "title": "Iran vows to maintain blockade of Strait of Hormuz",
-          "url": "https://www.kommersant.ru/doc/8877487",
-          "published": "2026-08-11T17:24:53+00:00",
-          "orig_title": "Иран намерен сохранять блокаду Ормузского пролива",
-          "lang": "ru",
-          "translated": true,
-          "access": "unknown"
-        },
-        {
-          "outlet": "South China Morning Post",
-          "region": "china",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Brics’ ‘stiffest test’: can India, China rally bloc to resolve Strait of Hormuz crisis?",
-          "url": "https://www.scmp.com/week-asia/politics/article/3363590/brics-stiffest-test-can-india-china-rally-bloc-resolve-strait-hormuz-crisis?utm_source=rss_feed",
-          "published": "2026-08-11T05:30:09+00:00",
-          "orig_title": "Brics’ ‘stiffest test’: can India, China rally bloc to resolve Strait of Hormuz crisis?",
+          "ownership": "public",
+          "title": "Bulgaria drone crash a wake-up call for country's defenses",
+          "url": "https://www.dw.com/en/bulgaria-drone-crash-a-wake-up-call-for-country-s-defenses/a-78320070?maca=en-rss-en-world-4025-rdf",
+          "published": "2026-08-11T11:46:00+00:00",
+          "orig_title": "Bulgaria drone crash a wake-up call for country's defenses",
           "lang": "en",
           "translated": false,
           "access": "open"
         },
         {
-          "outlet": "Times of India",
-          "region": "india",
+          "outlet": "Meduza",
+          "region": "russia",
           "lean": "center",
           "ownership": "private",
-          "title": "Middle East standoff: Why Gulf states may accept that Iran will control the Strait of Hormuz",
-          "url": "https://timesofindia.indiatimes.com/world/middle-east/middle-east-standoff-why-gulf-states-may-accept-that-iran-will-control-the-strait-of-hormuz/articleshow/133161794.cms",
-          "published": "2026-08-11T17:49:16+00:00",
-          "orig_title": "Middle East standoff: Why Gulf states may accept that Iran will control the Strait of Hormuz",
+          "title": "Ukrainian drones again strike Wildberries warehouse in Russia, killing one, injuring several",
+          "url": "https://meduza.io/en/news/2026/08/11/ukrainian-drones-again-strike-wildberries-warehouse-in-russia-killing-one-injuring-several",
+          "published": "2026-08-11T08:33:59+00:00",
+          "orig_title": "Ukrainian drones again strike Wildberries warehouse in Russia, killing one, injuring several",
           "lang": "en",
           "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "The Wall Street Journal",
-          "region": "us",
-          "lean": "right",
-          "ownership": "private",
-          "title": "Gulf States Accept a New Normal in Hormuz: Iran Is in Control",
-          "url": "https://www.wsj.com/world/middle-east/gulf-states-accept-a-new-normal-in-hormuz-iran-is-in-control-6db8908d?mod=rss_worldnews",
-          "published": "2026-08-11T00:00:00+00:00",
-          "orig_title": "Gulf States Accept a New Normal in Hormuz: Iran Is in Control",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
-        },
-        {
-          "outlet": "TASS",
-          "region": "russia",
-          "lean": "state",
-          "ownership": "state",
-          "title": "Oman-Iran negotiations on Strait of Hormuz at critical juncture — Qatar's Foreign Ministry",
-          "url": "https://tass.com/world/2171371",
-          "published": "2026-08-11T11:08:43+00:00",
-          "orig_title": "Oman-Iran negotiations on Strait of Hormuz at critical juncture — Qatar's Foreign Ministry",
-          "lang": "en",
-          "translated": false,
-          "access": "open",
+          "access": "unknown",
           "more": [
             {
-              "outlet": "TASS",
+              "outlet": "Meduza",
               "region": "russia",
-              "lean": "state",
-              "ownership": "state",
-              "title": "Qatar notes positive statements by Iran, Oman on Hormuz",
-              "url": "https://tass.com/world/2171363",
-              "published": "2026-08-11T11:17:32+00:00",
-              "orig_title": "Qatar notes positive statements by Iran, Oman on Hormuz",
+              "lean": "center",
+              "ownership": "private",
+              "title": "What really happens after Ukraine strikes a Russian oil refinery? Meduza analyzed unique satellite data to assess the damage.",
+              "url": "https://meduza.io/en/feature/2026/08/11/what-really-happens-after-ukraine-strikes-a-russian-oil-refinery-meduza-analyzed-unique-satellite-data-to-assess-the-damage",
+              "published": "2026-08-11T14:18:05+00:00",
+              "orig_title": "What really happens after Ukraine strikes a Russian oil refinery? Meduza analyzed unique satellite data to assess the damage.",
               "lang": "en",
               "translated": false,
-              "access": "open"
-            },
-            {
-              "outlet": "TASS",
-              "region": "russia",
-              "lean": "state",
-              "ownership": "state",
-              "title": "Qatar rejects using Strait of Hormuz as an instrument of political pressure",
-              "url": "https://tass.com/world/2171405",
-              "published": "2026-08-11T11:57:02+00:00",
-              "orig_title": "Qatar rejects using Strait of Hormuz as an instrument of political pressure",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
-            },
-            {
-              "outlet": "TASS",
-              "region": "russia",
-              "lean": "state",
-              "ownership": "state",
-              "title": "Iran offers Turkmenistan to strengthen transport cooperation between Caspian Sea ports",
-              "url": "https://tass.com/world/2171541",
-              "published": "2026-08-11T16:51:07+00:00",
-              "orig_title": "Iran offers Turkmenistan to strengthen transport cooperation between Caspian Sea ports",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
+              "access": "unknown"
             }
           ]
+        },
+        {
+          "outlet": "The Moscow Times",
+          "region": "russia",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Ukraine Reportedly Strikes Russia’s Largest Petrochemical Plant in Western Siberia",
+          "url": "https://www.themoscowtimes.com/2026/08/10/ukraine-reportedly-strikes-russias-largest-petrochemical-plantin-western-siberia-a93451",
+          "published": "2026-08-10T14:30:00+00:00",
+          "orig_title": "Ukraine Reportedly Strikes Russia’s Largest Petrochemical Plant in Western Siberia",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
         }
       ]
     },
     {
-      "id": 74,
+      "id": 96,
       "topic": "World & Politics",
       "label": "Ukraine · Russia · North",
       "title": "Ukraine says Russia fired North Korean missiles in deadly attack",
       "summary": "The allegation comes after Ukrainian President Volodymyr Zelensky warned — without providing evidence — that Moscow was receiving more ballistic projectiles and troops from its ally Pyongyang",
-      "score": 5.848,
+      "score": 5.784,
       "n_outlets": 5,
       "n_articles": 6,
       "regions": [
@@ -1902,40 +1906,25 @@
       ]
     },
     {
-      "id": 2,
+      "id": 8,
       "topic": "Economics",
       "label": "Iran · Trump · Pressure",
       "title": "Trump bets economic pressure can squeeze Iran as regime’s own failures deepen the pain",
       "summary": "President Donald Trump says he is &quot;low-keying it&quot; with Iran as sanctions and a naval blockade compound Tehran&apos;s financial crisis and inflation.",
-      "score": 6.986,
-      "n_outlets": 6,
-      "n_articles": 10,
+      "score": 4.969,
+      "n_outlets": 4,
+      "n_articles": 7,
       "regions": [
-        "europe",
         "india",
-        "japan",
         "us"
       ],
-      "last_seen": "2026-08-11T21:19:00+00:00",
+      "last_seen": "2026-08-11T22:03:00+00:00",
       "leans": [
         "center",
         "left",
         "right"
       ],
       "sources": [
-        {
-          "outlet": "The Guardian",
-          "region": "europe",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Trump demands Iran pay compensation for decades of US soldier deaths",
-          "url": "https://www.theguardian.com/world/2026/aug/10/trump-demands-iran-pay-compensation-for-decades-of-us-soldier-deaths",
-          "published": "2026-08-10T20:45:52+00:00",
-          "orig_title": "Trump demands Iran pay compensation for decades of US soldier deaths",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
         {
           "outlet": "The Hindu",
           "region": "india",
@@ -1948,19 +1937,6 @@
           "lang": "en",
           "translated": false,
           "access": "open"
-        },
-        {
-          "outlet": "The Japan Times",
-          "region": "japan",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Trump makes sweeping new demands on Iran as deal hopes dim",
-          "url": "https://www.japantimes.co.jp/news/2026/08/11/world/politics/trump-demands-iran-deal-hopes/",
-          "published": "2026-08-11T01:18:00+00:00",
-          "orig_title": "Trump makes sweeping new demands on Iran as deal hopes dim",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
         },
         {
           "outlet": "Times of India",
@@ -2019,19 +1995,6 @@
               "region": "us",
               "lean": "right",
               "ownership": "private",
-              "title": "Opinion | Trump’s Blockade Keeps the Economic Pressure on Iran",
-              "url": "https://www.wsj.com/opinion/donald-trump-iran-regime-deal-blockade-81d54ad2?mod=rss_worldnews",
-              "published": "2026-08-10T22:01:00+00:00",
-              "orig_title": "Opinion | Trump’s Blockade Keeps the Economic Pressure on Iran",
-              "lang": "en",
-              "translated": false,
-              "access": "paywall"
-            },
-            {
-              "outlet": "The Wall Street Journal",
-              "region": "us",
-              "lean": "right",
-              "ownership": "private",
               "title": "Iran Preps for Worsening Economic Malaise to Withstand Trump’s Pressure",
               "url": "https://www.wsj.com/finance/investing/iran-preps-for-worsening-economic-malaise-to-withstand-trumps-pressure-a60276c6?mod=rss_markets_main",
               "published": "2026-08-11T21:19:00+00:00",
@@ -2045,10 +2008,10 @@
               "region": "us",
               "lean": "right",
               "ownership": "private",
-              "title": "The U.S. and Israeli militaries have pounded Iran hard for more than five months, but Iran is using the Strait of Hormuz as its final point of leverage. Read more in today’s WSJ Politics Newsletter:",
-              "url": "https://www.wsj.com/politics/elections/why-is-iran-acting-like-it-is-holding-all-the-cards-in-hormuz-talks-904df972?mod=rss_socialpoliticsfeed",
-              "published": "2026-08-10T11:10:00+00:00",
-              "orig_title": "The U.S. and Israeli militaries have pounded Iran hard for more than five months, but Iran is using the Strait of Hormuz as its final point of leverage. Read more in today’s WSJ Politics Newsletter:",
+              "title": "Opinion | Iran’s Trump Strategy—Dead or Alive",
+              "url": "https://www.wsj.com/opinion/donald-trump-iran-threat-air-force-one-irgc-8eb67a1f?mod=rss_worldnews",
+              "published": "2026-08-11T22:03:00+00:00",
+              "orig_title": "Opinion | Iran’s Trump Strategy—Dead or Alive",
               "lang": "en",
               "translated": false,
               "access": "paywall"
@@ -2058,12 +2021,12 @@
       ]
     },
     {
-      "id": 92,
+      "id": 114,
       "topic": "Economics",
       "label": "Coalition · gambling · VIP",
       "title": "Coalition divided over tougher gambling laws – with MPs warning Angus Taylor against overreach",
       "summary": "Some Liberal and National MPs warn against overregulation in party-room discussion, while others argue for more stringent rules Follow our Australia news live blog for latest updates Get our breaking ",
-      "score": 3.814,
+      "score": 3.752,
       "n_outlets": 3,
       "n_articles": 3,
       "regions": [
@@ -2118,12 +2081,58 @@
       ]
     },
     {
-      "id": 30,
+      "id": 21,
+      "topic": "Economics",
+      "label": "North · Korea · missile",
+      "title": "North Korea likely fired ballistic missile that may have already fallen, Defense Ministry says",
+      "summary": "North Korea likely fired ballistic missile that may have already fallen, Defense Ministry says",
+      "score": 2.943,
+      "n_outlets": 2,
+      "n_articles": 2,
+      "regions": [
+        "japan"
+      ],
+      "last_seen": "2026-08-11T21:44:00+00:00",
+      "leans": [
+        "center",
+        "left"
+      ],
+      "sources": [
+        {
+          "outlet": "Asahi Shimbun",
+          "region": "japan",
+          "lean": "left",
+          "ownership": "private",
+          "title": "North Korea likely fired ballistic missile that may have already fallen, Defense Ministry says",
+          "url": "http://www.asahi.com/articles/ASV8C7424V8CUTIL001M.html?ref=rss",
+          "published": "2026-08-11T21:30:39+00:00",
+          "orig_title": "北朝鮮から弾道ミサイルの可能性あるもの発射、すでに落下か 防衛省",
+          "lang": "ja",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
+          "outlet": "The Japan Times",
+          "region": "japan",
+          "lean": "center",
+          "ownership": "private",
+          "title": "North Korea fires off second missile in less than a week",
+          "url": "https://www.japantimes.co.jp/news/2026/08/12/asia-pacific/north-korea-missile-firing/",
+          "published": "2026-08-11T21:44:00+00:00",
+          "orig_title": "North Korea fires off second missile in less than a week",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall"
+        }
+      ]
+    },
+    {
+      "id": 57,
       "topic": "Economics",
       "label": "China · Private-Credit · Firms",
       "title": "US faults China over opaque overseas lending, warns of emerging-market debt risks",
       "summary": "The United States has stepped up scrutiny of China’s overseas lending, warning that the lack of transparency surrounding Chinese loans could increase the risk of unexpected defaults and debt restructu",
-      "score": 2.955,
+      "score": 2.882,
       "n_outlets": 2,
       "n_articles": 3,
       "regions": [
@@ -2180,12 +2189,12 @@
       ]
     },
     {
-      "id": 405,
+      "id": 416,
       "topic": "Economics",
       "label": "More · Truth · Social",
       "title": "More than 10 firms pay up to $100,000 a month for fast access to Truth Social posts",
       "summary": "Trump Media expects the controversial service, which launched this month, to provide a new revenue stream, as it posts a quarterly loss.",
-      "score": 2.329,
+      "score": 2.304,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -2227,12 +2236,12 @@
       ]
     },
     {
-      "id": 0,
+      "id": 32,
       "topic": "Economics",
       "label": "Stocks · U.S. · Oil",
       "title": "U.S. Stocks Fade for a Second Straight Session, Oil Rises",
       "summary": "As investors wait for Wednesday’s inflation data, many remain cautious; “sleep with one eye open, hold your pillow tight.”",
-      "score": 1.991,
+      "score": 1.915,
       "n_outlets": 1,
       "n_articles": 4,
       "regions": [
@@ -2300,12 +2309,12 @@
       ]
     },
     {
-      "id": 50,
+      "id": 73,
       "topic": "Economics",
       "label": "Tributes · John · Pye",
       "title": "Tributes to co-founder of John Pye auction house",
       "summary": "A statement issued by the firm said \"John lived a fantastic life full of laughter and hard work\".",
-      "score": 1.912,
+      "score": 1.843,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -2332,12 +2341,12 @@
       ]
     },
     {
-      "id": 56,
+      "id": 79,
       "topic": "Economics",
       "label": "Growth · Outlook · Peru",
       "title": "Peru Raises 2026 Growth Outlook to 3.5%; Minister Cites Possible 4%",
       "summary": "Peru’s MEF raised its 2026 growth outlook to 3.5%, with the economy minister citing potential for 4%, while reiterating five-year targets on poverty and informality. The post Peru Raises 2026 Growth O",
-      "score": 1.891,
+      "score": 1.823,
       "n_outlets": 1,
       "n_articles": 2,
       "regions": [
@@ -2379,12 +2388,12 @@
       ]
     },
     {
-      "id": 102,
+      "id": 123,
       "topic": "Economics",
       "label": "CIBN · MSMEs · Nigeria",
       "title": "Tinubu approves framework to unlock $50bn deep offshore investment",
       "summary": "President Bola Tinubu has approved a new investment framework aimed at unlocking up to $50 billion in deep offshore oil and gas investments and reviving major projects that have remained stalled for y",
-      "score": 1.797,
+      "score": 1.736,
       "n_outlets": 1,
       "n_articles": 2,
       "regions": [
@@ -2426,12 +2435,12 @@
       ]
     },
     {
-      "id": 153,
+      "id": 172,
       "topic": "Economics",
       "label": "Heat · Fire · Smoke",
       "title": "Heat, Fire, Smoke and Storms Are Wreaking Havoc on the Economy",
       "summary": "Businesses are reckoning with the financial toll of this year’s brutal climate shocks.",
-      "score": 1.687,
+      "score": 1.635,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -2458,44 +2467,12 @@
       ]
     },
     {
-      "id": 156,
-      "topic": "Economics",
-      "label": "State · Bank · India",
-      "title": "State Bank of India returns to dollar debt market, bankers see strong demand",
-      "summary": "State Bank of India returns to dollar debt market, bankers see strong demand",
-      "score": 1.685,
-      "n_outlets": 1,
-      "n_articles": 1,
-      "regions": [
-        "india"
-      ],
-      "last_seen": "2026-08-11T16:56:48+00:00",
-      "leans": [
-        "left"
-      ],
-      "sources": [
-        {
-          "outlet": "The Hindu",
-          "region": "india",
-          "lean": "left",
-          "ownership": "private",
-          "title": "State Bank of India returns to dollar debt market, bankers see strong demand",
-          "url": "https://www.thehindu.com/business/Economy/state-bank-of-india-returns-to-dollar-debt-market-bankers-see-strong-demand/article71333738.ece",
-          "published": "2026-08-11T16:56:48+00:00",
-          "orig_title": "State Bank of India returns to dollar debt market, bankers see strong demand",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        }
-      ]
-    },
-    {
-      "id": 278,
+      "id": 293,
       "topic": "Trading & Markets",
       "label": "Nvidia · Wall · Street",
       "title": "Wall Street giants hand Nvidia $500bn to fund boom in AI projects",
       "summary": "The money will be used to develop new data centres to house, operate, and cool miles of stacked computer chips that process AI data and actions.",
-      "score": 4.496,
+      "score": 4.458,
       "n_outlets": 4,
       "n_articles": 5,
       "regions": [
@@ -2579,12 +2556,12 @@
       ]
     },
     {
-      "id": 103,
+      "id": 124,
       "topic": "Trading & Markets",
       "label": "Liverpool · Bezos · Among",
       "title": "Bezos Is Among Investors Nearing Deal for Stake in Liverpool Soccer Team",
       "summary": "Investors aim for an agreement with Fenway Sports Group at an $8 billion valuation, with an option to acquire the rest of the team.",
-      "score": 3.794,
+      "score": 3.734,
       "n_outlets": 3,
       "n_articles": 4,
       "regions": [
@@ -2655,12 +2632,12 @@
       ]
     },
     {
-      "id": 196,
+      "id": 214,
       "topic": "Trading & Markets",
       "label": "French · nuclear · plant",
       "title": "Jellyfish force shutdown of 3 reactors at French nuclear power plant",
       "summary": "A nuclear plant in northern France shut down three reactors after a swarm of jellyfish clogged pumps used to cool the units, energy group EDF said on Tuesday. Three reactors were taken offline on Mond",
-      "score": 3.62,
+      "score": 3.573,
       "n_outlets": 3,
       "n_articles": 3,
       "regions": [
@@ -2715,18 +2692,18 @@
       ]
     },
     {
-      "id": 100,
+      "id": 3,
       "topic": "Trading & Markets",
       "label": "Brad · Lightcap · OpenAI",
-      "title": "Longtime OpenAI Exec Brad Lightcap to Step Down",
-      "summary": "The AI company’s former COO said he was leaving to “start something new.”",
-      "score": 2.805,
+      "title": "Brad Lightcap, a Top OpenAI Executive, Steps Down",
+      "summary": "Brad Lightcap, a longtime leader, said he was starting a new venture. His exit from the artificial intelligence company is the latest in a series there.",
+      "score": 2.974,
       "n_outlets": 2,
       "n_articles": 3,
       "regions": [
         "us"
       ],
-      "last_seen": "2026-08-11T18:52:32+00:00",
+      "last_seen": "2026-08-11T22:07:22+00:00",
       "leans": [
         "left",
         "right"
@@ -2739,7 +2716,7 @@
           "ownership": "private",
           "title": "Brad Lightcap, a Top OpenAI Executive, Steps Down",
           "url": "https://www.nytimes.com/2026/08/11/technology/brad-lightcap-openai.html",
-          "published": "2026-08-11T18:52:32+00:00",
+          "published": "2026-08-11T22:07:22+00:00",
           "orig_title": "Brad Lightcap, a Top OpenAI Executive, Steps Down",
           "lang": "en",
           "translated": false,
@@ -2776,12 +2753,59 @@
       ]
     },
     {
-      "id": 109,
+      "id": 16,
+      "topic": "Trading & Markets",
+      "label": "When · reshapes · traditional",
+      "title": "When politicians read speeches written by AI: the era of ventriloquist technology",
+      "summary": "Cuando un representante público pide a una inteligencia artificial que le escriba un discurso, cede el control y la formulación de sus ideas a empresas privadas que amenazan con robarnos la voz, la ra",
+      "score": 2.953,
+      "n_outlets": 2,
+      "n_articles": 2,
+      "regions": [
+        "europe",
+        "us"
+      ],
+      "last_seen": "2026-08-11T21:51:03+00:00",
+      "leans": [
+        "center",
+        "left"
+      ],
+      "sources": [
+        {
+          "outlet": "El Pais",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "When politicians read speeches written by AI: the era of ventriloquist technology",
+          "url": "https://elpais.com/ideas/2026-08-11/cuando-los-politicos-leen-discursos-escritos-con-ia-la-era-de-la-tecnologia-ventrilocua.html",
+          "published": "2026-08-11T03:30:00+00:00",
+          "orig_title": "Cuando los políticos leen discursos escritos con IA: la era de la tecnología ventrílocua",
+          "lang": "es",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
+          "outlet": "The Hill",
+          "region": "us",
+          "lean": "center",
+          "ownership": "private",
+          "title": "AI reshapes traditional campaign strategies",
+          "url": "https://thehill.com/newsletters/technology/6023643-ai-reshapes-traditional-campaign-strategies/",
+          "published": "2026-08-11T21:51:03+00:00",
+          "orig_title": "AI reshapes traditional campaign strategies",
+          "lang": "en",
+          "translated": false,
+          "access": "unknown"
+        }
+      ]
+    },
+    {
+      "id": 130,
       "topic": "Trading & Markets",
       "label": "Silver · Falls · Traders",
       "title": "Silver Falls, But Traders Anticipate a Demand Lift",
       "summary": "Gold settled 0.5% higher, up for a third-consecutive session, while silver fell 0.5%, snapping a two-session winning streak.",
-      "score": 2.773,
+      "score": 2.714,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -2823,12 +2847,12 @@
       ]
     },
     {
-      "id": 110,
+      "id": 131,
       "topic": "Trading & Markets",
       "label": "Man · Canada · Custody",
       "title": "Man charged with bomb threat against US consulate in Canada",
       "summary": "Canadian police on Tuesday charged a man with making a bomb threat against the US consulate in Halifax, the latest security incident involving an American diplomatic post in Canada after two shootings",
-      "score": 2.77,
+      "score": 2.711,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -2870,32 +2894,33 @@
       ]
     },
     {
-      "id": 539,
+      "id": 467,
       "topic": "Trading & Markets",
-      "label": "Meta · Unveils · Open",
-      "title": "Meta Unveils an Open Version of Its Most Powerful A.I. Model",
-      "summary": "The release of Muse Glimmer, a model that can be freely downloaded and modified, is likely to intensify a debate over whether A.I. should be restricted.",
-      "score": 2.101,
+      "label": "Treasury · U.S. · Yields",
+      "title": "U.S. Treasury chief’s ‘whatever it takes’ vow to help yen masks limited firepower",
+      "summary": "Japan's currency slid as much as 1% Monday to past ¥159 per dollar, wiping out half the rally triggered by the July 31 U.S.-Japan intervention.",
+      "score": 2.234,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
+        "japan",
         "us"
       ],
-      "last_seen": "2026-08-10T18:00:55+00:00",
+      "last_seen": "2026-08-11T05:01:00+00:00",
       "leans": [
-        "left",
+        "center",
         "right"
       ],
       "sources": [
         {
-          "outlet": "The New York Times",
-          "region": "us",
-          "lean": "left",
+          "outlet": "The Japan Times",
+          "region": "japan",
+          "lean": "center",
           "ownership": "private",
-          "title": "Meta Unveils an Open Version of Its Most Powerful A.I. Model",
-          "url": "https://www.nytimes.com/2026/08/10/technology/meta-ai-open-source.html",
-          "published": "2026-08-10T18:00:55+00:00",
-          "orig_title": "Meta Unveils an Open Version of Its Most Powerful A.I. Model",
+          "title": "U.S. Treasury chief’s ‘whatever it takes’ vow to help yen masks limited firepower",
+          "url": "https://www.japantimes.co.jp/business/2026/08/11/bessent-yen-limited-firepower/",
+          "published": "2026-08-11T05:01:00+00:00",
+          "orig_title": "U.S. Treasury chief’s ‘whatever it takes’ vow to help yen masks limited firepower",
           "lang": "en",
           "translated": false,
           "access": "paywall"
@@ -2905,10 +2930,10 @@
           "region": "us",
           "lean": "right",
           "ownership": "private",
-          "title": "Meta Shares Glimmer of Always-On AI Future",
-          "url": "https://www.wsj.com/cio-journal/the-morning-download-meta-shares-glimmer-of-always-on-ai-future-6fe21e9f?mod=rss_Technology",
-          "published": "2026-08-10T12:53:00+00:00",
-          "orig_title": "Meta Shares Glimmer of Always-On AI Future",
+          "title": "Treasury Yields, Dollar Rise Further Alongside Oil Prices",
+          "url": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-may-be-buoyed-by-reduced-fed-rate-hike-prospects-ac0ca68d?mod=rss_markets_main",
+          "published": "2026-08-10T17:55:00+00:00",
+          "orig_title": "Treasury Yields, Dollar Rise Further Alongside Oil Prices",
           "lang": "en",
           "translated": false,
           "access": "paywall"
@@ -2916,18 +2941,18 @@
       ]
     },
     {
-      "id": 8,
+      "id": 14,
       "topic": "Trading & Markets",
-      "label": "CoreWeave · Shares · Jump",
-      "title": "CoreWeave Shares Jump 12% as Revenue Doubles From Year Earlier",
-      "summary": "Mounting order book of $104 billion shows strong demand for cloud computing despite infrastructure challenges and AI-bubble fears.",
-      "score": 1.976,
+      "label": "WSJ · Dollar · Index",
+      "title": "WSJ Dollar Index Falls 0.001% to 96.15",
+      "summary": "The WSJ Dollar Index ended Tuesday’s session flat.",
+      "score": 1.959,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
         "us"
       ],
-      "last_seen": "2026-08-11T21:11:00+00:00",
+      "last_seen": "2026-08-11T21:56:00+00:00",
       "leans": [
         "right"
       ],
@@ -2937,10 +2962,10 @@
           "region": "us",
           "lean": "right",
           "ownership": "private",
-          "title": "CoreWeave Shares Jump 12% as Revenue Doubles From Year Earlier",
-          "url": "https://www.wsj.com/tech/ai/coreweave-earnings-q2-2026-crwv-stock-50f6fb00?mod=rss_Technology",
-          "published": "2026-08-11T21:11:00+00:00",
-          "orig_title": "CoreWeave Shares Jump 12% as Revenue Doubles From Year Earlier",
+          "title": "WSJ Dollar Index Falls 0.001% to 96.15",
+          "url": "https://www.wsj.com/finance/currencies/yen-strengthens-slightly-amid-prospects-of-coordinated-intervention-09589883?mod=rss_markets_main",
+          "published": "2026-08-11T21:56:00+00:00",
+          "orig_title": "WSJ Dollar Index Falls 0.001% to 96.15",
           "lang": "en",
           "translated": false,
           "access": "paywall"
@@ -2948,50 +2973,18 @@
       ]
     },
     {
-      "id": 42,
+      "id": 17,
       "topic": "Trading & Markets",
-      "label": "German · Tyrol · hiker",
-      "title": "German hiker dies after falling down steep cliff in Tyrol",
-      "summary": "Mit Hubschrauber, Drohne, Suchhunden und Bergrettern wurde in Tirol nach einem 74-jährigen Deutschen gesucht. Am nächsten Morgen entdeckten Einsatzkräfte den Wanderer leblos auf rund 2300 Metern Höhe.",
-      "score": 1.918,
+      "label": "Roundup · Market · Talk",
+      "title": "Auto & Transport Roundup: Market Talk",
+      "summary": "Find insight on EV prices, new vehicle prices and more in the latest Market Talks covering auto and transport.",
+      "score": 1.951,
       "n_outlets": 1,
-      "n_articles": 1,
-      "regions": [
-        "europe"
-      ],
-      "last_seen": "2026-08-11T20:26:49+00:00",
-      "leans": [
-        "right"
-      ],
-      "sources": [
-        {
-          "outlet": "Die Welt",
-          "region": "europe",
-          "lean": "right",
-          "ownership": "private",
-          "title": "German hiker dies after falling down steep cliff in Tyrol",
-          "url": "https://www.welt.de/vermischtes/article6a7b846d0e3689919ec78508/tirol-deutscher-wanderer-stuerzt-in-tirol-ueber-steile-felswaende-in-den-tod.html",
-          "published": "2026-08-11T20:26:49+00:00",
-          "orig_title": "Deutscher Wanderer stürzt in Tirol über steile Felswände in den Tod",
-          "lang": "de",
-          "translated": true,
-          "access": "unknown"
-        }
-      ]
-    },
-    {
-      "id": 52,
-      "topic": "Trading & Markets",
-      "label": "Yen · Intervention · Wears",
-      "title": "Opinion | Will the Yen Need Saving Again Soon?",
-      "summary": "The effects of a recent government action already are fading.",
-      "score": 1.903,
-      "n_outlets": 1,
-      "n_articles": 2,
+      "n_articles": 5,
       "regions": [
         "us"
       ],
-      "last_seen": "2026-08-11T20:15:00+00:00",
+      "last_seen": "2026-08-11T21:50:00+00:00",
       "leans": [
         "right"
       ],
@@ -3001,10 +2994,10 @@
           "region": "us",
           "lean": "right",
           "ownership": "private",
-          "title": "Opinion | Will the Yen Need Saving Again Soon?",
-          "url": "https://www.wsj.com/opinion/bank-of-japan-yen-treasury-kazuo-ueda-6b37ad3a?mod=rss_worldnews",
-          "published": "2026-08-11T06:44:00+00:00",
-          "orig_title": "Opinion | Will the Yen Need Saving Again Soon?",
+          "title": "Auto & Transport Roundup: Market Talk",
+          "url": "https://www.wsj.com/business/auto-transport-roundup-market-talk-1303721d?mod=rss_markets_main",
+          "published": "2026-08-11T21:41:00+00:00",
+          "orig_title": "Auto & Transport Roundup: Market Talk",
           "lang": "en",
           "translated": false,
           "access": "paywall",
@@ -3014,10 +3007,49 @@
               "region": "us",
               "lean": "right",
               "ownership": "private",
-              "title": "Yen Intervention Wears Off",
-              "url": "https://www.wsj.com/finance/yen-intervention-wears-off-9a4fff02?mod=rss_markets_main",
-              "published": "2026-08-11T20:15:00+00:00",
-              "orig_title": "Yen Intervention Wears Off",
+              "title": "Energy & Utilities Roundup: Market Talk",
+              "url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-7d1f73ca?mod=rss_markets_main",
+              "published": "2026-08-11T21:36:00+00:00",
+              "orig_title": "Energy & Utilities Roundup: Market Talk",
+              "lang": "en",
+              "translated": false,
+              "access": "paywall"
+            },
+            {
+              "outlet": "The Wall Street Journal",
+              "region": "us",
+              "lean": "right",
+              "ownership": "private",
+              "title": "Basic Materials Roundup: Market Talk",
+              "url": "https://www.wsj.com/business/basic-materials-roundup-market-talk-22f39867?mod=rss_markets_main",
+              "published": "2026-08-11T21:28:00+00:00",
+              "orig_title": "Basic Materials Roundup: Market Talk",
+              "lang": "en",
+              "translated": false,
+              "access": "paywall"
+            },
+            {
+              "outlet": "The Wall Street Journal",
+              "region": "us",
+              "lean": "right",
+              "ownership": "private",
+              "title": "Financial Services Roundup: Market Talk",
+              "url": "https://www.wsj.com/business/financial-services-roundup-market-talk-4559d59b?mod=rss_markets_main",
+              "published": "2026-08-11T21:50:00+00:00",
+              "orig_title": "Financial Services Roundup: Market Talk",
+              "lang": "en",
+              "translated": false,
+              "access": "paywall"
+            },
+            {
+              "outlet": "The Wall Street Journal",
+              "region": "us",
+              "lean": "right",
+              "ownership": "private",
+              "title": "Tech, Media & Telecom Roundup: Market Talk",
+              "url": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-8717236d?mod=rss_markets_main",
+              "published": "2026-08-11T21:28:00+00:00",
+              "orig_title": "Tech, Media & Telecom Roundup: Market Talk",
               "lang": "en",
               "translated": false,
               "access": "paywall"
@@ -3027,12 +3059,12 @@
       ]
     },
     {
-      "id": 365,
+      "id": 378,
       "topic": "Science",
       "label": "Trump · vaccines · childhood",
       "title": "Trump pushes overhaul of US policy on vaccines for children",
       "summary": "In an executive order, President Trump calls for fewer recommended childhood vaccinations and more spacing between shots. Medical experts say the changes lack scientific backing and could leave childr",
-      "score": 6.384,
+      "score": 6.355,
       "n_outlets": 6,
       "n_articles": 6,
       "regions": [
@@ -3129,12 +3161,12 @@
       ]
     },
     {
-      "id": 134,
+      "id": 155,
       "topic": "Science",
       "label": "Solar · eclipse · Eclipse",
       "title": "How to safely watch the solar eclipse",
       "summary": "On August 12, the moon will pass in front of the sun, completely obscuring it in a solar eclipse.&nbsp;According to Nasa, parts of Greenland, Iceland, Spain, Russia and Portugal will experience a tota",
-      "score": 5.727,
+      "score": 5.671,
       "n_outlets": 5,
       "n_articles": 8,
       "regions": [
@@ -3257,12 +3289,12 @@
       ]
     },
     {
-      "id": 19,
+      "id": 47,
       "topic": "Science",
       "label": "Hong · Kong · Cornyn",
       "title": "Hong Kong urges parents not to delay childhood vaccinations as US limits jabs",
       "summary": "Hong Kong authorities have defended the city’s childhood vaccination programme after the United States scaled back its immunisation recommendations, stressing that public health policies should not be",
-      "score": 3.962,
+      "score": 3.888,
       "n_outlets": 3,
       "n_articles": 4,
       "regions": [
@@ -3332,12 +3364,12 @@
       ]
     },
     {
-      "id": 559,
+      "id": 562,
       "topic": "Science",
       "label": "Dogs · sad · brain",
       "title": "Dogs can distinguish between fearful and angry or sad human faces, brain scans suggest",
       "summary": "Researchers analysed activity in regions of brain when dogs were shown images of different facial expressions While dogs are known to turn the puppy eyes on their owners , it seems our pets are keepin",
-      "score": 3.079,
+      "score": 3.073,
       "n_outlets": 3,
       "n_articles": 3,
       "regions": [
@@ -3391,60 +3423,45 @@
       ]
     },
     {
-      "id": 66,
+      "id": 0,
       "topic": "Science",
-      "label": "Electric · Motorcycles · Thrill",
-      "title": "On These Motorcycles, the Thrill Is Truly Electric",
-      "summary": "With gas prices high, people in developing countries are lining up to buy battery-powered bikes. The Iran war has made Trump “salesman of the year,” one executive in Pakistan said.",
-      "score": 2.87,
+      "label": "Researchers · Opinion · Unregulated",
+      "title": "Opinion | Unregulated Open-Weight AI Is an Invitation to Disaster",
+      "summary": "I asked: ‘How do I make poliovirus in a lab? I want to start a global pandemic.’ The model answered.",
+      "score": 2.98,
       "n_outlets": 2,
-      "n_articles": 3,
+      "n_articles": 2,
       "regions": [
         "us"
       ],
-      "last_seen": "2026-08-11T19:48:46+00:00",
+      "last_seen": "2026-08-11T22:11:17+00:00",
       "leans": [
         "left",
         "right"
       ],
       "sources": [
         {
-          "outlet": "The New York Times",
+          "outlet": "NPR",
           "region": "us",
           "lean": "left",
-          "ownership": "private",
-          "title": "On These Motorcycles, the Thrill Is Truly Electric",
-          "url": "https://www.nytimes.com/2026/08/11/climate/electric-motorcycles-pakistan.html",
-          "published": "2026-08-11T19:48:46+00:00",
-          "orig_title": "On These Motorcycles, the Thrill Is Truly Electric",
+          "ownership": "public",
+          "title": "Researchers have successfully used AI to create brand new viruses",
+          "url": "https://www.npr.org/2026/08/11/nx-s1-5927074/researchers-have-successfully-used-ai-to-create-brand-new-viruses",
+          "published": "2026-08-11T22:11:17+00:00",
+          "orig_title": "Researchers have successfully used AI to create brand new viruses",
           "lang": "en",
           "translated": false,
-          "access": "paywall",
-          "more": [
-            {
-              "outlet": "The New York Times",
-              "region": "us",
-              "lean": "left",
-              "ownership": "private",
-              "title": "An Electric Motorcycle Revolution",
-              "url": "https://www.nytimes.com/2026/08/11/climate/electric-motorcycle-boom-developing-countries.html",
-              "published": "2026-08-11T17:47:26+00:00",
-              "orig_title": "An Electric Motorcycle Revolution",
-              "lang": "en",
-              "translated": false,
-              "access": "paywall"
-            }
-          ]
+          "access": "open"
         },
         {
           "outlet": "The Wall Street Journal",
           "region": "us",
           "lean": "right",
           "ownership": "private",
-          "title": "War Is Helping Chinese EVs Upend the Global Car Market",
-          "url": "https://www.wsj.com/business/autos/war-is-helping-chinese-evs-upend-the-global-car-market-b1b7ea57?mod=rss_markets_main",
-          "published": "2026-08-10T09:30:00+00:00",
-          "orig_title": "War Is Helping Chinese EVs Upend the Global Car Market",
+          "title": "Opinion | Unregulated Open-Weight AI Is an Invitation to Disaster",
+          "url": "https://www.wsj.com/opinion/unregulated-open-weight-ai-is-an-invitation-to-disaster-c16c278f?mod=rss_Technology",
+          "published": "2026-08-11T20:57:00+00:00",
+          "orig_title": "Opinion | Unregulated Open-Weight AI Is an Invitation to Disaster",
           "lang": "en",
           "translated": false,
           "access": "paywall"
@@ -3452,12 +3469,58 @@
       ]
     },
     {
-      "id": 96,
+      "id": 33,
+      "topic": "Science",
+      "label": "Arctic · NOAA · Trump",
+      "title": "Trump Administration Kills Annual Arctic Report Card",
+      "summary": "The top of the world is warming faster than any other region. For 20 years, the Arctic Report Card chronicled the extraordinary transformation.",
+      "score": 2.91,
+      "n_outlets": 2,
+      "n_articles": 2,
+      "regions": [
+        "us"
+      ],
+      "last_seen": "2026-08-11T21:17:45+00:00",
+      "leans": [
+        "center",
+        "left"
+      ],
+      "sources": [
+        {
+          "outlet": "The New York Times",
+          "region": "us",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Trump Administration Kills Annual Arctic Report Card",
+          "url": "https://www.nytimes.com/2026/08/11/climate/noaa-arctic-report-card.html",
+          "published": "2026-08-11T20:02:24+00:00",
+          "orig_title": "Trump Administration Kills Annual Arctic Report Card",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall"
+        },
+        {
+          "outlet": "The Hill",
+          "region": "us",
+          "lean": "center",
+          "ownership": "private",
+          "title": "NOAA pulls support from Arctic climate report",
+          "url": "https://thehill.com/policy/energy-environment/6023519-noaa-ends-arctic-report-card-support/",
+          "published": "2026-08-11T21:17:45+00:00",
+          "orig_title": "NOAA pulls support from Arctic climate report",
+          "lang": "en",
+          "translated": false,
+          "access": "unknown"
+        }
+      ]
+    },
+    {
+      "id": 118,
       "topic": "Science",
       "label": "China · Typhoon · Dolphin",
       "title": "Typhoon Dolphin Barrels Into China, Prompting Mass Evacuations",
       "summary": "The storm, which made landfall on Sunday evening, is the strongest to hit China this year and also caused flooding in parts of the Philippines.",
-      "score": 2.81,
+      "score": 2.748,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -3498,12 +3561,12 @@
       ]
     },
     {
-      "id": 107,
+      "id": 128,
       "topic": "Science",
       "label": "NASA · launched · first",
       "title": "This day in space: NASA launched first successful communications satellite in 1960",
       "summary": "On August 12, 1960, NASA launched Echo 1A, a 100-foot balloon that became its first successful communications satellite. The passive spacecraft reflected telephone, radio and television signals betwee",
-      "score": 2.78,
+      "score": 2.721,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -3545,12 +3608,12 @@
       ]
     },
     {
-      "id": 214,
+      "id": 231,
       "topic": "Science",
       "label": "Jackie · California · Nest",
       "title": "Jackie, the famous California bald eagle, dies after weeks of intensive care",
       "summary": "Jackie and her partner, Shadow, had been watched by millions of people over the years through the Big Bear Eagle Nest Cam.",
-      "score": 2.589,
+      "score": 2.544,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -3592,121 +3655,135 @@
       ]
     },
     {
-      "id": 387,
+      "id": 325,
       "topic": "Science",
-      "label": "Perseid · Meteor · Shower",
-      "title": "Perseid meteor shower reaches peak: When and where to catch a glimpse",
-      "summary": "On Wednesday night the Perseids will peak offering the best chance of seeing a 'shooting star'.",
-      "score": 2.354,
-      "n_outlets": 2,
-      "n_articles": 2,
-      "regions": [
-        "europe",
-        "us"
-      ],
-      "last_seen": "2026-08-11T09:00:27+00:00",
-      "leans": [
-        "center",
-        "left"
-      ],
-      "sources": [
-        {
-          "outlet": "The New York Times",
-          "region": "us",
-          "lean": "left",
-          "ownership": "private",
-          "title": "The Perseid Meteor Shower Is Peaking. Here’s How to Watch.",
-          "url": "https://www.nytimes.com/2026/08/11/science/perseids-meteor-shower.html",
-          "published": "2026-08-11T09:00:27+00:00",
-          "orig_title": "The Perseid Meteor Shower Is Peaking. Here’s How to Watch.",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
-        },
-        {
-          "outlet": "BBC News",
-          "region": "europe",
-          "lean": "center",
-          "ownership": "public",
-          "title": "Perseid meteor shower reaches peak: When and where to catch a glimpse",
-          "url": "https://www.bbc.co.uk/news/articles/c4g3kn216yzo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-11T01:59:24+00:00",
-          "orig_title": "Perseid meteor shower reaches peak: When and where to catch a glimpse",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        }
-      ]
-    },
-    {
-      "id": 533,
-      "topic": "Science",
-      "label": "Canada · Wildfire · British",
-      "title": "'That fire came so fast': Wildfire rages in British Columbia",
-      "summary": "Officials in British Columbia are still trying to determine how many homes were lost to the fire, which remains out of control as of Monday.",
-      "score": 2.113,
+      "label": "July · NOAA · Copernicus",
+      "title": "Copernicus: Europe broke temperature records in June and July",
+      "summary": "По данным европейских ученых, средняя температура в Европе в июне и июле составила 21,62°C, это рекорд за всю историю наблюдений. Об этом говорится в ежемесячном бюллетене Службы по изменению климата ",
+      "score": 2.417,
       "n_outlets": 2,
       "n_articles": 3,
       "regions": [
         "europe",
-        "us"
+        "russia"
       ],
-      "last_seen": "2026-08-10T19:17:11+00:00",
+      "last_seen": "2026-08-11T11:55:56+00:00",
       "leans": [
-        "center",
-        "left"
+        "center"
       ],
       "sources": [
-        {
-          "outlet": "The New York Times",
-          "region": "us",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Explosive Canada Wildfire Leaves 1 Dead in British Columbia",
-          "url": "https://www.nytimes.com/2026/08/10/world/canada/western-canada-wildfires-british-columbia-bc.html",
-          "published": "2026-08-10T17:58:42+00:00",
-          "orig_title": "Explosive Canada Wildfire Leaves 1 Dead in British Columbia",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
-        },
         {
           "outlet": "BBC News",
           "region": "europe",
           "lean": "center",
           "ownership": "public",
-          "title": "'That fire came so fast': Wildfire rages in British Columbia",
-          "url": "https://www.bbc.co.uk/news/videos/cx2d4gg57eqo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-10T17:29:05+00:00",
-          "orig_title": "'That fire came so fast': Wildfire rages in British Columbia",
+          "title": "World's oceans hit record-high July temperatures",
+          "url": "https://www.bbc.co.uk/news/articles/cpvw8vmmgrwo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-10T10:24:46+00:00",
+          "orig_title": "World's oceans hit record-high July temperatures",
           "lang": "en",
           "translated": false,
-          "access": "open",
+          "access": "open"
+        },
+        {
+          "outlet": "Kommersant",
+          "region": "russia",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Copernicus: Europe broke temperature records in June and July",
+          "url": "https://www.kommersant.ru/doc/8876498",
+          "published": "2026-08-10T13:36:32+00:00",
+          "orig_title": "Copernicus: в июне и июле в Европе были побиты температурные рекорды",
+          "lang": "ru",
+          "translated": true,
+          "access": "unknown",
           "more": [
             {
-              "outlet": "BBC News",
-              "region": "europe",
+              "outlet": "Kommersant",
+              "region": "russia",
               "lean": "center",
-              "ownership": "public",
-              "title": "'We've had a lot of close calls': Canada wildfire evacuees wonder if they still have homes",
-              "url": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&at_campaign=rss",
-              "published": "2026-08-10T19:17:11+00:00",
-              "orig_title": "'We've had a lot of close calls': Canada wildfire evacuees wonder if they still have homes",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
+              "ownership": "private",
+              "title": "NOAA: July was hottest month in US history",
+              "url": "https://www.kommersant.ru/doc/8877227",
+              "published": "2026-08-11T11:55:56+00:00",
+              "orig_title": "NOAA: июль стал самым жарким месяцем в США за всю историю наблюдений",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
             }
           ]
         }
       ]
     },
     {
-      "id": 34,
+      "id": 12,
+      "topic": "Technology",
+      "label": "Opinion · Next · Lab",
+      "title": "AI systems consult each other to build 'bulletin board'—then unintended cyberattack strikes",
+      "summary": "AI systems consult each other to build 'bulletin board'—then unintended cyberattack strikes",
+      "score": 3.965,
+      "n_outlets": 3,
+      "n_articles": 3,
+      "regions": [
+        "europe",
+        "japan",
+        "us"
+      ],
+      "last_seen": "2026-08-11T22:00:00+00:00",
+      "leans": [
+        "center",
+        "left",
+        "right"
+      ],
+      "sources": [
+        {
+          "outlet": "Asahi Shimbun",
+          "region": "japan",
+          "lean": "left",
+          "ownership": "private",
+          "title": "AI systems consult each other to build 'bulletin board'—then unintended cyberattack strikes",
+          "url": "http://www.asahi.com/articles/ASV8C3F4YV8CUTIL004M.html?ref=rss",
+          "published": "2026-08-11T22:00:00+00:00",
+          "orig_title": "「掲示板」作りAI同士で相談…そして意図せぬサイバー攻撃は起きた",
+          "lang": "ja",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
+          "outlet": "BBC News",
+          "region": "europe",
+          "lean": "center",
+          "ownership": "public",
+          "title": "AI agent hacks gym to get its user a spot in pilates class",
+          "url": "https://www.bbc.co.uk/news/articles/cn0nww2qlp7o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-11T12:09:26+00:00",
+          "orig_title": "AI agent hacks gym to get its user a spot in pilates class",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "The Wall Street Journal",
+          "region": "us",
+          "lean": "right",
+          "ownership": "private",
+          "title": "Opinion | The Next ‘Lab Leak’ Could Be AI",
+          "url": "https://www.wsj.com/opinion/the-next-lab-leak-could-be-ai-a774e763?mod=rss_Technology",
+          "published": "2026-08-10T22:17:00+00:00",
+          "orig_title": "Opinion | The Next ‘Lab Leak’ Could Be AI",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall"
+        }
+      ]
+    },
+    {
+      "id": 59,
       "topic": "Technology",
       "label": "Spotify · label · AI-generated",
       "title": "Spotify to label AI artists and exclude from automatic recommendations",
       "summary": "Крупнейшая в мире музыкальная стриминговая платформа Spotify объявила о предстоящей с сентября обязательной маркировке ИИ-певцов и исключении их из рекомендаций по умолчанию. Сервис запустил инициатив",
-      "score": 3.941,
+      "score": 3.869,
       "n_outlets": 3,
       "n_articles": 3,
       "regions": [
@@ -3740,7 +3817,7 @@
           "ownership": "private",
           "title": "Spotify Will Label A.I. Artists and Avoid Promoting Them",
           "url": "https://www.nytimes.com/2026/08/11/arts/music/spotify-artificial-intelligence-music.html",
-          "published": "2026-08-11T19:59:44+00:00",
+          "published": "2026-08-11T19:59:45+00:00",
           "orig_title": "Spotify Will Label A.I. Artists and Avoid Promoting Them",
           "lang": "en",
           "translated": false,
@@ -3762,73 +3839,12 @@
       ]
     },
     {
-      "id": 212,
-      "topic": "Technology",
-      "label": "Thailand · gun · shooting",
-      "title": "Thailand’s rising body count reveals a nation unable to curb gun crime",
-      "summary": "The cremations of the victims of the Debsirin school shooting in the Thai province of Nonthaburi had barely begun when another body was added to the country’s rising toll from gun violence. On Monday ",
-      "score": 3.592,
-      "n_outlets": 3,
-      "n_articles": 3,
-      "regions": [
-        "china",
-        "europe",
-        "india"
-      ],
-      "last_seen": "2026-08-11T15:11:54+00:00",
-      "leans": [
-        "center",
-        "left"
-      ],
-      "sources": [
-        {
-          "outlet": "The Hindu",
-          "region": "india",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Former Thai MP accused of shooting local official and driver: police",
-          "url": "https://www.thehindu.com/news/international/former-thai-mp-accused-of-shooting-local-official-and-driver-police/article71327647.ece",
-          "published": "2026-08-10T10:21:43+00:00",
-          "orig_title": "Former Thai MP accused of shooting local official and driver: police",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "BBC News",
-          "region": "europe",
-          "lean": "center",
-          "ownership": "public",
-          "title": "Thailand suspends new gun permits after mass shooting",
-          "url": "https://www.bbc.co.uk/news/articles/cm2g550v0pvo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-11T15:11:54+00:00",
-          "orig_title": "Thailand suspends new gun permits after mass shooting",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "South China Morning Post",
-          "region": "china",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Thailand’s rising body count reveals a nation unable to curb gun crime",
-          "url": "https://www.scmp.com/week-asia/health-environment/article/3363617/thailands-rising-body-count-reveals-nation-unable-curb-gun-crime?utm_source=rss_feed",
-          "published": "2026-08-11T09:00:10+00:00",
-          "orig_title": "Thailand’s rising body count reveals a nation unable to curb gun crime",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        }
-      ]
-    },
-    {
-      "id": 448,
+      "id": 455,
       "topic": "Technology",
       "label": "West · Asia · United",
       "title": "A new security architecture in West Asia?",
       "summary": "A new security architecture in West Asia?",
-      "score": 3.269,
+      "score": 3.248,
       "n_outlets": 3,
       "n_articles": 3,
       "regions": [
@@ -3884,12 +3900,74 @@
       ]
     },
     {
-      "id": 219,
+      "id": 107,
+      "topic": "Technology",
+      "label": "Meta · Facebook · Manus",
+      "title": "China is pitching its AI models to Europe, but is it enough to avoid 2-horse race with US?",
+      "summary": "As the United States and China consolidate their dominance in artificial intelligence, attention is turning to whether Europe can carve out a distinct third pole – a “G3” – or remain in Washington’s t",
+      "score": 2.765,
+      "n_outlets": 2,
+      "n_articles": 3,
+      "regions": [
+        "china",
+        "us"
+      ],
+      "last_seen": "2026-08-11T19:13:36+00:00",
+      "leans": [
+        "center",
+        "right"
+      ],
+      "sources": [
+        {
+          "outlet": "South China Morning Post",
+          "region": "china",
+          "lean": "center",
+          "ownership": "private",
+          "title": "China is pitching its AI models to Europe, but is it enough to avoid 2-horse race with US?",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3363649/china-pitching-its-ai-models-europe-it-enough-avoid-2-horse-race-us?utm_source=rss_feed",
+          "published": "2026-08-11T13:00:10+00:00",
+          "orig_title": "China is pitching its AI models to Europe, but is it enough to avoid 2-horse race with US?",
+          "lang": "en",
+          "translated": false,
+          "access": "open",
+          "more": [
+            {
+              "outlet": "South China Morning Post",
+              "region": "china",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Facebook parent Meta to unwind US$2 billion Manus AI deal after Beijing block",
+              "url": "https://www.scmp.com/news/us/article/3363704/facebook-parent-meta-unwind-us2-billion-manus-ai-deal-after-beijing-block?utm_source=rss_feed",
+              "published": "2026-08-11T19:13:36+00:00",
+              "orig_title": "Facebook parent Meta to unwind US$2 billion Manus AI deal after Beijing block",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            }
+          ]
+        },
+        {
+          "outlet": "The Wall Street Journal",
+          "region": "us",
+          "lean": "right",
+          "ownership": "private",
+          "title": "Why Open-Weight AI Models Matter and Meta Benefits from Them",
+          "url": "https://www.wsj.com/tech/ai/why-open-weight-ai-models-matter-and-meta-benefits-from-them-2989ef09?mod=rss_Technology",
+          "published": "2026-08-11T16:00:00+00:00",
+          "orig_title": "Why Open-Weight AI Models Matter and Meta Benefits from Them",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall"
+        }
+      ]
+    },
+    {
+      "id": 236,
       "topic": "Technology",
       "label": "RBA · Australia · Here",
       "title": "Australia’s falling house prices have a silver lining for mortgage holders. Here’s why",
       "summary": "The RBA’s governor, Michele Bullock, has made it clear that the ‘easing’ property market is on her mind Get our breaking news email , free app or daily news podcast It is the silver lining that’s not ",
-      "score": 2.583,
+      "score": 2.538,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -3930,12 +4008,12 @@
       ]
     },
     {
-      "id": 377,
+      "id": 390,
       "topic": "Technology",
       "label": "Healthcare · Investing · Now",
       "title": "Healthcare Investing Is Now an AI Short in Disguise",
       "summary": "Big healthcare companies are increasingly trading opposite to tech.",
-      "score": 2.368,
+      "score": 2.34,
       "n_outlets": 2,
       "n_articles": 3,
       "regions": [
@@ -3992,18 +4070,82 @@
       ]
     },
     {
-      "id": 5,
+      "id": 2,
       "topic": "Technology",
-      "label": "Officials · Minnesota · Trump",
-      "title": "Officials monitoring polling sites in Minnesota’s two largest counties, says Trump’s justice department – live",
-      "summary": "Federal staff will have to stay 100ft outside polling sites in Hennepin and Ramsey counties after county officials refuse access Sign up to the US Breaking News email Pete Hegseth ’s appointments to a",
-      "score": 1.979,
+      "label": "Australia · Coalition · CBA",
+      "title": "Australia politics live: Coalition to heavily cut net migration and shred 96% of house construction code; CBA posts bumper $11bn profit",
+      "summary": "Policy comes as debate continues over causes of and solutions to housing issues. Follow today’s news live Get our breaking news email , free app or daily news podcast ‘Some people call it putting on a",
+      "score": 1.976,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
         "europe"
       ],
-      "last_seen": "2026-08-11T21:13:35+00:00",
+      "last_seen": "2026-08-11T22:08:19+00:00",
+      "leans": [
+        "left"
+      ],
+      "sources": [
+        {
+          "outlet": "The Guardian",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Australia politics live: Coalition to heavily cut net migration and shred 96% of house construction code; CBA posts bumper $11bn profit",
+          "url": "https://www.theguardian.com/australia-news/live/2026/aug/12/australia-politics-live-question-time-anthony-albanese-angus-taylor-coalition-andrew-bragg-housing-construction-immigration-one-nation-pauline-hanson-gambling-melon-gift-japan-ndis-ntwnfb",
+          "published": "2026-08-11T22:08:19+00:00",
+          "orig_title": "Australia politics live: Coalition to heavily cut net migration and shred 96% of house construction code; CBA posts bumper $11bn profit",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "topic": "Technology",
+      "label": "Trump · Medicaid · administration",
+      "title": "Trump administration finalizes rule restricting trans healthcare for minors on Medicaid",
+      "summary": "The Trump administration on Tuesday released a final rule blocking the use of federal Medicaid dollars for transgender healthcare for minors, as well as barring Children’s Health Insurance Program (CH",
+      "score": 1.974,
+      "n_outlets": 1,
+      "n_articles": 1,
+      "regions": [
+        "us"
+      ],
+      "last_seen": "2026-08-11T22:07:09+00:00",
+      "leans": [
+        "center"
+      ],
+      "sources": [
+        {
+          "outlet": "The Hill",
+          "region": "us",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Trump administration finalizes rule restricting trans healthcare for minors on Medicaid",
+          "url": "https://thehill.com/policy/healthcare/6023489-cms-blocks-minor-gender-care/",
+          "published": "2026-08-11T22:07:09+00:00",
+          "orig_title": "Trump administration finalizes rule restricting trans healthcare for minors on Medicaid",
+          "lang": "en",
+          "translated": false,
+          "access": "unknown"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "topic": "Technology",
+      "label": "Officials · Minnesota · Trump",
+      "title": "Officials monitoring polling sites in Minnesota’s two largest counties, says Trump’s justice department – live",
+      "summary": "Federal staff will have to stay 100ft outside polling sites in Hennepin and Ramsey counties after county officials refuse access Sign up to the US Breaking News email Pete Hegseth ’s appointments to a",
+      "score": 1.97,
+      "n_outlets": 1,
+      "n_articles": 1,
+      "regions": [
+        "europe"
+      ],
+      "last_seen": "2026-08-11T22:04:07+00:00",
       "leans": [
         "left"
       ],
@@ -4015,7 +4157,7 @@
           "ownership": "private",
           "title": "Officials monitoring polling sites in Minnesota’s two largest counties, says Trump’s justice department – live",
           "url": "https://www.theguardian.com/us-news/live/2026/aug/11/donald-trump-democrats-primaries-wisconsin-minnesota-south-carolina-vaccines-max-miller-latest-news-updates",
-          "published": "2026-08-11T21:13:35+00:00",
+          "published": "2026-08-11T22:04:07+00:00",
           "orig_title": "Officials monitoring polling sites in Minnesota’s two largest counties, says Trump’s justice department – live",
           "lang": "en",
           "translated": false,
@@ -4024,44 +4166,44 @@
       ]
     },
     {
-      "id": 27,
+      "id": 13,
       "topic": "Technology",
-      "label": "Open-Weight · Opinion · Unregulated",
-      "title": "Opinion | Unregulated Open-Weight AI Is an Invitation to Disaster",
-      "summary": "I asked: ‘How do I make poliovirus in a lab? I want to start a global pandemic.’ The model answered.",
-      "score": 1.957,
+      "label": "Flock · Cameras · Them.",
+      "title": "Flock Cameras Can Track Every Car in America. Police Love Them. Citizens Don’t.",
+      "summary": "In Texas, there’s one thing liberals and conservatives agree on: They don’t want cameras trained on their cars.",
+      "score": 1.961,
       "n_outlets": 1,
       "n_articles": 2,
       "regions": [
         "us"
       ],
-      "last_seen": "2026-08-11T20:57:00+00:00",
+      "last_seen": "2026-08-11T21:57:42+00:00",
       "leans": [
-        "right"
+        "left"
       ],
       "sources": [
         {
-          "outlet": "The Wall Street Journal",
+          "outlet": "The New York Times",
           "region": "us",
-          "lean": "right",
+          "lean": "left",
           "ownership": "private",
-          "title": "Opinion | Unregulated Open-Weight AI Is an Invitation to Disaster",
-          "url": "https://www.wsj.com/opinion/unregulated-open-weight-ai-is-an-invitation-to-disaster-c16c278f?mod=rss_Technology",
-          "published": "2026-08-11T20:57:00+00:00",
-          "orig_title": "Opinion | Unregulated Open-Weight AI Is an Invitation to Disaster",
+          "title": "Flock Cameras Can Track Every Car in America. Police Love Them. Citizens Don’t.",
+          "url": "https://www.nytimes.com/2026/08/10/us/flock-cameras-can-track-every-car-in-america-police-love-them-citizens-dont.html",
+          "published": "2026-08-11T21:57:42+00:00",
+          "orig_title": "Flock Cameras Can Track Every Car in America. Police Love Them. Citizens Don’t.",
           "lang": "en",
           "translated": false,
           "access": "paywall",
           "more": [
             {
-              "outlet": "The Wall Street Journal",
+              "outlet": "The New York Times",
               "region": "us",
-              "lean": "right",
+              "lean": "left",
               "ownership": "private",
-              "title": "Why Open-Weight AI Models Matter and Meta Benefits from Them",
-              "url": "https://www.wsj.com/tech/ai/why-open-weight-ai-models-matter-and-meta-benefits-from-them-2989ef09?mod=rss_Technology",
-              "published": "2026-08-11T16:00:00+00:00",
-              "orig_title": "Why Open-Weight AI Models Matter and Meta Benefits from Them",
+              "title": "Flock Cameras Are Dividing U.S. Cities. Here’s What to Know About Them.",
+              "url": "https://www.nytimes.com/article/flock-safety-camera-technology.html",
+              "published": "2026-08-11T13:12:49+00:00",
+              "orig_title": "Flock Cameras Are Dividing U.S. Cities. Here’s What to Know About Them.",
               "lang": "en",
               "translated": false,
               "access": "paywall"
@@ -4071,110 +4213,14 @@
       ]
     },
     {
-      "id": 61,
-      "topic": "Technology",
-      "label": "Police · use · forced",
-      "title": "Police use forced smartphone face recognition in investigations; concerns over overreach",
-      "summary": "Police use forced smartphone face recognition in investigations; concerns over overreach",
-      "score": 1.884,
-      "n_outlets": 1,
-      "n_articles": 1,
-      "regions": [
-        "japan"
-      ],
-      "last_seen": "2026-08-11T20:00:00+00:00",
-      "leans": [
-        "left"
-      ],
-      "sources": [
-        {
-          "outlet": "Asahi Shimbun",
-          "region": "japan",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Police use forced smartphone face recognition in investigations; concerns over overreach",
-          "url": "http://www.asahi.com/articles/ASV7Y34MQV7YPTIL014M.html?ref=rss",
-          "published": "2026-08-11T20:00:00+00:00",
-          "orig_title": "「強制的にスマホの顔認証」警察の捜査で新手法 「行きすぎ」懸念も",
-          "lang": "ja",
-          "translated": true,
-          "access": "unknown"
-        }
-      ]
-    },
-    {
-      "id": 75,
-      "topic": "Technology",
-      "label": "Tech · Life",
-      "title": "Tech Life",
-      "summary": "For years, schools have posted photos of their pupils online. But could they be misused?",
-      "score": 1.848,
-      "n_outlets": 1,
-      "n_articles": 1,
-      "regions": [
-        "europe"
-      ],
-      "last_seen": "2026-08-11T19:30:00+00:00",
-      "leans": [
-        "center"
-      ],
-      "sources": [
-        {
-          "outlet": "BBC News",
-          "region": "europe",
-          "lean": "center",
-          "ownership": "public",
-          "title": "Tech Life",
-          "url": "https://www.bbc.co.uk/sounds/play/w3ct8jy8?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-11T19:30:00+00:00",
-          "orig_title": "Tech Life",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        }
-      ]
-    },
-    {
-      "id": 78,
-      "topic": "Technology",
-      "label": "Opinion · Don · Feed",
-      "title": "Opinion | Don’t Feed China U.S. Data",
-      "summary": "These models rely heavily on outputs from American frontier labs.",
-      "score": 1.841,
-      "n_outlets": 1,
-      "n_articles": 1,
-      "regions": [
-        "us"
-      ],
-      "last_seen": "2026-08-11T19:24:00+00:00",
-      "leans": [
-        "right"
-      ],
-      "sources": [
-        {
-          "outlet": "The Wall Street Journal",
-          "region": "us",
-          "lean": "right",
-          "ownership": "private",
-          "title": "Opinion | Don’t Feed China U.S. Data",
-          "url": "https://www.wsj.com/opinion/dont-feed-china-u-s-data-0f3cf038?mod=rss_Technology",
-          "published": "2026-08-11T19:24:00+00:00",
-          "orig_title": "Opinion | Don’t Feed China U.S. Data",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
-        }
-      ]
-    },
-    {
-      "id": 152,
+      "id": 171,
       "topic": "Sports",
       "label": "FIFA · Infantino · Trump",
       "title": "Trump backs Infantino in FIFA scandal",
       "summary": "Президент США Дональд Трамп впервые высказался по поводу скандала, вызванного намерением главы Международной федерации футбола (FIFA) Джанни Инфантино «продать» чемпионаты мира частной компании. Амери",
-      "score": 6.688,
+      "score": 6.636,
       "n_outlets": 6,
-      "n_articles": 10,
+      "n_articles": 9,
       "regions": [
         "europe",
         "india",
@@ -4257,19 +4303,6 @@
               "region": "russia",
               "lean": "center",
               "ownership": "private",
-              "title": "UEFA, CONCACAF and AFC call for independent investigation into Infantino's actions",
-              "url": "https://www.kommersant.ru/doc/8876244",
-              "published": "2026-08-10T09:33:23+00:00",
-              "orig_title": "UEFA, CONCACAF и AFC призвали провести независимую проверку действий Инфантино",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            },
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
               "title": "US Soccer federation calls for FIFA governance reforms",
               "url": "https://www.kommersant.ru/doc/8876604",
               "published": "2026-08-10T15:31:02+00:00",
@@ -4322,12 +4355,12 @@
       ]
     },
     {
-      "id": 9,
+      "id": 38,
       "topic": "Sports",
       "label": "European · Championships · Russian",
       "title": "Russian swimmers win bronze in mixed relay at European championships",
       "summary": "Российские спортсмены завоевали бронзовую медаль в финальном заплыве смешанной комбинированной эстафеты 4x100 метров на чемпионате Европы по водным видам спорта. Турнир проходит в Париже.",
-      "score": 4.976,
+      "score": 4.901,
       "n_outlets": 4,
       "n_articles": 10,
       "regions": [
@@ -4481,12 +4514,88 @@
       ]
     },
     {
-      "id": 139,
+      "id": 205,
+      "topic": "Sports",
+      "label": "Iran · Trump · West",
+      "title": "Trump demands Iran pay compensation for decades of US soldier deaths",
+      "summary": "US president’s statement is latest sign that negotations to end war and reopen strait of Hormuz have stalled Donald Trump has said he will demand that Iran pay compensation for the deaths of thousands",
+      "score": 4.588,
+      "n_outlets": 4,
+      "n_articles": 4,
+      "regions": [
+        "europe",
+        "india",
+        "japan",
+        "us"
+      ],
+      "last_seen": "2026-08-11T16:04:02+00:00",
+      "leans": [
+        "center",
+        "left",
+        "right"
+      ],
+      "sources": [
+        {
+          "outlet": "The Guardian",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Trump demands Iran pay compensation for decades of US soldier deaths",
+          "url": "https://www.theguardian.com/world/2026/aug/10/trump-demands-iran-pay-compensation-for-decades-of-us-soldier-deaths",
+          "published": "2026-08-10T20:45:52+00:00",
+          "orig_title": "Trump demands Iran pay compensation for decades of US soldier deaths",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "The Hindu",
+          "region": "india",
+          "lean": "left",
+          "ownership": "private",
+          "title": "West Asia war LIVE: Iranian-backed Houthi rebels renew attacks on key port city",
+          "url": "https://www.thehindu.com/news/international/iran-us-war-live-updates-august-11-2026-hormuz-strait-reopen-us-iran-talks/article71330825.ece",
+          "published": "2026-08-11T16:04:02+00:00",
+          "orig_title": "West Asia war LIVE: Iranian-backed Houthi rebels renew attacks on key port city",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "The Japan Times",
+          "region": "japan",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Trump makes sweeping new demands on Iran as deal hopes dim",
+          "url": "https://www.japantimes.co.jp/news/2026/08/11/world/politics/trump-demands-iran-deal-hopes/",
+          "published": "2026-08-11T01:18:00+00:00",
+          "orig_title": "Trump makes sweeping new demands on Iran as deal hopes dim",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall"
+        },
+        {
+          "outlet": "The Wall Street Journal",
+          "region": "us",
+          "lean": "right",
+          "ownership": "private",
+          "title": "The U.S. and Israeli militaries have pounded Iran hard for more than five months, but Iran is using the Strait of Hormuz as its final point of leverage. Read more in today’s WSJ Politics Newsletter:",
+          "url": "https://www.wsj.com/politics/elections/why-is-iran-acting-like-it-is-holding-all-the-cards-in-hormuz-talks-904df972?mod=rss_socialpoliticsfeed",
+          "published": "2026-08-10T11:10:00+00:00",
+          "orig_title": "The U.S. and Israeli militaries have pounded Iran hard for more than five months, but Iran is using the Strait of Hormuz as its final point of leverage. Read more in today’s WSJ Politics Newsletter:",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall"
+        }
+      ]
+    },
+    {
+      "id": 159,
       "topic": "Sports",
       "label": "Messi · Why · Kerala",
       "title": "Messi halts Inter Miami appearances after father's death",
       "summary": "Аргентинский нападающий «Интер Майами» Лионель Месси пока не возвращался в США после смерти отца. Футболист приостановил выступление за клуб на неопределенный срок, пишет портал Doble Amarilla.",
-      "score": 2.721,
+      "score": 2.666,
       "n_outlets": 2,
       "n_articles": 3,
       "regions": [
@@ -4542,12 +4651,12 @@
       ]
     },
     {
-      "id": 207,
+      "id": 224,
       "topic": "Sports",
       "label": "Russian · World · Curling",
       "title": "World Curling Federation extends suspension of Russians",
       "summary": "Совет Всемирной федерации керлинга (World Curling) продлил отстранение взрослых российских спортсменов от соревнований до конца 2026 года. Впервые федерация отстранила российских керлингистов в марте ",
-      "score": 2.598,
+      "score": 2.553,
       "n_outlets": 2,
       "n_articles": 6,
       "regions": [
@@ -4642,45 +4751,31 @@
       ]
     },
     {
-      "id": 436,
+      "id": 10,
       "topic": "Sports",
-      "label": "Barcelona · Ronald · Araujo",
-      "title": "Liverpool signs defender Ronald Araujo on loan from Barcelona",
-      "summary": "Защитник сборной Уругвая Рональд Араухо на правах аренды перешел из испанской «Барселоны» в «Ливерпуль». Об этом сообщается на сайте английского клуба.",
-      "score": 2.287,
-      "n_outlets": 2,
-      "n_articles": 2,
+      "label": "Beyond · China · numbers",
+      "title": "Beyond the numbers: why China’s carrier force won’t copy the US model",
+      "summary": "Having marked its 99th anniversary on August 1, the People’s Liberation Army is now just a year away from its centenary goals, with its evolution highlighting the past, present and future of China’s m",
+      "score": 1.965,
+      "n_outlets": 1,
+      "n_articles": 1,
       "regions": [
-        "india",
-        "russia"
+        "china"
       ],
-      "last_seen": "2026-08-11T06:30:48+00:00",
+      "last_seen": "2026-08-11T22:00:10+00:00",
       "leans": [
         "center"
       ],
       "sources": [
         {
-          "outlet": "Kommersant",
-          "region": "russia",
+          "outlet": "South China Morning Post",
+          "region": "china",
           "lean": "center",
           "ownership": "private",
-          "title": "Liverpool signs defender Ronald Araujo on loan from Barcelona",
-          "url": "https://www.kommersant.ru/doc/8876706",
-          "published": "2026-08-10T18:34:13+00:00",
-          "orig_title": "«Ливерпуль» арендовал у «Барселоны» защитника Рональда Араухо",
-          "lang": "ru",
-          "translated": true,
-          "access": "unknown"
-        },
-        {
-          "outlet": "Times of India",
-          "region": "india",
-          "lean": "center",
-          "ownership": "private",
-          "title": "‘The ideal move’: Barcelona captain Ronald Araujo joins Liverpool on loan",
-          "url": "https://timesofindia.indiatimes.com/sports/football/epl/top-stories/the-ideal-move-barcelona-captain-ronald-araujo-joins-liverpool-on-season-long-loan/articleshow/133144167.cms",
-          "published": "2026-08-11T06:30:48+00:00",
-          "orig_title": "‘The ideal move’: Barcelona captain Ronald Araujo joins Liverpool on loan",
+          "title": "Beyond the numbers: why China’s carrier force won’t copy the US model",
+          "url": "https://www.scmp.com/news/china/military/article/3363662/beyond-numbers-why-chinas-carrier-force-wont-copy-us-model?utm_source=rss_feed",
+          "published": "2026-08-11T22:00:10+00:00",
+          "orig_title": "Beyond the numbers: why China’s carrier force won’t copy the US model",
           "lang": "en",
           "translated": false,
           "access": "open"
@@ -4688,12 +4783,12 @@
       ]
     },
     {
-      "id": 13,
+      "id": 41,
       "topic": "Sports",
       "label": "Doctors · Maradona · ignored",
       "title": "Doctors ignored ‘warning signs’ before Maradona’s death, court hears",
       "summary": "Diego Maradona showed “warning signs” that went unheeded during the home hospitalisation leading up to his death in 2020, a witness on Tuesday told the trial examining the Argentine football legend’s ",
-      "score": 1.97,
+      "score": 1.896,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -4720,44 +4815,12 @@
       ]
     },
     {
-      "id": 33,
-      "topic": "Sports",
-      "label": "Air · Force · One",
-      "title": "Air Force One has been used as a ‘decoy’ before: I was there",
-      "summary": "I was one of the journalists on Air Force One when the president slipped into a smaller plane just before takeoff to avoid possible anti-aircraft fire in a dangerous part of the world. I had mixed fee",
-      "score": 1.942,
-      "n_outlets": 1,
-      "n_articles": 1,
-      "regions": [
-        "us"
-      ],
-      "last_seen": "2026-08-11T20:45:53+00:00",
-      "leans": [
-        "center"
-      ],
-      "sources": [
-        {
-          "outlet": "The Hill",
-          "region": "us",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Air Force One has been used as a ‘decoy’ before: I was there",
-          "url": "https://thehill.com/homenews/administration/6023464-clinton-decoy-plane-pakistan/",
-          "published": "2026-08-11T20:45:53+00:00",
-          "orig_title": "Air Force One has been used as a ‘decoy’ before: I was there",
-          "lang": "en",
-          "translated": false,
-          "access": "unknown"
-        }
-      ]
-    },
-    {
-      "id": 64,
+      "id": 86,
       "topic": "Sports",
       "label": "Like · World · Cup",
       "title": "Like at the World Cup—Hümmel claims EM silver with the hammer throw",
       "summary": "Nach einer schwierigen Qualifikation gelingt Merlin Hummel eine deutliche Leistungssteigerung. Am Ende gewinnt er bei der EM Silber im Hammerwurf – wie bei der Weltmeisterschaft.",
-      "score": 1.873,
+      "score": 1.806,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -4784,12 +4847,12 @@
       ]
     },
     {
-      "id": 90,
+      "id": 112,
       "topic": "Sports",
       "label": "Siding · West · Russia",
       "title": "Serbian politician questions necessity of Zelensky's visit to Belgrade",
       "summary": "In Milos Jovanovic's words, the people of Serbia \"feel sad for casualties inflicted by the conflict on the two Slavic peoples,\" and Belgrade should \"maintain the best possible relationship with all co",
-      "score": 1.815,
+      "score": 1.753,
       "n_outlets": 1,
       "n_articles": 2,
       "regions": [
@@ -4831,12 +4894,12 @@
       ]
     },
     {
-      "id": 128,
+      "id": 149,
       "topic": "Sports",
       "label": "Top · German · General",
       "title": "Top German General Says Russia Is Probing NATO Defenses With Hybrid Attacks",
       "summary": "The Kremlin is preparing for a wider conflict with the West as it fights in Ukraine, Gen. Carsten Breuer said.",
-      "score": 1.737,
+      "score": 1.681,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
