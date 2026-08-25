@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T01:19:43.306469+00:00",
+  "generated_at": "2026-08-25T03:03:29.806213+00:00",
   "topics": [
     "World & Politics",
     "Economics",
@@ -14,28 +14,28 @@
       "name": "United States",
       "lat": 39.0,
       "lng": -98.0,
-      "count": 32
+      "count": 24
     },
     {
       "id": "europe",
       "name": "Europe",
       "lat": 50.0,
       "lng": 10.0,
-      "count": 19
+      "count": 26
     },
     {
       "id": "china",
       "name": "China",
       "lat": 35.0,
       "lng": 105.0,
-      "count": 14
+      "count": 15
     },
     {
       "id": "india",
       "name": "India",
       "lat": 22.0,
       "lng": 79.0,
-      "count": 13
+      "count": 18
     },
     {
       "id": "australia",
@@ -49,365 +49,49 @@
       "name": "South America",
       "lat": -12.0,
       "lng": -58.0,
-      "count": 2
+      "count": 3
     },
     {
       "id": "africa",
       "name": "Africa",
       "lat": 2.0,
       "lng": 21.0,
-      "count": 1
+      "count": 0
     },
     {
       "id": "japan",
       "name": "Japan",
       "lat": 36.5,
       "lng": 139.0,
-      "count": 11
+      "count": 12
     },
     {
       "id": "russia",
       "name": "Russia",
       "lat": 61.0,
       "lng": 90.0,
-      "count": 23
+      "count": 21
     }
   ],
   "clusters": [
     {
-      "id": 34,
+      "id": 46,
       "topic": "World & Politics",
-      "label": "Burnham · Ukraine · Russia",
-      "title": "Burnham picks Kyiv for his first foreign trip as British prime minister",
-      "summary": "British Prime Minister Andy Burnham arrived in Kyiv on Monday on his first trip abroad since taking office in July, coinciding with the 35th anniversary of Ukraine's independence. He met Ukrainian For",
-      "score": 9.892,
-      "n_outlets": 9,
-      "n_articles": 11,
+      "label": "Syria · terrorism · list",
+      "title": "US removes Syria from state sponsor of terrorism list",
+      "summary": "The United States on Monday delisted Syria as a state sponsor of terrorism, rescinding a decades-old designation that had severely impeded investment. The US State Department also revoked its designat",
+      "score": 8.878,
+      "n_outlets": 8,
+      "n_articles": 8,
       "regions": [
         "china",
-        "europe",
-        "japan",
-        "russia",
-        "south_america",
-        "us"
-      ],
-      "last_seen": "2026-08-24T23:57:48+00:00",
-      "leans": [
-        "center",
-        "left"
-      ],
-      "sources": [
-        {
-          "outlet": "The Guardian",
-          "region": "europe",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Burnham’s visit to Kyiv marks a renewal of badly needed support for Ukraine",
-          "url": "https://www.theguardian.com/politics/2026/aug/24/burnham-visit-kyiv-support-for-ukraine",
-          "published": "2026-08-24T16:33:22+00:00",
-          "orig_title": "Burnham’s visit to Kyiv marks a renewal of badly needed support for Ukraine",
-          "lang": "en",
-          "translated": false,
-          "access": "open",
-          "more": [
-            {
-              "outlet": "The Guardian",
-              "region": "europe",
-              "lean": "left",
-              "ownership": "private",
-              "title": "Burnham says UK with Ukraine ‘all the way’ despite ‘outrageous threats’ from Russia – Europe live",
-              "url": "https://www.theguardian.com/world/live/2026/aug/24/europe-ukraine-russia-war-kyiv-andy-burnham-volodymyr-zelenskyy-latest-news-updates",
-              "published": "2026-08-24T16:46:17+00:00",
-              "orig_title": "Burnham says UK with Ukraine ‘all the way’ despite ‘outrageous threats’ from Russia – Europe live",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
-            }
-          ]
-        },
-        {
-          "outlet": "The New York Times",
-          "region": "us",
-          "lean": "left",
-          "ownership": "private",
-          "title": "UK Prime Minister Burnham Arrives in Ukraine as Russia Amps Up Warnings",
-          "url": "https://www.nytimes.com/2026/08/24/world/europe/uk-andy-burnham-ukraine-russia.html",
-          "published": "2026-08-24T22:16:57+00:00",
-          "orig_title": "UK Prime Minister Burnham Arrives in Ukraine as Russia Amps Up Warnings",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
-        },
-        {
-          "outlet": "BBC News",
-          "region": "europe",
-          "lean": "center",
-          "ownership": "public",
-          "title": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
-          "url": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-24T17:29:59+00:00",
-          "orig_title": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "Kommersant",
-          "region": "russia",
-          "lean": "center",
-          "ownership": "private",
-          "title": "British Prime Minister plans to convince Trump to send Patriot missiles to Ukraine",
-          "url": "https://www.kommersant.ru/doc/8907477",
-          "published": "2026-08-24T23:51:29+00:00",
-          "orig_title": "Премьер Британии собирается убедить Трампа отправить Украине ракеты Patriot",
-          "lang": "ru",
-          "translated": true,
-          "access": "unknown"
-        },
-        {
-          "outlet": "Meduza",
-          "region": "russia",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Britain said it will help Kyiv build Storm Shadow missiles in Ukraine. Hours later, the Kremlin announced that Russian forces are already working to find the production sites.",
-          "url": "https://meduza.io/en/feature/2026/08/25/britain-said-it-will-help-kyiv-build-storm-shadow-missiles-in-ukraine-hours-later-the-kremlin-announced-that-russian-forces-are-already-working-to-find-the-production-sites",
-          "published": "2026-08-24T23:57:48+00:00",
-          "orig_title": "Britain said it will help Kyiv build Storm Shadow missiles in Ukraine. Hours later, the Kremlin announced that Russian forces are already working to find the production sites.",
-          "lang": "en",
-          "translated": false,
-          "access": "unknown"
-        },
-        {
-          "outlet": "MercoPress",
-          "region": "south_america",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Burnham picks Kyiv for his first foreign trip as British prime minister",
-          "url": "https://en.mercopress.com/2026/08/24/burnham-picks-kyiv-for-his-first-foreign-trip-as-british-prime-minister?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
-          "published": "2026-08-24T07:28:00+00:00",
-          "orig_title": "Burnham picks Kyiv for his first foreign trip as British prime minister",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "Politico Europe",
-          "region": "europe",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Burnham ups the ante in fight against Russia — and leaves Merz in the shade",
-          "url": "https://www.politico.eu/article/british-prime-minister-andy-burnham-ukraine-ups-ante-against-russia/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-          "published": "2026-08-24T17:00:17+00:00",
-          "orig_title": "Burnham ups the ante in fight against Russia — and leaves Merz in the shade",
-          "lang": "en",
-          "translated": false,
-          "access": "unknown"
-        },
-        {
-          "outlet": "South China Morning Post",
-          "region": "china",
-          "lean": "center",
-          "ownership": "private",
-          "title": "UK’s Burnham plans US trip in September to lobby Trump on Ukraine needs",
-          "url": "https://www.scmp.com/news/world/europe/article/3365119/uks-burnham-plans-us-trip-september-lobby-trump-ukraine-needs?utm_source=rss_feed",
-          "published": "2026-08-24T23:57:30+00:00",
-          "orig_title": "UK’s Burnham plans US trip in September to lobby Trump on Ukraine needs",
-          "lang": "en",
-          "translated": false,
-          "access": "open",
-          "more": [
-            {
-              "outlet": "South China Morning Post",
-              "region": "china",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Ukraine wants peace but won’t ‘simply surrender’, Zelensky says on Independence Day",
-              "url": "https://www.scmp.com/news/world/united-states-canada/article/3365085/ukraine-wants-peace-wont-simply-surrender-zelensky-says-independence-day?utm_source=rss_feed",
-              "published": "2026-08-24T11:50:32+00:00",
-              "orig_title": "Ukraine wants peace but won’t ‘simply surrender’, Zelensky says on Independence Day",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
-            }
-          ]
-        },
-        {
-          "outlet": "The Japan Times",
-          "region": "japan",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Burnham enters world stage in debut trip to Ukraine",
-          "url": "https://www.japantimes.co.jp/news/2026/08/24/world/politics/burnham-world-stage-debut-ukraine/",
-          "published": "2026-08-24T08:23:00+00:00",
-          "orig_title": "Burnham enters world stage in debut trip to Ukraine",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
-        }
-      ]
-    },
-    {
-      "id": 10,
-      "topic": "World & Politics",
-      "label": "Ukraine · Britain · Ukrainian",
-      "title": "U.K. will help Ukraine make long-range missiles by sharing classified tech information",
-      "summary": "British Prime Minister Andy Burnham said defence firm MBDA will release details on U.K.-made parts for the SCALP missile to Ukraine to help the country assemble the weapons",
-      "score": 7.973,
-      "n_outlets": 7,
-      "n_articles": 9,
-      "regions": [
         "europe",
         "india",
         "japan",
         "russia",
         "us"
       ],
-      "last_seen": "2026-08-25T01:00:01+00:00",
-      "leans": [
-        "center",
-        "left",
-        "right",
-        "state"
-      ],
-      "sources": [
-        {
-          "outlet": "Asahi Shimbun",
-          "region": "japan",
-          "lean": "left",
-          "ownership": "private",
-          "title": "UK provides cruise missile technology to Ukraine, but impact on battlefield may be limited",
-          "url": "http://www.asahi.com/articles/ASV8S6R89V8SUHBI001M.html?ref=rss",
-          "published": "2026-08-24T20:28:09+00:00",
-          "orig_title": "英国、ウクライナに巡航ミサイルの技術提供 戦況への効果は限定的か",
-          "lang": "ja",
-          "translated": true,
-          "access": "unknown"
-        },
-        {
-          "outlet": "The Guardian",
-          "region": "europe",
-          "lean": "left",
-          "ownership": "private",
-          "title": "UK to use Ukraine battlefield data to train AI to protect sensitive sites",
-          "url": "https://www.theguardian.com/politics/2026/aug/24/uk-to-use-ukraine-battlefield-data-to-train-ai-to-protect-sensitive-sites",
-          "published": "2026-08-24T18:16:14+00:00",
-          "orig_title": "UK to use Ukraine battlefield data to train AI to protect sensitive sites",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "The Hindu",
-          "region": "india",
-          "lean": "left",
-          "ownership": "private",
-          "title": "U.K. will help Ukraine make long-range missiles by sharing classified tech information",
-          "url": "https://www.thehindu.com/news/international/uk-will-help-ukraine-make-long-range-missiles-by-sharing-classified-tech-information/article71385690.ece",
-          "published": "2026-08-24T16:09:33+00:00",
-          "orig_title": "U.K. will help Ukraine make long-range missiles by sharing classified tech information",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "BBC News",
-          "region": "europe",
-          "lean": "center",
-          "ownership": "public",
-          "title": "Is UK's Storm Shadow missile a game changer for Ukraine?",
-          "url": "https://www.bbc.co.uk/news/videos/cx2znjly4dno?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-24T15:14:14+00:00",
-          "orig_title": "Is UK's Storm Shadow missile a game changer for Ukraine?",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "Kommersant",
-          "region": "russia",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Britain to provide Ukraine secret data for SCALP missile production",
-          "url": "https://www.kommersant.ru/doc/8906839",
-          "published": "2026-08-24T07:32:33+00:00",
-          "orig_title": "Британия передаст Украине секретные данные для производства ракет SCALP",
-          "lang": "ru",
-          "translated": true,
-          "access": "unknown",
-          "more": [
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Britain gains access to Ukrainian combat data to train military AI",
-              "url": "https://www.kommersant.ru/doc/8907483",
-              "published": "2026-08-25T01:00:01+00:00",
-              "orig_title": "Великобритания получит доступ к боевым данным Украины для обучения военного ИИ",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            },
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Britain to hand Ukraine secret SCALP missile intelligence",
-              "url": "https://www.kommersant.ru/doc/8906671",
-              "published": "2026-08-24T02:09:44+00:00",
-              "orig_title": "Великобритания передаст Украине секретные данные о ракете SCALP",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            }
-          ]
-        },
-        {
-          "outlet": "The Wall Street Journal",
-          "region": "us",
-          "lean": "right",
-          "ownership": "private",
-          "title": "U.K. to Share Classified Missile Technology With Ukraine",
-          "url": "https://www.wsj.com/world/europe/u-k-to-share-classified-missile-technology-with-ukraine-be201553?mod=rss_worldnews",
-          "published": "2026-08-24T12:39:00+00:00",
-          "orig_title": "U.K. to Share Classified Missile Technology With Ukraine",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
-        },
-        {
-          "outlet": "TASS",
-          "region": "russia",
-          "lean": "state",
-          "ownership": "state",
-          "title": "UK to gain access to Ukrainian battlefield data for AI training",
-          "url": "https://tass.com/world/2177227",
-          "published": "2026-08-25T00:14:59+00:00",
-          "orig_title": "UK to gain access to Ukrainian battlefield data for AI training",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        }
-      ]
-    },
-    {
-      "id": 20,
-      "topic": "World & Politics",
-      "label": "Syria · list · terrorism",
-      "title": "US removes Syria from state sponsor of terrorism list",
-      "summary": "The United States on Monday delisted Syria as a state sponsor of terrorism, rescinding a decades-old designation that had severely impeded investment. The US State Department also revoked its designat",
-      "score": 7.94,
-      "n_outlets": 7,
-      "n_articles": 7,
-      "regions": [
-        "china",
-        "europe",
-        "japan",
-        "russia",
-        "us"
-      ],
-      "last_seen": "2026-08-25T00:34:54+00:00",
+      "last_seen": "2026-08-25T01:29:39+00:00",
       "leans": [
         "center",
         "left",
@@ -440,6 +124,19 @@
           "lang": "es",
           "translated": true,
           "access": "unknown"
+        },
+        {
+          "outlet": "The Hindu",
+          "region": "india",
+          "lean": "left",
+          "ownership": "private",
+          "title": "U.S. removes Syria from state sponsor of terrorism list",
+          "url": "https://www.thehindu.com/news/international/us-removes-syria-from-state-sponsor-of-terrorism-list/article71387074.ece",
+          "published": "2026-08-25T01:29:39+00:00",
+          "orig_title": "U.S. removes Syria from state sponsor of terrorism list",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
         },
         {
           "outlet": "BBC News",
@@ -509,16 +206,295 @@
       ]
     },
     {
-      "id": 128,
+      "id": 19,
       "topic": "World & Politics",
-      "label": "Ukrainian · Ozon · Krasnodar",
-      "title": "Ukrainian drones attack Ozon warehouses in southern Russia; falling debris kills children in Krasnodar region",
-      "summary": "В ночь на 24 августа беспилотники атаковали несколько логистических центров Ozon на юге России — в Дагестане, Адыгее и Ставропольском крае. Во время атаки на Краснодарский край обломки сбитого дрона у",
-      "score": 5.684,
-      "n_outlets": 5,
-      "n_articles": 13,
+      "label": "Trump · H-1B · administration",
+      "title": "Trump administration preparing to revoke visas of up to 200K foreigners in largest mass visa revocation ever",
+      "summary": "The Trump administration is preparing to revoke business and tourism visas from up to 200,000 migrants who have applied for or are currently seeking asylum in the U.S. on a rolling basis — a move that",
+      "score": 7.934,
+      "n_outlets": 7,
+      "n_articles": 10,
       "regions": [
+        "china",
+        "europe",
         "india",
+        "japan",
+        "us"
+      ],
+      "last_seen": "2026-08-25T02:14:00+00:00",
+      "leans": [
+        "center",
+        "left",
+        "right"
+      ],
+      "sources": [
+        {
+          "outlet": "The Guardian",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Trump administration plans to revoke 200,000 visas of asylum seekers",
+          "url": "https://www.theguardian.com/us-news/2026/aug/24/trump-administration-revoke-asylum-visas",
+          "published": "2026-08-25T01:45:35+00:00",
+          "orig_title": "Trump administration plans to revoke 200,000 visas of asylum seekers",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "The Hindu",
+          "region": "india",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Trump administration moves to impose more than $100,000 fee for H-1B worker visas",
+          "url": "https://www.thehindu.com/news/international/trump-administration-moves-to-impose-more-than-100000-fee-for-h-1b-worker-visas/article71385078.ece",
+          "published": "2026-08-24T14:23:06+00:00",
+          "orig_title": "Trump administration moves to impose more than $100,000 fee for H-1B worker visas",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "South China Morning Post",
+          "region": "china",
+          "lean": "center",
+          "ownership": "private",
+          "title": "US set for largest mass visa revocation, targeting up to 200,000 foreigners",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3365117/us-set-largest-mass-visa-revocation-targeting-200000-foreigners?utm_source=rss_feed",
+          "published": "2026-08-24T21:53:42+00:00",
+          "orig_title": "US set for largest mass visa revocation, targeting up to 200,000 foreigners",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "The Hill",
+          "region": "us",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Trump administration preparing to revoke visas of up to 200K foreigners in largest mass visa revocation ever",
+          "url": "https://thehill.com/homenews/administration/6048047-mass-b1-b2-visa-revocations/",
+          "published": "2026-08-24T22:58:28+00:00",
+          "orig_title": "Trump administration preparing to revoke visas of up to 200K foreigners in largest mass visa revocation ever",
+          "lang": "en",
+          "translated": false,
+          "access": "unknown",
+          "more": [
+            {
+              "outlet": "The Hill",
+              "region": "us",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Trump administration proposes new H-1B visa fee",
+              "url": "https://thehill.com/newsletters/technology/6047891-trump-administration-proposes-new-h-1b-visa-fee/",
+              "published": "2026-08-24T21:34:14+00:00",
+              "orig_title": "Trump administration proposes new H-1B visa fee",
+              "lang": "en",
+              "translated": false,
+              "access": "unknown"
+            }
+          ]
+        },
+        {
+          "outlet": "The Japan Times",
+          "region": "japan",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Trump devises new $100,000 H-1B visa fee after defeat in court",
+          "url": "https://www.japantimes.co.jp/business/2026/08/25/trump-100000-h-1b-visa/",
+          "published": "2026-08-25T01:39:00+00:00",
+          "orig_title": "Trump devises new $100,000 H-1B visa fee after defeat in court",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall",
+          "more": [
+            {
+              "outlet": "The Japan Times",
+              "region": "japan",
+              "lean": "center",
+              "ownership": "private",
+              "title": "U.S. plans to revoke tourism and business visas of up to 200,000 foreigners, AP reports",
+              "url": "https://www.japantimes.co.jp/news/2026/08/25/world/politics/us-200000-tourist-business-visas/",
+              "published": "2026-08-24T22:16:00+00:00",
+              "orig_title": "U.S. plans to revoke tourism and business visas of up to 200,000 foreigners, AP reports",
+              "lang": "en",
+              "translated": false,
+              "access": "paywall"
+            }
+          ]
+        },
+        {
+          "outlet": "Times of India",
+          "region": "india",
+          "lean": "center",
+          "ownership": "private",
+          "title": "'Nothing changes yet': Immigration lawyer explains new $103,265 H-1B fee rule is not final; there will be litigation",
+          "url": "https://timesofindia.indiatimes.com/world/us/nothing-changes-yet-immigration-lawyer-explains-new-103265-h-1b-fee-rule-is-not-final-there-will-be-litigation/articleshow/133474251.cms",
+          "published": "2026-08-24T17:08:52+00:00",
+          "orig_title": "'Nothing changes yet': Immigration lawyer explains new $103,265 H-1B fee rule is not final; there will be litigation",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "The Wall Street Journal",
+          "region": "us",
+          "lean": "right",
+          "ownership": "private",
+          "title": "The Trump administration is planning what may be the largest mass visa revocation in U.S. history, targeting up to 200,000 foreigners who have applied for asylum status",
+          "url": "https://www.wsj.com/politics/policy/trump-administration-prepares-to-revoke-up-to-200-000-visas-from-asylum-seekers-5b4d4264?mod=rss_socialpoliticsfeed",
+          "published": "2026-08-25T02:14:00+00:00",
+          "orig_title": "The Trump administration is planning what may be the largest mass visa revocation in U.S. history, targeting up to 200,000 foreigners who have applied for asylum status",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall",
+          "more": [
+            {
+              "outlet": "The Wall Street Journal",
+              "region": "us",
+              "lean": "right",
+              "ownership": "private",
+              "title": "The Trump administration is proposing a new six-figure fee for H-1B visas that would apply to most new applicants, not just those applying from abroad",
+              "url": "https://www.wsj.com/politics/policy/government-proposes-new-six-figure-fee-for-h1-b-visas-a0da2d01?mod=rss_socialpoliticsfeed",
+              "published": "2026-08-24T16:50:00+00:00",
+              "orig_title": "The Trump administration is proposing a new six-figure fee for H-1B visas that would apply to most new applicants, not just those applying from abroad",
+              "lang": "en",
+              "translated": false,
+              "access": "paywall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "topic": "World & Politics",
+      "label": "Ukraine · Britain · Ukrainian",
+      "title": "UK to gain access to Ukrainian battlefield data for AI training",
+      "summary": "The UK will initially use the data to support the defense and national security of both countries",
+      "score": 6.895,
+      "n_outlets": 6,
+      "n_articles": 7,
+      "regions": [
+        "europe",
+        "japan",
+        "russia",
+        "us"
+      ],
+      "last_seen": "2026-08-25T01:44:00+00:00",
+      "leans": [
+        "center",
+        "left",
+        "right",
+        "state"
+      ],
+      "sources": [
+        {
+          "outlet": "Asahi Shimbun",
+          "region": "japan",
+          "lean": "left",
+          "ownership": "private",
+          "title": "UK provides cruise missile technology to Ukraine, but impact on battlefield may be limited",
+          "url": "http://www.asahi.com/articles/ASV8S6R89V8SUHBI001M.html?ref=rss",
+          "published": "2026-08-24T20:28:09+00:00",
+          "orig_title": "英国、ウクライナに巡航ミサイルの技術提供 戦況への効果は限定的か",
+          "lang": "ja",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
+          "outlet": "The Guardian",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "UK to use Ukraine battlefield data to train AI to protect sensitive sites",
+          "url": "https://www.theguardian.com/politics/2026/aug/24/uk-to-use-ukraine-battlefield-data-to-train-ai-to-protect-sensitive-sites",
+          "published": "2026-08-24T18:16:14+00:00",
+          "orig_title": "UK to use Ukraine battlefield data to train AI to protect sensitive sites",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "Kommersant",
+          "region": "russia",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Britain gains access to Ukrainian combat data to train military AI",
+          "url": "https://www.kommersant.ru/doc/8907483",
+          "published": "2026-08-25T01:00:01+00:00",
+          "orig_title": "Великобритания получит доступ к боевым данным Украины для обучения военного ИИ",
+          "lang": "ru",
+          "translated": true,
+          "access": "unknown",
+          "more": [
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Britain to provide Ukraine secret data for SCALP missile production",
+              "url": "https://www.kommersant.ru/doc/8906839",
+              "published": "2026-08-24T07:32:33+00:00",
+              "orig_title": "Британия передаст Украине секретные данные для производства ракет SCALP",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            }
+          ]
+        },
+        {
+          "outlet": "The Japan Times",
+          "region": "japan",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Britain and France pledge stronger support as Ukraine marks Independence Day",
+          "url": "https://www.japantimes.co.jp/news/2026/08/25/world/britain-france-ukraine-support/",
+          "published": "2026-08-25T01:44:00+00:00",
+          "orig_title": "Britain and France pledge stronger support as Ukraine marks Independence Day",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall"
+        },
+        {
+          "outlet": "The Wall Street Journal",
+          "region": "us",
+          "lean": "right",
+          "ownership": "private",
+          "title": "U.K. to Share Classified Missile Technology With Ukraine",
+          "url": "https://www.wsj.com/world/europe/u-k-to-share-classified-missile-technology-with-ukraine-be201553?mod=rss_worldnews",
+          "published": "2026-08-24T12:39:00+00:00",
+          "orig_title": "U.K. to Share Classified Missile Technology With Ukraine",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall"
+        },
+        {
+          "outlet": "TASS",
+          "region": "russia",
+          "lean": "state",
+          "ownership": "state",
+          "title": "UK to gain access to Ukrainian battlefield data for AI training",
+          "url": "https://tass.com/world/2177227",
+          "published": "2026-08-25T00:14:59+00:00",
+          "orig_title": "UK to gain access to Ukrainian battlefield data for AI training",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 158,
+      "topic": "World & Politics",
+      "label": "Ozon · Ukrainian · Krasnodar",
+      "title": "Drones Attack Ozon Warehouses in Adygea, Makhachkala, and Nevinnomyssk",
+      "summary": "Сегодня ночью беспилотники атаковали склады Ozon в Адыгейске, Махачкале и Невинномысске. В логистическом центре в Дагестане пострадали несколько работников, в логистическом центре начался пожар.",
+      "score": 6.592,
+      "n_outlets": 6,
+      "n_articles": 12,
+      "regions": [
+        "europe",
         "russia"
       ],
       "last_seen": "2026-08-24T20:45:52+00:00",
@@ -542,14 +518,14 @@
           "access": "unknown"
         },
         {
-          "outlet": "The Hindu",
-          "region": "india",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Russia says Ukrainian drone strike kills two children",
-          "url": "https://www.thehindu.com/news/international/russia-says-ukrainian-drone-strike-kills-two-children/article71383092.ece",
-          "published": "2026-08-24T04:06:30+00:00",
-          "orig_title": "Russia says Ukrainian drone strike kills two children",
+          "outlet": "BBC News",
+          "region": "europe",
+          "lean": "center",
+          "ownership": "public",
+          "title": "Russia's second-biggest online retailer targeted in Ukrainian strikes",
+          "url": "https://www.bbc.co.uk/news/articles/cg598yvrzpro?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-24T10:40:22+00:00",
+          "orig_title": "Russia's second-biggest online retailer targeted in Ukrainian strikes",
           "lang": "en",
           "translated": false,
           "access": "open"
@@ -559,10 +535,10 @@
           "region": "russia",
           "lean": "center",
           "ownership": "private",
-          "title": "Three children killed in Ukrainian drone attack on Krasnodar",
-          "url": "https://www.kommersant.ru/doc/8906806",
-          "published": "2026-08-24T06:50:19+00:00",
-          "orig_title": "В Краснодаре при атаке украинских беспилотников погибли трое детей",
+          "title": "Drones Attack Ozon Warehouses in Adygea, Makhachkala, and Nevinnomyssk",
+          "url": "https://www.kommersant.ru/doc/8906689",
+          "published": "2026-08-24T04:04:04+00:00",
+          "orig_title": "Беспилотники атаковали склады Ozon в Адыгейске, Махачкале и Невинномысске",
           "lang": "ru",
           "translated": true,
           "access": "unknown",
@@ -572,10 +548,10 @@
               "region": "russia",
               "lean": "center",
               "ownership": "private",
-              "title": "Drones Attack Ozon Warehouses in Adygea, Makhachkala, and Nevinnomyssk",
-              "url": "https://www.kommersant.ru/doc/8906689",
-              "published": "2026-08-24T04:04:04+00:00",
-              "orig_title": "Беспилотники атаковали склады Ozon в Адыгейске, Махачкале и Невинномысске",
+              "title": "Drone attack causes fire at Ozon warehouse in Adygea",
+              "url": "https://www.kommersant.ru/doc/8906715",
+              "published": "2026-08-24T05:07:19+00:00",
+              "orig_title": "В Адыгее после атаки БПЛА произошел пожар на складе Ozon",
               "lang": "ru",
               "translated": true,
               "access": "unknown"
@@ -585,23 +561,10 @@
               "region": "russia",
               "lean": "center",
               "ownership": "private",
-              "title": "Fire at warehouse in Krasnodar extinguished after drone attack",
-              "url": "https://www.kommersant.ru/doc/8907281",
-              "published": "2026-08-24T15:04:27+00:00",
-              "orig_title": "В Краснодаре потушили пожар на складе после атаки БПЛА",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            },
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Two children killed as drone debris falls on children's center in Krasnodar",
-              "url": "https://www.kommersant.ru/doc/8906652",
-              "published": "2026-08-23T23:01:42+00:00",
-              "orig_title": "При падении обломков БПЛА на детский центр в Краснодаре погибли два ребенка",
+              "title": "Ozon warehouse catches fire after drone strike in Krasnodar",
+              "url": "https://www.kommersant.ru/doc/8906658",
+              "published": "2026-08-23T23:49:23+00:00",
+              "orig_title": "Склад Ozon загорелся после удара БПЛА в Краснодаре",
               "lang": "ru",
               "translated": true,
               "access": "unknown"
@@ -615,6 +578,19 @@
               "url": "https://www.kommersant.ru/doc/8907409",
               "published": "2026-08-24T17:51:35+00:00",
               "orig_title": "Объекты Ozon в Адыгейске и Невинномысске не повреждены после атаки БПЛА",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Fire at warehouse in Krasnodar extinguished after drone attack",
+              "url": "https://www.kommersant.ru/doc/8907281",
+              "published": "2026-08-24T15:04:27+00:00",
+              "orig_title": "В Краснодаре потушили пожар на складе после атаки БПЛА",
               "lang": "ru",
               "translated": true,
               "access": "unknown"
@@ -639,27 +615,14 @@
           "region": "russia",
           "lean": "center",
           "ownership": "private",
-          "title": "Ukraine attacks southern Russia with drones, killing three children, local officials say",
-          "url": "https://meduza.io/en/news/2026/08/24/ukraine-attacks-southern-russia-with-drones-killing-three-children-local-officials-say",
-          "published": "2026-08-24T07:32:27+00:00",
-          "orig_title": "Ukraine attacks southern Russia with drones, killing three children, local officials say",
+          "title": "Ozon was the big winner from Wildberries’ ruin. Five weeks later, it’s the target of Ukraine’s drone attacks.",
+          "url": "https://meduza.io/en/feature/2026/08/24/ozon-was-the-big-winner-from-wildberries-ruin-five-weeks-later-it-s-the-target-of-ukraine-s-drone-attacks",
+          "published": "2026-08-24T20:45:52+00:00",
+          "orig_title": "Ozon was the big winner from Wildberries’ ruin. Five weeks later, it’s the target of Ukraine’s drone attacks.",
           "lang": "en",
           "translated": false,
           "access": "unknown",
           "more": [
-            {
-              "outlet": "Meduza",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Ozon was the big winner from Wildberries’ ruin. Five weeks later, it’s the target of Ukraine’s drone attacks.",
-              "url": "https://meduza.io/en/feature/2026/08/24/ozon-was-the-big-winner-from-wildberries-ruin-five-weeks-later-it-s-the-target-of-ukraine-s-drone-attacks",
-              "published": "2026-08-24T20:45:52+00:00",
-              "orig_title": "Ozon was the big winner from Wildberries’ ruin. Five weeks later, it’s the target of Ukraine’s drone attacks.",
-              "lang": "en",
-              "translated": false,
-              "access": "unknown"
-            },
             {
               "outlet": "Meduza",
               "region": "russia",
@@ -676,6 +639,19 @@
           ]
         },
         {
+          "outlet": "The Moscow Times",
+          "region": "russia",
+          "lean": "center",
+          "ownership": "private",
+          "title": "At Least 3 Killed as Ukrainian Drones Target Ozon Hubs Across Southern Russia",
+          "url": "https://www.themoscowtimes.com/2026/08/24/at-least-3-killed-as-ukrainian-drones-target-ozon-hubs-across-southern-russia-a93563",
+          "published": "2026-08-24T07:43:00+00:00",
+          "orig_title": "At Least 3 Killed as Ukrainian Drones Target Ozon Hubs Across Southern Russia",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
           "outlet": "TASS",
           "region": "russia",
           "lean": "state",
@@ -686,8 +662,618 @@
           "orig_title": "What we know about Ukrainian drone attack on Krasnodar Region, three children killed",
           "lang": "en",
           "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "topic": "World & Politics",
+      "label": "Supreme · Court · Trump",
+      "title": "US Supreme Court clears the way for Trump mail voting order in advance of midterms",
+      "summary": "The Supreme Court on Monday cleared the way for US President Donald Trump to move ahead with his executive order restricting mail-in voting, though it remains unclear how much his administration can i",
+      "score": 5.984,
+      "n_outlets": 5,
+      "n_articles": 6,
+      "regions": [
+        "china",
+        "japan",
+        "us"
+      ],
+      "last_seen": "2026-08-25T02:52:00+00:00",
+      "leans": [
+        "center",
+        "left",
+        "right"
+      ],
+      "sources": [
+        {
+          "outlet": "NPR",
+          "region": "us",
+          "lean": "left",
+          "ownership": "public",
+          "title": "Supreme Court gives Trump an interim win on his mail voting order, but hurdles loom",
+          "url": "https://www.npr.org/2026/08/24/nx-s1-5909592/trump-mail-voting-order-supreme-court",
+          "published": "2026-08-24T20:53:45+00:00",
+          "orig_title": "Supreme Court gives Trump an interim win on his mail voting order, but hurdles loom",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "South China Morning Post",
+          "region": "china",
+          "lean": "center",
+          "ownership": "private",
+          "title": "US Supreme Court clears the way for Trump mail voting order in advance of midterms",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3365116/us-supreme-court-clears-way-trump-mail-voting-order-advance-midterms?utm_source=rss_feed",
+          "published": "2026-08-24T21:30:47+00:00",
+          "orig_title": "US Supreme Court clears the way for Trump mail voting order in advance of midterms",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "The Hill",
+          "region": "us",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Jackson calls Supreme Court’s mail-in voting ruling a ‘Kafkaesque nightmare’",
+          "url": "https://thehill.com/regulation/court-battles/6048109-justice-jackson-election-chaos-dissent/",
+          "published": "2026-08-24T23:10:40+00:00",
+          "orig_title": "Jackson calls Supreme Court’s mail-in voting ruling a ‘Kafkaesque nightmare’",
+          "lang": "en",
+          "translated": false,
+          "access": "unknown"
+        },
+        {
+          "outlet": "The Japan Times",
+          "region": "japan",
+          "lean": "center",
+          "ownership": "private",
+          "title": "U.S. Supreme Court hands a win to Trump over mail-in ballot restrictions",
+          "url": "https://www.japantimes.co.jp/news/2026/08/25/world/crime-legal/us-supreme-court-trump-mail-in-vote/",
+          "published": "2026-08-25T02:52:00+00:00",
+          "orig_title": "U.S. Supreme Court hands a win to Trump over mail-in ballot restrictions",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall"
+        },
+        {
+          "outlet": "The Wall Street Journal",
+          "region": "us",
+          "lean": "right",
+          "ownership": "private",
+          "title": "The Supreme Court removed a legal obstacle that had stopped President Trump from imposing new restrictions on mail-in voting ahead of the midterm elections in November",
+          "url": "https://www.wsj.com/politics/elections/supreme-court-removes-hurdle-to-trump-directive-on-mail-voting-f2a1437a?mod=rss_socialpoliticsfeed",
+          "published": "2026-08-24T22:35:00+00:00",
+          "orig_title": "The Supreme Court removed a legal obstacle that had stopped President Trump from imposing new restrictions on mail-in voting ahead of the midterm elections in November",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall",
+          "more": [
+            {
+              "outlet": "The Wall Street Journal",
+              "region": "us",
+              "lean": "right",
+              "ownership": "private",
+              "title": "Supreme Court Rules on Trump’s Mail-In Ballot Order",
+              "url": "https://www.wsj.com/world/asia/supreme-court-rules-on-trumps-mail-in-ballot-order-9fd77f1a?mod=rss_worldnews",
+              "published": "2026-08-24T21:31:00+00:00",
+              "orig_title": "Supreme Court Rules on Trump’s Mail-In Ballot Order",
+              "lang": "en",
+              "translated": false,
+              "access": "paywall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "topic": "World & Politics",
+      "label": "Burnham · Russia · Ukraine",
+      "title": "UK Prime Minister Burnham Arrives in Ukraine as Russia Amps Up Warnings",
+      "summary": "In his first foreign trip since taking office, the British prime minister pledged to stand by Kyiv despite new warnings of potential consequences.",
+      "score": 5.901,
+      "n_outlets": 5,
+      "n_articles": 5,
+      "regions": [
+        "europe",
+        "south_america",
+        "us"
+      ],
+      "last_seen": "2026-08-25T01:48:24+00:00",
+      "leans": [
+        "center",
+        "left"
+      ],
+      "sources": [
+        {
+          "outlet": "The Guardian",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Burnham says UK with Ukraine ‘all the way’ despite ‘outrageous threats’ from Russia – Europe live",
+          "url": "https://www.theguardian.com/world/live/2026/aug/24/europe-ukraine-russia-war-kyiv-andy-burnham-volodymyr-zelenskyy-latest-news-updates",
+          "published": "2026-08-24T16:46:17+00:00",
+          "orig_title": "Burnham says UK with Ukraine ‘all the way’ despite ‘outrageous threats’ from Russia – Europe live",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "The New York Times",
+          "region": "us",
+          "lean": "left",
+          "ownership": "private",
+          "title": "UK Prime Minister Burnham Arrives in Ukraine as Russia Amps Up Warnings",
+          "url": "https://www.nytimes.com/2026/08/24/world/europe/uk-andy-burnham-ukraine-russia.html",
+          "published": "2026-08-24T22:16:57+00:00",
+          "orig_title": "UK Prime Minister Burnham Arrives in Ukraine as Russia Amps Up Warnings",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall"
+        },
+        {
+          "outlet": "BBC News",
+          "region": "europe",
+          "lean": "center",
+          "ownership": "public",
+          "title": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
+          "url": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-25T01:48:24+00:00",
+          "orig_title": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "MercoPress",
+          "region": "south_america",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Burnham picks Kyiv for his first foreign trip as British prime minister",
+          "url": "https://en.mercopress.com/2026/08/24/burnham-picks-kyiv-for-his-first-foreign-trip-as-british-prime-minister?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+          "published": "2026-08-24T07:28:00+00:00",
+          "orig_title": "Burnham picks Kyiv for his first foreign trip as British prime minister",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "Politico Europe",
+          "region": "europe",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Burnham ups the ante in fight against Russia — and leaves Merz in the shade",
+          "url": "https://www.politico.eu/article/british-prime-minister-andy-burnham-ukraine-ups-ante-against-russia/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "published": "2026-08-24T17:00:17+00:00",
+          "orig_title": "Burnham ups the ante in fight against Russia — and leaves Merz in the shade",
+          "lang": "en",
+          "translated": false,
+          "access": "unknown"
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "topic": "World & Politics",
+      "label": "Iran · sanctions · countries",
+      "title": "US sanctions Chinese entities, issues global warning on ‘Economic D-Day’ against Iran",
+      "summary": "The United States on Monday announced fresh sanctions against 60 entities, individuals and vessels around the world, including some in mainland China and Hong Kong, and issued a warning demanding “imm",
+      "score": 5.866,
+      "n_outlets": 5,
+      "n_articles": 7,
+      "regions": [
+        "china",
+        "europe",
+        "india",
+        "russia"
+      ],
+      "last_seen": "2026-08-25T01:20:00+00:00",
+      "leans": [
+        "center",
+        "left",
+        "state"
+      ],
+      "sources": [
+        {
+          "outlet": "The Guardian",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "US threatens severe sanctions against countries with economic ties to Iran",
+          "url": "https://www.theguardian.com/world/2026/aug/24/us-severe-sanctions-economic-ties-iran",
+          "published": "2026-08-24T18:57:57+00:00",
+          "orig_title": "US threatens severe sanctions against countries with economic ties to Iran",
+          "lang": "en",
+          "translated": false,
           "access": "open",
           "more": [
+            {
+              "outlet": "The Guardian",
+              "region": "europe",
+              "lean": "left",
+              "ownership": "private",
+              "title": "Iran vows to retaliate against countries that cooperate with fresh US sanctions",
+              "url": "https://www.theguardian.com/world/2026/aug/24/iran-vows-retaliate-countries-cooperate-fresh-us-sanctions",
+              "published": "2026-08-24T11:53:10+00:00",
+              "orig_title": "Iran vows to retaliate against countries that cooperate with fresh US sanctions",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            }
+          ]
+        },
+        {
+          "outlet": "The Hindu",
+          "region": "india",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Iran says new sanctions threatened by ‘desperate’ U.S. will fail",
+          "url": "https://www.thehindu.com/news/international/iran-says-new-sanctions-threatened-by-desperate-us-will-fail/article71381887.ece",
+          "published": "2026-08-23T16:18:32+00:00",
+          "orig_title": "Iran says new sanctions threatened by ‘desperate’ U.S. will fail",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "Kommersant",
+          "region": "russia",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Reuters learns of US plans to tighten sanctions on countries trading with Iran",
+          "url": "https://www.kommersant.ru/doc/8907194",
+          "published": "2026-08-24T13:21:59+00:00",
+          "orig_title": "Reuters узнал о планах США ужесточить санкции против торгующих с Ираном стран",
+          "lang": "ru",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
+          "outlet": "South China Morning Post",
+          "region": "china",
+          "lean": "center",
+          "ownership": "private",
+          "title": "US sanctions Chinese entities, issues global warning on ‘Economic D-Day’ against Iran",
+          "url": "https://www.scmp.com/news/us/diplomacy/article/3365111/us-sanctions-chinese-entities-issues-global-warning-economic-d-day-against-iran?utm_source=rss_feed",
+          "published": "2026-08-24T18:03:57+00:00",
+          "orig_title": "US sanctions Chinese entities, issues global warning on ‘Economic D-Day’ against Iran",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "TASS",
+          "region": "russia",
+          "lean": "state",
+          "ownership": "state",
+          "title": "Iran threatens consequences for countries that join blockade",
+          "url": "https://tass.com/world/2176947",
+          "published": "2026-08-24T10:57:05+00:00",
+          "orig_title": "Iran threatens consequences for countries that join blockade",
+          "lang": "en",
+          "translated": false,
+          "access": "open",
+          "more": [
+            {
+              "outlet": "TASS",
+              "region": "russia",
+              "lean": "state",
+              "ownership": "state",
+              "title": "China opposes unilateral US sanctions — embassy in Washington",
+              "url": "https://tass.com/world/2177231",
+              "published": "2026-08-25T01:20:00+00:00",
+              "orig_title": "China opposes unilateral US sanctions — embassy in Washington",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "topic": "World & Politics",
+      "label": "South · Sudan · peacekeepers",
+      "title": "Armed men ambush patrol in South Sudan, kill two UN peacekeepers",
+      "summary": "Seven others were wounded — three peacekeepers, two members of the South Sudanese police and two civilian staffers — the mission known as UNMISS said in a statement",
+      "score": 5.86,
+      "n_outlets": 5,
+      "n_articles": 6,
+      "regions": [
+        "china",
+        "europe",
+        "india",
+        "russia"
+      ],
+      "last_seen": "2026-08-25T01:14:49+00:00",
+      "leans": [
+        "center",
+        "left"
+      ],
+      "sources": [
+        {
+          "outlet": "El Pais",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Two UN peacekeepers killed in ambush in South Sudan",
+          "url": "https://elpais.com/internacional/2026-08-24/dos-cascos-azules-de-la-onu-mueren-en-una-emboscada-en-sudan-del-sur.html",
+          "published": "2026-08-24T19:17:38+00:00",
+          "orig_title": "Dos cascos azules de la ONU mueren en una emboscada en Sudán del Sur",
+          "lang": "es",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
+          "outlet": "The Guardian",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "US strikes a vessel in the eastern Pacific, killing 2 people in first attack in months",
+          "url": "https://www.theguardian.com/world/2026/aug/24/vessel-strike-eastern-pacific",
+          "published": "2026-08-24T21:40:48+00:00",
+          "orig_title": "US strikes a vessel in the eastern Pacific, killing 2 people in first attack in months",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "The Hindu",
+          "region": "india",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Armed men ambush patrol in South Sudan, kill two UN peacekeepers",
+          "url": "https://www.thehindu.com/news/international/armed-men-ambush-patrol-in-south-sudan-kill-un-peacekeepers-updates/article71387078.ece",
+          "published": "2026-08-25T01:14:49+00:00",
+          "orig_title": "Armed men ambush patrol in South Sudan, kill two UN peacekeepers",
+          "lang": "en",
+          "translated": false,
+          "access": "open",
+          "more": [
+            {
+              "outlet": "The Hindu",
+              "region": "india",
+              "lean": "left",
+              "ownership": "private",
+              "title": "2 UN peacekeepers killed in South Sudan ambush: UN",
+              "url": "https://www.thehindu.com/news/international/2-un-peacekeepers-killed-in-south-sudan-ambush-un/article71384960.ece",
+              "published": "2026-08-24T14:01:11+00:00",
+              "orig_title": "2 UN peacekeepers killed in South Sudan ambush: UN",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            }
+          ]
+        },
+        {
+          "outlet": "Kommersant",
+          "region": "russia",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Two UN peacekeepers killed in South Sudan",
+          "url": "https://www.kommersant.ru/doc/8907389",
+          "published": "2026-08-24T17:35:29+00:00",
+          "orig_title": "В Южном Судане убили двух миротворцев ООН",
+          "lang": "ru",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
+          "outlet": "South China Morning Post",
+          "region": "china",
+          "lean": "center",
+          "ownership": "private",
+          "title": "US military kills 2 in eastern Pacific boat strike in first attack in months",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3365108/us-strikes-vessel-eastern-pacific-killing-2-people-first-attack-months?utm_source=rss_feed",
+          "published": "2026-08-24T16:48:28+00:00",
+          "orig_title": "US military kills 2 in eastern Pacific boat strike in first attack in months",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 168,
+      "topic": "World & Politics",
+      "label": "Ukrainian · Russia · drone",
+      "title": "IN BRIEF: Ukrainian connection in drone incident in Germany",
+      "summary": "The Russian Foreign Intelligence Service questioned whether the German authorities have the political will \"to draw impartial conclusions and officially announce them\"",
+      "score": 5.573,
+      "n_outlets": 5,
+      "n_articles": 15,
+      "regions": [
+        "india",
+        "russia",
+        "us"
+      ],
+      "last_seen": "2026-08-24T20:22:29+00:00",
+      "leans": [
+        "center",
+        "left",
+        "state"
+      ],
+      "sources": [
+        {
+          "outlet": "The Hindu",
+          "region": "india",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Russia says Ukrainian drone strike kills two children",
+          "url": "https://www.thehindu.com/news/international/russia-says-ukrainian-drone-strike-kills-two-children/article71383092.ece",
+          "published": "2026-08-24T04:06:30+00:00",
+          "orig_title": "Russia says Ukrainian drone strike kills two children",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "The New York Times",
+          "region": "us",
+          "lean": "left",
+          "ownership": "private",
+          "title": "A Drone Killed Three Ukrainians. It Was Guided Entirely by A.I.",
+          "url": "https://www.nytimes.com/2026/08/24/world/europe/russia-drones-autonomous-ai-kill-ukraine-war.html",
+          "published": "2026-08-24T14:24:53+00:00",
+          "orig_title": "A Drone Killed Three Ukrainians. It Was Guided Entirely by A.I.",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall",
+          "more": [
+            {
+              "outlet": "The New York Times",
+              "region": "us",
+              "lean": "left",
+              "ownership": "private",
+              "title": "Some of Russia’s A.I. Drones Are Powered by Nvidia Microcomputers, Ukrainian Officials Say",
+              "url": "https://www.nytimes.com/2026/08/24/world/europe/ukraine-war-nvidia-ai-autonomous-drones.html",
+              "published": "2026-08-24T11:19:29+00:00",
+              "orig_title": "Some of Russia’s A.I. Drones Are Powered by Nvidia Microcomputers, Ukrainian Officials Say",
+              "lang": "en",
+              "translated": false,
+              "access": "paywall"
+            }
+          ]
+        },
+        {
+          "outlet": "Kommersant",
+          "region": "russia",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Russian foreign intelligence assesses media impact Ukraine gained from German drone incident",
+          "url": "https://www.kommersant.ru/doc/8907219",
+          "published": "2026-08-24T14:01:28+00:00",
+          "orig_title": "СВР оценила медийный эффект, которого добилась Украина из-за ЧП с дроном в ФРГ",
+          "lang": "ru",
+          "translated": true,
+          "access": "unknown",
+          "more": [
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Russia shot down 42 drones in a day",
+              "url": "https://www.kommersant.ru/doc/8907397",
+              "published": "2026-08-24T17:32:21+00:00",
+              "orig_title": "За день над Россией сбили 42 беспилотника",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Drone debris discovered in eastern Romania",
+              "url": "https://www.kommersant.ru/doc/8907228",
+              "published": "2026-08-24T13:56:28+00:00",
+              "orig_title": "На востоке Румынии обнаружили обломки беспилотника",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            }
+          ]
+        },
+        {
+          "outlet": "Meduza",
+          "region": "russia",
+          "lean": "center",
+          "ownership": "private",
+          "title": "NYT: A fully autonomous Russian AI drone run by an Nvidia minicomputer killed 3 civilians in the Ukrainian city of Zaporizhzhia",
+          "url": "https://meduza.io/en/feature/2026/08/24/nyt-a-fully-autonomous-russian-ai-drone-run-by-an-nvidia-minicomputer-killed-3-civilians-in-the-ukrainian-city-of-zaporizhzhia",
+          "published": "2026-08-24T20:22:29+00:00",
+          "orig_title": "NYT: A fully autonomous Russian AI drone run by an Nvidia minicomputer killed 3 civilians in the Ukrainian city of Zaporizhzhia",
+          "lang": "en",
+          "translated": false,
+          "access": "unknown",
+          "more": [
+            {
+              "outlet": "Meduza",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Ukraine attacks southern Russia with drones, killing three children, local officials say",
+              "url": "https://meduza.io/en/news/2026/08/24/ukraine-attacks-southern-russia-with-drones-killing-three-children-local-officials-say",
+              "published": "2026-08-24T07:32:27+00:00",
+              "orig_title": "Ukraine attacks southern Russia with drones, killing three children, local officials say",
+              "lang": "en",
+              "translated": false,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Meduza",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Russian military publishes video of drone strike on unarmed cyclist in Donetsk region",
+              "url": "https://meduza.io/en/news/2026/08/24/russian-military-publishes-video-of-drone-strike-on-unarmed-cyclist-in-donetsk-region",
+              "published": "2026-08-24T07:47:01+00:00",
+              "orig_title": "Russian military publishes video of drone strike on unarmed cyclist in Donetsk region",
+              "lang": "en",
+              "translated": false,
+              "access": "unknown"
+            }
+          ]
+        },
+        {
+          "outlet": "TASS",
+          "region": "russia",
+          "lean": "state",
+          "ownership": "state",
+          "title": "IN BRIEF: Ukrainian connection in drone incident in Germany",
+          "url": "https://tass.com/politics/2177049",
+          "published": "2026-08-24T13:57:53+00:00",
+          "orig_title": "IN BRIEF: Ukrainian connection in drone incident in Germany",
+          "lang": "en",
+          "translated": false,
+          "access": "open",
+          "more": [
+            {
+              "outlet": "TASS",
+              "region": "russia",
+              "lean": "state",
+              "ownership": "state",
+              "title": "Germany examines ‘Ukrainian trace’ in drone incident in Leipzig — Russia’s SVR",
+              "url": "https://tass.com/politics/2177001",
+              "published": "2026-08-24T12:17:15+00:00",
+              "orig_title": "Germany examines ‘Ukrainian trace’ in drone incident in Leipzig — Russia’s SVR",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            },
+            {
+              "outlet": "TASS",
+              "region": "russia",
+              "lean": "state",
+              "ownership": "state",
+              "title": "Ukraine assisting terrorist groups in Africa with UAVs — war correspondent",
+              "url": "https://tass.com/society/2177041",
+              "published": "2026-08-24T13:37:20+00:00",
+              "orig_title": "Ukraine assisting terrorist groups in Africa with UAVs — war correspondent",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            },
+            {
+              "outlet": "TASS",
+              "region": "russia",
+              "lean": "state",
+              "ownership": "state",
+              "title": "Kiev sees Leipzig drone incident pushing EU toward more arms supplies — intel agency",
+              "url": "https://tass.com/politics/2177021",
+              "published": "2026-08-24T12:51:41+00:00",
+              "orig_title": "Kiev sees Leipzig drone incident pushing EU toward more arms supplies — intel agency",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            },
             {
               "outlet": "TASS",
               "region": "russia",
@@ -700,18 +1286,31 @@
               "lang": "en",
               "translated": false,
               "access": "open"
+            },
+            {
+              "outlet": "TASS",
+              "region": "russia",
+              "lean": "state",
+              "ownership": "state",
+              "title": "Ukrainian drone teams set up shop in Konstantinovka residential areas — refugees",
+              "url": "https://tass.com/politics/2177031",
+              "published": "2026-08-24T13:16:05+00:00",
+              "orig_title": "Ukrainian drone teams set up shop in Konstantinovka residential areas — refugees",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
             }
           ]
         }
       ]
     },
     {
-      "id": 176,
+      "id": 209,
       "topic": "World & Politics",
       "label": "Putin · infrastructure · critical",
       "title": "Putin signs decree on measures to protect critical infrastructure",
       "summary": "According to the decree, the Russian government may assume temporary control over critical infrastructure sites, when owners neglect security protocols or delay necessary repairs",
-      "score": 5.578,
+      "score": 5.501,
       "n_outlets": 5,
       "n_articles": 9,
       "regions": [
@@ -846,526 +1445,15 @@
       ]
     },
     {
-      "id": 369,
-      "topic": "World & Politics",
-      "label": "Guinea · Landslide · landfill",
-      "title": "Landslide at waste mound in Guinea capital kills 30, government says",
-      "summary": "Dump site in Conakry, which minister had just promised to move, collapsed after heavy rain in west African state A ⁠landslide at a huge waste dump in Guinea’s capital has killed 30 people, the governm",
-      "score": 5.314,
-      "n_outlets": 5,
-      "n_articles": 5,
-      "regions": [
-        "europe",
-        "india",
-        "russia",
-        "us"
-      ],
-      "last_seen": "2026-08-24T11:26:19+00:00",
-      "leans": [
-        "center",
-        "left",
-        "right"
-      ],
-      "sources": [
-        {
-          "outlet": "The Guardian",
-          "region": "europe",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Landslide at waste mound in Guinea capital kills 30, government says",
-          "url": "https://www.theguardian.com/world/2026/aug/23/landslide-waste-mound-conakry-guinea-kills-dozens",
-          "published": "2026-08-23T22:16:53+00:00",
-          "orig_title": "Landslide at waste mound in Guinea capital kills 30, government says",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "The Hindu",
-          "region": "india",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Landslide at Guinea landfill kills 30, government says",
-          "url": "https://www.thehindu.com/news/international/several-dead-many-injured-in-a-landslip-triggered-by-heavy-rains-at-a-landfill-in-conakry-guinea/article71382052.ece",
-          "published": "2026-08-23T19:22:09+00:00",
-          "orig_title": "Landslide at Guinea landfill kills 30, government says",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "BBC News",
-          "region": "europe",
-          "lean": "center",
-          "ownership": "public",
-          "title": "Guinea rubbish landfill collapse kills 31",
-          "url": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-24T11:26:19+00:00",
-          "orig_title": "Guinea rubbish landfill collapse kills 31",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "Kommersant",
-          "region": "russia",
-          "lean": "center",
-          "ownership": "private",
-          "title": "30 dead in landfill collapse in Guinea's capital",
-          "url": "https://www.kommersant.ru/doc/8906619",
-          "published": "2026-08-23T17:52:38+00:00",
-          "orig_title": "30 человек погибли из-за обрушения мусорного полигона в столице Гвинеи",
-          "lang": "ru",
-          "translated": true,
-          "access": "unknown"
-        },
-        {
-          "outlet": "Fox News",
-          "region": "us",
-          "lean": "right",
-          "ownership": "private",
-          "title": "Massive garbage heap collapses onto homes, killing at least 30 as rescuers search for survivors",
-          "url": "https://www.foxnews.com/world/massive-garbage-heap-collapses-onto-homes-killing-least-30-rescuers-search-survivors",
-          "published": "2026-08-23T20:53:10+00:00",
-          "orig_title": "Massive garbage heap collapses onto homes, killing at least 30 as rescuers search for survivors",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        }
-      ]
-    },
-    {
-      "id": 31,
-      "topic": "World & Politics",
-      "label": "Trump · U.S. · foreigners",
-      "title": "Trump administration preparing to revoke visas of up to 200K foreigners in largest mass visa revocation ever",
-      "summary": "The Trump administration is preparing to revoke business and tourism visas from up to 200,000 migrants who have applied for or are currently seeking asylum in the U.S. on a rolling basis — a move that",
-      "score": 4.9,
-      "n_outlets": 4,
-      "n_articles": 4,
-      "regions": [
-        "china",
-        "japan",
-        "us"
-      ],
-      "last_seen": "2026-08-25T00:04:00+00:00",
-      "leans": [
-        "center",
-        "right"
-      ],
-      "sources": [
-        {
-          "outlet": "South China Morning Post",
-          "region": "china",
-          "lean": "center",
-          "ownership": "private",
-          "title": "US set for largest mass visa revocation, targeting up to 200,000 foreigners",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3365117/us-set-largest-mass-visa-revocation-targeting-200000-foreigners?utm_source=rss_feed",
-          "published": "2026-08-24T21:53:42+00:00",
-          "orig_title": "US set for largest mass visa revocation, targeting up to 200,000 foreigners",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "The Hill",
-          "region": "us",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Trump administration preparing to revoke visas of up to 200K foreigners in largest mass visa revocation ever",
-          "url": "https://thehill.com/homenews/administration/6048047-mass-b1-b2-visa-revocations/",
-          "published": "2026-08-24T22:58:28+00:00",
-          "orig_title": "Trump administration preparing to revoke visas of up to 200K foreigners in largest mass visa revocation ever",
-          "lang": "en",
-          "translated": false,
-          "access": "unknown"
-        },
-        {
-          "outlet": "The Japan Times",
-          "region": "japan",
-          "lean": "center",
-          "ownership": "private",
-          "title": "U.S. plans to revoke tourism and business visas of up to 200,000 foreigners, AP reports",
-          "url": "https://www.japantimes.co.jp/news/2026/08/25/world/politics/us-200000-tourist-business-visas/",
-          "published": "2026-08-24T22:16:00+00:00",
-          "orig_title": "U.S. plans to revoke tourism and business visas of up to 200,000 foreigners, AP reports",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
-        },
-        {
-          "outlet": "The Wall Street Journal",
-          "region": "us",
-          "lean": "right",
-          "ownership": "private",
-          "title": "The Trump administration is planning what may be the largest mass visa revocation in U.S. history, targeting up to 200,000 foreigners who have applied for asylum status",
-          "url": "https://www.wsj.com/politics/policy/trump-administration-prepares-to-revoke-up-to-200-000-visas-from-asylum-seekers-5b4d4264?mod=rss_socialpoliticsfeed",
-          "published": "2026-08-25T00:04:00+00:00",
-          "orig_title": "The Trump administration is planning what may be the largest mass visa revocation in U.S. history, targeting up to 200,000 foreigners who have applied for asylum status",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
-        }
-      ]
-    },
-    {
-      "id": 50,
-      "topic": "World & Politics",
-      "label": "Supreme · Court · Trump",
-      "title": "US Supreme Court clears the way for Trump mail voting order in advance of midterms",
-      "summary": "The Supreme Court on Monday cleared the way for US President Donald Trump to move ahead with his executive order restricting mail-in voting, though it remains unclear how much his administration can i",
-      "score": 4.836,
-      "n_outlets": 4,
-      "n_articles": 5,
-      "regions": [
-        "china",
-        "us"
-      ],
-      "last_seen": "2026-08-24T23:10:40+00:00",
-      "leans": [
-        "center",
-        "left",
-        "right"
-      ],
-      "sources": [
-        {
-          "outlet": "NPR",
-          "region": "us",
-          "lean": "left",
-          "ownership": "public",
-          "title": "Supreme Court gives Trump an interim win on his mail voting order, but hurdles loom",
-          "url": "https://www.npr.org/2026/08/24/nx-s1-5909592/trump-mail-voting-order-supreme-court",
-          "published": "2026-08-24T20:53:45+00:00",
-          "orig_title": "Supreme Court gives Trump an interim win on his mail voting order, but hurdles loom",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "South China Morning Post",
-          "region": "china",
-          "lean": "center",
-          "ownership": "private",
-          "title": "US Supreme Court clears the way for Trump mail voting order in advance of midterms",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3365116/us-supreme-court-clears-way-trump-mail-voting-order-advance-midterms?utm_source=rss_feed",
-          "published": "2026-08-24T21:30:47+00:00",
-          "orig_title": "US Supreme Court clears the way for Trump mail voting order in advance of midterms",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "The Hill",
-          "region": "us",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Jackson calls Supreme Court’s mail-in voting ruling a ‘Kafkaesque nightmare’",
-          "url": "https://thehill.com/regulation/court-battles/6048109-justice-jackson-election-chaos-dissent/",
-          "published": "2026-08-24T23:10:40+00:00",
-          "orig_title": "Jackson calls Supreme Court’s mail-in voting ruling a ‘Kafkaesque nightmare’",
-          "lang": "en",
-          "translated": false,
-          "access": "unknown"
-        },
-        {
-          "outlet": "The Wall Street Journal",
-          "region": "us",
-          "lean": "right",
-          "ownership": "private",
-          "title": "The Supreme Court removed a legal obstacle that had stopped President Trump from imposing new restrictions on mail-in voting ahead of the midterm elections in November",
-          "url": "https://www.wsj.com/politics/elections/supreme-court-removes-hurdle-to-trump-directive-on-mail-voting-f2a1437a?mod=rss_socialpoliticsfeed",
-          "published": "2026-08-24T22:35:00+00:00",
-          "orig_title": "The Supreme Court removed a legal obstacle that had stopped President Trump from imposing new restrictions on mail-in voting ahead of the midterm elections in November",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall",
-          "more": [
-            {
-              "outlet": "The Wall Street Journal",
-              "region": "us",
-              "lean": "right",
-              "ownership": "private",
-              "title": "Supreme Court Rules on Trump’s Mail-In Ballot Order",
-              "url": "https://www.wsj.com/world/asia/supreme-court-rules-on-trumps-mail-in-ballot-order-9fd77f1a?mod=rss_worldnews",
-              "published": "2026-08-24T21:31:00+00:00",
-              "orig_title": "Supreme Court Rules on Trump’s Mail-In Ballot Order",
-              "lang": "en",
-              "translated": false,
-              "access": "paywall"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 102,
-      "topic": "World & Politics",
-      "label": "H-1B · Trump · fee",
-      "title": "Trump administration proposes new H-1B visa fee",
-      "summary": "{beacon} Technology Technology &#8202; The Big Story Trump administration lays out new $103K fee proposal for H-1B visas The Department of Homeland Security (DHS) issued a new proposed rule for H-1B v",
-      "score": 4.731,
-      "n_outlets": 4,
-      "n_articles": 4,
-      "regions": [
-        "india",
-        "us"
-      ],
-      "last_seen": "2026-08-24T21:34:14+00:00",
-      "leans": [
-        "center",
-        "left",
-        "right"
-      ],
-      "sources": [
-        {
-          "outlet": "The Hindu",
-          "region": "india",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Trump administration moves to impose more than $100,000 fee for H-1B worker visas",
-          "url": "https://www.thehindu.com/news/international/trump-administration-moves-to-impose-more-than-100000-fee-for-h-1b-worker-visas/article71385078.ece",
-          "published": "2026-08-24T14:23:06+00:00",
-          "orig_title": "Trump administration moves to impose more than $100,000 fee for H-1B worker visas",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "The Hill",
-          "region": "us",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Trump administration proposes new H-1B visa fee",
-          "url": "https://thehill.com/newsletters/technology/6047891-trump-administration-proposes-new-h-1b-visa-fee/",
-          "published": "2026-08-24T21:34:14+00:00",
-          "orig_title": "Trump administration proposes new H-1B visa fee",
-          "lang": "en",
-          "translated": false,
-          "access": "unknown"
-        },
-        {
-          "outlet": "Times of India",
-          "region": "india",
-          "lean": "center",
-          "ownership": "private",
-          "title": "'Nothing changes yet': Immigration lawyer explains new $103,265 H-1B fee rule is not final; there will be litigation",
-          "url": "https://timesofindia.indiatimes.com/world/us/nothing-changes-yet-immigration-lawyer-explains-new-103265-h-1b-fee-rule-is-not-final-there-will-be-litigation/articleshow/133474251.cms",
-          "published": "2026-08-24T17:08:52+00:00",
-          "orig_title": "'Nothing changes yet': Immigration lawyer explains new $103,265 H-1B fee rule is not final; there will be litigation",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "The Wall Street Journal",
-          "region": "us",
-          "lean": "right",
-          "ownership": "private",
-          "title": "The Trump administration is proposing a new six-figure fee for H-1B visas that would apply to most new applicants, not just those applying from abroad",
-          "url": "https://www.wsj.com/politics/policy/government-proposes-new-six-figure-fee-for-h1-b-visas-a0da2d01?mod=rss_socialpoliticsfeed",
-          "published": "2026-08-24T16:50:00+00:00",
-          "orig_title": "The Trump administration is proposing a new six-figure fee for H-1B visas that would apply to most new applicants, not just those applying from abroad",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
-        }
-      ]
-    },
-    {
-      "id": 139,
-      "topic": "World & Politics",
-      "label": "Ukrainian · drone · Russian",
-      "title": "IN BRIEF: Ukrainian connection in drone incident in Germany",
-      "summary": "The Russian Foreign Intelligence Service questioned whether the German authorities have the political will \"to draw impartial conclusions and officially announce them\"",
-      "score": 4.662,
-      "n_outlets": 4,
-      "n_articles": 12,
-      "regions": [
-        "russia",
-        "us"
-      ],
-      "last_seen": "2026-08-24T20:22:29+00:00",
-      "leans": [
-        "center",
-        "left",
-        "state"
-      ],
-      "sources": [
-        {
-          "outlet": "The New York Times",
-          "region": "us",
-          "lean": "left",
-          "ownership": "private",
-          "title": "A Drone Killed Three Ukrainians. It Was Guided Entirely by A.I.",
-          "url": "https://www.nytimes.com/2026/08/24/world/europe/russia-drones-autonomous-ai-kill-ukraine-war.html",
-          "published": "2026-08-24T14:24:53+00:00",
-          "orig_title": "A Drone Killed Three Ukrainians. It Was Guided Entirely by A.I.",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
-        },
-        {
-          "outlet": "Kommersant",
-          "region": "russia",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Russian foreign intelligence assesses media impact Ukraine gained from German drone incident",
-          "url": "https://www.kommersant.ru/doc/8907219",
-          "published": "2026-08-24T14:01:28+00:00",
-          "orig_title": "СВР оценила медийный эффект, которого добилась Украина из-за ЧП с дроном в ФРГ",
-          "lang": "ru",
-          "translated": true,
-          "access": "unknown",
-          "more": [
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Russia shot down 42 drones in a day",
-              "url": "https://www.kommersant.ru/doc/8907397",
-              "published": "2026-08-24T17:32:21+00:00",
-              "orig_title": "За день над Россией сбили 42 беспилотника",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            },
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Drone debris discovered in eastern Romania",
-              "url": "https://www.kommersant.ru/doc/8907228",
-              "published": "2026-08-24T13:56:28+00:00",
-              "orig_title": "На востоке Румынии обнаружили обломки беспилотника",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            },
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Bryansk region resident killed by explosive device",
-              "url": "https://www.kommersant.ru/doc/8907403",
-              "published": "2026-08-24T17:39:45+00:00",
-              "orig_title": "Житель Брянской области подорвался на взрывном устройстве",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            }
-          ]
-        },
-        {
-          "outlet": "Meduza",
-          "region": "russia",
-          "lean": "center",
-          "ownership": "private",
-          "title": "NYT: A fully autonomous Russian AI drone run by an Nvidia minicomputer killed 3 civilians in the Ukrainian city of Zaporizhzhia",
-          "url": "https://meduza.io/en/feature/2026/08/24/nyt-a-fully-autonomous-russian-ai-drone-run-by-an-nvidia-minicomputer-killed-3-civilians-in-the-ukrainian-city-of-zaporizhzhia",
-          "published": "2026-08-24T20:22:29+00:00",
-          "orig_title": "NYT: A fully autonomous Russian AI drone run by an Nvidia minicomputer killed 3 civilians in the Ukrainian city of Zaporizhzhia",
-          "lang": "en",
-          "translated": false,
-          "access": "unknown",
-          "more": [
-            {
-              "outlet": "Meduza",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Russian military publishes video of drone strike on unarmed cyclist in Donetsk region",
-              "url": "https://meduza.io/en/news/2026/08/24/russian-military-publishes-video-of-drone-strike-on-unarmed-cyclist-in-donetsk-region",
-              "published": "2026-08-24T07:47:01+00:00",
-              "orig_title": "Russian military publishes video of drone strike on unarmed cyclist in Donetsk region",
-              "lang": "en",
-              "translated": false,
-              "access": "unknown"
-            }
-          ]
-        },
-        {
-          "outlet": "TASS",
-          "region": "russia",
-          "lean": "state",
-          "ownership": "state",
-          "title": "IN BRIEF: Ukrainian connection in drone incident in Germany",
-          "url": "https://tass.com/politics/2177049",
-          "published": "2026-08-24T13:57:53+00:00",
-          "orig_title": "IN BRIEF: Ukrainian connection in drone incident in Germany",
-          "lang": "en",
-          "translated": false,
-          "access": "open",
-          "more": [
-            {
-              "outlet": "TASS",
-              "region": "russia",
-              "lean": "state",
-              "ownership": "state",
-              "title": "Germany examines ‘Ukrainian trace’ in drone incident in Leipzig — Russia’s SVR",
-              "url": "https://tass.com/politics/2177001",
-              "published": "2026-08-24T12:17:15+00:00",
-              "orig_title": "Germany examines ‘Ukrainian trace’ in drone incident in Leipzig — Russia’s SVR",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
-            },
-            {
-              "outlet": "TASS",
-              "region": "russia",
-              "lean": "state",
-              "ownership": "state",
-              "title": "Kiev sees Leipzig drone incident pushing EU toward more arms supplies — intel agency",
-              "url": "https://tass.com/politics/2177021",
-              "published": "2026-08-24T12:51:41+00:00",
-              "orig_title": "Kiev sees Leipzig drone incident pushing EU toward more arms supplies — intel agency",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
-            },
-            {
-              "outlet": "TASS",
-              "region": "russia",
-              "lean": "state",
-              "ownership": "state",
-              "title": "Ukraine assisting terrorist groups in Africa with UAVs — war correspondent",
-              "url": "https://tass.com/society/2177041",
-              "published": "2026-08-24T13:37:20+00:00",
-              "orig_title": "Ukraine assisting terrorist groups in Africa with UAVs — war correspondent",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
-            },
-            {
-              "outlet": "TASS",
-              "region": "russia",
-              "lean": "state",
-              "ownership": "state",
-              "title": "Ukrainian drone teams set up shop in Konstantinovka residential areas — refugees",
-              "url": "https://tass.com/politics/2177031",
-              "published": "2026-08-24T13:16:05+00:00",
-              "orig_title": "Ukrainian drone teams set up shop in Konstantinovka residential areas — refugees",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 40,
+      "id": 87,
       "topic": "Economics",
-      "label": "Iran · Trump · Bessent",
-      "title": "Which Countries Could Be Hurt Most by Trump’s Plan to Hit Iran’s Economy?",
-      "summary": "President Trump has threatened economic penalties on countries that do business with Iran as he seeks to add pressure on Tehran to negotiate an end to the war.",
-      "score": 11.881,
-      "n_outlets": 11,
-      "n_articles": 16,
+      "label": "Iran · U.S. · Trump",
+      "title": "‘Economic D-Day’: U.S. threatens Iran with new sanctions, Tehran fires back",
+      "summary": "U.S. Treasury Secretary Scott Bessent warns of an economic D-Day, the single greatest financial offensive ever marshaled against an adversary; Iran in turn vowed ‌to shut down all oil exports from the",
+      "score": 10.763,
+      "n_outlets": 10,
+      "n_articles": 14,
       "regions": [
-        "china",
         "europe",
         "india",
         "japan",
@@ -1381,6 +1469,19 @@
       ],
       "sources": [
         {
+          "outlet": "El Pais",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Operation Economic Pariah: US aims to isolate Iran from financial backers",
+          "url": "https://elpais.com/internacional/2026-08-24/estados-unidos-da-un-ultimatum-a-cualquier-pais-lo-suficientemente-loco-como-para-seguir-negociando-con-iran.html",
+          "published": "2026-08-24T17:34:21+00:00",
+          "orig_title": "Operación ‘Paria Económico’: Estados Unidos apuesta por aislar a Irán de los gobiernos que sostienen sus finanzas",
+          "lang": "es",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
           "outlet": "NPR",
           "region": "us",
           "lean": "left",
@@ -1394,45 +1495,32 @@
           "access": "open"
         },
         {
-          "outlet": "The Guardian",
-          "region": "europe",
+          "outlet": "The Hindu",
+          "region": "india",
           "lean": "left",
           "ownership": "private",
-          "title": "Iran’s foreign minister calls threat of new US economic sanctions ‘desperate’",
-          "url": "https://www.theguardian.com/world/2026/aug/23/iran-new-security-chief-trump-economic-war-enemies-mohsen-rezaei",
-          "published": "2026-08-23T13:56:11+00:00",
-          "orig_title": "Iran’s foreign minister calls threat of new US economic sanctions ‘desperate’",
+          "title": "‘Economic D-Day’: U.S. threatens Iran with new sanctions, Tehran fires back",
+          "url": "https://www.thehindu.com/news/international/us-treasury-secretary-scott-bessent-economic-sanctions-threat-on-iran-washington-tehran/article71383499.ece",
+          "published": "2026-08-24T12:19:57+00:00",
+          "orig_title": "‘Economic D-Day’: U.S. threatens Iran with new sanctions, Tehran fires back",
           "lang": "en",
           "translated": false,
           "access": "open",
           "more": [
             {
-              "outlet": "The Guardian",
-              "region": "europe",
+              "outlet": "The Hindu",
+              "region": "india",
               "lean": "left",
               "ownership": "private",
-              "title": "US threatens severe sanctions against countries with economic ties to Iran",
-              "url": "https://www.theguardian.com/world/2026/aug/24/us-severe-sanctions-economic-ties-iran",
-              "published": "2026-08-24T18:57:57+00:00",
-              "orig_title": "US threatens severe sanctions against countries with economic ties to Iran",
+              "title": "U.S. Treasury chief vows to cut every ‘economic lifeline’ of Iran",
+              "url": "https://www.thehindu.com/news/international/us-treasury-chief-vows-to-cut-every-economic-lifeline-of-iran/article71386161.ece",
+              "published": "2026-08-24T19:32:21+00:00",
+              "orig_title": "U.S. Treasury chief vows to cut every ‘economic lifeline’ of Iran",
               "lang": "en",
               "translated": false,
               "access": "open"
             }
           ]
-        },
-        {
-          "outlet": "The Hindu",
-          "region": "india",
-          "lean": "left",
-          "ownership": "private",
-          "title": "U.S. Treasury chief vows to cut every ‘economic lifeline’ of Iran",
-          "url": "https://www.thehindu.com/news/international/us-treasury-chief-vows-to-cut-every-economic-lifeline-of-iran/article71386161.ece",
-          "published": "2026-08-24T19:32:21+00:00",
-          "orig_title": "U.S. Treasury chief vows to cut every ‘economic lifeline’ of Iran",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
         },
         {
           "outlet": "The New York Times",
@@ -1472,19 +1560,6 @@
               "lang": "en",
               "translated": false,
               "access": "paywall"
-            },
-            {
-              "outlet": "The New York Times",
-              "region": "us",
-              "lean": "left",
-              "ownership": "private",
-              "title": "Iran Warns Gulf States Not to Join Trump’s Economic War",
-              "url": "https://www.nytimes.com/2026/08/23/world/europe/iran-economy-war-united-states.html",
-              "published": "2026-08-23T17:00:10+00:00",
-              "orig_title": "Iran Warns Gulf States Not to Join Trump’s Economic War",
-              "lang": "en",
-              "translated": false,
-              "access": "paywall"
             }
           ]
         },
@@ -1513,19 +1588,6 @@
           "lang": "en",
           "translated": false,
           "access": "unknown"
-        },
-        {
-          "outlet": "South China Morning Post",
-          "region": "china",
-          "lean": "center",
-          "ownership": "private",
-          "title": "US sanctions Chinese entities, issues global warning on ‘Economic D-Day’ against Iran",
-          "url": "https://www.scmp.com/news/us/diplomacy/article/3365111/us-sanctions-chinese-entities-issues-global-warning-economic-d-day-against-iran?utm_source=rss_feed",
-          "published": "2026-08-24T18:03:57+00:00",
-          "orig_title": "US sanctions Chinese entities, issues global warning on ‘Economic D-Day’ against Iran",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
         },
         {
           "outlet": "The Hill",
@@ -1597,14 +1659,14 @@
       ]
     },
     {
-      "id": 2,
+      "id": 1,
       "topic": "Economics",
       "label": "Trump · Canadian · Canada",
       "title": "Trump threatens 50% tariff on Canadian automobiles, car parts, steel starting January 1",
       "summary": "Long-planned U.S. tariffs on various Canadian goods went into effect after the talks broke off, and Canada has vowed to retaliate",
-      "score": 10.985,
-      "n_outlets": 10,
-      "n_articles": 20,
+      "score": 9.984,
+      "n_outlets": 9,
+      "n_articles": 19,
       "regions": [
         "china",
         "europe",
@@ -1612,7 +1674,7 @@
         "russia",
         "us"
       ],
-      "last_seen": "2026-08-25T01:09:12+00:00",
+      "last_seen": "2026-08-25T02:51:53+00:00",
       "leans": [
         "center",
         "left",
@@ -1650,10 +1712,10 @@
               "region": "europe",
               "lean": "left",
               "ownership": "private",
-              "title": "Gavin Newsom says California will sue Trump administration again to block ‘Orwellian rules’ meant to curb mail-in voting – live",
+              "title": "Gavin Newsom says California will sue Trump administration again to block ‘Orwellian rules’ meant to curb mail-in voting – as it happened",
               "url": "https://www.theguardian.com/us-news/live/2026/aug/24/hakeem-jeffries-jared-kushner-democrats-midterm-elections-donald-trump-iran-war-sanctions-latest-news-updates",
-              "published": "2026-08-25T01:09:12+00:00",
-              "orig_title": "Gavin Newsom says California will sue Trump administration again to block ‘Orwellian rules’ meant to curb mail-in voting – live",
+              "published": "2026-08-25T01:55:36+00:00",
+              "orig_title": "Gavin Newsom says California will sue Trump administration again to block ‘Orwellian rules’ meant to curb mail-in voting – as it happened",
               "lang": "en",
               "translated": false,
               "access": "open"
@@ -1762,7 +1824,7 @@
           "ownership": "public",
           "title": "US-Canada trade war escalates as Trump threatens tariff hike on autos after Carney vows to retaliate",
           "url": "https://www.bbc.co.uk/news/articles/c93vpd60654o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-25T00:25:52+00:00",
+          "published": "2026-08-25T02:51:53+00:00",
           "orig_title": "US-Canada trade war escalates as Trump threatens tariff hike on autos after Carney vows to retaliate",
           "lang": "en",
           "translated": false,
@@ -1775,7 +1837,7 @@
               "ownership": "public",
               "title": "How Canada could hit back to hurt the US economy - and Trump",
               "url": "https://www.bbc.co.uk/news/articles/c05rj80ve56o?at_medium=RSS&at_campaign=rss",
-              "published": "2026-08-25T00:40:06+00:00",
+              "published": "2026-08-25T02:49:22+00:00",
               "orig_title": "How Canada could hit back to hurt the US economy - and Trump",
               "lang": "en",
               "translated": false,
@@ -1807,19 +1869,6 @@
           "orig_title": "Трамп пообещал повысить до 50% пошлины на автомобили и сталь из Канады",
           "lang": "ru",
           "translated": true,
-          "access": "unknown"
-        },
-        {
-          "outlet": "Politico Europe",
-          "region": "europe",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Trump announces 50 percent tariff increase on Canada for vehicles, steel after trade talks collapse",
-          "url": "https://www.politico.com/news/2026/08/24/trump-canada-vehicle-steel-tariffs-01046991?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-          "published": "2026-08-24T14:27:36+00:00",
-          "orig_title": "Trump announces 50 percent tariff increase on Canada for vehicles, steel after trade talks collapse",
-          "lang": "en",
-          "translated": false,
           "access": "unknown"
         },
         {
@@ -1892,18 +1941,17 @@
       ]
     },
     {
-      "id": 7,
+      "id": 58,
       "topic": "Economics",
-      "label": "Canada · Trump · trade",
+      "label": "Canada · trade · French",
       "title": "‘No more!!!’: Trump lashes out after US-Canada talks devolve into trade war",
       "summary": "PM Mark Carney says ‘we got attacked’ as tariffs come into force on items from hockey sticks to tongue depressors The lesson from Canada’s collapsed trade talks with the US: negotiation may be futile ",
-      "score": 4.977,
-      "n_outlets": 4,
-      "n_articles": 6,
+      "score": 3.846,
+      "n_outlets": 3,
+      "n_articles": 5,
       "regions": [
         "europe",
-        "japan",
-        "us"
+        "japan"
       ],
       "last_seen": "2026-08-25T01:03:00+00:00",
       "leans": [
@@ -1953,19 +2001,6 @@
           ]
         },
         {
-          "outlet": "The New York Times",
-          "region": "us",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Trump’s Top Trade Representative Details Offer That Canada Rejected",
-          "url": "https://www.nytimes.com/2026/08/22/business/economy/greer-us-canada-trade-deal.html",
-          "published": "2026-08-23T14:43:24+00:00",
-          "orig_title": "Trump’s Top Trade Representative Details Offer That Canada Rejected",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
-        },
-        {
           "outlet": "BBC News",
           "region": "europe",
           "lean": "center",
@@ -1994,38 +2029,24 @@
       ]
     },
     {
-      "id": 9,
+      "id": 13,
       "topic": "Economics",
-      "label": "Gold · Treasury · Jackson",
-      "title": "Gold Gains; Potential to Rise to $5,000 Intact",
-      "summary": "Gold has the potential to move toward $5,000 a troy ounce as continued central bank demand, fiscal risks and geopolitical uncertainty support a largely optimistic medium-term outlook, XS.com said.",
-      "score": 3.973,
-      "n_outlets": 3,
+      "label": "Gold · Chinese · trade",
+      "title": "US Treasury bond buy-back reinforces gold debasement trade as Jackson Hole meeting looms",
+      "summary": "The US Treasury’s decision to boost its buy-backs of long-maturity bonds is strengthening the debasement trade on gold, as investment banks turn more upbeat on the precious metal before the Federal Re",
+      "score": 2.955,
+      "n_outlets": 2,
       "n_articles": 3,
       "regions": [
         "china",
-        "russia",
         "us"
       ],
-      "last_seen": "2026-08-25T01:00:08+00:00",
+      "last_seen": "2026-08-25T02:30:11+00:00",
       "leans": [
         "center",
         "right"
       ],
       "sources": [
-        {
-          "outlet": "Kommersant",
-          "region": "russia",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Gold price exceeds $4,700 per ounce for first time since May",
-          "url": "https://www.kommersant.ru/doc/8906729",
-          "published": "2026-08-24T05:36:10+00:00",
-          "orig_title": "Цена золота превысила $4700 за унцию впервые с мая",
-          "lang": "ru",
-          "translated": true,
-          "access": "unknown"
-        },
         {
           "outlet": "South China Morning Post",
           "region": "china",
@@ -2037,7 +2058,22 @@
           "orig_title": "US Treasury bond buy-back reinforces gold debasement trade as Jackson Hole meeting looms",
           "lang": "en",
           "translated": false,
-          "access": "open"
+          "access": "open",
+          "more": [
+            {
+              "outlet": "South China Morning Post",
+              "region": "china",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Gold strategy: why a Chinese global network of vaults would bolster yuan’s trade role",
+              "url": "https://www.scmp.com/business/china-business/article/3365092/gold-strategy-why-chinese-global-network-vaults-would-bolster-yuans-trade-role?utm_source=rss_feed",
+              "published": "2026-08-25T02:30:11+00:00",
+              "orig_title": "Gold strategy: why a Chinese global network of vaults would bolster yuan’s trade role",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            }
+          ]
         },
         {
           "outlet": "The Wall Street Journal",
@@ -2055,50 +2091,61 @@
       ]
     },
     {
-      "id": 133,
+      "id": 39,
       "topic": "Economics",
-      "label": "Canada · Tariffs · Again",
-      "title": "Morning news brief",
-      "summary": "Treasury secretary to detail new round of economic pressure on Iran, Iran warns of 'seismic' retaliation if U.S. follow through with economic threat, Canada vows to impose retaliatory tariffs on U.S.",
-      "score": 3.672,
-      "n_outlets": 3,
+      "label": "Schneider · climate · economic",
+      "title": "Politicians like to use climate change to hide their own responsibility",
+      "summary": "„Vielleicht will er ins linke Milieu blinken“, sagt Axel Bojanowski, WELT-Chefreporter Wissenschaft, über die klimapolitischen Aussagen von Kanzler Merz beim Besuch im Waldbrandgebiet Hürtgenwald.",
+      "score": 2.887,
+      "n_outlets": 2,
       "n_articles": 4,
       "regions": [
-        "russia",
+        "europe",
         "us"
       ],
-      "last_seen": "2026-08-24T20:33:00+00:00",
+      "last_seen": "2026-08-25T01:37:33+00:00",
       "leans": [
-        "left",
-        "right",
-        "state"
+        "right"
       ],
       "sources": [
         {
-          "outlet": "NPR",
-          "region": "us",
-          "lean": "left",
-          "ownership": "public",
-          "title": "Morning news brief",
-          "url": "https://www.npr.org/2026/08/24/nx-s1-5939834/morning-news-brief",
-          "published": "2026-08-24T08:46:05+00:00",
-          "orig_title": "Morning news brief",
-          "lang": "en",
-          "translated": false,
-          "access": "open",
+          "outlet": "Die Welt",
+          "region": "europe",
+          "lean": "right",
+          "ownership": "private",
+          "title": "Politicians like to use climate change to hide their own responsibility",
+          "url": "https://www.welt.de/politik/deutschland/video6a8c6f24437c391dae0a190b/merz-im-waldbrandgebiet-politiker-schuetzen-den-klimawandel-ganz-gerne-vor-um-die-eigene-verantwortung-zu-kaschieren.html",
+          "published": "2026-08-24T16:33:40+00:00",
+          "orig_title": "„Politiker schützen den Klimawandel ganz gerne vor, um die eigene Verantwortung zu kaschieren“",
+          "lang": "de",
+          "translated": true,
+          "access": "unknown",
           "more": [
             {
-              "outlet": "NPR",
-              "region": "us",
-              "lean": "left",
-              "ownership": "public",
-              "title": "U.S. to detail new economic pressures on Iran. And, Canada to impose tariffs on U.S.",
-              "url": "https://www.npr.org/2026/08/24/g-s1-139736/up-first-newsletter-iran-economic-pressures-canada-tariffs-trump-visa-ban",
-              "published": "2026-08-24T11:27:44+00:00",
-              "orig_title": "U.S. to detail new economic pressures on Iran. And, Canada to impose tariffs on U.S.",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
+              "outlet": "Die Welt",
+              "region": "europe",
+              "lean": "right",
+              "ownership": "private",
+              "title": "Schneider calls ambitious climate policy \"essential for future economic growth\"",
+              "url": "https://www.welt.de/politik/deutschland/article6a8ceb5dc3692834ff6dba20/umweltminister-grundvoraussetzung-fuer-kuenftiges-wirtschaftswachstum-schneider-fordert-ehrgeizige-klimapolitik.html",
+              "published": "2026-08-25T01:37:33+00:00",
+              "orig_title": "„Grundvoraussetzung für künftiges Wirtschaftswachstum“ – Schneider fordert ehrgeizige Klimapolitik",
+              "lang": "de",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Die Welt",
+              "region": "europe",
+              "lean": "right",
+              "ownership": "private",
+              "title": "Cut off every economic lifeline sustaining this tyrannical regime",
+              "url": "https://www.welt.de/politik/article6a8c85c0c3692834ff6db77e/neue-iran-sanktionen-jede-wirtschaftliche-lebensader-durchtrennen-die-dieses-tyrannische-regime-am-leben-haelt.html",
+              "published": "2026-08-24T18:19:05+00:00",
+              "orig_title": "„Jede wirtschaftliche Lebensader ​durchtrennen, die dieses ‌tyrannische Regime am Leben hält“",
+              "lang": "de",
+              "translated": true,
+              "access": "unknown"
             }
           ]
         },
@@ -2107,36 +2154,23 @@
           "region": "us",
           "lean": "right",
           "ownership": "private",
-          "title": "Canada Tariffs, Again",
-          "url": "https://www.wsj.com/finance/investing/canada-tariffs-again-6bc52ff1?mod=rss_markets_main",
-          "published": "2026-08-24T20:33:00+00:00",
-          "orig_title": "Canada Tariffs, Again",
+          "title": "Europe Chastised Trump’s Climate Rollback. Now It’s Delaying Its Own Green Goals.",
+          "url": "https://www.wsj.com/world/europe/europe-chastised-trumps-climate-rollback-now-its-delaying-its-own-green-goals-835b6724?mod=rss_worldnews",
+          "published": "2026-08-24T02:00:00+00:00",
+          "orig_title": "Europe Chastised Trump’s Climate Rollback. Now It’s Delaying Its Own Green Goals.",
           "lang": "en",
           "translated": false,
           "access": "paywall"
-        },
-        {
-          "outlet": "TASS",
-          "region": "russia",
-          "lean": "state",
-          "ownership": "state",
-          "title": "Press review: US threatens Iran with sanctions as Trump steps up trade war with Canada",
-          "url": "https://tass.com/pressreview/2176825",
-          "published": "2026-08-24T10:00:01+00:00",
-          "orig_title": "Press review: US threatens Iran with sanctions as Trump steps up trade war with Canada",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
         }
       ]
     },
     {
-      "id": 22,
+      "id": 71,
       "topic": "Economics",
       "label": "social · homes · England",
       "title": "Burnham backtracks on spending housing fund only on building social homes",
       "summary": "About 40% of £10bn from Affordable Homes Programme will now go on types of housing such as sheltered and shared ownership Andy Burnham has backtracked on his proposal to rip up the government’s housin",
-      "score": 2.936,
+      "score": 2.811,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -2177,12 +2211,12 @@
       ]
     },
     {
-      "id": 112,
+      "id": 145,
       "topic": "Economics",
       "label": "Bond · Opinion · Let",
       "title": "The treasury bond mess: is this the demise of the US as a safe haven?",
       "summary": "The US is scooping up treasury bonds in an effort to raise their price and push yields down – but it’s not working The bond market is driving the Trump administration crazy. Last week, the treasury se",
-      "score": 2.724,
+      "score": 2.627,
       "n_outlets": 2,
       "n_articles": 3,
       "regions": [
@@ -2239,12 +2273,58 @@
       ]
     },
     {
-      "id": 180,
+      "id": 156,
+      "topic": "Economics",
+      "label": "Morning · Mail · Albanese",
+      "title": "Morning Mail: Albanese faces datacentre disquiet, bird flu threat to seals, US vows ‘economic onslaught’ on Iran",
+      "summary": "Want to get this in your inbox every weekday? Sign up for the Morning Mail here , and finish your day with our Afternoon Update newsletter Morning everyone. The thorny issue of datacentres has risen t",
+      "score": 2.595,
+      "n_outlets": 2,
+      "n_articles": 2,
+      "regions": [
+        "australia",
+        "europe"
+      ],
+      "last_seen": "2026-08-24T20:50:05+00:00",
+      "leans": [
+        "left"
+      ],
+      "sources": [
+        {
+          "outlet": "The Guardian",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Australia has just 12,000 sea lions left – and ‘carnage’ may await them as bird flu takes hold, scientists warn",
+          "url": "https://www.theguardian.com/world/2026/aug/25/australia-has-just-12000-sea-lions-left-and-carnage-may-await-them-as-bird-flu-takes-hold-scientists-warn",
+          "published": "2026-08-24T15:00:36+00:00",
+          "orig_title": "Australia has just 12,000 sea lions left – and ‘carnage’ may await them as bird flu takes hold, scientists warn",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "The Guardian Australia",
+          "region": "australia",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Morning Mail: Albanese faces datacentre disquiet, bird flu threat to seals, US vows ‘economic onslaught’ on Iran",
+          "url": "https://www.theguardian.com/australia-news/2026/aug/25/morning-mail-tuesday-ntwnfb",
+          "published": "2026-08-24T20:50:05+00:00",
+          "orig_title": "Morning Mail: Albanese faces datacentre disquiet, bird flu threat to seals, US vows ‘economic onslaught’ on Iran",
+          "lang": "en",
+          "translated": false,
+          "access": "unknown"
+        }
+      ]
+    },
+    {
+      "id": 214,
       "topic": "Economics",
       "label": "Trump · China · America",
       "title": "Trump fails to loosen China’s economic grip on Latin America",
       "summary": "For all Washington's political pressure, the economic dimension of Trump’s so-called Donroe Doctrine remains unfulfilled. Economic ties with China, have in general, not been affected. Leer más",
-      "score": 2.571,
+      "score": 2.495,
       "n_outlets": 2,
       "n_articles": 3,
       "regions": [
@@ -2300,59 +2380,12 @@
       ]
     },
     {
-      "id": 185,
-      "topic": "Economics",
-      "label": "Cut · Economic · D-Day",
-      "title": "Cut off every economic lifeline sustaining this tyrannical regime",
-      "summary": "US-Finanzminister Scott Bessent ruft den „wirtschaftlichen D-Day“ aus – jetzt geraten auch Handelspartner und Energieimporteure ins Visier der US-Sanktionen.",
-      "score": 2.558,
-      "n_outlets": 2,
-      "n_articles": 2,
-      "regions": [
-        "europe",
-        "india"
-      ],
-      "last_seen": "2026-08-24T18:19:05+00:00",
-      "leans": [
-        "left",
-        "right"
-      ],
-      "sources": [
-        {
-          "outlet": "The Hindu",
-          "region": "india",
-          "lean": "left",
-          "ownership": "private",
-          "title": "‘Economic D-Day’: U.S. threatens Iran with new sanctions, Tehran fires back",
-          "url": "https://www.thehindu.com/news/international/us-treasury-secretary-scott-bessent-economic-sanctions-threat-on-iran-washington-tehran/article71383499.ece",
-          "published": "2026-08-24T12:19:57+00:00",
-          "orig_title": "‘Economic D-Day’: U.S. threatens Iran with new sanctions, Tehran fires back",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "Die Welt",
-          "region": "europe",
-          "lean": "right",
-          "ownership": "private",
-          "title": "Cut off every economic lifeline sustaining this tyrannical regime",
-          "url": "https://www.welt.de/politik/article6a8c85c0c3692834ff6db77e/neue-iran-sanktionen-jede-wirtschaftliche-lebensader-durchtrennen-die-dieses-tyrannische-regime-am-leben-haelt.html",
-          "published": "2026-08-24T18:19:05+00:00",
-          "orig_title": "„Jede wirtschaftliche Lebensader ​durchtrennen, die dieses ‌tyrannische Regime am Leben hält“",
-          "lang": "de",
-          "translated": true,
-          "access": "unknown"
-        }
-      ]
-    },
-    {
-      "id": 221,
+      "id": 251,
       "topic": "Economics",
       "label": "Graduate · job · vacancies",
       "title": "UK graduate job vacancies plunge to lowest in a decade",
       "summary": "Just 8,383 jobs for people leaving university were advertised in July, says recruitment website Adzuna Business live – latest updates Graduate job vacancies in the UK have sunk to their lowest level s",
-      "score": 2.493,
+      "score": 2.427,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -2393,12 +2426,141 @@
       ]
     },
     {
-      "id": 202,
+      "id": 80,
+      "topic": "Trading & Markets",
+      "label": "Ukraine · Britain · Kyiv",
+      "title": "U.K. will help Ukraine make long-range missiles by sharing classified tech information",
+      "summary": "British Prime Minister Andy Burnham said defence firm MBDA will release details on U.K.-made parts for the SCALP missile to Ukraine to help the country assemble the weapons",
+      "score": 6.773,
+      "n_outlets": 6,
+      "n_articles": 8,
+      "regions": [
+        "china",
+        "europe",
+        "india",
+        "russia"
+      ],
+      "last_seen": "2026-08-24T23:57:48+00:00",
+      "leans": [
+        "center",
+        "left"
+      ],
+      "sources": [
+        {
+          "outlet": "The Guardian",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Burnham’s visit to Kyiv marks a renewal of badly needed support for Ukraine",
+          "url": "https://www.theguardian.com/politics/2026/aug/24/burnham-visit-kyiv-support-for-ukraine",
+          "published": "2026-08-24T16:33:22+00:00",
+          "orig_title": "Burnham’s visit to Kyiv marks a renewal of badly needed support for Ukraine",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "The Hindu",
+          "region": "india",
+          "lean": "left",
+          "ownership": "private",
+          "title": "U.K. will help Ukraine make long-range missiles by sharing classified tech information",
+          "url": "https://www.thehindu.com/news/international/uk-will-help-ukraine-make-long-range-missiles-by-sharing-classified-tech-information/article71385690.ece",
+          "published": "2026-08-24T16:09:33+00:00",
+          "orig_title": "U.K. will help Ukraine make long-range missiles by sharing classified tech information",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "BBC News",
+          "region": "europe",
+          "lean": "center",
+          "ownership": "public",
+          "title": "Is UK's Storm Shadow missile a game changer for Ukraine?",
+          "url": "https://www.bbc.co.uk/news/videos/cx2znjly4dno?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-24T15:14:14+00:00",
+          "orig_title": "Is UK's Storm Shadow missile a game changer for Ukraine?",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "Kommersant",
+          "region": "russia",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Peskov comments on Britain's plans to share SCALP missile data with Ukraine",
+          "url": "https://www.kommersant.ru/doc/8907382",
+          "published": "2026-08-24T17:10:25+00:00",
+          "orig_title": "Песков прокомментировал планы Британии передать Украине сведения о ракетах SCALP",
+          "lang": "ru",
+          "translated": true,
+          "access": "unknown",
+          "more": [
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "British Prime Minister plans to convince Trump to send Patriot missiles to Ukraine",
+              "url": "https://www.kommersant.ru/doc/8907477",
+              "published": "2026-08-24T23:51:29+00:00",
+              "orig_title": "Премьер Британии собирается убедить Трампа отправить Украине ракеты Patriot",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            },
+            {
+              "outlet": "Kommersant",
+              "region": "russia",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Britain to hand Ukraine secret SCALP missile intelligence",
+              "url": "https://www.kommersant.ru/doc/8906671",
+              "published": "2026-08-24T02:09:44+00:00",
+              "orig_title": "Великобритания передаст Украине секретные данные о ракете SCALP",
+              "lang": "ru",
+              "translated": true,
+              "access": "unknown"
+            }
+          ]
+        },
+        {
+          "outlet": "Meduza",
+          "region": "russia",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Britain said it will help Kyiv build Storm Shadow missiles in Ukraine. Hours later, the Kremlin announced that Russian forces are already working to find the production sites.",
+          "url": "https://meduza.io/en/feature/2026/08/25/britain-said-it-will-help-kyiv-build-storm-shadow-missiles-in-ukraine-hours-later-the-kremlin-announced-that-russian-forces-are-already-working-to-find-the-production-sites",
+          "published": "2026-08-24T23:57:48+00:00",
+          "orig_title": "Britain said it will help Kyiv build Storm Shadow missiles in Ukraine. Hours later, the Kremlin announced that Russian forces are already working to find the production sites.",
+          "lang": "en",
+          "translated": false,
+          "access": "unknown"
+        },
+        {
+          "outlet": "South China Morning Post",
+          "region": "china",
+          "lean": "center",
+          "ownership": "private",
+          "title": "UK’s Burnham plans US trip to lobby Trump on Ukraine Patriot missiles",
+          "url": "https://www.scmp.com/news/world/europe/article/3365119/uks-burnham-plans-us-trip-september-lobby-trump-ukraine-needs?utm_source=rss_feed",
+          "published": "2026-08-24T23:57:30+00:00",
+          "orig_title": "UK’s Burnham plans US trip to lobby Trump on Ukraine Patriot missiles",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 233,
       "topic": "Trading & Markets",
       "label": "Shein · Hong · Kong",
       "title": "Fast-fashion giant Shein sets cut-price $27bn valuation for Hong Kong IPO",
       "summary": "China-based retailer swung to $99m loss in first quarter and faces scrutiny over its environmental footprint Business live – latest updates Shein, which built a fast-fashion empire on what seemed like",
-      "score": 4.517,
+      "score": 4.448,
       "n_outlets": 4,
       "n_articles": 5,
       "regions": [
@@ -2482,12 +2644,12 @@
       ]
     },
     {
-      "id": 191,
+      "id": 222,
       "topic": "Trading & Markets",
       "label": "Prince · Harry · African",
       "title": "Prince Harry quits board of wildlife charity after rangers’ human rights abuses",
       "summary": "Spokesperson for Duke of Sussex says he remains an ‘active and avid supporter’ of African Parks’ mission The Duke of Sussex has stepped down from the board of a major African wildlife charity that had",
-      "score": 3.541,
+      "score": 3.468,
       "n_outlets": 3,
       "n_articles": 3,
       "regions": [
@@ -2542,14 +2704,14 @@
       ]
     },
     {
-      "id": 425,
+      "id": 437,
       "topic": "Trading & Markets",
-      "label": "Alibaba · shares · stock",
-      "title": "Alibaba to sell $10 billion in shares for AI investments",
-      "summary": "Китайская компания Alibaba Group Holding Ltd. планирует привлечь около 80 млрд гонконгских долларов ($10,2 млрд) за счет продажи своих акций. Об этом сообщает агентство Bloomberg.",
-      "score": 3.26,
+      "label": "Alibaba · stock · sale",
+      "title": "Alibaba’s top executives buy US$15m in shares in vote of confidence after AI fundraising",
+      "summary": "The top two executives at Alibaba Group Holding bought a combined HK$120 million (US$15.3 million) worth of the company’s ordinary shares on Monday in a vote of confidence after the tech giant unveile",
+      "score": 3.225,
       "n_outlets": 3,
-      "n_articles": 5,
+      "n_articles": 4,
       "regions": [
         "china",
         "russia",
@@ -2566,28 +2728,13 @@
           "region": "russia",
           "lean": "center",
           "ownership": "private",
-          "title": "Alibaba to sell $10 billion in shares for AI investments",
-          "url": "https://www.kommersant.ru/doc/8906534",
-          "published": "2026-08-23T13:57:03+00:00",
-          "orig_title": "Alibaba продаст акции на $10 млрд для инвестиций в ИИ",
+          "title": "Alibaba shares fall 10% on planned $10 billion stock sale",
+          "url": "https://www.kommersant.ru/doc/8906853",
+          "published": "2026-08-24T07:52:26+00:00",
+          "orig_title": "Акции Alibaba упали на 10% из-за планов продажи акций на $10 млрд",
           "lang": "ru",
           "translated": true,
-          "access": "unknown",
-          "more": [
-            {
-              "outlet": "Kommersant",
-              "region": "russia",
-              "lean": "center",
-              "ownership": "private",
-              "title": "Alibaba shares fall 10% on planned $10 billion stock sale",
-              "url": "https://www.kommersant.ru/doc/8906853",
-              "published": "2026-08-24T07:52:26+00:00",
-              "orig_title": "Акции Alibaba упали на 10% из-за планов продажи акций на $10 млрд",
-              "lang": "ru",
-              "translated": true,
-              "access": "unknown"
-            }
-          ]
+          "access": "unknown"
         },
         {
           "outlet": "South China Morning Post",
@@ -2633,12 +2780,12 @@
       ]
     },
     {
-      "id": 42,
+      "id": 88,
       "topic": "Trading & Markets",
       "label": "Oil · U.S. · Iran",
       "title": "Oil Edges Higher as Traders Assess U.S. Measures Against Iran",
       "summary": "Oil edged higher as traders assessed new U.S. measures against Iran.",
-      "score": 2.878,
+      "score": 2.76,
       "n_outlets": 2,
       "n_articles": 4,
       "regions": [
@@ -2708,12 +2855,12 @@
       ]
     },
     {
-      "id": 119,
+      "id": 150,
       "topic": "Trading & Markets",
       "label": "OpenAI · Anatomy · Autonomous",
       "title": "Anatomy of an Autonomous Attack: 5 Alarming A.I. Capabilities",
       "summary": "When OpenAI’s agents went rogue in July, they demonstrated ingenuity and drive beyond what many experts imagined — a dangerous harbinger of what such bots could do in the future.",
-      "score": 2.714,
+      "score": 2.619,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -2753,12 +2900,12 @@
       ]
     },
     {
-      "id": 138,
+      "id": 167,
       "topic": "Trading & Markets",
       "label": "Trump · Elon · Musk",
-      "title": "Trump bought shares in Elon Musk’s SpaceX in June, financial disclosure shows",
-      "summary": "US President Donald Trump invested as much as US$50,000 ⁠in Elon Musk’s SpaceX in June, according to a public financial disclosure, giving him a financial stake in a major government contractor run by",
-      "score": 2.662,
+      "title": "Donald Trump made around 1,000 stock trades in one month",
+      "summary": "По итогам июня президент США Дональд Трамп совершил около 1 тыс. биржевых операций. Об этом в рамках процедур по раскрытию информации сообщило Управление США по правительственной этике.",
+      "score": 2.573,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -2799,22 +2946,66 @@
       ]
     },
     {
-      "id": 251,
+      "id": 257,
       "topic": "Trading & Markets",
-      "label": "BioNTech · Novo · Nikkei",
-      "title": "BioNTech error, Novo surprise: New pharma investor stock favorites",
-      "summary": "Das mRNA-Beben richtet den Fokus der Börsianer wieder auf den Biotech- und Pharmasektor. Aktien der Branche avancieren an der Wall Street zum lukrativen Anti-Tech-Trade. WELT hat Investmentprofi Marku",
-      "score": 2.443,
+      "label": "More · thunderstorms · UK's",
+      "title": "More downpours and thunderstorms are heading the UK's way",
+      "summary": "More downpours and thunderstorms are heading the UK's way",
+      "score": 2.42,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
-        "europe",
-        "russia"
+        "europe"
       ],
-      "last_seen": "2026-08-24T15:33:45+00:00",
+      "last_seen": "2026-08-24T16:38:21+00:00",
       "leans": [
         "center",
-        "right"
+        "left"
+      ],
+      "sources": [
+        {
+          "outlet": "El Pais",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Storm and weather front bring heavy rain and thunderstorms to west, northeast, and Mediterranean regions",
+          "url": "https://elpais.com/el-tiempo/2026-08-24/una-potente-borrasca-dejara-lluvias-y-tormentas-fuertes-en-el-oeste-noreste-y-area-mediterranea.html",
+          "published": "2026-08-24T09:01:50+00:00",
+          "orig_title": "La borrasca y la vaguada dejan lluvias y tormentas fuertes en el oeste, noreste y área mediterránea",
+          "lang": "es",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
+          "outlet": "BBC News",
+          "region": "europe",
+          "lean": "center",
+          "ownership": "public",
+          "title": "More downpours and thunderstorms are heading the UK's way",
+          "url": "https://www.bbc.co.uk/news/videos/c4gdq21de29o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-24T16:38:21+00:00",
+          "orig_title": "More downpours and thunderstorms are heading the UK's way",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 404,
+      "topic": "Trading & Markets",
+      "label": "Russian · Meet · Interior",
+      "title": "Meet the ideal Russian, according to the Interior Ministry. He doesn’t argue online, visit foreign websites, or label anyone as ‘FSB’ in his contacts.",
+      "summary": "Russia’s Interior Ministry regularly publishes guidance for Russians on how to protect themselves from threats around them. But alongside reasonable and important warnings (like not sending money to s",
+      "score": 2.258,
+      "n_outlets": 2,
+      "n_articles": 2,
+      "regions": [
+        "russia"
+      ],
+      "last_seen": "2026-08-24T10:47:42+00:00",
+      "leans": [
+        "center"
       ],
       "sources": [
         {
@@ -2822,56 +3013,10 @@
           "region": "russia",
           "lean": "center",
           "ownership": "private",
-          "title": "Nikkei: Japan presents world's first viral drug against esophageal cancer",
-          "url": "https://www.kommersant.ru/doc/8906510",
-          "published": "2026-08-23T13:24:15+00:00",
-          "orig_title": "Nikkei: Япония представила первый в мире вирусный препарат против рака пищевода",
-          "lang": "ru",
-          "translated": true,
-          "access": "unknown"
-        },
-        {
-          "outlet": "Die Welt",
-          "region": "europe",
-          "lean": "right",
-          "ownership": "private",
-          "title": "BioNTech error, Novo surprise: New pharma investor stock favorites",
-          "url": "https://www.welt.de/finanzen/plus6a8c32b06d71b45dbda0f96c/novo-nordisk-biontech-und-2-neue-favoriten-die-lieblinge-des-profiinvestors.html",
-          "published": "2026-08-24T15:33:45+00:00",
-          "orig_title": "Biontech-Irrtum, Novo-Überraschung – die neuen Aktien-Favoriten des Pharma-Investors",
-          "lang": "de",
-          "translated": true,
-          "access": "unknown"
-        }
-      ]
-    },
-    {
-      "id": 352,
-      "topic": "Trading & Markets",
-      "label": "WSJ · Russian · drills",
-      "title": "WSJ: Russian military held drills to prepare for mobilization",
-      "summary": "Military exercises rehearsing mobilization procedures were held in Russia’s Kaliningrad region in July, The Wall Street Journal reported, citing Western intelligence officials.",
-      "score": 2.34,
-      "n_outlets": 2,
-      "n_articles": 2,
-      "regions": [
-        "russia"
-      ],
-      "last_seen": "2026-08-24T12:23:09+00:00",
-      "leans": [
-        "center",
-        "left"
-      ],
-      "sources": [
-        {
-          "outlet": "Novaya Gazeta Europe",
-          "region": "russia",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Authorities conduct mobilization drills in Kaliningrad region",
-          "url": "https://novayagazeta.eu/articles/2026/08/23/vlasti-proveli-ucheniia-v-kaliningradskoi-oblasti-na-sluchai-vozmozhnoi-mobilizatsii-news",
-          "published": "2026-08-23T13:55:57+00:00",
-          "orig_title": "Власти провели учения в Калининградской области на случай возможной мобилизации",
+          "title": "Russian Ambassador Warns of Risk of French Nuclear Weapons Deployment in Sweden",
+          "url": "https://www.kommersant.ru/doc/8906677",
+          "published": "2026-08-24T03:23:47+00:00",
+          "orig_title": "Посол РФ заявил о риске размещения французского ядерного оружия в Швеции",
           "lang": "ru",
           "translated": true,
           "access": "unknown"
@@ -2881,10 +3026,10 @@
           "region": "russia",
           "lean": "center",
           "ownership": "private",
-          "title": "WSJ: Russian military held drills to prepare for mobilization",
-          "url": "https://meduza.io/en/news/2026/08/24/wsj-russian-military-held-drills-to-prepare-for-mobilization",
-          "published": "2026-08-24T12:23:09+00:00",
-          "orig_title": "WSJ: Russian military held drills to prepare for mobilization",
+          "title": "Meet the ideal Russian, according to the Interior Ministry. He doesn’t argue online, visit foreign websites, or label anyone as ‘FSB’ in his contacts.",
+          "url": "https://meduza.io/en/feature/2026/08/24/meet-the-ideal-russian-according-to-the-interior-ministry-he-doesn-t-argue-online-visit-foreign-websites-or-label-anyone-as-fsb-in-his-contacts",
+          "published": "2026-08-24T10:47:42+00:00",
+          "orig_title": "Meet the ideal Russian, according to the Interior Ministry. He doesn’t argue online, visit foreign websites, or label anyone as ‘FSB’ in his contacts.",
           "lang": "en",
           "translated": false,
           "access": "unknown"
@@ -2892,59 +3037,12 @@
       ]
     },
     {
-      "id": 419,
-      "topic": "Trading & Markets",
-      "label": "How · Trump · Crypto",
-      "title": "Big business bought political influence. The bill is now due.",
-      "summary": "Corporate leaders' attempts to buy political access under Trump could leave businesses exposed to public backlash and future administrations.",
-      "score": 2.267,
-      "n_outlets": 2,
-      "n_articles": 2,
-      "regions": [
-        "japan",
-        "us"
-      ],
-      "last_seen": "2026-08-24T09:30:00+00:00",
-      "leans": [
-        "center",
-        "right"
-      ],
-      "sources": [
-        {
-          "outlet": "The Japan Times",
-          "region": "japan",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Big business bought political influence. The bill is now due.",
-          "url": "https://www.japantimes.co.jp/commentary/2026/08/24/world/big-business-bought-political-influence/",
-          "published": "2026-08-24T08:30:00+00:00",
-          "orig_title": "Big business bought political influence. The bill is now due.",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
-        },
-        {
-          "outlet": "The Wall Street Journal",
-          "region": "us",
-          "lean": "right",
-          "ownership": "private",
-          "title": "How Trump’s Crypto Push Is Linked to Bessent’s Treasury Moves",
-          "url": "https://www.wsj.com/finance/currencies/how-trumps-crypto-push-is-linked-to-bessents-treasury-moves-809defdc?mod=rss_markets_main",
-          "published": "2026-08-24T09:30:00+00:00",
-          "orig_title": "How Trump’s Crypto Push Is Linked to Bessent’s Treasury Moves",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
-        }
-      ]
-    },
-    {
-      "id": 423,
+      "id": 436,
       "topic": "Trading & Markets",
       "label": "Dmitry · Kiselev · Vesti",
       "title": "Yevgeny Popov to replace Dmitry Kiselev as host of 'Vesti Nedeli'; Kiselev launches weekly program on Russia channel",
       "summary": "Новым ведущим программы «Вести недели» на телеканале «Россия» станет депутат Госдумы восьмого созыва Евгений Попов. Он займет место журналиста Дмитрия Киселева, который вел программу с 2012 года.",
-      "score": 2.265,
+      "score": 2.23,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -2985,20 +3083,22 @@
       ]
     },
     {
-      "id": 230,
+      "id": 14,
       "topic": "Science",
-      "label": "temperature · record · World's",
-      "title": "World's oceans hit highest temperature on record as El Niño grows",
-      "summary": "The record \"is another clear signal of an ocean under growing stress\", according to Dr Samantha Burgess from the European Copernicus climate change service.",
-      "score": 4.477,
-      "n_outlets": 4,
-      "n_articles": 4,
+      "label": "Nino · temperature · ocean",
+      "title": "Hottest ocean temperature recorded as ‘super’ El Nino forms",
+      "summary": "Scientists have recorded the highest temperature ever measured in the world’s oceans, as climate change combines with a powerful El Nino in the tropical Pacific. The global average sea-surface tempera",
+      "score": 6.955,
+      "n_outlets": 6,
+      "n_articles": 6,
       "regions": [
+        "china",
         "europe",
         "india",
+        "japan",
         "russia"
       ],
-      "last_seen": "2026-08-24T16:27:28+00:00",
+      "last_seen": "2026-08-25T02:30:07+00:00",
       "leans": [
         "center",
         "left"
@@ -3055,49 +3155,61 @@
           "lang": "ru",
           "translated": true,
           "access": "unknown"
+        },
+        {
+          "outlet": "South China Morning Post",
+          "region": "china",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Hottest ocean temperature recorded as ‘super’ El Nino forms",
+          "url": "https://www.scmp.com/news/world/article/3365131/hottest-ocean-temperature-recorded-super-el-nino-forms?utm_source=rss_feed",
+          "published": "2026-08-25T02:30:07+00:00",
+          "orig_title": "Hottest ocean temperature recorded as ‘super’ El Nino forms",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "The Japan Times",
+          "region": "japan",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Highest-ever ocean temperature recorded as super El Nino forms",
+          "url": "https://www.japantimes.co.jp/environment/2026/08/25/climate-change/highest-ocean-temperature-super-el-nino/",
+          "published": "2026-08-25T01:29:00+00:00",
+          "orig_title": "Highest-ever ocean temperature recorded as super El Nino forms",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall"
         }
       ]
     },
     {
-      "id": 427,
+      "id": 40,
       "topic": "Science",
-      "label": "Trump · Shuns · E.V.s",
-      "title": "Europe Chastised Trump’s Climate Rollback. Now It’s Delaying Its Own Green Goals.",
-      "summary": "Developed nations are increasingly balking at the cost of measures to cut down on fossil fuels.",
-      "score": 2.258,
-      "n_outlets": 2,
-      "n_articles": 2,
+      "label": "Northern · Japan · Philippines",
+      "title": "Northern boobook flies from Japan to Philippines nonstop, research shows",
+      "summary": "The study could help with preservation efforts of the owl species.",
+      "score": 1.887,
+      "n_outlets": 1,
+      "n_articles": 1,
       "regions": [
-        "us"
+        "japan"
       ],
-      "last_seen": "2026-08-24T09:03:08+00:00",
+      "last_seen": "2026-08-25T01:37:00+00:00",
       "leans": [
-        "left",
-        "right"
+        "center"
       ],
       "sources": [
         {
-          "outlet": "The New York Times",
-          "region": "us",
-          "lean": "left",
+          "outlet": "The Japan Times",
+          "region": "japan",
+          "lean": "center",
           "ownership": "private",
-          "title": "Trump Shuns E.V.s and Wind Power, But He’s Pouring Billions Into Batteries",
-          "url": "https://www.nytimes.com/2026/08/24/climate/trump-administration-batteries-data-centers.html",
-          "published": "2026-08-24T09:03:08+00:00",
-          "orig_title": "Trump Shuns E.V.s and Wind Power, But He’s Pouring Billions Into Batteries",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
-        },
-        {
-          "outlet": "The Wall Street Journal",
-          "region": "us",
-          "lean": "right",
-          "ownership": "private",
-          "title": "Europe Chastised Trump’s Climate Rollback. Now It’s Delaying Its Own Green Goals.",
-          "url": "https://www.wsj.com/world/europe/europe-chastised-trumps-climate-rollback-now-its-delaying-its-own-green-goals-835b6724?mod=rss_worldnews",
-          "published": "2026-08-24T02:00:00+00:00",
-          "orig_title": "Europe Chastised Trump’s Climate Rollback. Now It’s Delaying Its Own Green Goals.",
+          "title": "Northern boobook flies from Japan to Philippines nonstop, research shows",
+          "url": "https://www.japantimes.co.jp/environment/2026/08/25/wildlife/northern-boobook-new-study/",
+          "published": "2026-08-25T01:37:00+00:00",
+          "orig_title": "Northern boobook flies from Japan to Philippines nonstop, research shows",
           "lang": "en",
           "translated": false,
           "access": "paywall"
@@ -3105,12 +3217,12 @@
       ]
     },
     {
-      "id": 47,
+      "id": 94,
       "topic": "Science",
       "label": "Back-to-school · season · fuels",
       "title": "Back-to-school season fuels growing measles concerns",
       "summary": "Click in for more news from The Hill {beacon} Healthcare Healthcare &#8202; The Big Story Back-to-school season fuels growing measles concerns With back-to-school season underway, students are returni",
-      "score": 1.849,
+      "score": 1.735,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -3137,12 +3249,12 @@
       ]
     },
     {
-      "id": 76,
+      "id": 120,
       "topic": "Science",
       "label": "scientist · uses · light",
       "title": "This scientist uses light to perform smarter, cleaner chemistry",
       "summary": "To create the molecules we need to help us grow food or make fuel, we rely on chemical reactions — and lots of energy. One scientist may have a \"brighter\" approach, controlling chemistry with light.",
-      "score": 1.772,
+      "score": 1.668,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -3169,12 +3281,12 @@
       ]
     },
     {
-      "id": 78,
+      "id": 122,
       "topic": "Science",
       "label": "Lab-grown · organoids · living",
       "title": "Lab-grown organoids are living longer — offering new insight into the human brain",
       "summary": "A study in the journal Nature sets a new record for the lifespan of lab-grown cells called organoids. These clusters of human cells in petri dishes are used as models of the human brain.",
-      "score": 1.769,
+      "score": 1.666,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -3201,12 +3313,12 @@
       ]
     },
     {
-      "id": 127,
+      "id": 157,
       "topic": "Science",
       "label": "Nevada · Sues · Trump",
       "title": "Nevada Sues Trump Administration Over Colorado River Cuts",
       "summary": "The state seeks to block plans for significant water use restrictions over the next decade.",
-      "score": 1.686,
+      "score": 1.594,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -3233,12 +3345,44 @@
       ]
     },
     {
-      "id": 244,
+      "id": 173,
+      "topic": "Science",
+      "label": "Denis · Rouvre · Salvador",
+      "title": "Denis Rouvre in Salvador: 43 Free Photographs on Climate",
+      "summary": "Denis Rouvre in Salvador brings 43 free photographs on climate change to the CAIXA Cultural, running from 27 August to 25 October 2026. The post Denis Rouvre in Salvador: 43 Free Photographs on Climat",
+      "score": 1.562,
+      "n_outlets": 1,
+      "n_articles": 1,
+      "regions": [
+        "south_america"
+      ],
+      "last_seen": "2026-08-24T20:08:13+00:00",
+      "leans": [
+        "right"
+      ],
+      "sources": [
+        {
+          "outlet": "The Rio Times",
+          "region": "south_america",
+          "lean": "right",
+          "ownership": "private",
+          "title": "Denis Rouvre in Salvador: 43 Free Photographs on Climate",
+          "url": "https://www.riotimesonline.com/denis-rouvre-in-salvador-43-free-photographs-on-climate/",
+          "published": "2026-08-24T20:08:13+00:00",
+          "orig_title": "Denis Rouvre in Salvador: 43 Free Photographs on Climate",
+          "lang": "en",
+          "translated": false,
+          "access": "unknown"
+        }
+      ]
+    },
+    {
+      "id": 273,
       "topic": "Science",
       "label": "Mapping · America · Largest",
       "title": "Mapping America’s Largest ‘Dead Zone’",
       "summary": "In a decades-long crisis, marine life has suffered as oxygen periodically dwindles in waters along the Gulf Coast.",
-      "score": 1.456,
+      "score": 1.394,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -3265,12 +3409,12 @@
       ]
     },
     {
-      "id": 253,
+      "id": 282,
       "topic": "Science",
       "label": "Quiz · Greek · What",
       "title": "Quiz question: It’s a Greek letter and a guy’s name. What does it mean?",
       "summary": "Test your science knowledge.",
-      "score": 1.439,
+      "score": 1.38,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -3297,12 +3441,12 @@
       ]
     },
     {
-      "id": 257,
+      "id": 286,
       "topic": "Science",
       "label": "Researchers · D-printed · develop",
       "title": "Researchers develop 3D-printed replacements for missing pottery parts, embed sensors in them",
       "summary": "Researchers at Koc University have developed a method that uses photogrammetry, 3D printing and embedded sensors to repair damaged ancient pottery. The customised 3D-printed sections can replace missi",
-      "score": 1.435,
+      "score": 1.377,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
@@ -3329,59 +3473,12 @@
       ]
     },
     {
-      "id": 263,
-      "topic": "Science",
-      "label": "Ruthless · Efficiency · Ultrapotent",
-      "title": "Why Getting High Has Only Gotten Cheaper",
-      "summary": "The “war on drugs” sought to reduce substance abuse by driving up prices and lowering demand. Today, street drugs are less expensive and more dangerous than ever.",
-      "score": 1.43,
-      "n_outlets": 1,
-      "n_articles": 2,
-      "regions": [
-        "us"
-      ],
-      "last_seen": "2026-08-24T15:12:51+00:00",
-      "leans": [
-        "left"
-      ],
-      "sources": [
-        {
-          "outlet": "The New York Times",
-          "region": "us",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Why Getting High Has Only Gotten Cheaper",
-          "url": "https://www.nytimes.com/2026/08/24/science/opioids-drugs-economics.html",
-          "published": "2026-08-24T09:00:07+00:00",
-          "orig_title": "Why Getting High Has Only Gotten Cheaper",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall",
-          "more": [
-            {
-              "outlet": "The New York Times",
-              "region": "us",
-              "lean": "left",
-              "ownership": "private",
-              "title": "The Ruthless Efficiency of Ultrapotent Street Drugs",
-              "url": "https://www.nytimes.com/2026/08/24/science/drugs-opioids-fentanyl-baltimore.html",
-              "published": "2026-08-24T15:12:51+00:00",
-              "orig_title": "The Ruthless Efficiency of Ultrapotent Street Drugs",
-              "lang": "en",
-              "translated": false,
-              "access": "paywall"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 18,
+      "id": 68,
       "topic": "Technology",
       "label": "Taiwan · Nvidia · China",
       "title": "Taiwan Charges Nine in Connection With Smuggling of AI Servers to China",
       "summary": "U.S. export controls have pushed Chinese companies to seek Nvidia chips through backdoor routes, as Taiwan tries to find ways to clamp down.",
-      "score": 3.958,
+      "score": 3.83,
       "n_outlets": 3,
       "n_articles": 3,
       "regions": [
@@ -3437,12 +3534,58 @@
       ]
     },
     {
-      "id": 8,
+      "id": 28,
+      "topic": "Technology",
+      "label": "Mexico · Samurai · Yuan",
+      "title": "Yuan, Hong Kong dollar bonds surge as issuers seek cheaper funding amid rising US costs",
+      "summary": "Hong Kong and mainland China are set to see continued growth in bond issuance denominated in Hong Kong dollars or the yuan through the rest of the year, as issuers reduce their reliance on US dollar-d",
+      "score": 2.911,
+      "n_outlets": 2,
+      "n_articles": 2,
+      "regions": [
+        "china",
+        "japan"
+      ],
+      "last_seen": "2026-08-25T01:56:00+00:00",
+      "leans": [
+        "center"
+      ],
+      "sources": [
+        {
+          "outlet": "South China Morning Post",
+          "region": "china",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Yuan, Hong Kong dollar bonds surge as issuers seek cheaper funding amid rising US costs",
+          "url": "https://www.scmp.com/business/banking-finance/article/3364976/yuan-hong-kong-dollar-bonds-surge-issuers-seek-cheaper-funding-amid-rising-us-costs?utm_source=rss_feed",
+          "published": "2026-08-24T00:00:21+00:00",
+          "orig_title": "Yuan, Hong Kong dollar bonds surge as issuers seek cheaper funding amid rising US costs",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        },
+        {
+          "outlet": "The Japan Times",
+          "region": "japan",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Mexico eyes first Samurai bond since 2024 with multi-part sale",
+          "url": "https://www.japantimes.co.jp/business/2026/08/25/mexico-samurai-bond/",
+          "published": "2026-08-25T01:56:00+00:00",
+          "orig_title": "Mexico eyes first Samurai bond since 2024 with multi-part sale",
+          "lang": "en",
+          "translated": false,
+          "access": "paywall"
+        }
+      ]
+    },
+    {
+      "id": 59,
       "topic": "Technology",
       "label": "Backlash · Flock · Cameras",
       "title": "The Data Center Backlash Bursts Into the Midterms",
       "summary": "With opposition to the centers mounting, many Democrats and a growing number of Republicans are campaigning against them.",
-      "score": 2.974,
+      "score": 2.844,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -3483,12 +3626,12 @@
       ]
     },
     {
-      "id": 77,
+      "id": 121,
       "topic": "Technology",
       "label": "Beyond · China's · Chinese",
       "title": "Beyond China's humanoid robots, a quieter machine revolution is unfolding",
       "summary": "There are more than two million robots working in China's factories - and they are scaling up fast.",
-      "score": 2.772,
+      "score": 2.668,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -3530,18 +3673,18 @@
       ]
     },
     {
-      "id": 121,
+      "id": 296,
       "topic": "Technology",
-      "label": "One · Nation · Live",
+      "label": "One · Nation · Joyce",
       "title": "One Nation’s immigration policy is hard to define – even by its own MPs",
       "summary": "Pauline Hanson’s party does not have a firm grasp on its own migration target. Here is how it has evolved in the past year Follow our Australia news live blog for latest updates Get our breaking news ",
-      "score": 2.707,
+      "score": 2.366,
       "n_outlets": 2,
       "n_articles": 4,
       "regions": [
         "australia"
       ],
-      "last_seen": "2026-08-24T21:09:48+00:00",
+      "last_seen": "2026-08-24T15:00:36+00:00",
       "leans": [
         "center",
         "left"
@@ -3593,10 +3736,10 @@
           "region": "australia",
           "lean": "center",
           "ownership": "public",
-          "title": "Live: Taylor indicates Coalition's migration target could fall 'well below' 200,000",
-          "url": "https://www.abc.net.au/news/2026-08-25/federal-politics-live-blog-coalition-migration-target/107074022",
-          "published": "2026-08-24T21:09:48+00:00",
-          "orig_title": "Live: Taylor indicates Coalition's migration target could fall 'well below' 200,000",
+          "title": "Unleashed | Barnaby Joyce",
+          "url": "https://www.abc.net.au/news/2026-08-24/unleashed-barnaby-joyce/107072664",
+          "published": "2026-08-24T10:01:52+00:00",
+          "orig_title": "Unleashed | Barnaby Joyce",
           "lang": "en",
           "translated": false,
           "access": "open"
@@ -3604,58 +3747,12 @@
       ]
     },
     {
-      "id": 178,
-      "topic": "Technology",
-      "label": "Forecasts · data · centre",
-      "title": "Malaysia’s data centre rules aim to green the sector, not slam the door",
-      "summary": "In global commercial real estate investment markets, data centres are all the rage. While stock markets continue to suffer bouts of volatility as sentiment oscillates between concerns artificial intel",
-      "score": 2.576,
-      "n_outlets": 2,
-      "n_articles": 2,
-      "regions": [
-        "australia",
-        "china"
-      ],
-      "last_seen": "2026-08-24T18:41:58+00:00",
-      "leans": [
-        "center"
-      ],
-      "sources": [
-        {
-          "outlet": "ABC News (Australia)",
-          "region": "australia",
-          "lean": "center",
-          "ownership": "public",
-          "title": "Forecasts reveal effect of data centre rush on electricity grid",
-          "url": "https://www.abc.net.au/news/2026-08-25/data-centre-power-hungry-demand-2036/107070852",
-          "published": "2026-08-24T18:41:58+00:00",
-          "orig_title": "Forecasts reveal effect of data centre rush on electricity grid",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        },
-        {
-          "outlet": "South China Morning Post",
-          "region": "china",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Malaysia’s data centre rules aim to green the sector, not slam the door",
-          "url": "https://www.scmp.com/opinion/asia-opinion/article/3365008/malaysias-data-centre-rules-aim-green-sector-not-slam-door?utm_source=rss_feed",
-          "published": "2026-08-24T08:30:06+00:00",
-          "orig_title": "Malaysia’s data centre rules aim to green the sector, not slam the door",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        }
-      ]
-    },
-    {
-      "id": 358,
+      "id": 383,
       "topic": "Technology",
       "label": "Introducing · Model · Harness",
       "title": "Introducing the AI Model ‘Harness’",
       "summary": "Companies are deciding whether to invest in custom software that controls AI model tasks and token cost.",
-      "score": 2.332,
+      "score": 2.287,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -3697,18 +3794,18 @@
       ]
     },
     {
-      "id": 0,
+      "id": 5,
       "topic": "Technology",
-      "label": "Australia · Coles · Ooshies",
-      "title": "Australia news live: Coles blames competitor’s Ooshies for slowing sales; young people the first generation to earn less than their parents at same age",
-      "summary": "Supermarket chain says growth slumped amid ‘competitor’s collectibles campaign’. Follow today’s news live Get our breaking news email , free app or daily news podcast Number of NSW households in urgen",
-      "score": 1.99,
+      "label": "Australia · Blue · Poles",
+      "title": "Australia news live: PM dubbed ‘WA’s daddy’ over Blue Poles and GST promises; home ownership for young people back to 1940s levels",
+      "summary": "West Australian newspaper uses moniker on front page. Follow today’s news live Get our breaking news email , free app or daily news podcast Number of NSW households in urgent need of priority housing ",
+      "score": 1.974,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
         "europe"
       ],
-      "last_seen": "2026-08-25T01:12:11+00:00",
+      "last_seen": "2026-08-25T02:44:12+00:00",
       "leans": [
         "left"
       ],
@@ -3718,42 +3815,10 @@
           "region": "europe",
           "lean": "left",
           "ownership": "private",
-          "title": "Australia news live: Coles blames competitor’s Ooshies for slowing sales; young people the first generation to earn less than their parents at same age",
+          "title": "Australia news live: PM dubbed ‘WA’s daddy’ over Blue Poles and GST promises; home ownership for young people back to 1940s levels",
           "url": "https://www.theguardian.com/australia-news/live/2026/aug/25/australia-news-live-sydney-trains-delays-cancellations-albanese-gst-wa-one-nation-coalition-secret-harbour-election-tax-reform-royal-commission-antisemitism-icac-victorian-rail-loop-alan-jones-trial-ntwnfb",
-          "published": "2026-08-25T01:12:11+00:00",
-          "orig_title": "Australia news live: Coles blames competitor’s Ooshies for slowing sales; young people the first generation to earn less than their parents at same age",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "topic": "Technology",
-      "label": "Australia · top · music",
-      "title": "Australia’s top music charts ban AI songs to protect human artists",
-      "summary": "Music made by artificial intelligence will be banned from Australia’s top charts under new guidelines aimed at protecting “the human nature of artistry”, an industry body said on Tuesday. Under new ru",
-      "score": 1.98,
-      "n_outlets": 1,
-      "n_articles": 1,
-      "regions": [
-        "china"
-      ],
-      "last_seen": "2026-08-25T01:05:10+00:00",
-      "leans": [
-        "center"
-      ],
-      "sources": [
-        {
-          "outlet": "South China Morning Post",
-          "region": "china",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Australia’s top music charts ban AI songs to protect human artists",
-          "url": "https://www.scmp.com/news/asia/australasia/article/3365121/australias-top-music-charts-ban-ai-songs-protect-human-artists?utm_source=rss_feed",
-          "published": "2026-08-25T01:05:10+00:00",
-          "orig_title": "Australia’s top music charts ban AI songs to protect human artists",
+          "published": "2026-08-25T02:44:12+00:00",
+          "orig_title": "Australia news live: PM dubbed ‘WA’s daddy’ over Blue Poles and GST promises; home ownership for young people back to 1940s levels",
           "lang": "en",
           "translated": false,
           "access": "open"
@@ -3763,16 +3828,80 @@
     {
       "id": 6,
       "topic": "Technology",
-      "label": "Car · Nankai · Line",
-      "title": "Car and train collide at Nankai Line crossing; service suspended, full line restored",
-      "summary": "Car and train collide at Nankai Line crossing; service suspended, full line restored",
-      "score": 1.979,
+      "label": "Police · white · paper",
+      "title": "Police white paper spotlights cyber threats, says neutralizing attacks is a \"new critical mission\"",
+      "summary": "Police white paper spotlights cyber threats, says neutralizing attacks is a \"new critical mission\"",
+      "score": 1.973,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
         "japan"
       ],
-      "last_seen": "2026-08-25T01:04:07+00:00",
+      "last_seen": "2026-08-25T02:43:48+00:00",
+      "leans": [
+        "left"
+      ],
+      "sources": [
+        {
+          "outlet": "Asahi Shimbun",
+          "region": "japan",
+          "lean": "left",
+          "ownership": "private",
+          "title": "Police white paper spotlights cyber threats, says neutralizing attacks is a \"new critical mission\"",
+          "url": "http://www.asahi.com/articles/ASV8S3128V8SUTIL018M.html?ref=rss",
+          "published": "2026-08-25T02:43:48+00:00",
+          "orig_title": "サイバー脅威、警察白書で特集 攻撃無害化ACD「新たな重要任務」",
+          "lang": "ja",
+          "translated": true,
+          "access": "unknown"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "topic": "Technology",
+      "label": "Staggering · Indigenous · watchdog",
+      "title": "‘Staggering’: watchdog condemns police after Indigenous teenager on bus wrongfully arrested – then searched",
+      "summary": "Ombudsman Iain Anderson says he is concerned police ‘had no clearly understood definition of racial profiling’ Follow our Australia news live blog for latest updates Get our breaking news email , free",
+      "score": 1.898,
+      "n_outlets": 1,
+      "n_articles": 1,
+      "regions": [
+        "europe"
+      ],
+      "last_seen": "2026-08-25T01:45:55+00:00",
+      "leans": [
+        "left"
+      ],
+      "sources": [
+        {
+          "outlet": "The Guardian",
+          "region": "europe",
+          "lean": "left",
+          "ownership": "private",
+          "title": "‘Staggering’: watchdog condemns police after Indigenous teenager on bus wrongfully arrested – then searched",
+          "url": "https://www.theguardian.com/australia-news/2026/aug/25/watchdog-scathing-after-act-police-searched-indigenous-teen-even-after-they-realised-arrest-was-mistake-ntwnfb",
+          "published": "2026-08-25T01:45:55+00:00",
+          "orig_title": "‘Staggering’: watchdog condemns police after Indigenous teenager on bus wrongfully arrested – then searched",
+          "lang": "en",
+          "translated": false,
+          "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "topic": "Technology",
+      "label": "Car · Nankai · Line",
+      "title": "Car and train collide at Nankai Line crossing; service suspended, full line restored",
+      "summary": "Car and train collide at Nankai Line crossing; service suspended, full line restored",
+      "score": 1.882,
+      "n_outlets": 1,
+      "n_articles": 1,
+      "regions": [
+        "japan"
+      ],
+      "last_seen": "2026-08-25T01:33:27+00:00",
       "leans": [
         "left"
       ],
@@ -3784,7 +3913,7 @@
           "ownership": "private",
           "title": "Car and train collide at Nankai Line crossing; service suspended, full line restored",
           "url": "http://www.asahi.com/articles/ASV8S7V3BV8SPTIL001M.html?ref=rss",
-          "published": "2026-08-25T01:04:07+00:00",
+          "published": "2026-08-25T01:33:27+00:00",
           "orig_title": "南海線の踏切で車と電車が衝突 一時運転見合わせ、全線再開",
           "lang": "ja",
           "translated": true,
@@ -3793,44 +3922,177 @@
       ]
     },
     {
-      "id": 32,
-      "topic": "Technology",
-      "label": "Why · Your · Boss",
-      "title": "Why Your Boss Wants to Make Sure AI Can Read Your Slack Messages",
-      "summary": "Some executives want human employees to share their Slack notes with AI agent co-workers.",
-      "score": 1.895,
-      "n_outlets": 1,
-      "n_articles": 1,
+      "id": 12,
+      "topic": "Sports",
+      "label": "Hand · God · Maradona's",
+      "title": "\"Hand of God\" ball from Maradona's World Cup match sells for $3.35 million at auction",
+      "summary": "Erst der göttliche Assist, dann ein Solo für die Ewigkeit: Der Ball aus Diego Maradonas WM-Partie gegen England vor 40 Jahren ist unter den Hammer gekommen. Am Ende wurde fast in Schnäppchen daraus.",
+      "score": 4.957,
+      "n_outlets": 4,
+      "n_articles": 4,
       "regions": [
-        "us"
+        "china",
+        "europe",
+        "russia"
       ],
-      "last_seen": "2026-08-25T00:00:00+00:00",
+      "last_seen": "2026-08-25T02:32:00+00:00",
       "leans": [
+        "center",
+        "left",
         "right"
       ],
       "sources": [
         {
-          "outlet": "The Wall Street Journal",
-          "region": "us",
-          "lean": "right",
+          "outlet": "Der Spiegel",
+          "region": "europe",
+          "lean": "left",
           "ownership": "private",
-          "title": "Why Your Boss Wants to Make Sure AI Can Read Your Slack Messages",
-          "url": "https://www.wsj.com/tech/ai/why-your-boss-wants-to-make-sure-ai-can-read-your-slack-messages-b6c149c1?mod=rss_Technology",
-          "published": "2026-08-25T00:00:00+00:00",
-          "orig_title": "Why Your Boss Wants to Make Sure AI Can Read Your Slack Messages",
+          "title": "\"Hand of God\" ball from Maradona's World Cup match sells for $3.35 million at auction",
+          "url": "https://www.spiegel.de/sport/hand-gottes-ball-aus-diego-maradonas-wm-spiel-bringt-3-35-millionen-dollar-bei-auktion-a-54825a84-9bcf-4c29-bff0-02e8018d6d5b#ref=rss",
+          "published": "2026-08-25T02:32:00+00:00",
+          "orig_title": "»Hand Gottes«: Ball aus Diego Maradonas WM-Spiel bringt 3,35 Millionen Dollar bei Auktion",
+          "lang": "de",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
+          "outlet": "Kommersant",
+          "region": "russia",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Ball from Maradona's 'Hand of God' goal sells at auction for $3.3 million",
+          "url": "https://www.kommersant.ru/doc/8907017",
+          "published": "2026-08-24T10:48:52+00:00",
+          "orig_title": "Мяч, которым Марадона забил гол «Рука Бога», продан на аукционе за $3,3 млн",
+          "lang": "ru",
+          "translated": true,
+          "access": "unknown"
+        },
+        {
+          "outlet": "South China Morning Post",
+          "region": "china",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Diego Maradona’s ‘Hand of God’ football sells for US$3.35 million at US auction",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3365110/diego-maradonas-hand-god-football-sells-us335-million-us-auction?utm_source=rss_feed",
+          "published": "2026-08-24T18:01:59+00:00",
+          "orig_title": "Diego Maradona’s ‘Hand of God’ football sells for US$3.35 million at US auction",
           "lang": "en",
           "translated": false,
-          "access": "paywall"
+          "access": "open"
+        },
+        {
+          "outlet": "Die Welt",
+          "region": "europe",
+          "lean": "right",
+          "ownership": "private",
+          "title": "Ball kissed by Maradona's foot and touched by the Hand of God brings in millions",
+          "url": "https://www.welt.de/sport/fussball/article6a8c80ae511d4fd3bc4e29b3/wm-halbfinale-1986-von-maradonas-fuss-gekuesst-und-der-hand-gottes-gestreichelt-ball-bringt-millionen-erloes.html",
+          "published": "2026-08-24T18:04:37+00:00",
+          "orig_title": "Von Maradonas Fuß geküsst und der Hand Gottes gestreichelt – Ball bringt Millionen-Erlös",
+          "lang": "de",
+          "translated": true,
+          "access": "unknown"
         }
       ]
     },
     {
-      "id": 131,
+      "id": 57,
+      "topic": "Sports",
+      "label": "India · Russia · UIPM",
+      "title": "India's 2026 Hockey WC semi-final race ends with 3-5 loss to Argentina",
+      "summary": "India’s men’s hockey team exit the 2026 World Cup semi-final race after losing 3-5 to Argentina. Two early goals put India on the back foot, while poor passing and missed penalty corners hurt their co",
+      "score": 2.847,
+      "n_outlets": 2,
+      "n_articles": 5,
+      "regions": [
+        "india",
+        "russia"
+      ],
+      "last_seen": "2026-08-25T01:03:35+00:00",
+      "leans": [
+        "center",
+        "state"
+      ],
+      "sources": [
+        {
+          "outlet": "Times of India",
+          "region": "india",
+          "lean": "center",
+          "ownership": "private",
+          "title": "India's 2026 Hockey WC semi-final race ends with 3-5 loss to Argentina",
+          "url": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/indias-2026-hockey-world-cup-semi-final-race-ends-with-3-5-loss-to-argentina/articleshow/133471890.cms",
+          "published": "2026-08-24T15:19:54+00:00",
+          "orig_title": "India's 2026 Hockey WC semi-final race ends with 3-5 loss to Argentina",
+          "lang": "en",
+          "translated": false,
+          "access": "open",
+          "more": [
+            {
+              "outlet": "Times of India",
+              "region": "india",
+              "lean": "center",
+              "ownership": "private",
+              "title": "'We started poorly': Craig Fulton rues slow start as India crash out of WC semis",
+              "url": "https://timesofindia.indiatimes.com/sports/hockey/we-started-poorly-craig-fulton-rues-slow-start-as-india-crash-out-of-hockey-world-cup-semis/articleshow/133473889.cms",
+              "published": "2026-08-24T17:11:19+00:00",
+              "orig_title": "'We started poorly': Craig Fulton rues slow start as India crash out of WC semis",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            },
+            {
+              "outlet": "Times of India",
+              "region": "india",
+              "lean": "center",
+              "ownership": "private",
+              "title": "'Does anyone actually care?': Sreejesh's scathing attack after India’s WC exit",
+              "url": "https://timesofindia.indiatimes.com/sports/hockey/does-anyone-actually-care-sreejesh-launches-scathing-attack-after-indias-world-cup-exit/articleshow/133485861.cms",
+              "published": "2026-08-25T01:03:35+00:00",
+              "orig_title": "'Does anyone actually care?': Sreejesh's scathing attack after India’s WC exit",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            }
+          ]
+        },
+        {
+          "outlet": "TASS",
+          "region": "russia",
+          "lean": "state",
+          "ownership": "state",
+          "title": "Russia wins silver in men’s relay at 2026 UIPM Pentathlon World Championships",
+          "url": "https://tass.com/sports/2177005",
+          "published": "2026-08-24T12:19:45+00:00",
+          "orig_title": "Russia wins silver in men’s relay at 2026 UIPM Pentathlon World Championships",
+          "lang": "en",
+          "translated": false,
+          "access": "open",
+          "more": [
+            {
+              "outlet": "TASS",
+              "region": "russia",
+              "lean": "state",
+              "ownership": "state",
+              "title": "Russia wins silver in women’s relay at 2026 UIPM Pentathlon World Championships",
+              "url": "https://tass.com/sports/2176985",
+              "published": "2026-08-24T11:41:11+00:00",
+              "orig_title": "Russia wins silver in women’s relay at 2026 UIPM Pentathlon World Championships",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 160,
       "topic": "Sports",
       "label": "Annalena · Baerbock · York",
       "title": "Annalena Baerbock stays in New York, joins Columbia University",
       "summary": "Annalena Baerbock wechselt von der UN-Vollversammlung an die Columbia-Universität – die Grünen-Politikerin und frühere Außenministerin übernimmt eine praxisorientierte Professur.",
-      "score": 2.673,
+      "score": 2.583,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -3871,12 +4133,12 @@
       ]
     },
     {
-      "id": 153,
+      "id": 182,
       "topic": "Sports",
       "label": "Hamburg · Seeler · year-old",
       "title": "Hamburg SV: 16-year-old Louis Lemke breaks Uwe Seeler record",
       "summary": "16 Jahre, zehn Monate und 16 Tage: Außenbahnspieler Louis Lemke löst die HSV-Legende Uwe Seeler als jüngsten Pflichtspiel-Torschützen der Vereinsgeschichte ab - mit einem Fkachschuss ins lange Eck.",
-      "score": 2.633,
+      "score": 2.548,
       "n_outlets": 2,
       "n_articles": 3,
       "regions": [
@@ -3932,148 +4194,12 @@
       ]
     },
     {
-      "id": 190,
-      "topic": "Sports",
-      "label": "Hand · Diego · Maradona",
-      "title": "Diego Maradona’s ‘Hand of God’ football sells for US$3.35 million at US auction",
-      "summary": "The football with which Diego Maradona scored his “Hand of God” goal against England at the 1986 World Cup has sold at auction for US$3.35 million. The sale price achieved by Heritage Auctions in the ",
-      "score": 2.544,
-      "n_outlets": 2,
-      "n_articles": 2,
-      "regions": [
-        "china",
-        "russia"
-      ],
-      "last_seen": "2026-08-24T18:01:59+00:00",
-      "leans": [
-        "center"
-      ],
-      "sources": [
-        {
-          "outlet": "Kommersant",
-          "region": "russia",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Ball from Maradona's 'Hand of God' goal sells at auction for $3.3 million",
-          "url": "https://www.kommersant.ru/doc/8907017",
-          "published": "2026-08-24T10:48:52+00:00",
-          "orig_title": "Мяч, которым Марадона забил гол «Рука Бога», продан на аукционе за $3,3 млн",
-          "lang": "ru",
-          "translated": true,
-          "access": "unknown"
-        },
-        {
-          "outlet": "South China Morning Post",
-          "region": "china",
-          "lean": "center",
-          "ownership": "private",
-          "title": "Diego Maradona’s ‘Hand of God’ football sells for US$3.35 million at US auction",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3365110/diego-maradonas-hand-god-football-sells-us335-million-us-auction?utm_source=rss_feed",
-          "published": "2026-08-24T18:01:59+00:00",
-          "orig_title": "Diego Maradona’s ‘Hand of God’ football sells for US$3.35 million at US auction",
-          "lang": "en",
-          "translated": false,
-          "access": "open"
-        }
-      ]
-    },
-    {
-      "id": 211,
-      "topic": "Sports",
-      "label": "India · Russia · UIPM",
-      "title": "India's 2026 Hockey WC semi-final race ends with 3-5 loss to Argentina",
-      "summary": "India’s men’s hockey team exit the 2026 World Cup semi-final race after losing 3-5 to Argentina. Two early goals put India on the back foot, while poor passing and missed penalty corners hurt their co",
-      "score": 2.507,
-      "n_outlets": 2,
-      "n_articles": 5,
-      "regions": [
-        "india",
-        "russia"
-      ],
-      "last_seen": "2026-08-24T17:11:19+00:00",
-      "leans": [
-        "center",
-        "state"
-      ],
-      "sources": [
-        {
-          "outlet": "Times of India",
-          "region": "india",
-          "lean": "center",
-          "ownership": "private",
-          "title": "India's 2026 Hockey WC semi-final race ends with 3-5 loss to Argentina",
-          "url": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/indias-2026-hockey-world-cup-semi-final-race-ends-with-3-5-loss-to-argentina/articleshow/133471890.cms",
-          "published": "2026-08-24T15:19:54+00:00",
-          "orig_title": "India's 2026 Hockey WC semi-final race ends with 3-5 loss to Argentina",
-          "lang": "en",
-          "translated": false,
-          "access": "open",
-          "more": [
-            {
-              "outlet": "Times of India",
-              "region": "india",
-              "lean": "center",
-              "ownership": "private",
-              "title": "'We started poorly': Craig Fulton rues slow start as India crash out of WC semis",
-              "url": "https://timesofindia.indiatimes.com/sports/hockey/we-started-poorly-craig-fulton-rues-slow-start-as-india-crash-out-of-hockey-world-cup-semis/articleshow/133473889.cms",
-              "published": "2026-08-24T17:11:19+00:00",
-              "orig_title": "'We started poorly': Craig Fulton rues slow start as India crash out of WC semis",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
-            },
-            {
-              "outlet": "Times of India",
-              "region": "india",
-              "lean": "center",
-              "ownership": "private",
-              "title": "‘There were nerves’: India coach reveals what went wrong in must-win Australia draw",
-              "url": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/there-were-nerves-india-coach-sjoerd-marijne-reveals-what-went-wrong-in-must-win-australia-draw/articleshow/133458260.cms",
-              "published": "2026-08-24T08:32:51+00:00",
-              "orig_title": "‘There were nerves’: India coach reveals what went wrong in must-win Australia draw",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
-            }
-          ]
-        },
-        {
-          "outlet": "TASS",
-          "region": "russia",
-          "lean": "state",
-          "ownership": "state",
-          "title": "Russia wins silver in men’s relay at 2026 UIPM Pentathlon World Championships",
-          "url": "https://tass.com/sports/2177005",
-          "published": "2026-08-24T12:19:45+00:00",
-          "orig_title": "Russia wins silver in men’s relay at 2026 UIPM Pentathlon World Championships",
-          "lang": "en",
-          "translated": false,
-          "access": "open",
-          "more": [
-            {
-              "outlet": "TASS",
-              "region": "russia",
-              "lean": "state",
-              "ownership": "state",
-              "title": "Russia wins silver in women’s relay at 2026 UIPM Pentathlon World Championships",
-              "url": "https://tass.com/sports/2176985",
-              "published": "2026-08-24T11:41:11+00:00",
-              "orig_title": "Russia wins silver in women’s relay at 2026 UIPM Pentathlon World Championships",
-              "lang": "en",
-              "translated": false,
-              "access": "open"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 266,
+      "id": 295,
       "topic": "Sports",
       "label": "Medvedev · Russian · ATP",
       "title": "Russian tennis star Medvedev drops one spot in this week's ATP Rankings",
       "summary": "Playing last week at the 2026 ATP Cincinnati Open in the United States, Medvedev lost in the third round",
-      "score": 2.427,
+      "score": 2.37,
       "n_outlets": 2,
       "n_articles": 3,
       "regions": [
@@ -4129,12 +4255,12 @@
       ]
     },
     {
-      "id": 394,
+      "id": 416,
       "topic": "Sports",
       "label": "Imran · Pakistan · Kapil",
       "title": "'We can ask Pakistan and request them': Kapil asks 'better treatment' for Imran",
       "summary": "Former India captain Kapil Dev has joined 21 former international captains in urging Pakistan to provide jailed former Prime Minister Imran Khan with proper medical care and humane conditions. The gro",
-      "score": 2.287,
+      "score": 2.248,
       "n_outlets": 2,
       "n_articles": 2,
       "regions": [
@@ -4175,45 +4301,31 @@
       ]
     },
     {
-      "id": 545,
+      "id": 2,
       "topic": "Sports",
-      "label": "Mexican · Governor · Accused",
-      "title": "Mexican governor facing US drug charges seeks leave just one day after returning to office",
-      "summary": "Embattled Sinaloa Gov. Rubén Rocha Moya&apos;s abrupt reversal follows pointed remarks from Mexico&apos;s President Claudia Sheinbaum about putting nation above personal interest.",
-      "score": 2.068,
-      "n_outlets": 2,
-      "n_articles": 2,
+      "label": "What · Ex-Pak · think",
+      "title": "'What do you think of yourself?': Ex-Pak cricketer responds to ‘worst team’ tag",
+      "summary": "Salman Butt defended Pakistan's cricket team against harsh British media criticism. He argued the team never claimed to be world champions or a dominant force. Butt highlighted England's diverse playe",
+      "score": 1.984,
+      "n_outlets": 1,
+      "n_articles": 1,
       "regions": [
-        "us"
+        "india"
       ],
-      "last_seen": "2026-08-23T17:08:36+00:00",
+      "last_seen": "2026-08-25T02:51:34+00:00",
       "leans": [
-        "left",
-        "right"
+        "center"
       ],
       "sources": [
         {
-          "outlet": "The New York Times",
-          "region": "us",
-          "lean": "left",
+          "outlet": "Times of India",
+          "region": "india",
+          "lean": "center",
           "ownership": "private",
-          "title": "Mexican Governor Accused by U.S. of Aiding Cartel Leaves Office, Again",
-          "url": "https://www.nytimes.com/2026/08/23/world/americas/governor-ruben-rocha-moya-sinaloa-mexico.html",
-          "published": "2026-08-23T14:32:06+00:00",
-          "orig_title": "Mexican Governor Accused by U.S. of Aiding Cartel Leaves Office, Again",
-          "lang": "en",
-          "translated": false,
-          "access": "paywall"
-        },
-        {
-          "outlet": "Fox News",
-          "region": "us",
-          "lean": "right",
-          "ownership": "private",
-          "title": "Mexican governor facing US drug charges seeks leave just one day after returning to office",
-          "url": "https://www.foxnews.com/world/mexican-governor-facing-us-drug-charges-seeks-leave-one-day-after-returning-office",
-          "published": "2026-08-23T17:08:36+00:00",
-          "orig_title": "Mexican governor facing US drug charges seeks leave just one day after returning to office",
+          "title": "'What do you think of yourself?': Ex-Pak cricketer responds to ‘worst team’ tag",
+          "url": "https://timesofindia.indiatimes.com/sports/cricket/news/what-do-you-think-of-yourself-ex-pakistan-cricketer-responds-after-worst-team-tag/articleshow/133488173.cms",
+          "published": "2026-08-25T02:51:34+00:00",
+          "orig_title": "'What do you think of yourself?': Ex-Pak cricketer responds to ‘worst team’ tag",
           "lang": "en",
           "translated": false,
           "access": "open"
@@ -4223,111 +4335,165 @@
     {
       "id": 17,
       "topic": "Sports",
-      "label": "Lutnick · Canada · intervention",
-      "title": "Lutnick’s intervention in Canada talks draws praise and blame",
-      "summary": "U.S. Commerce Secretary Howard Lutnick emerged as a champion for U.S. metal producers while the Canadians blame him for moving the goalposts, sources said.",
-      "score": 1.961,
+      "label": "Rishabh · Pant · Dhruv",
+      "title": "Jurel's century, early strike from Prasidh-Suthar put India in command; Sri Lanka trail by 495",
+      "summary": "Dhruv Jurel showcased his batting prowess with an impressive unbeaten century, propelling India to a solid 503/9 before declaring. The bowlers then struck early, reducing Sri Lanka to a precarious 8/2",
+      "score": 1.943,
       "n_outlets": 1,
-      "n_articles": 1,
+      "n_articles": 5,
       "regions": [
-        "japan"
+        "india"
       ],
-      "last_seen": "2026-08-25T00:51:00+00:00",
+      "last_seen": "2026-08-25T02:21:08+00:00",
       "leans": [
         "center"
       ],
       "sources": [
         {
-          "outlet": "The Japan Times",
-          "region": "japan",
+          "outlet": "Times of India",
+          "region": "india",
           "lean": "center",
           "ownership": "private",
-          "title": "Lutnick’s intervention in Canada talks draws praise and blame",
-          "url": "https://www.japantimes.co.jp/news/2026/08/25/world/lutnick-intervention-canada-talks/",
-          "published": "2026-08-25T00:51:00+00:00",
-          "orig_title": "Lutnick’s intervention in Canada talks draws praise and blame",
+          "title": "Jurel's century, early strike from Prasidh-Suthar put India in command; Sri Lanka trail by 495",
+          "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/dhruv-jurels-century-early-strike-from-prasidh-suthar-put-india-in-command-as-sri-lanka-trail-by-495/articleshow/133466804.cms",
+          "published": "2026-08-24T12:55:44+00:00",
+          "orig_title": "Jurel's century, early strike from Prasidh-Suthar put India in command; Sri Lanka trail by 495",
           "lang": "en",
           "translated": false,
-          "access": "paywall"
-        }
-      ]
-    },
-    {
-      "id": 84,
-      "topic": "Sports",
-      "label": "Ogawa · Japan · Why",
-      "title": "Why bringing Koji Ogawa back to Japan matters: J-League must improve to compete",
-      "summary": "Why bringing Koji Ogawa back to Japan matters: J-League must improve to compete",
-      "score": 1.758,
-      "n_outlets": 1,
-      "n_articles": 2,
-      "regions": [
-        "japan"
-      ],
-      "last_seen": "2026-08-24T22:00:00+00:00",
-      "leans": [
-        "left"
-      ],
-      "sources": [
-        {
-          "outlet": "Asahi Shimbun",
-          "region": "japan",
-          "lean": "left",
-          "ownership": "private",
-          "title": "Why bringing Koji Ogawa back to Japan matters: J-League must improve to compete",
-          "url": "http://www.asahi.com/articles/ASV8S3VGCV8SUTQP00MM.html?ref=rss",
-          "published": "2026-08-24T22:00:00+00:00",
-          "orig_title": "小川航基を日本へ戻す意味 「Jリーグが劣る現状変えないと」",
-          "lang": "ja",
-          "translated": true,
-          "access": "unknown",
+          "access": "open",
           "more": [
             {
-              "outlet": "Asahi Shimbun",
-              "region": "japan",
-              "lean": "left",
+              "outlet": "Times of India",
+              "region": "india",
+              "lean": "center",
               "ownership": "private",
-              "title": "Japan Forward Ogawa Kouki Transfers to Machida; Provided Assist in World Cup Draw vs Netherlands",
-              "url": "http://www.asahi.com/articles/ASV8S0GSXV8SUTQP004M.html?ref=rss",
-              "published": "2026-08-24T02:01:23+00:00",
-              "orig_title": "日本代表FW小川航基が町田移籍へ W杯オランダ戦で同点Gアシスト",
-              "lang": "ja",
-              "translated": true,
-              "access": "unknown"
+              "title": "With Rishabh Pant beside him, Dhruv Jurel finds his own voice",
+              "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/india-vs-sri-lanka-2nd-test-with-rishabh-pant-beside-him-dhruv-jurel-finds-his-own-voice/articleshow/133487484.cms",
+              "published": "2026-08-25T02:21:08+00:00",
+              "orig_title": "With Rishabh Pant beside him, Dhruv Jurel finds his own voice",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            },
+            {
+              "outlet": "Times of India",
+              "region": "india",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Dhruv shines like a jewel in Colombo; makes the opportunity(ies) count",
+              "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/dhruv-shines-bright-in-gloomy-colombo-makes-his-opportunity-count-with-a-sublime-century/articleshow/133464711.cms",
+              "published": "2026-08-24T11:59:27+00:00",
+              "orig_title": "Dhruv shines like a jewel in Colombo; makes the opportunity(ies) count",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            },
+            {
+              "outlet": "Times of India",
+              "region": "india",
+              "lean": "center",
+              "ownership": "private",
+              "title": "‘My grandfather was a farmer, my father a soldier’: Jurel on viral celebration",
+              "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/my-grandfather-was-a-farmer-my-father-a-soldier-dhruv-jurel-on-viral-jai-jawan-jai-kisan-celebration/articleshow/133466778.cms",
+              "published": "2026-08-24T12:51:22+00:00",
+              "orig_title": "‘My grandfather was a farmer, my father a soldier’: Jurel on viral celebration",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            },
+            {
+              "outlet": "Times of India",
+              "region": "india",
+              "lean": "center",
+              "ownership": "private",
+              "title": "Rishabh Pant breaks another record in Colombo, surpasses Adam Gilchrist",
+              "url": "https://timesofindia.indiatimes.com/sports/cricket/news/rishabh-pant-breaks-another-record-in-colombo-surpasses-adam-gilchrist-in-elite-six-hitting-records/articleshow/133462222.cms",
+              "published": "2026-08-24T11:24:08+00:00",
+              "orig_title": "Rishabh Pant breaks another record in Colombo, surpasses Adam Gilchrist",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
             }
           ]
         }
       ]
     },
     {
-      "id": 92,
+      "id": 22,
       "topic": "Sports",
-      "label": "FIFA · U20 · Women",
-      "title": "FIFA U20 Women’s World Cup Falconets depart for Poland, target strong showing",
-      "summary": "Head coach Moses Aduku said the players are physically and mentally prepared for the challenge in Poland. The post FIFA U20 Women’s World Cup Falconets depart for Poland, target strong showing appeare",
-      "score": 1.736,
+      "label": "IND · Test · India",
+      "title": "IND vs SL, 2nd Test: India target quick breakthroughs as Sri Lanka trail by 495",
+      "summary": "IND vs SL, 2nd Test: India target quick breakthroughs as Sri Lanka trail by 495",
+      "score": 1.918,
       "n_outlets": 1,
       "n_articles": 1,
       "regions": [
-        "africa"
+        "india"
       ],
-      "last_seen": "2026-08-24T21:39:19+00:00",
+      "last_seen": "2026-08-25T02:02:08+00:00",
       "leans": [
         "center"
       ],
       "sources": [
         {
-          "outlet": "Premium Times",
-          "region": "africa",
+          "outlet": "Times of India",
+          "region": "india",
           "lean": "center",
           "ownership": "private",
-          "title": "FIFA U20 Women’s World Cup Falconets depart for Poland, target strong showing",
-          "url": "https://www.premiumtimesng.com/sports/football/905184-fifa-u20-womens-world-cup-falconets-depart-for-poland-target-strong-showing.html",
-          "published": "2026-08-24T21:39:19+00:00",
-          "orig_title": "FIFA U20 Women’s World Cup Falconets depart for Poland, target strong showing",
+          "title": "IND vs SL, 2nd Test: India target quick breakthroughs as Sri Lanka trail by 495",
+          "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka-live-score-2nd-test-match-day-3-today-scorecard-squad-live-streaming-records-colombo-international-stadium-weather-report-rain-forecast-prediction-highlights-latest-cricket-news/liveblog/133487144.cms",
+          "published": "2026-08-25T02:02:08+00:00",
+          "orig_title": "IND vs SL, 2nd Test: India target quick breakthroughs as Sri Lanka trail by 495",
           "lang": "en",
           "translated": false,
           "access": "open"
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "topic": "Sports",
+      "label": "Jaiswal · Ex-cricketer · Yashasvi",
+      "title": "Yashasvi Jaiswal, Asitha Fernando fined 25% match fee for Colombo Test altercation",
+      "summary": "Yashasvi Jaiswal and Asitha Fernando faced penalties for their on-field clash during a recent match. The International Cricket Council announced Level 1 sanctions after both athletes acknowledged thei",
+      "score": 1.861,
+      "n_outlets": 1,
+      "n_articles": 2,
+      "regions": [
+        "india"
+      ],
+      "last_seen": "2026-08-25T01:15:55+00:00",
+      "leans": [
+        "center"
+      ],
+      "sources": [
+        {
+          "outlet": "Times of India",
+          "region": "india",
+          "lean": "center",
+          "ownership": "private",
+          "title": "Yashasvi Jaiswal, Asitha Fernando fined 25% match fee for Colombo Test altercation",
+          "url": "https://timesofindia.indiatimes.com/sports/cricket/news/yashasvi-jaiswal-asitha-fernando-fined-25-match-fee-for-colombo-test-altercation/articleshow/133459925.cms",
+          "published": "2026-08-24T09:41:52+00:00",
+          "orig_title": "Yashasvi Jaiswal, Asitha Fernando fined 25% match fee for Colombo Test altercation",
+          "lang": "en",
+          "translated": false,
+          "access": "open",
+          "more": [
+            {
+              "outlet": "Times of India",
+              "region": "india",
+              "lean": "center",
+              "ownership": "private",
+              "title": "'You’re going to get in trouble': Ex-cricketer warns Jaiswal after ugly clash",
+              "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/youre-going-to-get-in-trouble-ex-india-cricketer-warns-yashasvi-jaiswal-after-ugly-clash/articleshow/133486115.cms",
+              "published": "2026-08-25T01:15:55+00:00",
+              "orig_title": "'You’re going to get in trouble': Ex-cricketer warns Jaiswal after ugly clash",
+              "lang": "en",
+              "translated": false,
+              "access": "open"
+            }
+          ]
         }
       ]
     }
